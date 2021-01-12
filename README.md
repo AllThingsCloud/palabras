@@ -1,0 +1,2 @@
+# palabras
+Todo el folder
