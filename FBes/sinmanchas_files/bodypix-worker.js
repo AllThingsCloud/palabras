@@ -1,0 +1,3 @@
+if(typeof importScripts==="function"){importScripts("https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.4.0");importScripts("https://cdn.jsdelivr.net/npm/@tensorflow-models/body-pix@2.0");let net;bodyPix.load({}).then((x)=>{net=x;const backend=tf.getBackend();if(backend==="cpu"){postMessage({loaded:true,backendType:backend});}});onmessage=async function(e){if(!net){postMessage({loaded:false});return;}
+personSegmentation=await net.segmentPerson(e.data.pixels,{flipHorizontal:false,internalResolution:e.data.resolution,segmentationThreshold:parseFloat(e.data.threshold),});let pixels=e.data.pixels.data;for(let p=0;p<pixels.length;p+=4){if(personSegmentation.data[p/4]==0){pixels[p+3]=0;}}
+postMessage({loaded:true,backendType:tf.getBackend(),pixels:e.data.pixels,});};}

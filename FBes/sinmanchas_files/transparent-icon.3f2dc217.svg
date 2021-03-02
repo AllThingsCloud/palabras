@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 810 810">
+
+  <rect x="0"   y="0" width="135" height="135" fill="#cccccc" />
+  <rect x="135" y="0" width="135" height="135" fill="white" />
+  <rect x="270" y="0" width="135" height="135" fill="#cccccc" />
+  <rect x="405" y="0" width="135" height="135" fill="white" />
+  <rect x="540" y="0" width="135" height="135" fill="#cccccc" />
+  <rect x="675" y="0" width="135" height="135" fill="white" />
+
+  <rect x="0"   y="135" width="135" height="135" fill="white" />
+  <rect x="135" y="135" width="135" height="135" fill="#cccccc" />
+  <rect x="270" y="135" width="135" height="135" fill="white" />
+  <rect x="405" y="135" width="135" height="135" fill="#cccccc" />
+  <rect x="540" y="135" width="135" height="135" fill="white" />
+  <rect x="675" y="135" width="135" height="135" fill="#cccccc" />
+
+  <rect x="0"   y="270" width="135" height="135" fill="#cccccc" />
+  <rect x="135" y="270" width="135" height="135" fill="white" />
+  <rect x="270" y="270" width="135" height="135" fill="#cccccc" />
+  <rect x="405" y="270" width="135" height="135" fill="white" />
+  <rect x="540" y="270" width="135" height="135" fill="#cccccc" />
+  <rect x="675" y="270" width="135" height="135" fill="white" />
+
+  <rect x="0"   y="405" width="135" height="135" fill="white" />
+  <rect x="135" y="405" width="135" height="135" fill="#cccccc" />
+  <rect x="270" y="405" width="135" height="135" fill="white" />
+  <rect x="405" y="405" width="135" height="135" fill="#cccccc" />
+  <rect x="540" y="405" width="135" height="135" fill="white" />
+  <rect x="675" y="405" width="135" height="135" fill="#cccccc" />
+
+  <rect x="0"   y="540" width="135" height="135" fill="#cccccc" />
+  <rect x="135" y="540" width="135" height="135" fill="white" />
+  <rect x="270" y="540" width="135" height="135" fill="#cccccc" />
+  <rect x="405" y="540" width="135" height="135" fill="white" />
+  <rect x="540" y="540" width="135" height="135" fill="#cccccc" />
+  <rect x="675" y="540" width="135" height="135" fill="white" />
+
+  <rect x="0"   y="675" width="135" height="135" fill="white" />
+  <rect x="135" y="675" width="135" height="135" fill="#cccccc" />
+  <rect x="270" y="675" width="135" height="135" fill="white" />
+  <rect x="405" y="675" width="135" height="135" fill="#cccccc" />
+  <rect x="540" y="675" width="135" height="135" fill="white" />
+  <rect x="675" y="675" width="135" height="135" fill="#cccccc" />
+
+  <rect x="526" y="-526" width="80" height="1145" transform="rotate(45)" fill="red" />
+</svg>
