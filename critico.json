@@ -1,0 +1,65 @@
+{
+  "id" : "critico",
+  "metadata" : {
+    "operation" : "retrieve",
+    "provider" : "Oxford University Press",
+    "schema" : "RetrieveEntry"
+  },
+  "results" : [
+    {
+      "id" : "cr%C3%ADtico",
+      "language" : "es",
+      "lexicalEntries" : [
+        {
+          "entries" : [
+            {
+              "senses" : [
+                {
+                  "definitions" : [
+                    "De la crítica o relacionado con ella"
+                  ],
+                  "id" : "id0bd21cdf-5ab6-4865-8530-62eb73952dcc"
+                },
+                {
+                  "definitions" : [
+                    "De la crisis o relacionado con ella"
+                  ],
+                  "id" : "id2219b269-62d2-4f08-a0b9-5b65c9f4f8a1"
+                }
+              ]
+            }
+          ],
+          "language" : "es",
+          "lexicalCategory" : {
+            "id" : "adjective",
+            "text" : "Adjective"
+          },
+          "text" : "crítico"
+        },
+        {
+          "entries" : [
+            {
+              "senses" : [
+                {
+                  "definitions" : [
+                    "Persona que se dedica a la crítica de obras de arte o del conocimiento"
+                  ],
+                  "id" : "idfe32eaeb-b095-4a5d-93b1-d30c36abda51"
+                }
+              ]
+            }
+          ],
+          "language" : "es",
+          "lexicalCategory" : {
+            "id" : "noun",
+            "text" : "Noun"
+          },
+          "text" : "crítico"
+        }
+      ],
+      "type" : "headword",
+      "word" : "crítico"
+    }
+  ],
+  "word" : "crítico"
+}
