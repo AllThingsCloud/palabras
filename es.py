@@ -20,13 +20,14 @@ else:
 
 	r = requests.get(url, headers = {'app_id': app_id, 'app_key': app_key})
 
-	#print("code {}\n".format(r.status_code))
-	#original print("text \n" + r.text)
-	#originalprint("\n" + r.text)
-	print(r.text)
+	if (r.status_code) == 200:
+		#print("code {}\n".format(r.status_code))
+		#original print("text \n" + r.text)
+		#originalprint("\n" + r.text)
+		print(r.text)
 
-	#https://stackoverflow.com/questions/4706499/how-do-you-append-to-a-file
-	f = open ('/Users/roberto/t/es.json','a') 
-	f.write(r.text)
-	f.close
-	#Rprint("json \n" + json.dumps(r.json()))
+		#https://stackoverflow.com/questions/4706499/how-do-you-append-to-a-file
+		f = open ('/Users/roberto/t/es.json','a') 
+		f.write(r.text)
+		f.close
+		#Rprint("json \n" + json.dumps(r.json()))
