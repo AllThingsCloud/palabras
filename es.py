@@ -24,7 +24,11 @@ else:
 		#original print("text \n" + r.text)
 		#originalprint("\n" + r.text)
 		print(r.text)
-
+#json lee
+		alist = json.dumps(r.json())
+		#print(alist)
+		print(alist[0])
+		#print(alist[0]['word'])
 		#https://stackoverflow.com/questions/4706499/how-do-you-append-to-a-file
 		f = open ('/Users/roberto/t/es.json','a') 
 		f.write(r.text)
