@@ -15,6 +15,7 @@ if len(sys.argv) == 1:
 	print ("Falta la palabra 😼🐮🙃\n")
 else:
 	word_id = str(sys.argv[1])
+	onedesout= '/Users/roberto/OneDrive/Azure/palabras/noexistepal' #texto
 	strictMatch = 'false'
 	url = 'https://od-api.oxforddictionaries.com:443/api/v2/entries/' + language + '/' + word_id.lower() + '?fields=' + fields + '&strictMatch=' + strictMatch;
 
@@ -31,4 +32,8 @@ else:
 		f.close
 	elif (r.status_code) == 404:
 		print("{} 😬🤨🤔 " .format(r.status_code) + word_id + "\n")
+		#f = open ('/Users/roberto/t/noexistepal.json','a') 
+		f = open (onedesout,'a') 
+		f.write(word_id+"\n")
+		f.close
 		#Rprint("json \n" + json.dumps(r.json()))

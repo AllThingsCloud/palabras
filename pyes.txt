@@ -718,3 +718,176 @@ parse error: Invalid numeric literal at line 1, column 17
 "Que implica o conlleva felicidad"
 "Que es adecuado u oportuno en un momento determinado"
 "feliz"
+"aféresis"
+"Supresión o pérdida de uno o más sonidos en posición inicial de palabra"
+"aféresis"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"beriberi"
+"Enfermedad causada por la falta de vitamina B1 que se caracteriza por dolores musculares, parálisis general del cuerpo e insuficiencia cardíaca"
+"beriberi"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"exónimo"
+"Nombre extranjero de un topónimo"
+"exónimo"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"hipocorístico"
+"[nombre] Que es la forma diminutiva, abreviada, deformada o infantil del nombre habitual, y que se usa como apelativo afectivo, familiar o eufemístico"
+"hipocorístico"
+"hostería"
+"Hostal"
+"hostería"
+"largueza"
+"Cualidad de largo (abundante o generoso)"
+"largueza"
+"lúbrico"
+"Resbaladizo, que resbala fácilmente o que es fácil resbalar sobre ello"
+"Que provoca lujuria o incita a ella"
+"Lascivo, lujurioso"
+"lúbrico"
+"mascullar"
+"Hablar entre dientes y en voz baja, sin pronunciar claramente las palabras"
+"mascullar"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"erotomanía"
+"Deseo sexual exagerado o exacerbado en una persona"
+"erotomanía"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"diacrítico"
+"[signo ortográfico] Que da un valor especial a una letra para decidir una posible ambigüedad"
+"diacrítico"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"tejabán"
+"Construcción rústica y pobre, generalmente de techo de teja"
+"tejabán"
+"social"
+"De la sociedad humana o que tiene relación con ella"
+"Que repercute beneficiosamente en toda la sociedad o en algún grupo social"
+"Que está relacionado con las actividades que se llevan a cabo como miembros de la sociedad"
+"Del conjunto de personas que se organizan en clases según su nivel económico o su poder político, o que tiene relación con ellas"
+"De una compañía o sociedad económica o que tiene relación con ella o con sus miembros"
+"[insecto] Que vive en grupo formando colonias organizadas"
+"social"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
