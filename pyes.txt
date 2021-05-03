@@ -2503,3 +2503,92 @@ parse error: Invalid numeric literal at line 1, column 17
 "expósito"
 "[niño] Que ha sido abandonado por sus padres de recién nacido y ha sido criado en un hospicio"
 "expósito"
+"caso"
+"Palabra genérica que hace referencia a una situación, suceso, acontecimiento, conjunto de circunstancias, etc., entendidos como una entidad particular y diferenciada"
+"Asunto o materia de que se trata"
+"Persona con una enfermedad o problema, o la propia enfermedad o problema, considerados principalmente desde el punto de vista numérico o del hecho en sí, no humano"
+"Persona, suceso o hecho particular que es objeto de investigación científica, policial o judicial"
+"Categoría morfológica que tienen algunas lenguas para expresar las distintas funciones o valores que pueden desempeñar nombres, adjetivos y pronombres en la oración"
+"caso"
+"uxoricida"
+"[hombre] Que comete uxoricidio"
+"Que es propio o característico de estos hombres"
+"uxoricida"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"samovar"
+"Utensilio típico de Rusia para hervir agua y conservarla caliente para el té; consiste en un recipiente de cobre u otro metal con una llave en su parte inferior para servir el agua y una concavidad en la parte superior donde se puede colocar la tetera; el agua se calienta mediante un infiernillo o una resistencia eléctrica"
+"samovar"
+"algazara"
+"Ruido producido por voces alegres y festivas"
+"algazara"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"circunvalación"
+"Acción de circunvalar un lugar"
+"circunvalación"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"dula"
+"Terreno de labranza que se riega mediante una acequia por turno"
+"dula"
+"embelesar"
+"Producir [algo] un sentimiento de placer o admiración tan intenso que enfrasca en su disfrute a la persona que lo contempla, oye, etc., y le hace olvidarse de todo lo demás"
+"Sentir este tipo de placer o admiración por algo"
+"embelesar"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"henil"
+"Lugar donde se guarda el heno"
+"henil"
+"mendaz"
+"Mentiroso"
+"mendaz"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"regicidio"
+"Asesinato de un rey o una reina o atentado contra su vida"
+"regicidio"
+"toquilla"
+"Pañuelo generalmente pequeño y de forma triangular que utilizan las mujeres para cubrirse la cabeza o el cuello"
+"Prenda de abrigo femenina que consiste en una pieza de punto de lana que se lleva sobre los hombros y los brazos"
+"Pañuelo grande, generalmente de punto y de color claro, que se utiliza para envolver y abrigar a un bebé"
+"Cinta o adorno que se pone alrededor de la copa de un sombrero"
+"toquilla"
+"uxoricidio"
+"Asesinato de una mujer a manos de su marido"
+"uxoricidio"
+"uxoricida"
+"[hombre] Que comete uxoricidio"
+"Que es propio o característico de estos hombres"
+"uxoricida"
+"orondo"
+"Que es o está muy gordo o grueso"
+"Que se muestra muy satisfecho de sí mismo"
+"orondo"
