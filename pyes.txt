@@ -2664,3 +2664,16 @@ jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"resabio"
+"Mala costumbre adquirida por alguna circunstancia y que es difícil de eliminar"
+"Sabor desagradable que deja una cosa"
+"resabio"
+"guaraní"
+"[persona] Que pertenece a un pueblo indígena sudamericano que habitó en un territorio que se extendía desde el Amazonas hasta el Río de la Plata y que actualmente está reducido a grupos aislados en Paraguay y Brasil"
+"Relativo a este pueblo"
+"[lengua] Que pertenece al grupo de lenguas precolombinas que se hablan principalmente en Paraguay"
+"Unidad monetaria de Paraguay"
+"Moneda con el valor de esta unidad"
+"guaraní"
