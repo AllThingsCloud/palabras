@@ -2677,3 +2677,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "Unidad monetaria de Paraguay"
 "Moneda con el valor de esta unidad"
 "guaraní"
+"magnánimo"
+"[persona] Que tiene noble temperamento y grandeza de espíritu y se comporta con generosidad"
+"Que implica o denota magnanimidad"
+"magnánimo"
