@@ -2720,3 +2720,14 @@ parse error: Invalid numeric literal at line 1, column 17
 "Escrito breve o impreso de carácter satírico y agresivo que se utiliza como medio de combate en polémicas ideológicas o literarias o como medio de difamación"
 "Acción u obra literaria o cinematográfica cuyo fin es la difamación de alguien o de algo o la apología de una determinada ideología"
 "panfleto"
+"sangradura"
+"Parte de la articulación del brazo opuesta al codo"
+"Corte que se hace en la vena para sangrar"
+"Salida que se da a las aguas de un río, de un canal o de un terreno encharcado"
+"sangradura"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
