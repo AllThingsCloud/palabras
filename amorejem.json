@@ -1,0 +1,111 @@
+{
+    "id": "amor",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "amor",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el amor al prójimo"
+                                        },
+                                        {
+                                            "text": "abrazó al bebé con gran amor"
+                                        },
+                                        {
+                                            "text": "nunca ocultó su amor a la patria"
+                                        },
+                                        {
+                                            "text": "el amor de la gloria lo llevó hasta el heroísmo"
+                                        }
+                                    ],
+                                    "id": "id70d865b3-6d85-412c-ad7a-c2dc11656588"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "amor platónico"
+                                        },
+                                        {
+                                            "text": "me gustan las canciones de amor"
+                                        },
+                                        {
+                                            "text": "no puedo expresar con palabras el amor que siento por ti"
+                                        },
+                                        {
+                                            "text": "le escribió una carta de amor"
+                                        }
+                                    ],
+                                    "id": "idf1643520-db17-46c0-a8b0-4404b9e982c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su vida estuvo marcada por el amor a la literatura"
+                                        },
+                                        {
+                                            "text": "le gustaría que compartiese con ella su amor a la música"
+                                        }
+                                    ],
+                                    "id": "idf7fb533d-32a2-48c2-b50b-3dcb89a52b5f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Jacinto fue el gran amor de su vida"
+                                        },
+                                        {
+                                            "text": "su amor son los coches de carreras"
+                                        }
+                                    ],
+                                    "id": "iddb54f6c2-a0bc-4fe3-8955-d5a0073bd2c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un amor frustrado"
+                                        },
+                                        {
+                                            "text": "aquel amor de juventud le cambió la vida"
+                                        },
+                                        {
+                                            "text": "los jóvenes pasan horas hablando de sus amores"
+                                        }
+                                    ],
+                                    "id": "idb7a00d74-23d1-4694-addb-b56b20e50fc3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "preparó la cena de fin de año con mucho amor"
+                                        }
+                                    ],
+                                    "id": "id51631ad3-9e86-4b09-acab-54b6d229cd41"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "amor"
+                }
+            ],
+            "type": "headword",
+            "word": "amor"
+        }
+    ],
+    "word": "amor"
+}
