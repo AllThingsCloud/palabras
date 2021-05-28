@@ -1,0 +1,3674 @@
+{
+    "id": "curva",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "curva",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "traza un curva con el compás"
+                                        }
+                                    ],
+                                    "id": "ida71e9621-63a2-4990-9509-0b95b3cd7cbf"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el interior se caracteriza por un predominio de curvas suaves con el salpicadero integrado"
+                                        }
+                                    ],
+                                    "id": "id4bf3b539-f487-45bc-a0f0-dd949580b0b1"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hay que reducir la velocidad antes de llegar a la curva"
+                                        },
+                                        {
+                                            "text": "entró mal en la curva y se salió de la pista"
+                                        },
+                                        {
+                                            "text": "enseguida viene una curva bastante cerrada"
+                                        }
+                                    ],
+                                    "id": "id490511f9-dd60-4ebd-b9ee-fe456ec6ab7f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la curva de los precios del barril de petróleo durante el último año indica una leve tendencia al descenso"
+                                        }
+                                    ],
+                                    "id": "id58305952-bbb0-487e-8040-d7bce60c676c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la última colección propone nuevas líneas que marcan todavía más las curvas"
+                                        }
+                                    ],
+                                    "id": "idc72ce907-98e9-44e3-9a58-8f8bde3146cc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "curva"
+                }
+            ],
+            "type": "headword",
+            "word": "curva"
+        }
+    ],
+    "word": "curva"
+}{
+    "id": "galimatias",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "galimat%C3%ADas",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "galimatías"
+                }
+            ],
+            "type": "headword",
+            "word": "galimatías"
+        }
+    ],
+    "word": "galimatías"
+}{
+    "id": "caldo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "caldo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "caldo de gallina"
+                                        },
+                                        {
+                                            "text": "una taza de caldo de carne y verduras"
+                                        }
+                                    ],
+                                    "id": "idc4ff1c6c-9185-42db-b9de-4c46b214db8b"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hay que esperar un poco que el arroz se beba el caldo"
+                                        },
+                                        {
+                                            "text": "¡qué bueno está el caldo de la carne!"
+                                        }
+                                    ],
+                                    "id": "id938f4d88-5db3-4541-8250-6b669ed3490a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los caldos de este año han sido calificados de excelentes"
+                                        }
+                                    ],
+                                    "id": "id8cd88e56-2c60-457b-a0ae-5e359a803e0a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no tires el caldo que me gusta mojar un poquito de pan"
+                                        }
+                                    ],
+                                    "id": "id91c2a034-71d5-4790-882b-c5a11d83bf8e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "caldo"
+                }
+            ],
+            "type": "headword",
+            "word": "caldo"
+        }
+    ],
+    "word": "caldo"
+}{
+    "id": "buche",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "buche",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las palomas tienen un buche muy grande"
+                                        }
+                                    ],
+                                    "id": "id0957844f-231d-4557-a3a6-99dc26193341"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el buche de un cerdo"
+                                        }
+                                    ],
+                                    "id": "id50e1c4f5-7d4b-4468-9bec-2563ea6e26b4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "llenar el buche"
+                                        }
+                                    ],
+                                    "id": "ida902885d-aab1-4295-8fa9-eda16070027e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no podía beberse ni un buche de agua"
+                                        },
+                                        {
+                                            "text": "anda, tómate un buche de cerveza y enjuágate con él esa boquita sucia"
+                                        }
+                                    ],
+                                    "id": "ide75cfa06-de2e-4167-802a-c45fa6ca6be1"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "decidió guardar silencio, pero se guardó en el buche nuestras sugerencias"
+                                        },
+                                        {
+                                            "text": "no soltaba la confesión, la tenía en el buche"
+                                        }
+                                    ],
+                                    "id": "id615ac956-803d-4c5b-a8ce-d31e6c41d943"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "buche"
+                }
+            ],
+            "type": "headword",
+            "word": "buche"
+        },
+        {
+            "id": "buche",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "buche"
+                }
+            ],
+            "type": "headword",
+            "word": "buche"
+        }
+    ],
+    "word": "buche"
+}{
+    "id": "pancho",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pancho",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cuando le dije que había suspendido el examen se quedó tan pancho"
+                                        },
+                                        {
+                                            "text": "entraban de bóbilis en los museos, o se colaban tan panchos en el cine"
+                                        }
+                                    ],
+                                    "id": "id6fb62adb-1308-45c7-874c-f117aa2e86e8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pancho"
+                }
+            ],
+            "type": "headword",
+            "word": "pancho"
+        },
+        {
+            "id": "pancho",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pancho"
+                }
+            ],
+            "type": "headword",
+            "word": "pancho"
+        }
+    ],
+    "word": "pancho"
+}{
+    "id": "galimatias",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "galimat%C3%ADas",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "galimatías"
+                }
+            ],
+            "type": "headword",
+            "word": "galimatías"
+        }
+    ],
+    "word": "galimatías"
+}{
+    "id": "mimosa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mimosa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mimosa"
+                }
+            ],
+            "type": "headword",
+            "word": "mimosa"
+        }
+    ],
+    "word": "mimosa"
+}{
+    "id": "mimosa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mimosa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mimosa"
+                }
+            ],
+            "type": "headword",
+            "word": "mimosa"
+        }
+    ],
+    "word": "mimosa"
+}{
+    "id": "mimoso",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mimoso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "mimoso"
+                }
+            ],
+            "type": "headword",
+            "word": "mimoso"
+        }
+    ],
+    "word": "mimoso"
+}{
+    "id": "michi",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "michi",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "michi"
+                }
+            ],
+            "type": "headword",
+            "word": "michi"
+        }
+    ],
+    "word": "michi"
+}{
+    "id": "chango",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chango",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chango"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chango"
+                }
+            ],
+            "type": "headword",
+            "word": "chango"
+        }
+    ],
+    "word": "chango"
+}{
+    "id": "changa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "changa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hice changas en el almacén hasta que encontré un buen trabajo"
+                                        }
+                                    ],
+                                    "id": "id7ed3d747-3db1-407a-aa95-5c539f95ea30"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "apenas cobró, se gastó toda la changa en ropa"
+                                        }
+                                    ],
+                                    "id": "id86d2a99a-6ab2-4c10-87a3-8228b0a8756b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "changa"
+                }
+            ],
+            "type": "headword",
+            "word": "changa"
+        }
+    ],
+    "word": "changa"
+}{
+    "id": "trabajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "trabajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el trabajo intelectual requiere mucha concentración"
+                                        },
+                                        {
+                                            "text": "le encargan los trabajos más penosos"
+                                        }
+                                    ],
+                                    "id": "id6f0efc77-4afb-469a-b541-1b008c63aef1"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ha hecho un trabajo magnífico con la educación de sus hijos"
+                                        },
+                                        {
+                                            "text": "exposición de trabajos"
+                                        },
+                                        {
+                                            "text": "la película que les vamos a presentar es un trabajo de gran sensibilidad y buen gusto"
+                                        },
+                                        {
+                                            "text": "en cada asignatura te obligan a presentar un trabajo de investigación"
+                                        }
+                                    ],
+                                    "id": "idc3787aa2-22d9-49a3-91e0-1c44680f03b0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "te costará trabajo convencerles"
+                                        },
+                                        {
+                                            "text": "ni siquiera se ha tomado el trabajo de avisarnos que se iba de la empresa"
+                                        }
+                                    ],
+                                    "id": "id9acd0806-f7a4-430b-9d4c-2005f3ff3670"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las luchas entre el capital y el trabajo"
+                                        },
+                                        {
+                                            "text": "el trabajo de los animales"
+                                        },
+                                        {
+                                            "text": "trabajo de una máquina"
+                                        }
+                                    ],
+                                    "id": "idba62e665-d82d-4d7f-a2f4-870a5836e393"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "durante la guerra, la gente pasó muchos trabajos"
+                                        }
+                                    ],
+                                    "id": "ida06cc46d-c23a-44b5-acb6-b38a5a09b1ef"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "trabajo"
+                }
+            ],
+            "type": "headword",
+            "word": "trabajo"
+        }
+    ],
+    "word": "trabajo"
+}{
+    "id": "trabajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "trabajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el trabajo intelectual requiere mucha concentración"
+                                        },
+                                        {
+                                            "text": "le encargan los trabajos más penosos"
+                                        }
+                                    ],
+                                    "id": "id6f0efc77-4afb-469a-b541-1b008c63aef1"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ha hecho un trabajo magnífico con la educación de sus hijos"
+                                        },
+                                        {
+                                            "text": "exposición de trabajos"
+                                        },
+                                        {
+                                            "text": "la película que les vamos a presentar es un trabajo de gran sensibilidad y buen gusto"
+                                        },
+                                        {
+                                            "text": "en cada asignatura te obligan a presentar un trabajo de investigación"
+                                        }
+                                    ],
+                                    "id": "idc3787aa2-22d9-49a3-91e0-1c44680f03b0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "te costará trabajo convencerles"
+                                        },
+                                        {
+                                            "text": "ni siquiera se ha tomado el trabajo de avisarnos que se iba de la empresa"
+                                        }
+                                    ],
+                                    "id": "id9acd0806-f7a4-430b-9d4c-2005f3ff3670"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las luchas entre el capital y el trabajo"
+                                        },
+                                        {
+                                            "text": "el trabajo de los animales"
+                                        },
+                                        {
+                                            "text": "trabajo de una máquina"
+                                        }
+                                    ],
+                                    "id": "idba62e665-d82d-4d7f-a2f4-870a5836e393"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "durante la guerra, la gente pasó muchos trabajos"
+                                        }
+                                    ],
+                                    "id": "ida06cc46d-c23a-44b5-acb6-b38a5a09b1ef"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "trabajo"
+                }
+            ],
+            "type": "headword",
+            "word": "trabajo"
+        }
+    ],
+    "word": "trabajo"
+}{
+    "id": "sexo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sexo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "personas de ambos sexos"
+                                        },
+                                        {
+                                            "text": "en la ficha constan todos sus datos (sexo, edad, estado civil, nivel de estudios, profesión...)"
+                                        }
+                                    ],
+                                    "id": "id1d81954e-4505-4b1e-9668-5361490caa6b"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los encantos del sexo femenino"
+                                        },
+                                        {
+                                            "text": "es lógico que las mujeres luchen por la igualdad con el sexo masculino"
+                                        }
+                                    ],
+                                    "id": "id6d03f85e-1926-4328-8ec9-9856f4dc4344"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en las culturas occidentales, se considera indecente llevar el sexo descubierto"
+                                        }
+                                    ],
+                                    "id": "id34a9f479-3ac8-4ea4-baf8-440f6f16e317"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no ha practicado el sexo desde que murió su marido"
+                                        },
+                                        {
+                                            "text": "la pareja demostró que no tenía ningún problema en lo que al sexo se refiere"
+                                        }
+                                    ],
+                                    "id": "id342d2da5-e16c-4620-8df9-9de040b63d85"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sexo"
+                }
+            ],
+            "type": "headword",
+            "word": "sexo"
+        }
+    ],
+    "word": "sexo"
+}{
+    "id": "amor",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "amor",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el amor al prójimo"
+                                        },
+                                        {
+                                            "text": "abrazó al bebé con gran amor"
+                                        },
+                                        {
+                                            "text": "nunca ocultó su amor a la patria"
+                                        },
+                                        {
+                                            "text": "el amor de la gloria lo llevó hasta el heroísmo"
+                                        }
+                                    ],
+                                    "id": "id70d865b3-6d85-412c-ad7a-c2dc11656588"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "amor platónico"
+                                        },
+                                        {
+                                            "text": "me gustan las canciones de amor"
+                                        },
+                                        {
+                                            "text": "no puedo expresar con palabras el amor que siento por ti"
+                                        },
+                                        {
+                                            "text": "le escribió una carta de amor"
+                                        }
+                                    ],
+                                    "id": "idf1643520-db17-46c0-a8b0-4404b9e982c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su vida estuvo marcada por el amor a la literatura"
+                                        },
+                                        {
+                                            "text": "le gustaría que compartiese con ella su amor a la música"
+                                        }
+                                    ],
+                                    "id": "idf7fb533d-32a2-48c2-b50b-3dcb89a52b5f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Jacinto fue el gran amor de su vida"
+                                        },
+                                        {
+                                            "text": "su amor son los coches de carreras"
+                                        }
+                                    ],
+                                    "id": "iddb54f6c2-a0bc-4fe3-8955-d5a0073bd2c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un amor frustrado"
+                                        },
+                                        {
+                                            "text": "aquel amor de juventud le cambió la vida"
+                                        },
+                                        {
+                                            "text": "los jóvenes pasan horas hablando de sus amores"
+                                        }
+                                    ],
+                                    "id": "idb7a00d74-23d1-4694-addb-b56b20e50fc3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "preparó la cena de fin de año con mucho amor"
+                                        }
+                                    ],
+                                    "id": "id51631ad3-9e86-4b09-acab-54b6d229cd41"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "amor"
+                }
+            ],
+            "type": "headword",
+            "word": "amor"
+        }
+    ],
+    "word": "amor"
+}{
+    "id": "amor",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "amor",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el amor al prójimo"
+                                        },
+                                        {
+                                            "text": "abrazó al bebé con gran amor"
+                                        },
+                                        {
+                                            "text": "nunca ocultó su amor a la patria"
+                                        },
+                                        {
+                                            "text": "el amor de la gloria lo llevó hasta el heroísmo"
+                                        }
+                                    ],
+                                    "id": "id70d865b3-6d85-412c-ad7a-c2dc11656588"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "amor platónico"
+                                        },
+                                        {
+                                            "text": "me gustan las canciones de amor"
+                                        },
+                                        {
+                                            "text": "no puedo expresar con palabras el amor que siento por ti"
+                                        },
+                                        {
+                                            "text": "le escribió una carta de amor"
+                                        }
+                                    ],
+                                    "id": "idf1643520-db17-46c0-a8b0-4404b9e982c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su vida estuvo marcada por el amor a la literatura"
+                                        },
+                                        {
+                                            "text": "le gustaría que compartiese con ella su amor a la música"
+                                        }
+                                    ],
+                                    "id": "idf7fb533d-32a2-48c2-b50b-3dcb89a52b5f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Jacinto fue el gran amor de su vida"
+                                        },
+                                        {
+                                            "text": "su amor son los coches de carreras"
+                                        }
+                                    ],
+                                    "id": "iddb54f6c2-a0bc-4fe3-8955-d5a0073bd2c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un amor frustrado"
+                                        },
+                                        {
+                                            "text": "aquel amor de juventud le cambió la vida"
+                                        },
+                                        {
+                                            "text": "los jóvenes pasan horas hablando de sus amores"
+                                        }
+                                    ],
+                                    "id": "idb7a00d74-23d1-4694-addb-b56b20e50fc3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "preparó la cena de fin de año con mucho amor"
+                                        }
+                                    ],
+                                    "id": "id51631ad3-9e86-4b09-acab-54b6d229cd41"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "amor"
+                }
+            ],
+            "type": "headword",
+            "word": "amor"
+        }
+    ],
+    "word": "amor"
+}{
+    "id": "trabajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "trabajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el trabajo intelectual requiere mucha concentración"
+                                        },
+                                        {
+                                            "text": "le encargan los trabajos más penosos"
+                                        }
+                                    ],
+                                    "id": "id6f0efc77-4afb-469a-b541-1b008c63aef1"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ha hecho un trabajo magnífico con la educación de sus hijos"
+                                        },
+                                        {
+                                            "text": "exposición de trabajos"
+                                        },
+                                        {
+                                            "text": "la película que les vamos a presentar es un trabajo de gran sensibilidad y buen gusto"
+                                        },
+                                        {
+                                            "text": "en cada asignatura te obligan a presentar un trabajo de investigación"
+                                        }
+                                    ],
+                                    "id": "idc3787aa2-22d9-49a3-91e0-1c44680f03b0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "te costará trabajo convencerles"
+                                        },
+                                        {
+                                            "text": "ni siquiera se ha tomado el trabajo de avisarnos que se iba de la empresa"
+                                        }
+                                    ],
+                                    "id": "id9acd0806-f7a4-430b-9d4c-2005f3ff3670"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las luchas entre el capital y el trabajo"
+                                        },
+                                        {
+                                            "text": "el trabajo de los animales"
+                                        },
+                                        {
+                                            "text": "trabajo de una máquina"
+                                        }
+                                    ],
+                                    "id": "idba62e665-d82d-4d7f-a2f4-870a5836e393"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "durante la guerra, la gente pasó muchos trabajos"
+                                        }
+                                    ],
+                                    "id": "ida06cc46d-c23a-44b5-acb6-b38a5a09b1ef"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "trabajo"
+                }
+            ],
+            "type": "headword",
+            "word": "trabajo"
+        }
+    ],
+    "word": "trabajo"
+}{
+    "id": "pez",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pez",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la trucha es un pez de río"
+                                        },
+                                        {
+                                            "text": "en casa tengo peces de colores en un acuario"
+                                        }
+                                    ],
+                                    "id": "id0ee7d7c3-9239-4fe6-92e6-3cdaaa3ebeaa"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los peces son los vertebrados más antiguos que existen"
+                                        }
+                                    ],
+                                    "id": "id66af9ede-13ca-49e9-8149-d3088764dbf5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pez"
+                }
+            ],
+            "type": "headword",
+            "word": "pez"
+        },
+        {
+            "id": "pez",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "negro como la pez"
+                                        },
+                                        {
+                                            "text": "la pez es insoluble en el agua"
+                                        }
+                                    ],
+                                    "id": "id7b4c00d1-a77d-4229-9c29-d7f0ed86b45c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pez"
+                }
+            ],
+            "type": "headword",
+            "word": "pez"
+        }
+    ],
+    "word": "pez"
+}{
+    "id": "amor",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "amor",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el amor al prójimo"
+                                        },
+                                        {
+                                            "text": "abrazó al bebé con gran amor"
+                                        },
+                                        {
+                                            "text": "nunca ocultó su amor a la patria"
+                                        },
+                                        {
+                                            "text": "el amor de la gloria lo llevó hasta el heroísmo"
+                                        }
+                                    ],
+                                    "id": "id70d865b3-6d85-412c-ad7a-c2dc11656588"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "amor platónico"
+                                        },
+                                        {
+                                            "text": "me gustan las canciones de amor"
+                                        },
+                                        {
+                                            "text": "no puedo expresar con palabras el amor que siento por ti"
+                                        },
+                                        {
+                                            "text": "le escribió una carta de amor"
+                                        }
+                                    ],
+                                    "id": "idf1643520-db17-46c0-a8b0-4404b9e982c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su vida estuvo marcada por el amor a la literatura"
+                                        },
+                                        {
+                                            "text": "le gustaría que compartiese con ella su amor a la música"
+                                        }
+                                    ],
+                                    "id": "idf7fb533d-32a2-48c2-b50b-3dcb89a52b5f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Jacinto fue el gran amor de su vida"
+                                        },
+                                        {
+                                            "text": "su amor son los coches de carreras"
+                                        }
+                                    ],
+                                    "id": "iddb54f6c2-a0bc-4fe3-8955-d5a0073bd2c9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un amor frustrado"
+                                        },
+                                        {
+                                            "text": "aquel amor de juventud le cambió la vida"
+                                        },
+                                        {
+                                            "text": "los jóvenes pasan horas hablando de sus amores"
+                                        }
+                                    ],
+                                    "id": "idb7a00d74-23d1-4694-addb-b56b20e50fc3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "preparó la cena de fin de año con mucho amor"
+                                        }
+                                    ],
+                                    "id": "id51631ad3-9e86-4b09-acab-54b6d229cd41"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "amor"
+                }
+            ],
+            "type": "headword",
+            "word": "amor"
+        }
+    ],
+    "word": "amor"
+}{
+    "id": "mar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "nos bañamos en el mar"
+                                        },
+                                        {
+                                            "text": "se hizo a la mar"
+                                        }
+                                    ],
+                                    "id": "idf2d2de9b-f0bc-4f91-8ee2-b61dc9484822"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el mar Caribe"
+                                        },
+                                        {
+                                            "text": "el mar Cantábrico"
+                                        }
+                                    ],
+                                    "id": "id428e69b5-616e-4408-872d-b8c5c1cfad25"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mar"
+                }
+            ],
+            "type": "headword",
+            "word": "mar"
+        }
+    ],
+    "word": "mar"
+}{
+    "id": "enojo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "enojo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el aumento desmedido de precios provocó el enojo de los clientes"
+                                        }
+                                    ],
+                                    "id": "id8414d592-2232-4373-a5af-171db5249395"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡cuántos enojos me has causado!"
+                                        }
+                                    ],
+                                    "id": "id26fff805-3558-4295-adc9-02a514b447d3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "enojo"
+                }
+            ],
+            "type": "headword",
+            "word": "enojo"
+        }
+    ],
+    "word": "enojo"
+}{
+    "id": "enojo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "enojo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el aumento desmedido de precios provocó el enojo de los clientes"
+                                        }
+                                    ],
+                                    "id": "id8414d592-2232-4373-a5af-171db5249395"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡cuántos enojos me has causado!"
+                                        }
+                                    ],
+                                    "id": "id26fff805-3558-4295-adc9-02a514b447d3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "enojo"
+                }
+            ],
+            "type": "headword",
+            "word": "enojo"
+        }
+    ],
+    "word": "enojo"
+}{
+    "id": "cacahuate",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cacahuate",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cacahuate"
+                }
+            ],
+            "type": "headword",
+            "word": "cacahuate"
+        }
+    ],
+    "word": "cacahuate"
+}{
+    "id": "cacahuate",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cacahuate",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cacahuate"
+                }
+            ],
+            "type": "headword",
+            "word": "cacahuate"
+        }
+    ],
+    "word": "cacahuate"
+}{
+    "id": "cacahuete",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cacahuete",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cacahuete"
+                }
+            ],
+            "type": "headword",
+            "word": "cacahuete"
+        }
+    ],
+    "word": "cacahuete"
+}{
+    "id": "prieto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "prieto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la falda le está muy prieta"
+                                        },
+                                        {
+                                            "text": "me até la zapatilla con un nudo muy prieto"
+                                        }
+                                    ],
+                                    "id": "ida55f3354-3967-4449-9a6e-711a7767054f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tenía los muslos prietos"
+                                        }
+                                    ],
+                                    "id": "idf76ca5cf-29b1-434f-9627-3d78618d8232"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "piel prieta"
+                                        },
+                                        {
+                                            "text": "el nogal se convierte en la madera noble más apreciada para la construcción del mobiliario, por sus características de veta alargada y prieta"
+                                        }
+                                    ],
+                                    "id": "id7a0cefab-1fcd-4e53-b383-b39d54fd1083"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "prieto"
+                }
+            ],
+            "type": "headword",
+            "word": "prieto"
+        }
+    ],
+    "word": "prieto"
+}{
+    "id": "chulo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        },
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "llevas un pantalón muy chulo"
+                                        }
+                                    ],
+                                    "id": "id60100598-1599-4751-9dff-c3e45d5b79ad"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquí nadie te ha faltado ni te ha dejado de faltar, que eres tú muy jovencito para ser tan chulo y para atemorizarme con tus bravatas"
+                                        }
+                                    ],
+                                    "id": "iddb87e0da-011a-40b5-a5a7-03ab25284966"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chulo"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "202"
+                        },
+                        {
+                            "homographNumber": "203"
+                        },
+                        {
+                            "homographNumber": "204"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        }
+    ],
+    "word": "chulo"
+}{
+    "id": "chulo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        },
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "llevas un pantalón muy chulo"
+                                        }
+                                    ],
+                                    "id": "id60100598-1599-4751-9dff-c3e45d5b79ad"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquí nadie te ha faltado ni te ha dejado de faltar, que eres tú muy jovencito para ser tan chulo y para atemorizarme con tus bravatas"
+                                        }
+                                    ],
+                                    "id": "iddb87e0da-011a-40b5-a5a7-03ab25284966"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chulo"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "202"
+                        },
+                        {
+                            "homographNumber": "203"
+                        },
+                        {
+                            "homographNumber": "204"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        }
+    ],
+    "word": "chulo"
+}{
+    "id": "chulo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        },
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "llevas un pantalón muy chulo"
+                                        }
+                                    ],
+                                    "id": "id60100598-1599-4751-9dff-c3e45d5b79ad"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquí nadie te ha faltado ni te ha dejado de faltar, que eres tú muy jovencito para ser tan chulo y para atemorizarme con tus bravatas"
+                                        }
+                                    ],
+                                    "id": "iddb87e0da-011a-40b5-a5a7-03ab25284966"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chulo"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "202"
+                        },
+                        {
+                            "homographNumber": "203"
+                        },
+                        {
+                            "homographNumber": "204"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        }
+    ],
+    "word": "chulo"
+}{
+    "id": "chulo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        },
+        {
+            "id": "chulo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "llevas un pantalón muy chulo"
+                                        }
+                                    ],
+                                    "id": "id60100598-1599-4751-9dff-c3e45d5b79ad"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquí nadie te ha faltado ni te ha dejado de faltar, que eres tú muy jovencito para ser tan chulo y para atemorizarme con tus bravatas"
+                                        }
+                                    ],
+                                    "id": "iddb87e0da-011a-40b5-a5a7-03ab25284966"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chulo"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "202"
+                        },
+                        {
+                            "homographNumber": "203"
+                        },
+                        {
+                            "homographNumber": "204"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chulo"
+                }
+            ],
+            "type": "headword",
+            "word": "chulo"
+        }
+    ],
+    "word": "chulo"
+}{
+    "id": "ras",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ras",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el agua está al ras del borde"
+                                        }
+                                    ],
+                                    "id": "id5aa9809d-1f23-4167-b4dd-cd9085b9012a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ras"
+                }
+            ],
+            "type": "headword",
+            "word": "ras"
+        }
+    ],
+    "word": "ras"
+}{
+    "id": "santo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "santo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "vida santa"
+                                        },
+                                        {
+                                            "text": "tierra santa"
+                                        }
+                                    ],
+                                    "id": "id0df0cbc3-10ca-4bf5-9982-5d65ab15c0c4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "lectura de cosas santas"
+                                        },
+                                        {
+                                            "text": "poderes santos"
+                                        }
+                                    ],
+                                    "id": "idb19ef4a1-aaa2-4ec5-b2f3-4140e5edaf68"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las letanías de los santos"
+                                        }
+                                    ],
+                                    "id": "ideddb938b-9c43-4e00-a5ec-812c2878c880"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Santo Domingo"
+                                        },
+                                        {
+                                            "text": "Santa Margarita"
+                                        }
+                                    ],
+                                    "id": "idd6df2626-6a06-4b19-83fc-a01900954bdc"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "santas mujeres"
+                                        },
+                                        {
+                                            "text": "su santa madre"
+                                        },
+                                        {
+                                            "text": "nunca había visto a nadie tan bueno, tan parecido a un santo"
+                                        }
+                                    ],
+                                    "id": "id2374be06-e8c6-4e66-811e-7c38066e7af0"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "santa palabra"
+                                        },
+                                        {
+                                            "text": "santo remedio"
+                                        }
+                                    ],
+                                    "id": "idc398ab36-f576-47f9-9898-e347ebda7dd0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Semana Santa"
+                                        },
+                                        {
+                                            "text": "el Viernes Santo se recuerda la muerte de Jesucristo"
+                                        }
+                                    ],
+                                    "id": "idc1358233-6cc1-4973-9da5-6c79f1a0813b"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "estaba acostumbrada a hacer siempre su santa voluntad"
+                                        }
+                                    ],
+                                    "id": "id4c01a729-b2c4-49d1-b419-24d1202b1791"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "santo"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en su pueblo se celebra todos los años una procesión en la que pasean al santo por las calles"
+                                        },
+                                        {
+                                            "text": "miles de fieles devotos que depositan ante el santo sus ofrendas"
+                                        },
+                                        {
+                                            "text": "era una tienda en que se vendían vírgenes y santos"
+                                        }
+                                    ],
+                                    "id": "id8489e2dc-8a3f-4610-9830-3114b9258d97"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "celebrar el santo"
+                                        },
+                                        {
+                                            "text": "siempre la felicitaba el día de su santo"
+                                        }
+                                    ],
+                                    "id": "id5c561ce7-9155-42f1-8689-8523581200c5"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "mirar los santos de un libro"
+                                        }
+                                    ],
+                                    "id": "idae67da8a-b473-4ad2-8c2b-186da7bcd14e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "santo"
+                }
+            ],
+            "type": "headword",
+            "word": "santo"
+        }
+    ],
+    "word": "santo"
+}{
+    "id": "calar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "calar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "calar"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "calar"
+                }
+            ],
+            "type": "headword",
+            "word": "calar"
+        },
+        {
+            "id": "calar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se demoraban metiendo sus botas en el agua y esperando a ver a cuál de ellos le calaba la suela primero"
+                                        },
+                                        {
+                                            "text": "el agua caló en el techo"
+                                        },
+                                        {
+                                            "text": "una tristeza húmeda, pegajosa, le iba calando lentamente"
+                                        },
+                                        {
+                                            "text": "el techo se ha calado completamente"
+                                        }
+                                    ],
+                                    "id": "id34b7cded-60c2-40db-bbd5-01403f193a5a"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "caló la tabla con una barrena"
+                                        }
+                                    ],
+                                    "id": "idfae057bc-82f0-4cbd-8f0d-967844b37b78"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los tiradores van sobre planchas de hierro recortadas y caladas con motivos góticos o renacentistas"
+                                        }
+                                    ],
+                                    "id": "id428a0654-aafc-4766-8131-c9028ad635d1"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene intuición para calar a la gente en el primer golpe de vista"
+                                        }
+                                    ],
+                                    "id": "id1ea14e2b-8f77-43b7-8da2-48d0e0105a2c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "le caló el gorro al niño"
+                                        },
+                                        {
+                                            "text": "la doña, algo premiosa en el hablar y miope, se caló los impertinentes"
+                                        }
+                                    ],
+                                    "id": "id15c096a6-3a7a-4a58-8151-76023b190a3e"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "202",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los sentimientos ecologistas han calado en la población"
+                                        },
+                                        {
+                                            "text": "una conciencia en favor de la paz ha ido calando hondamente en amplios colectivos sociales de este país"
+                                        },
+                                        {
+                                            "text": "la formación de ejecutivos empieza a calar en el sector financiero"
+                                        }
+                                    ],
+                                    "id": "id4f8d38cf-4ce1-4c8a-a2f1-b82120dc1213"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡calen armas!"
+                                        }
+                                    ],
+                                    "id": "id6ac8370c-a228-4433-999e-817507dcfe7c"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "203",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "de repente aparece ante nuestros ojos el águila calando bruscamente sobre su presa"
+                                        }
+                                    ],
+                                    "id": "ida63ad460-160c-4759-a3ac-744c9439443d"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "204",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "a tu prima le caló que no fueras a su boda"
+                                        }
+                                    ],
+                                    "id": "idbc76dab6-2d8e-4ad0-b8be-1e93d614bfa4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "voy a calar esa bici antes de comprarla"
+                                        }
+                                    ],
+                                    "id": "idedf48a62-84c7-4f52-bcc5-4660b440ca38"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "205",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "al corredor se le caló el motor en la salida y perdió algunos segundos"
+                                        }
+                                    ],
+                                    "id": "id6853a65c-1230-45f6-a0e3-9fc2684049f4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "calar"
+                }
+            ],
+            "type": "headword",
+            "word": "calar"
+        }
+    ],
+    "word": "calar"
+}{
+    "id": "calar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "calar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "calar"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "calar"
+                }
+            ],
+            "type": "headword",
+            "word": "calar"
+        },
+        {
+            "id": "calar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se demoraban metiendo sus botas en el agua y esperando a ver a cuál de ellos le calaba la suela primero"
+                                        },
+                                        {
+                                            "text": "el agua caló en el techo"
+                                        },
+                                        {
+                                            "text": "una tristeza húmeda, pegajosa, le iba calando lentamente"
+                                        },
+                                        {
+                                            "text": "el techo se ha calado completamente"
+                                        }
+                                    ],
+                                    "id": "id34b7cded-60c2-40db-bbd5-01403f193a5a"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "caló la tabla con una barrena"
+                                        }
+                                    ],
+                                    "id": "idfae057bc-82f0-4cbd-8f0d-967844b37b78"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los tiradores van sobre planchas de hierro recortadas y caladas con motivos góticos o renacentistas"
+                                        }
+                                    ],
+                                    "id": "id428a0654-aafc-4766-8131-c9028ad635d1"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene intuición para calar a la gente en el primer golpe de vista"
+                                        }
+                                    ],
+                                    "id": "id1ea14e2b-8f77-43b7-8da2-48d0e0105a2c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "le caló el gorro al niño"
+                                        },
+                                        {
+                                            "text": "la doña, algo premiosa en el hablar y miope, se caló los impertinentes"
+                                        }
+                                    ],
+                                    "id": "id15c096a6-3a7a-4a58-8151-76023b190a3e"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "202",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los sentimientos ecologistas han calado en la población"
+                                        },
+                                        {
+                                            "text": "una conciencia en favor de la paz ha ido calando hondamente en amplios colectivos sociales de este país"
+                                        },
+                                        {
+                                            "text": "la formación de ejecutivos empieza a calar en el sector financiero"
+                                        }
+                                    ],
+                                    "id": "id4f8d38cf-4ce1-4c8a-a2f1-b82120dc1213"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡calen armas!"
+                                        }
+                                    ],
+                                    "id": "id6ac8370c-a228-4433-999e-817507dcfe7c"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "203",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "de repente aparece ante nuestros ojos el águila calando bruscamente sobre su presa"
+                                        }
+                                    ],
+                                    "id": "ida63ad460-160c-4759-a3ac-744c9439443d"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "204",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "a tu prima le caló que no fueras a su boda"
+                                        }
+                                    ],
+                                    "id": "idbc76dab6-2d8e-4ad0-b8be-1e93d614bfa4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "voy a calar esa bici antes de comprarla"
+                                        }
+                                    ],
+                                    "id": "idedf48a62-84c7-4f52-bcc5-4660b440ca38"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "205",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "al corredor se le caló el motor en la salida y perdió algunos segundos"
+                                        }
+                                    ],
+                                    "id": "id6853a65c-1230-45f6-a0e3-9fc2684049f4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "calar"
+                }
+            ],
+            "type": "headword",
+            "word": "calar"
+        }
+    ],
+    "word": "calar"
+}{
+    "id": "paso",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "paso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "dar unos pasos adelante"
+                                        },
+                                        {
+                                            "text": "dar un paso atrás"
+                                        }
+                                    ],
+                                    "id": "idf1321e7f-aa2e-4ae3-8348-87090147d0e9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "paso ligero"
+                                        },
+                                        {
+                                            "text": "paso firme"
+                                        },
+                                        {
+                                            "text": "acelerar el paso"
+                                        }
+                                    ],
+                                    "id": "id726e3118-97c8-4689-859a-bdda22c3ed54"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la mula iba al paso"
+                                        }
+                                    ],
+                                    "id": "id21bcfb3b-a8b0-4d98-8dea-03910d545bb0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no cruce las vías del tren, utilice el paso subterráneo"
+                                        },
+                                        {
+                                            "text": "el paso de San Francisco se encuentra ubicado en el sector noroeste de la provincia de Catamarca"
+                                        }
+                                    ],
+                                    "id": "id992f66d4-88be-4ff2-9353-48bcc37f5ac5"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "paso de Calais"
+                                        }
+                                    ],
+                                    "id": "ida1056b9b-de94-4612-becd-da6fbd1cd84d"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la invención de la penicilina fue un gran paso para la ciencia"
+                                        }
+                                    ],
+                                    "id": "id22c98e40-ced1-4d01-bd0b-080a29071a0d"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en el parqué se advertían pasos de zapatos mojados"
+                                        }
+                                    ],
+                                    "id": "ida42714e1-89d0-4cdb-ba57-5891c4093f44"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los pasos del tango"
+                                        },
+                                        {
+                                            "text": "los pasos del vals"
+                                        },
+                                        {
+                                            "text": "los pasos del rock"
+                                        }
+                                    ],
+                                    "id": "id054b10b4-b7e0-498c-8e69-05cc2e8430a4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la factura de algunas compañías telefónicas viene detallado el número de pasos de cada llamada"
+                                        }
+                                    ],
+                                    "id": "id5e2e45f5-0e5a-4a26-858b-579de145b10e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los primeros pasos de la solicitud fueron rápidos"
+                                        }
+                                    ],
+                                    "id": "id71001da6-af61-46ad-8344-cf5c818f0eef"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "estamos en un mal paso, pero no te preocupes que trabajando con optimismo lo superaremos"
+                                        }
+                                    ],
+                                    "id": "idb03b8e8e-053b-4e1f-9571-a88ad8fc707e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los pasos populares de Lope de Rueda"
+                                        }
+                                    ],
+                                    "id": "id9054eae8-00f5-4584-8352-1a0da8b35247"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "le dieron paso franco a su hacienda"
+                                        }
+                                    ],
+                                    "id": "ida130d915-5da8-4285-bd2b-ebc6433fff75"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ave de paso, la tórtola se deja cazar a finales de agosto"
+                                        }
+                                    ],
+                                    "id": "id1d9561b7-235b-4cc6-b3a5-20ed76581d1f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en este paso no se lució el autor"
+                                        }
+                                    ],
+                                    "id": "id758af7be-e92b-4a87-a915-27d4f652ba60"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el árbitro pitó pasos al jugador número ocho"
+                                        }
+                                    ],
+                                    "id": "id346aaa1b-4193-4c4e-ba41-24a0702f4402"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paso"
+                }
+            ],
+            "type": "headword",
+            "word": "paso"
+        },
+        {
+            "id": "paso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ciruela pasa"
+                                        },
+                                        {
+                                            "text": "uva pasa"
+                                        }
+                                    ],
+                                    "id": "id3b5871e0-27c6-4fd3-ad79-d1fbe8432965"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "paso"
+                }
+            ],
+            "type": "headword",
+            "word": "paso"
+        }
+    ],
+    "word": "paso"
+}{
+    "id": "tango",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "tango",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el tango tiene su origen último en África, desde donde fue llevado por los esclavos a América del Sur en el siglo XVIII, y adquirió su forma definitiva en contacto con algunos bailes procedentes de España"
+                                        }
+                                    ],
+                                    "id": "idb2fecd0e-7d62-41d5-96ce-903a0f87e4e7"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las letras de los tangos suelen ser nostálgicas"
+                                        },
+                                        {
+                                            "text": "Carlos Gardel (1890-1935) fue el más grande intérprete del tango cantado"
+                                        }
+                                    ],
+                                    "id": "idce549e87-9ae5-4e5c-b804-6df29d319e89"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tango"
+                }
+            ],
+            "type": "headword",
+            "word": "tango"
+        },
+        {
+            "id": "tango",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tango"
+                }
+            ],
+            "type": "headword",
+            "word": "tango"
+        }
+    ],
+    "word": "tango"
+}{
+    "id": "bizantino",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "bizantino",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el arte bizantino"
+                                        }
+                                    ],
+                                    "id": "idcd85487f-cbf2-4786-a744-06d0d494b797"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la actualidad, el rito bizantino es practicado mayoritariamente por los ortodoxos"
+                                        }
+                                    ],
+                                    "id": "id6bc8e5a1-12bb-4cac-816e-4038a4576e80"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "bizantino"
+                }
+            ],
+            "type": "headword",
+            "word": "bizantino"
+        }
+    ],
+    "word": "bizantino"
+}{
+    "id": "pagano",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pagano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        },
+                        {
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "rituales paganos"
+                                        },
+                                        {
+                                            "text": "una tradición pagana"
+                                        },
+                                        {
+                                            "text": "el mundo pagano"
+                                        }
+                                    ],
+                                    "id": "id6d98e9af-8d30-4b43-88cb-3ed9d9dad682"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pagano"
+                }
+            ],
+            "type": "headword",
+            "word": "pagano"
+        },
+        {
+            "id": "pagano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el pagano fue el guardia de seguridad que cargó con las culpas"
+                                        }
+                                    ],
+                                    "id": "idb4c3402a-09dc-40d5-89aa-4b506b7ab193"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pagano"
+                }
+            ],
+            "type": "headword",
+            "word": "pagano"
+        }
+    ],
+    "word": "pagano"
+}{
+    "id": "pagano",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pagano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        },
+                        {
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "rituales paganos"
+                                        },
+                                        {
+                                            "text": "una tradición pagana"
+                                        },
+                                        {
+                                            "text": "el mundo pagano"
+                                        }
+                                    ],
+                                    "id": "id6d98e9af-8d30-4b43-88cb-3ed9d9dad682"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pagano"
+                }
+            ],
+            "type": "headword",
+            "word": "pagano"
+        },
+        {
+            "id": "pagano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el pagano fue el guardia de seguridad que cargó con las culpas"
+                                        }
+                                    ],
+                                    "id": "idb4c3402a-09dc-40d5-89aa-4b506b7ab193"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pagano"
+                }
+            ],
+            "type": "headword",
+            "word": "pagano"
+        }
+    ],
+    "word": "pagano"
+}{
+    "id": "rico",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "rico",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es rico y puede vivir sin trabajar"
+                                        }
+                                    ],
+                                    "id": "id66ac617c-3609-4874-8b69-ed484b297460"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la globalización, bien entendida y aplicada, equilibraría la situación de desigualdad entre los países ricos y los pobres"
+                                        }
+                                    ],
+                                    "id": "idf14dbe65-a015-43c1-bf65-0f196f18d25c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una persona rica en conocimientos"
+                                        },
+                                        {
+                                            "text": "la zona es rica en reptiles"
+                                        },
+                                        {
+                                            "text": "es una tierra fértil y muy rica en minerales"
+                                        }
+                                    ],
+                                    "id": "idc6c28ded-30ee-4fcf-bcde-5b5d91a8a141"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la cocina mexicana es rica y variada"
+                                        },
+                                        {
+                                            "text": "es uno de los museos más ricos de la ciudad"
+                                        },
+                                        {
+                                            "text": "las ricas minas de hierro y plomo encontradas en la región fueron un atractivo para los empresarios ambiciosos"
+                                        }
+                                    ],
+                                    "id": "id4b8ac567-308d-414d-b92c-cca8db928f9f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "admiraba las joyas y los ricos bordados de la realeza"
+                                        }
+                                    ],
+                                    "id": "id818d32d1-c8b2-4e51-b434-41e18d02d539"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hemos comido unas galletas muy ricas"
+                                        },
+                                        {
+                                            "text": "¡qué ricos te quedaron los canelones gratinados!"
+                                        }
+                                    ],
+                                    "id": "id3b305afa-7bc5-4f00-9a84-cc44d6c7427a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene unos hijos muy ricos"
+                                        },
+                                        {
+                                            "text": "mira qué niña más rica"
+                                        }
+                                    ],
+                                    "id": "iddd552f41-6821-461c-9a2f-0619b4b482a8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ven aquí, rica, que te voy a enseñar cómo se hace para que no me vuelvas a preguntar"
+                                        }
+                                    ],
+                                    "id": "id631db642-02c8-4a85-9151-cd10bfbca456"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la madre de María es muy rica"
+                                        }
+                                    ],
+                                    "id": "idbaee8b48-82ca-40ce-bd96-56768389a2c0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rico"
+                }
+            ],
+            "type": "headword",
+            "word": "rico"
+        }
+    ],
+    "word": "rico"
+}{
+    "id": "rico",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "rico",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es rico y puede vivir sin trabajar"
+                                        }
+                                    ],
+                                    "id": "id66ac617c-3609-4874-8b69-ed484b297460"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la globalización, bien entendida y aplicada, equilibraría la situación de desigualdad entre los países ricos y los pobres"
+                                        }
+                                    ],
+                                    "id": "idf14dbe65-a015-43c1-bf65-0f196f18d25c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una persona rica en conocimientos"
+                                        },
+                                        {
+                                            "text": "la zona es rica en reptiles"
+                                        },
+                                        {
+                                            "text": "es una tierra fértil y muy rica en minerales"
+                                        }
+                                    ],
+                                    "id": "idc6c28ded-30ee-4fcf-bcde-5b5d91a8a141"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la cocina mexicana es rica y variada"
+                                        },
+                                        {
+                                            "text": "es uno de los museos más ricos de la ciudad"
+                                        },
+                                        {
+                                            "text": "las ricas minas de hierro y plomo encontradas en la región fueron un atractivo para los empresarios ambiciosos"
+                                        }
+                                    ],
+                                    "id": "id4b8ac567-308d-414d-b92c-cca8db928f9f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "admiraba las joyas y los ricos bordados de la realeza"
+                                        }
+                                    ],
+                                    "id": "id818d32d1-c8b2-4e51-b434-41e18d02d539"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hemos comido unas galletas muy ricas"
+                                        },
+                                        {
+                                            "text": "¡qué ricos te quedaron los canelones gratinados!"
+                                        }
+                                    ],
+                                    "id": "id3b305afa-7bc5-4f00-9a84-cc44d6c7427a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene unos hijos muy ricos"
+                                        },
+                                        {
+                                            "text": "mira qué niña más rica"
+                                        }
+                                    ],
+                                    "id": "iddd552f41-6821-461c-9a2f-0619b4b482a8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ven aquí, rica, que te voy a enseñar cómo se hace para que no me vuelvas a preguntar"
+                                        }
+                                    ],
+                                    "id": "id631db642-02c8-4a85-9151-cd10bfbca456"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la madre de María es muy rica"
+                                        }
+                                    ],
+                                    "id": "idbaee8b48-82ca-40ce-bd96-56768389a2c0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rico"
+                }
+            ],
+            "type": "headword",
+            "word": "rico"
+        }
+    ],
+    "word": "rico"
+}{
+    "id": "rico",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "rico",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es rico y puede vivir sin trabajar"
+                                        }
+                                    ],
+                                    "id": "id66ac617c-3609-4874-8b69-ed484b297460"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la globalización, bien entendida y aplicada, equilibraría la situación de desigualdad entre los países ricos y los pobres"
+                                        }
+                                    ],
+                                    "id": "idf14dbe65-a015-43c1-bf65-0f196f18d25c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una persona rica en conocimientos"
+                                        },
+                                        {
+                                            "text": "la zona es rica en reptiles"
+                                        },
+                                        {
+                                            "text": "es una tierra fértil y muy rica en minerales"
+                                        }
+                                    ],
+                                    "id": "idc6c28ded-30ee-4fcf-bcde-5b5d91a8a141"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la cocina mexicana es rica y variada"
+                                        },
+                                        {
+                                            "text": "es uno de los museos más ricos de la ciudad"
+                                        },
+                                        {
+                                            "text": "las ricas minas de hierro y plomo encontradas en la región fueron un atractivo para los empresarios ambiciosos"
+                                        }
+                                    ],
+                                    "id": "id4b8ac567-308d-414d-b92c-cca8db928f9f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "admiraba las joyas y los ricos bordados de la realeza"
+                                        }
+                                    ],
+                                    "id": "id818d32d1-c8b2-4e51-b434-41e18d02d539"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hemos comido unas galletas muy ricas"
+                                        },
+                                        {
+                                            "text": "¡qué ricos te quedaron los canelones gratinados!"
+                                        }
+                                    ],
+                                    "id": "id3b305afa-7bc5-4f00-9a84-cc44d6c7427a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene unos hijos muy ricos"
+                                        },
+                                        {
+                                            "text": "mira qué niña más rica"
+                                        }
+                                    ],
+                                    "id": "iddd552f41-6821-461c-9a2f-0619b4b482a8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ven aquí, rica, que te voy a enseñar cómo se hace para que no me vuelvas a preguntar"
+                                        }
+                                    ],
+                                    "id": "id631db642-02c8-4a85-9151-cd10bfbca456"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la madre de María es muy rica"
+                                        }
+                                    ],
+                                    "id": "idbaee8b48-82ca-40ce-bd96-56768389a2c0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rico"
+                }
+            ],
+            "type": "headword",
+            "word": "rico"
+        }
+    ],
+    "word": "rico"
+}{
+    "id": "rico",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "rico",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es rico y puede vivir sin trabajar"
+                                        }
+                                    ],
+                                    "id": "id66ac617c-3609-4874-8b69-ed484b297460"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la globalización, bien entendida y aplicada, equilibraría la situación de desigualdad entre los países ricos y los pobres"
+                                        }
+                                    ],
+                                    "id": "idf14dbe65-a015-43c1-bf65-0f196f18d25c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una persona rica en conocimientos"
+                                        },
+                                        {
+                                            "text": "la zona es rica en reptiles"
+                                        },
+                                        {
+                                            "text": "es una tierra fértil y muy rica en minerales"
+                                        }
+                                    ],
+                                    "id": "idc6c28ded-30ee-4fcf-bcde-5b5d91a8a141"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la cocina mexicana es rica y variada"
+                                        },
+                                        {
+                                            "text": "es uno de los museos más ricos de la ciudad"
+                                        },
+                                        {
+                                            "text": "las ricas minas de hierro y plomo encontradas en la región fueron un atractivo para los empresarios ambiciosos"
+                                        }
+                                    ],
+                                    "id": "id4b8ac567-308d-414d-b92c-cca8db928f9f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "admiraba las joyas y los ricos bordados de la realeza"
+                                        }
+                                    ],
+                                    "id": "id818d32d1-c8b2-4e51-b434-41e18d02d539"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hemos comido unas galletas muy ricas"
+                                        },
+                                        {
+                                            "text": "¡qué ricos te quedaron los canelones gratinados!"
+                                        }
+                                    ],
+                                    "id": "id3b305afa-7bc5-4f00-9a84-cc44d6c7427a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene unos hijos muy ricos"
+                                        },
+                                        {
+                                            "text": "mira qué niña más rica"
+                                        }
+                                    ],
+                                    "id": "iddd552f41-6821-461c-9a2f-0619b4b482a8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ven aquí, rica, que te voy a enseñar cómo se hace para que no me vuelvas a preguntar"
+                                        }
+                                    ],
+                                    "id": "id631db642-02c8-4a85-9151-cd10bfbca456"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la madre de María es muy rica"
+                                        }
+                                    ],
+                                    "id": "idbaee8b48-82ca-40ce-bd96-56768389a2c0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rico"
+                }
+            ],
+            "type": "headword",
+            "word": "rico"
+        }
+    ],
+    "word": "rico"
+}{
+    "id": "cadera",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cadera",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "fractura de cadera"
+                                        },
+                                        {
+                                            "text": "una mujer de caderas anchas"
+                                        },
+                                        {
+                                            "text": "le localizaron la artritis en la cadera derecha"
+                                        }
+                                    ],
+                                    "id": "id23a8fd09-edf1-406c-a38a-54fdde31f46f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "busco unos pantalones que tengan un poco más de cadera"
+                                        }
+                                    ],
+                                    "id": "idb936f8b4-6937-4b97-9941-b5298cc64dd4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cadera"
+                }
+            ],
+            "type": "headword",
+            "word": "cadera"
+        }
+    ],
+    "word": "cadera"
+}
