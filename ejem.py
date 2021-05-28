@@ -8,7 +8,7 @@ app_key = '2b891c1f26db980883b9cebe61df9ea3'
 language = 'es'
 #25/03 https://tecadmin.net/python-command-line-arguments/
 #word_id = 'corazón'
-fields = 'definitions' 
+fields = 'examples' 
 #origword_id = str(sys.argv[1])
 #https://stackoverflow.com/questions/2194163/python-empty-argument
 if len(sys.argv) == 1:
