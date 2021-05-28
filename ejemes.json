@@ -3671,4 +3671,484 @@
         }
     ],
     "word": "cadera"
+}{
+    "id": "barroco",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "barroco",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el Barroco surgió como una reacción a las estrictas normas clásicas del Renacimiento"
+                                        },
+                                        {
+                                            "text": "en las artes plásticas, el Barroco se caracterizó por el gusto por la complicación formal, las formas curvas y la abundancia de adornos"
+                                        },
+                                        {
+                                            "text": "el Barroco arquitectónico americano quedó plasmado sobre todo en edificios religiosos"
+                                        }
+                                    ],
+                                    "id": "idb9d25b9a-7c76-4f18-92b4-e8b3ec09b5de"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el Barroco en España coincide con la decadencia del imperio y con el Siglo de Oro de las letras"
+                                        }
+                                    ],
+                                    "id": "ida867fee4-cfda-4ff4-a6a3-816d9dfb382d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "barroco"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el estilo barroco"
+                                        },
+                                        {
+                                            "text": "una iglesia barroca"
+                                        },
+                                        {
+                                            "text": "un cuadro barroco"
+                                        }
+                                    ],
+                                    "id": "ida807e700-6bf3-4e52-ba6f-5880944940a4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una película barroca"
+                                        },
+                                        {
+                                            "text": "una novela barroca"
+                                        }
+                                    ],
+                                    "id": "ida0ce4f76-ec3f-47b4-b463-a390dad8d7db"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "avanzaba hacia la orquesta, barrocamente uniformada"
+                                        }
+                                    ],
+                                    "id": "id349e567e-c8e8-4478-bcf2-c299cd60210c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "barroco"
+                }
+            ],
+            "type": "headword",
+            "word": "barroco"
+        }
+    ],
+    "word": "barroco"
+}{
+    "id": "agua",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "agua",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un vaso de agua"
+                                        },
+                                        {
+                                            "text": "beber agua de una fuente"
+                                        }
+                                    ],
+                                    "id": "id066d3b1a-598c-4a05-ab02-239389a03fce"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "agua de rosas"
+                                        }
+                                    ],
+                                    "id": "id40940ff4-8c9a-49a5-908f-cf3132f45f88"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "agua amoniacal"
+                                        },
+                                        {
+                                            "text": "agua de cal"
+                                        },
+                                        {
+                                            "text": "agua ferruginosa"
+                                        }
+                                    ],
+                                    "id": "idf19615cd-c2c3-4803-8954-7bbcef381e78"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un tejado a dos aguas"
+                                        }
+                                    ],
+                                    "id": "id6309867a-1e54-48dd-a803-c813bdf855a6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el mármol hace aguas"
+                                        }
+                                    ],
+                                    "id": "id58f1b61e-296b-4af0-8ff6-226d37b440a2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "agua"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡aguas! ¡va a pasar el tren!"
+                                        }
+                                    ],
+                                    "id": "id8018556d-620f-40fd-acdb-e1cd9377a6c0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "interjection",
+                        "text": "Interjection"
+                    },
+                    "text": "agua"
+                }
+            ],
+            "type": "headword",
+            "word": "agua"
+        }
+    ],
+    "word": "agua"
+}{
+    "id": "dinero",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "dinero",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "eché todo el dinero que tenía encima de la mesa"
+                                        }
+                                    ],
+                                    "id": "id549e89e4-8602-45fa-b325-9f8719a32f4f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no le falta dinero, porque tiene una casa muy buena y su cuenta corriente es muy cuantiosa"
+                                        }
+                                    ],
+                                    "id": "ide3f0ab24-ff22-44bd-a32d-5fe320a91961"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un dinero equivalía a dos cornados"
+                                        }
+                                    ],
+                                    "id": "id43407e83-e35b-4ad0-b6b7-31fddcfb8413"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dinero"
+                }
+            ],
+            "type": "headword",
+            "word": "dinero"
+        }
+    ],
+    "word": "dinero"
+}{
+    "id": "platear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "platear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "platear una pulsera"
+                                        },
+                                        {
+                                            "text": "platear la chapa de la puerta"
+                                        },
+                                        {
+                                            "text": "platear un retablo"
+                                        }
+                                    ],
+                                    "id": "id2ce08291-fcd9-4048-b189-a19f22786020"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la Luna platea la superficie del mar"
+                                        }
+                                    ],
+                                    "id": "idd3ec0cf6-d03d-4e1b-b7b7-3d46f8b2e9e4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "platear"
+                }
+            ],
+            "type": "headword",
+            "word": "platear"
+        }
+    ],
+    "word": "platear"
+}{
+    "id": "demente",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "demente",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un anciano demente"
+                                        },
+                                        {
+                                            "text": "aunque el atentado fue cometido por un demente, puede tener implicaciones políticas"
+                                        }
+                                    ],
+                                    "id": "idaa67d356-ede2-47ed-b4d7-ec9d71a90a77"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "imaginación demente"
+                                        },
+                                        {
+                                            "text": "dementes celos"
+                                        },
+                                        {
+                                            "text": "desde entonces vive recluida en una demente clandestinidad"
+                                        },
+                                        {
+                                            "text": "lo disuadió de su intención resuelta y demente"
+                                        }
+                                    ],
+                                    "id": "id6b636e61-e84c-4cca-a1c1-5e9d76d1983a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "demente"
+                }
+            ],
+            "type": "headword",
+            "word": "demente"
+        }
+    ],
+    "word": "demente"
+}{
+    "id": "gente",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gente",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el local rebosaba de gente"
+                                        },
+                                        {
+                                            "text": "aquí hay gente que no me gusta nada"
+                                        }
+                                    ],
+                                    "id": "ida1f899b5-6be1-4bdf-8fde-76fc8d19c545"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "gente de dinero"
+                                        },
+                                        {
+                                            "text": "gente de la calle"
+                                        }
+                                    ],
+                                    "id": "id76ac699b-1813-4242-bec1-183229326181"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tengo a mi gente aquí de vacaciones"
+                                        }
+                                    ],
+                                    "id": "id266f4af2-8f5c-4d18-b630-0fd08646b21a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su amigo no parece mala gente"
+                                        },
+                                        {
+                                            "text": "esos muchachos son muy buena gente, no te causarán problemas"
+                                        }
+                                    ],
+                                    "id": "id8ca79217-d398-44dc-b15b-8363b32f7aca"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gente"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquel hombre y toda su familia eran gente, todos unos caballeros y unas damas"
+                                        },
+                                        {
+                                            "text": "Luis es muy gente, es muy solidario"
+                                        }
+                                    ],
+                                    "id": "id87f4a81a-7791-49ac-8017-1dfa74dec2bd"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "gente"
+                }
+            ],
+            "type": "headword",
+            "word": "gente"
+        }
+    ],
+    "word": "gente"
 }
