@@ -4239,4 +4239,44 @@
         }
     ],
     "word": "mecenas"
+}{
+    "id": "antipoda",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ant%C3%ADpoda",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el teatro popular alemán y el lacrimoso teatro italiano, antípoda de las magnas creaciones orquestales de Beethoven"
+                                        }
+                                    ],
+                                    "id": "idc6653685-20b0-4149-a472-6aa1d98c9ebd"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "antípoda"
+                }
+            ],
+            "type": "headword",
+            "word": "antípoda"
+        }
+    ],
+    "word": "antípoda"
 }

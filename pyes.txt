@@ -2536,10 +2536,6 @@
 "inquina"
 "Antipatía o aversión que se experimenta contra una persona o una cosa y que impulsa a tratarla de forma negativa o injusta, o a apartarse de ella"
 "inquina"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "fagot"
 "Instrumento musical de viento formado por un largo tubo cilíndrico de madera doblado en dos partes paralelas y juntas, unidas por una pieza, con una serie de orificios que se tapan mediante llaves y un tubo de metal corto, fino y curvo que sale del extremo del tubo corto (en la parte central del instrumento) y en cuyo final está la boquilla, que tiene una lengüeta doble"
 "Persona que en una orquesta o conjunto musical toca este instrumento"
@@ -2891,3 +2887,18 @@ parse error: Invalid numeric literal at line 1, column 17
 "Terreno siempre húmedo"
 "Campo sembrado con plantas de tabaco"
 "vega"
+"antípoda"
+"[lugar de la Tierra] Que está situado diametralmente opuesto a otro"
+"[persona] Que vive en un punto de la superficie terrestre diametralmente opuesto a otro"
+"Que es el opuesto o que se contrapone"
+"antípoda"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"secular"
+"Que dura un siglo o que dura desde hace siglos"
+"Que se repite cada siglo"
+"Que pertenece a la sociedad laica y no al estamento eclesiástico o religioso"
+"[sacerdote, religioso] Que no vive sujeto a una regla monástica en un convento o monasterio, sino que depende de un obispo y vive integrado en el mundo laico"
+"secular"
