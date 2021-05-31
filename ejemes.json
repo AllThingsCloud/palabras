@@ -4199,4 +4199,44 @@
         }
     ],
     "word": "ralea"
+}{
+    "id": "mecenas",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mecenas",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el rodaje de \"La edad de oro\" (Buñuel, 1930) fue posible gracias a una generosa oferta de los vizcondes Charles y Marie-Laure de Noailles, mecenas del grupo surrealista a quienes había gustado mucho \"Un perro andaluz\""
+                                        }
+                                    ],
+                                    "id": "id419957b4-ede0-4d38-92c6-a1f0c7dcd096"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mecenas"
+                }
+            ],
+            "type": "headword",
+            "word": "mecenas"
+        }
+    ],
+    "word": "mecenas"
 }
