@@ -4151,4 +4151,52 @@
         }
     ],
     "word": "gente"
+}{
+    "id": "ralea",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ralea",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es de la misma ralea que su compañero"
+                                        }
+                                    ],
+                                    "id": "id7e62b917-b81d-4587-a35f-161a1df91275"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿y a mí qué me cuentas, qué tengo yo que ver contigo y con toda tu maldita ralea?"
+                                        }
+                                    ],
+                                    "id": "id45fedfd8-e990-4506-8f78-7c3a3ea5d93d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ralea"
+                }
+            ],
+            "type": "headword",
+            "word": "ralea"
+        }
+    ],
+    "word": "ralea"
 }
