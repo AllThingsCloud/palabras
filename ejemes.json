@@ -4344,4 +4344,126 @@
         }
     ],
     "word": "combate"
+}{
+    "id": "historia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "historia",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "historia contemporánea"
+                                        },
+                                        {
+                                            "text": "historia moderna"
+                                        },
+                                        {
+                                            "text": "historia medieval"
+                                        },
+                                        {
+                                            "text": "historia del arte"
+                                        },
+                                        {
+                                            "text": "historia de la música"
+                                        },
+                                        {
+                                            "text": "historia de la ciencia"
+                                        },
+                                        {
+                                            "text": "historia de la teología"
+                                        }
+                                    ],
+                                    "id": "idb028d1ca-78fb-48ba-987b-bb0bacca5fd8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la llegada del hombre a la Luna fue un suceso crucial en la historia de la humanidad"
+                                        }
+                                    ],
+                                    "id": "idd641898c-0da2-4197-8f5e-bfc0517b66ed"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se contaban historias, cantaban romances, jugaban al corro"
+                                        }
+                                    ],
+                                    "id": "id8d0480c2-4d64-492b-bcaa-557e91227bf4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no le hagas caso, son historias que se cuentan por ahí"
+                                        }
+                                    ],
+                                    "id": "id18280206-9469-4ae1-b7de-854ed74685c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "historia"
+                }
+            ],
+            "type": "headword",
+            "word": "historia"
+        }
+    ],
+    "word": "historia"
+}{
+    "id": "propalar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "propalar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "propalaron un rumor tendencioso"
+                                        }
+                                    ],
+                                    "id": "idb45017a1-4276-40a5-a893-a0c859fb2dc0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "propalar"
+                }
+            ],
+            "type": "headword",
+            "word": "propalar"
+        }
+    ],
+    "word": "propalar"
 }
