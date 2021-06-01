@@ -4279,4 +4279,69 @@
         }
     ],
     "word": "antípoda"
+}{
+    "id": "combate",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "combate",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "muerto en combate"
+                                        },
+                                        {
+                                            "text": "se registraron combates intensos en la zona selvática"
+                                        },
+                                        {
+                                            "text": "el fracaso de las negociaciones desembocará, con toda probabilidad, en un recrudecimiento de los combates"
+                                        }
+                                    ],
+                                    "id": "id23683994-921a-4cb0-831a-1eb292702abd"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se disputará una velada de boxeo compuesta por seis combates"
+                                        },
+                                        {
+                                            "text": "los machos utilizan la cornamenta como arma en los combates"
+                                        }
+                                    ],
+                                    "id": "id3dfab9b4-c9e9-4c65-abdf-bda1325c8b7b"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un combate cada vez más feroz contra su propia tradición racionalista y liberal"
+                                        }
+                                    ],
+                                    "id": "iddd12d98b-4235-4a90-be6a-a12687e86d0c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "combate"
+                }
+            ],
+            "type": "headword",
+            "word": "combate"
+        }
+    ],
+    "word": "combate"
 }
