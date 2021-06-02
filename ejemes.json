@@ -4870,4 +4870,52 @@
         }
     ],
     "word": "clorofila"
+}{
+    "id": "expolio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "expolio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los conquistadores sometieron a expolio a los indígenas"
+                                        }
+                                    ],
+                                    "id": "ida16ca8d5-9c6d-4742-b611-c19448c332b2"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la salida de los tribunales se formó un tremendo expolio"
+                                        }
+                                    ],
+                                    "id": "idbc43128b-bed8-4e41-bc4e-a68f7c484115"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "expolio"
+                }
+            ],
+            "type": "headword",
+            "word": "expolio"
+        }
+    ],
+    "word": "expolio"
 }
