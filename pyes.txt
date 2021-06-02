@@ -2946,3 +2946,8 @@ parse error: Invalid numeric literal at line 1, column 17
 "Narración o relato, generalmente inventado, que pretende divertir o entretener"
 "Comentario o noticia no verificada que circula entre la gente, generalmente de carácter negativo"
 "historia"
+"casabe"
+"Cazabe"
+"casabe"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17

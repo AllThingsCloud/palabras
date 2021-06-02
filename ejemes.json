@@ -4466,4 +4466,30 @@
         }
     ],
     "word": "propalar"
+}{
+    "id": "casabe",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "casabe",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "casabe"
+                }
+            ],
+            "type": "headword",
+            "word": "casabe"
+        }
+    ],
+    "word": "casabe"
 }
