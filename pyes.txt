@@ -2981,3 +2981,7 @@
 "Conjunto de bienes que, por haber sido adquiridos con rentas eclesiásticas, quedan en propiedad de la Iglesia al morir sin haber hecho testamento el clérigo que los poseía"
 "Alboroto o escándalo de grandes proporciones"
 "expolio"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
