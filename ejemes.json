@@ -4492,4 +4492,382 @@
         }
     ],
     "word": "casabe"
+}{
+    "id": "mundologia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mundolog%C3%ADa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mundología"
+                }
+            ],
+            "type": "headword",
+            "word": "mundología"
+        }
+    ],
+    "word": "mundología"
+}{
+    "id": "hilarante",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hilarante",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "escena hilarante"
+                                        }
+                                    ],
+                                    "id": "id757c4c77-da5c-49cb-a43c-1146af8dca8a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "hilarante"
+                }
+            ],
+            "type": "headword",
+            "word": "hilarante"
+        }
+    ],
+    "word": "hilarante"
+}{
+    "id": "indoeuropeo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "indoeuropeo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las lenguas eslavas, bálticas, románicas, célticas e indoiranias son lenguas indoeuropeas"
+                                        }
+                                    ],
+                                    "id": "id55c9ec58-4a7e-48eb-a09a-0a14f3a4b046"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "indoeuropeo"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "indoeuropeo"
+                }
+            ],
+            "type": "headword",
+            "word": "indoeuropeo"
+        }
+    ],
+    "word": "indoeuropeo"
+}{
+    "id": "cerril",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cerril",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ganado cerril"
+                                        },
+                                        {
+                                            "text": "los pollinos son asnos jóvenes y cerriles"
+                                        }
+                                    ],
+                                    "id": "idec4096de-abf8-431f-99eb-c44c6c3e03d3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "entre los partidos comunistas occidentales y el socialismo cerril y dictatorial de los países de la Europa oriental, hay una enorme diferencia"
+                                        }
+                                    ],
+                                    "id": "ida9240495-356a-4835-8349-c20debfaffea"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su comportamiento tan cerril da idea de la escasa educación que está recibiendo"
+                                        }
+                                    ],
+                                    "id": "id91d0593e-a532-43b8-8b7c-568d154014b7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cerril"
+                }
+            ],
+            "type": "headword",
+            "word": "cerril"
+        }
+    ],
+    "word": "cerril"
+}{
+    "id": "feston",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fest%C3%B3n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una blusa de mangas rematadas con festones"
+                                        }
+                                    ],
+                                    "id": "id4ec14d06-5e87-4330-bd4a-c85fdc954d14"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el balaustre está formado por columnas cilíndricas estriadas, unidas por una arquería central, que se remata inferiormente con un festón y por arriba con pináculos"
+                                        }
+                                    ],
+                                    "id": "ide98bc687-5067-496c-9fda-1c50d6ce8c54"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "festón"
+                }
+            ],
+            "type": "headword",
+            "word": "festón"
+        }
+    ],
+    "word": "festón"
+}{
+    "id": "epiteto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ep%C3%ADteto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en 'la verde hierba', 'verde' es un epíteto"
+                                        }
+                                    ],
+                                    "id": "id24531ae3-ed43-4afc-baaf-94477652c948"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la actuación del equipo mereció epítetos bastantes desagradables por parte de algunos aficionados"
+                                        }
+                                    ],
+                                    "id": "idd3820081-941e-44d4-9965-c5a389c1fc03"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "epíteto"
+                }
+            ],
+            "type": "headword",
+            "word": "epíteto"
+        }
+    ],
+    "word": "epíteto"
+}{
+    "id": "omnisciente",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "omnisciente",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el narrador omnisciente de una novela conoce todos los detalles de la historia y de los personajes y justifica el porqué de sus acciones y su manera de pensar o sentir"
+                                        },
+                                        {
+                                            "text": "en la película, la cámara une la perspectiva cercana y desde abajo al plano general, alto y omnisciente"
+                                        }
+                                    ],
+                                    "id": "idd09e5b3c-1680-40e2-9a89-8f136beef44a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "omnisciente"
+                }
+            ],
+            "type": "headword",
+            "word": "omnisciente"
+        }
+    ],
+    "word": "omnisciente"
+}{
+    "id": "mundologia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mundolog%C3%ADa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mundología"
+                }
+            ],
+            "type": "headword",
+            "word": "mundología"
+        }
+    ],
+    "word": "mundología"
+}{
+    "id": "clorofila",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "clorofila",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la clorofila tiene propiedades desodorantes y aromáticas"
+                                        }
+                                    ],
+                                    "id": "id4f1d034f-0b88-4e04-8948-b9aafc2e76c3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "clorofila"
+                }
+            ],
+            "type": "headword",
+            "word": "clorofila"
+        }
+    ],
+    "word": "clorofila"
 }
