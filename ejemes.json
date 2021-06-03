@@ -4918,4 +4918,118 @@
         }
     ],
     "word": "expolio"
+}{
+    "id": "sonante",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sonante",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sonante"
+                }
+            ],
+            "type": "headword",
+            "word": "sonante"
+        }
+    ],
+    "word": "sonante"
+}{
+    "id": "contante",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "contante",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los decretos y las cédulas se sucedieron en un claro intento de buscar una balanza comercial favorable a la vez que dinero contante para la política exterior"
+                                        }
+                                    ],
+                                    "id": "id6f45c171-81d6-4500-98a9-5e1246cd0ab5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "contante"
+                }
+            ],
+            "type": "headword",
+            "word": "contante"
+        }
+    ],
+    "word": "contante"
+}{
+    "id": "racismo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "racismo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el racismo puede incluso justificar la eliminación física de las razas consideradas inferiores"
+                                        }
+                                    ],
+                                    "id": "id4dfc7293-10a7-4761-8a86-bd381bc3a57a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el racismo se refleja, además de en las agresiones contra negros y asiáticos, en discriminaciones en el sistema judicial y en el empleo"
+                                        }
+                                    ],
+                                    "id": "idd179310f-3fc3-41a8-9cae-cc5839722cc4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "racismo"
+                }
+            ],
+            "type": "headword",
+            "word": "racismo"
+        }
+    ],
+    "word": "racismo"
 }
