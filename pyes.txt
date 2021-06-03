@@ -3022,3 +3022,8 @@ parse error: Invalid numeric literal at line 1, column 17
 "Plan o sistema ideal de gobierno en el que se concibe una sociedad perfecta y justa, donde todo discurre sin conflictos y en armonía"
 "Proyecto, deseo o plan ideal, atrayente y beneficioso, generalmente para la comunidad, que es muy improbable que suceda o que en el momento de su formulación es irrealizable"
 "utopía"
+"diáspora"
+"Dispersión de un pueblo o comunidad humana por diversos lugares del mundo; especialmente la de los judíos después de la destrucción del reino de Israel (siglo VI a. C.)"
+"Conjunto de comunidades de un mismo origen o una misma condición establecidas en distintos países"
+"Dispersión de un grupo numeroso de personas"
+"diáspora"
