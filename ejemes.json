@@ -5032,4 +5032,44 @@
         }
     ],
     "word": "racismo"
+}{
+    "id": "leitmotiv",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "leitmotiv",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el niño se prueba el corsé de mamá, mientras una cajita de música deja oír un minué que será el leitmotiv de todo el filme, dotándolo de ese aire de divertimento que estructura su ritmo interno"
+                                        }
+                                    ],
+                                    "id": "idaa1f71a3-1f05-465d-9880-2e1ef8b0a535"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "leitmotiv"
+                }
+            ],
+            "type": "headword",
+            "word": "leitmotiv"
+        }
+    ],
+    "word": "leitmotiv"
 }
