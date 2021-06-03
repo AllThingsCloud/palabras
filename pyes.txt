@@ -3018,3 +3018,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "[persona] Que pertenecía a una dinastía musulmana fundada por Ubaidallah (882-936), pretendido descendiente de Fátima (hija de Mahoma), que reinó en el norte de África en el siglo X y en Egipto desde el X hasta el XII"
 "Relativo a esta dinastía"
 "fatimí"
+"utopía"
+"Plan o sistema ideal de gobierno en el que se concibe una sociedad perfecta y justa, donde todo discurre sin conflictos y en armonía"
+"Proyecto, deseo o plan ideal, atrayente y beneficioso, generalmente para la comunidad, que es muy improbable que suceda o que en el momento de su formulación es irrealizable"
+"utopía"
