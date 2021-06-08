@@ -3073,3 +3073,13 @@ parse error: Invalid numeric literal at line 1, column 17
 "Echar a pelear los gallos con los espolones cubiertos, para así probarlos sin que se hagan daño o lastimen"
 "Reñir o pelear [una persona] con otra"
 "topar"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"porque"
+"Introduce una oración en la que se indica la causa o la explicación de algo que se expresa"
+"Introduce una oración en la que se ofrece una explicación sobre la finalidad de algo; tiene cierto matiz causal"
+"Causa, razón o motivo"
+"porque"
+"cerdear"
+"Resistirse a hacer algo, o buscar excusas para no hacerlo"
+"cerdear"

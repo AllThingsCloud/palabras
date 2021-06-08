@@ -5072,4 +5072,134 @@
         }
     ],
     "word": "leitmotiv"
+}{
+    "id": "porque",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "porque",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "me quedo en casa porque tengo sueño"
+                                        },
+                                        {
+                                            "text": "no pude asistir porque tenía trabajo"
+                                        },
+                                        {
+                                            "text": "porque lo dices tú, te vamos a creer"
+                                        }
+                                    ],
+                                    "id": "id8553614b-6878-4aec-bcf5-190651cd74aa"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "procura hablar un poco más bajo, porque no nos oigan"
+                                        },
+                                        {
+                                            "text": "recemos porque no llueva"
+                                        }
+                                    ],
+                                    "id": "id86bb8f27-fa64-4ede-9774-bfa7aefce801"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "conjunction",
+                        "text": "Conjunction"
+                    },
+                    "text": "porque"
+                }
+            ],
+            "type": "headword",
+            "word": "porque"
+        },
+        {
+            "id": "porqu%C3%A9",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "te diré el porqué del asunto"
+                                        },
+                                        {
+                                            "text": "cualquier científico, en su trabajo, busca por sí mismo los porqués de las cosas, pero también debe ser respetuoso con las ideas de los demás"
+                                        }
+                                    ],
+                                    "id": "id9566c473-f00c-417e-8108-92cfa6e4bed5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "porqué"
+                }
+            ],
+            "type": "headword",
+            "word": "porqué"
+        }
+    ],
+    "word": "porque"
+}{
+    "id": "cerdear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cerdear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "allí estaba, cerdeando todo el día, dejando pasar las horas"
+                                        }
+                                    ],
+                                    "id": "id9917b7cc-60a1-4d3a-8c1a-9c96c5564c5a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "cerdear"
+                }
+            ],
+            "type": "headword",
+            "word": "cerdear"
+        }
+    ],
+    "word": "cerdear"
 }
