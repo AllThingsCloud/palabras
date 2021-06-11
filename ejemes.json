@@ -5202,4 +5202,135 @@
         }
     ],
     "word": "cerdear"
+}{
+    "id": "orla",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "orla",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la foto aparecía rodeada, toda ella, de una gruesa orla de luto"
+                                        },
+                                        {
+                                            "text": "las señales triangulares, blancas con orla roja, indican peligro"
+                                        }
+                                    ],
+                                    "id": "id28459f46-acca-4691-be50-e7caf3991e12"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los alumnos que acaban la carrera son los que figuran en la orla"
+                                        }
+                                    ],
+                                    "id": "id9597842f-9ec0-4d21-939e-3f7e99661226"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "orla"
+                }
+            ],
+            "type": "headword",
+            "word": "orla"
+        }
+    ],
+    "word": "orla"
+}{
+    "id": "tempano",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "t%C3%A9mpano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "frío como un témpano"
+                                        }
+                                    ],
+                                    "id": "id7fa5bdbf-e814-4e90-a181-815cbfc36df9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "témpano"
+                }
+            ],
+            "type": "headword",
+            "word": "témpano"
+        }
+    ],
+    "word": "témpano"
+}{
+    "id": "yambo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "yambo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el yambo se cultiva mucho en las Antillas"
+                                        }
+                                    ],
+                                    "id": "ida1326e6f-4246-41f1-90e7-27cfefdc4d24"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "yambo"
+                }
+            ],
+            "type": "headword",
+            "word": "yambo"
+        }
+    ],
+    "word": "yambo"
 }
