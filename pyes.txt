@@ -3208,3 +3208,5 @@ parse error: Invalid numeric literal at line 1, column 17
 "Grado de mayor exaltación de un sentimiento, un estado de ánimo o una sensación"
 "Período de máxima intensidad en un fenómeno sísmico u orgánico"
 "paroxismo"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
