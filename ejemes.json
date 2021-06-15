@@ -5505,4 +5505,56 @@
         }
     ],
     "word": "beato"
+}{
+    "id": "paniaguado",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "paniaguado",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "era un paniaguado del director"
+                                        }
+                                    ],
+                                    "id": "ida917f954-a944-4e0e-a3ea-e8b6896fcd2e"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se ocupaba de los paniaguados como criados predilectos"
+                                        }
+                                    ],
+                                    "id": "id7ddf2d2f-821a-44d2-88c2-a9e1092f769e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paniaguado"
+                }
+            ],
+            "type": "headword",
+            "word": "paniaguado"
+        }
+    ],
+    "word": "paniaguado"
 }
