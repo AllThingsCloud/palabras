@@ -5333,4 +5333,176 @@
         }
     ],
     "word": "yambo"
+}{
+    "id": "metatesis",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "met%C3%A1tesis",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "al decir 'dentrífico' en lugar de 'dentífrico' se produce una metátesis de la 'r'"
+                                        }
+                                    ],
+                                    "id": "id2a0c68e3-77b7-4e1c-8a67-ce994d88093d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "metátesis"
+                }
+            ],
+            "type": "headword",
+            "word": "metátesis"
+        }
+    ],
+    "word": "metátesis"
+}{
+    "id": "desventurado",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "desventurado",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un desventurado día halló el diamante robado en la caja de su mejor amigo"
+                                        },
+                                        {
+                                            "text": "si esta desventurada eventualidad llegara a producirse, un considerable número de países se verían convertidos de pronto en parte activa de una contienda"
+                                        }
+                                    ],
+                                    "id": "idc02dd669-a69c-487d-b6e6-76c1a7e4e849"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se sentía incapaz de pedir justicia y venganza contra esos dos desventurados vejezuelos"
+                                        }
+                                    ],
+                                    "id": "idc778aeb7-16a7-4c20-86ab-c94e2ce397c3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "desventurado"
+                }
+            ],
+            "type": "headword",
+            "word": "desventurado"
+        }
+    ],
+    "word": "desventurado"
+}{
+    "id": "beato",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "beato",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el beato Marcelino"
+                                        },
+                                        {
+                                            "text": "la beata Albertona"
+                                        }
+                                    ],
+                                    "id": "idc5323b26-4dd2-4b54-88ae-dc4b67f69619"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "era una beata de misa diaria"
+                                        }
+                                    ],
+                                    "id": "id13c993ed-a553-42ec-bb20-b34998888df1"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "beato"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los beatos (siglos X al XIII) son una obra maestra de la miniatura mozárabe y románica y están ilustrados con gran riqueza"
+                                        }
+                                    ],
+                                    "id": "ida36e6208-8cbd-4e64-a671-e3bf4074ea07"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "beato"
+                }
+            ],
+            "type": "headword",
+            "word": "beato"
+        }
+    ],
+    "word": "beato"
 }
