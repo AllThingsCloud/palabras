@@ -5557,4 +5557,44 @@
         }
     ],
     "word": "paniaguado"
+}{
+    "id": "narrativa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "narrativa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la narrativa decimonónica"
+                                        }
+                                    ],
+                                    "id": "ide175eae8-2e3a-4c51-8e95-daf50bcb3b62"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "narrativa"
+                }
+            ],
+            "type": "headword",
+            "word": "narrativa"
+        }
+    ],
+    "word": "narrativa"
 }
