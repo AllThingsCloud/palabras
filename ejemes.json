@@ -5649,4 +5649,44 @@
         }
     ],
     "word": "catalina"
+}{
+    "id": "esposa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "esposa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "del bolsillo del policía asomaban los plateados aros de las esposas"
+                                        }
+                                    ],
+                                    "id": "ida2227e21-e8e7-4054-8d73-fb115dab71b3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "esposa"
+                }
+            ],
+            "type": "headword",
+            "word": "esposa"
+        }
+    ],
+    "word": "esposa"
 }
