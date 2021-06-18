@@ -2981,9 +2981,9 @@
 "Conjunto de bienes que, por haber sido adquiridos con rentas eclesiásticas, quedan en propiedad de la Iglesia al morir sin haber hecho testamento el clérigo que los poseía"
 "Alboroto o escándalo de grandes proporciones"
 "expolio"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "sonante"
 "Que suena"
@@ -3073,7 +3073,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "Echar a pelear los gallos con los espolones cubiertos, para así probarlos sin que se hagan daño o lastimen"
 "Reñir o pelear [una persona] con otra"
 "topar"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "porque"
 "Introduce una oración en la que se indica la causa o la explicación de algo que se expresa"
@@ -3130,9 +3130,9 @@ parse error: Invalid numeric literal at line 1, column 17
 "Medida que se toma para lograr un fin determinado o para prevenir o remediar un daño o un peligro"
 "Resolución dictada por un juez en la tramitación de un procedimiento, sin expresar los motivos"
 "providencia"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "blancura"
 "Cualidad de blanco"
@@ -3143,21 +3143,21 @@ parse error: Invalid numeric literal at line 1, column 17
 "Piel extendida de la parte superior del tambor y de otros instrumentos parecidos"
 "Tímpano"
 "témpano"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "sonrosado"
 "Que tiene un color de piel rosado, que generalmente denota buena salud o prosperidad"
 "Que ha adquirido un color rosado"
 "sonrosado"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "alcalde"
 "Persona que preside un ayuntamiento y es la máxima autoridad gubernativa en el municipio"
@@ -3168,21 +3168,21 @@ parse error: Invalid numeric literal at line 1, column 17
 "Oficina o lugar donde el alcalde desempeña su cargo"
 "Territorio que está bajo la jurisdicción de un alcalde"
 "alcaldía"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "laico"
 "Que es independiente de toda confesión religiosa"
 "[cristiano] Que no ha recibido ninguna de las órdenes religiosas que otorga la Iglesia y que por consiguiente no pertenece al clero"
 "laico"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "trocaico"
 "Del troqueo o relacionado con este pie o cláusula rítmica de poesía"
 "[verso] Que consta de siete pies, unos troqueos y otros espondeos o yambos, y que se utilizaba en la poesía latina"
 "trocaico"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "troqueo"
 "Pie o cláusula rítmica de la poesía clásica formado por una sílaba larga y otra breve"
@@ -3208,7 +3208,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "Grado de mayor exaltación de un sentimiento, un estado de ánimo o una sensación"
 "Período de máxima intensidad en un fenómeno sísmico u orgánico"
 "paroxismo"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "ovillo"
 "Bola que se forma enrollando un hilo sobre sí mismo"
@@ -3225,15 +3225,15 @@ parse error: Invalid numeric literal at line 1, column 17
 "Persona hipócrita y falsa"
 "Postre que consiste en una bola de helado recubierta de una capa de chocolate también helado"
 "tartufo"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "desventurado"
 "Que causa o conlleva desventura, gran dolor o sufrimiento"
 "[persona] Que sufre desventura (suerte adversa)"
 "desventurado"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "beato"
 "[persona] Que ha sido beatificado por la Iglesia católica por haber llevado una vida cristianamente ejemplar, digna de ser recordada, y que recibe culto público en determinados actos o lugares"
@@ -3256,7 +3256,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "Persona que, sin tener méritos reconocidos, es favorecida y protegida por otra"
 "Sirviente de una casa, que recibía habitación, alimento y salario"
 "paniaguado"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "flanquear"
 "Estar [dos personas, o una o más cosas], a ambos flancos de alguien o algo"
@@ -3270,7 +3270,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "afta"
 "Pequeña úlcera blanquecina que se forma en la membrana mucosa de la boca o en la del tubo digestivo"
 "afta"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "analectas"
 "Colección constituida por fragmentos literarios seleccionados, de uno o varios autores"
@@ -3278,7 +3278,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "antífrasis"
 "Figura retórica de pensamiento que consiste en afirmar lo contrario de lo que se quiere decir"
 "antífrasis"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "atisbar"
 "Observar algo con atención pero con disimulo"
@@ -3303,7 +3303,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "[persona] Que padece esta enfermedad"
 "Del abdomen o el vientre, o relacionado con ellos"
 "celíaco"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "choclón"
 "Lugar donde celebran sus reuniones políticas los partidarios de un candidato durante un período electoral"
@@ -3319,9 +3319,9 @@ parse error: Invalid numeric literal at line 1, column 17
 "Ponerse [una embarcación, un automóvil, etc.] con la parte delantera súbitamente hacia arriba"
 "Enfadarse"
 "encabritar"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "florilegio"
 "Colección constituida por fragmentos literarios seleccionados, de uno o varios autores"
@@ -3329,34 +3329,34 @@ parse error: Invalid numeric literal at line 1, column 17
 "hespérides"
 "En la mitología griega, ninfas que, con ayuda de un dragón, guardaban el jardín de las manzanas de oro que Gea dio a Hera como regalo de bodas, y que se identifican como las Islas Canarias"
 "hespérides"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "exégesis"
 "Explicación o interpretación de algo, generalmente de la obra de un autor o de un texto concreto, especialmente bíblico"
 "exégesis"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "necio"
 "[persona] Que insiste en los propios errores o se aferra a ideas o posturas equivocadas, demostrando con ello poca inteligencia"
 "Que es propio o característico de la persona necia"
 "necio"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "cristina"
 "Gorra que usan los cadetes (alumnos de una academia militar)"
@@ -3364,11 +3364,11 @@ parse error: Invalid numeric literal at line 1, column 17
 "catalina"
 "Excremento humano o del ganado vacuno"
 "catalina"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:61): Cannot iterate over null (null)
+ error (at <stdin>:61): Cannot iterate over null (null)
 "adán"
 "Hombre descuidado y desastrado en su aspecto externo o en su arreglo personal"
 "Hombre de actitud apática y descuidada"
@@ -3397,7 +3397,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "cocaína"
 "Sustancia que se extrae de las hojas de la coca (arbusto eritroxiláceo) y que tras ser sometida a diversos tratamientos químicos se utiliza como droga o como anestésico local en medicina; como droga suele presentarse en forma de polvo blanco que se esnifa y es muy tóxica y adictiva"
 "cocaína"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "gabrieles"
 "Garbanzos"
@@ -3413,14 +3413,10 @@ parse error: Invalid numeric literal at line 1, column 17
 "cronómetro"
 "Reloj de gran precisión que permite medir intervalos de tiempo muy pequeños, hasta fracciones de segundo"
 "cronómetro"
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
- <stdin>:1): Cannot index number with string "results"
+ error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 "grujidor"
 "Utensilio usado por los vidrieros para grujir, que consiste en una barreta de hierro con una muesca en cada extremidad"
 "grujidor"
-"clero"
-"Conjunto de las personas que han recibido las órdenes sagradas de las iglesias cristianas"
-"Clase sacerdotal en la Iglesia católica"
-"clero"

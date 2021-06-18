@@ -5597,4 +5597,56 @@
         }
     ],
     "word": "narrativa"
+}{
+    "id": "cristina",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cristina",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cristina"
+                }
+            ],
+            "type": "headword",
+            "word": "cristina"
+        }
+    ],
+    "word": "cristina"
+}{
+    "id": "catalina",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "catalina",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "catalina"
+                }
+            ],
+            "type": "headword",
+            "word": "catalina"
+        }
+    ],
+    "word": "catalina"
 }
