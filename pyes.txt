@@ -3464,3 +3464,6 @@ jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+"kipá"
+"Sombrero circular, sin ala, que cubre solamente la coronilla, usado por los hombres judíos en ciertas ocasiones rituales o festivas"
+"kipá"
