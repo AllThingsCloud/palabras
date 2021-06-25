@@ -3433,10 +3433,6 @@
 "dosis"
 "Cantidad de algo, especialmente la de un medicamento o una droga que se ingiere en una toma"
 "dosis"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "homínido"
 "[primate] Que pertenece a la familia de los homínidos"
 "Familia de primates catarrinos con capacidad para andar sobre dos pies en posición erguida y dotados de inteligencia y habilidad manual"
@@ -3453,17 +3449,12 @@ parse error: Invalid numeric literal at line 1, column 17
 "Dulce elaborado con una masa a base de harina, manteca o mantequilla, huevos, azúcar, leche, y otros ingredientes, que se cuece al horno y se rellena o se cubre de crema, chocolate, frutas, dulce de leche u otros productos de repostería"
 "Panecillo o trozo de pan abierto por la mitad y con embutido u otro tipo de alimento, frío o caliente, en su interior"
 "torta"
-jq: error (at <stdin>:27): Cannot iterate over null (null)
 "krill"
 "amazona"
 "En la mitología griega, mujer de cierto pueblo de mujeres guerreras, las cuales no admitían ningún hombre entre ellas"
 "Mujer que monta a caballo"
 "Traje de falda, generalmente larga, que usan algunas mujeres para montar a caballo"
 "amazona"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "kipá"
 "Sombrero circular, sin ala, que cubre solamente la coronilla, usado por los hombres judíos en ciertas ocasiones rituales o festivas"
 "kipá"
@@ -3481,14 +3472,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "[persona] Que es de México"
 "Lengua hablada por el pueblo nahua y que en la actualidad todavía se habla en México"
 "mexicano"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "atoar"
 "Remolcar [una embarcación] a otra"
 "Halar de un cabo firme para aproximar la embarcación al punto donde dicho cabo está sujeto"
