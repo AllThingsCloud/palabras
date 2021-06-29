@@ -3483,3 +3483,8 @@ jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+"acíbar"
+"Planta de zona tropical, de tallos cortos, hojas perennes, largas y carnosas que se disponen formando rosetones en el extremo apical de los tallos y flores tubulares, de color rojo o amarillo, agrupadas en densos ramilletes; de las hojas se extrae un jugo (acíbar) resinoso"
+"Jugo de esta planta, resinoso y muy amargo que se emplea en medicina"
+"Amargura, disgusto y sinsabor que se sufre"
+"acíbar"
