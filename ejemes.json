@@ -5689,4 +5689,47 @@
         }
     ],
     "word": "esposa"
+}{
+    "id": "dizque",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "dizque",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "dizque nos van a pagar el viernes que viene"
+                                        },
+                                        {
+                                            "text": "que dizque no lo hizo a propósito"
+                                        }
+                                    ],
+                                    "id": "id1617368a-32d2-4a80-abd8-d5ecdcbba4f5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "dizque"
+                }
+            ],
+            "type": "headword",
+            "word": "dizque"
+        }
+    ],
+    "word": "dizque"
 }

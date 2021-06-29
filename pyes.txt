@@ -3476,3 +3476,10 @@
 "Remolcar [una embarcación] a otra"
 "Halar de un cabo firme para aproximar la embarcación al punto donde dicho cabo está sujeto"
 "atoar"
+"dizque"
+"Supuestamente, según dice, según parece; puede indicar ironía o duda"
+"dizque"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
