@@ -3491,8 +3491,6 @@
 "tergiversar"
 "Dar una interpretación errónea o falsa a algo, a menudo con voluntad de ello"
 "tergiversar"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "do"
 "Primera nota de la escala musical; en la notación alfabética se representa como C"
 "Donde"
@@ -3507,7 +3505,3 @@ parse error: Invalid numeric literal at line 1, column 17
 "Nombre de la duodécima letra del alfabeto griego; se escribe Μ/μ"
 "Forma de la primera persona del singular que se utiliza como término de una preposición"
 "mi"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
