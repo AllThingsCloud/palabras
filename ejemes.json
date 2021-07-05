@@ -5838,4 +5838,144 @@
         }
     ],
     "word": "vagido"
+}{
+    "id": "crotorar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "crotorar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "crotorar"
+                }
+            ],
+            "type": "headword",
+            "word": "crotorar"
+        }
+    ],
+    "word": "crotorar"
+}{
+    "id": "dux",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "dux",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dux"
+                }
+            ],
+            "type": "headword",
+            "word": "dux"
+        }
+    ],
+    "word": "dux"
+}{
+    "id": "repelus",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "repel%C3%BAs",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "a algunas personas les da repelús tocar la piel del durazno"
+                                        }
+                                    ],
+                                    "id": "idb9b47c8e-57d0-4150-8f9c-8703e43f01a9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ahora que todos nos enfundamos los primeros suéters con un poco de repelús lamentamos no haber disfrutado de más horas de playa"
+                                        }
+                                    ],
+                                    "id": "id5b506bc0-636f-4363-b14d-6eb05d314b52"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "repelús"
+                }
+            ],
+            "type": "headword",
+            "word": "repelús"
+        }
+    ],
+    "word": "repelús"
+}{
+    "id": "propalar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "propalar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "propalaron un rumor tendencioso"
+                                        }
+                                    ],
+                                    "id": "idb45017a1-4276-40a5-a893-a0c859fb2dc0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "propalar"
+                }
+            ],
+            "type": "headword",
+            "word": "propalar"
+        }
+    ],
+    "word": "propalar"
 }
