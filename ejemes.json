@@ -5732,4 +5732,110 @@
         }
     ],
     "word": "dizque"
+}{
+    "id": "zaguan",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zagu%C3%A1n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "dentro, en el zagúan, donde conversaban, hacía fresco y olía a flores"
+                                        }
+                                    ],
+                                    "id": "iddf803fcc-0fb7-499b-8b87-d80a14c91aa5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zaguán"
+                }
+            ],
+            "type": "headword",
+            "word": "zaguán"
+        }
+    ],
+    "word": "zaguán"
+}{
+    "id": "allen",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "Allen",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "Allen"
+                }
+            ],
+            "type": "headword",
+            "word": "Allen"
+        }
+    ],
+    "word": "Allen"
+}{
+    "id": "vagido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "vagido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se emocionó al oír los primeros vagidos de su hijo"
+                                        }
+                                    ],
+                                    "id": "id6421cdfa-5fb7-4544-9c58-f7ee04d53cc3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "vagido"
+                }
+            ],
+            "type": "headword",
+            "word": "vagido"
+        }
+    ],
+    "word": "vagido"
 }
