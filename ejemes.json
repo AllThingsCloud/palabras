@@ -5978,4 +5978,254 @@
         }
     ],
     "word": "propalar"
+}{
+    "id": "babosa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "babosa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "por su voracidad, la babosa es muy dañina en las huertas"
+                                        }
+                                    ],
+                                    "id": "ida25fb508-dad6-4e09-8cb5-de88d325cbe3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "babosa"
+                }
+            ],
+            "type": "headword",
+            "word": "babosa"
+        }
+    ],
+    "word": "babosa"
+}{
+    "id": "sonso",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sonso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sonso"
+                }
+            ],
+            "type": "headword",
+            "word": "sonso"
+        }
+    ],
+    "word": "sonso"
+}{
+    "id": "reconcomio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "reconcomio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "reconcomio"
+                }
+            ],
+            "type": "headword",
+            "word": "reconcomio"
+        }
+    ],
+    "word": "reconcomio"
+}{
+    "id": "yesca",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "yesca",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "mechero de yesca"
+                                        },
+                                        {
+                                            "text": "a veces la yesca se hace tratando madera o trapos para que prendan al contacto con una chispa"
+                                        }
+                                    ],
+                                    "id": "id094a1d02-59c5-4c7c-bc8c-229a3f01c1b1"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "yesca"
+                }
+            ],
+            "type": "headword",
+            "word": "yesca"
+        }
+    ],
+    "word": "yesca"
+}{
+    "id": "potosi",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "potos%C3%AD",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ganó un potosí trabajando en el extranjero"
+                                        }
+                                    ],
+                                    "id": "id1d9cb39b-9622-451e-93dd-9ee18d9d6c25"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "potosí"
+                }
+            ],
+            "type": "headword",
+            "word": "potosí"
+        }
+    ],
+    "word": "potosí"
+}{
+    "id": "inasible",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "inasible",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inasible"
+                }
+            ],
+            "type": "headword",
+            "word": "inasible"
+        }
+    ],
+    "word": "inasible"
+}{
+    "id": "quimera",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "quimera",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una quimera de juventud"
+                                        },
+                                        {
+                                            "text": "todo lo manifestado es una fútil quimera que pasará"
+                                        },
+                                        {
+                                            "text": "esas viejas quimeras del ser humano acerca de la ansiada y eterna juventud"
+                                        },
+                                        {
+                                            "text": "descubrirán que los ideales que han perseguido no son otra cosa que quimeras inalcanzables"
+                                        }
+                                    ],
+                                    "id": "id0f0f997f-91c6-46f1-b7e1-a311ab2a9c61"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "quimera"
+                }
+            ],
+            "type": "headword",
+            "word": "quimera"
+        }
+    ],
+    "word": "quimera"
 }
