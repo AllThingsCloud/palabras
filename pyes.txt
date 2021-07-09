@@ -3587,36 +3587,20 @@
 "reconcomio"
 "Sentimiento de la persona que se reconcome"
 "reconcomio"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "ascua"
 "Trozo de carbón, leña u otra materia combustible que arde sin dar llama"
 "ascua"
 "asíndeton"
 "Figura retórica de construcción que consiste en la eliminación de los elementos de enlace entre las palabras de una frase o entre diferentes frases con el fin de agilizar la expresión"
 "asíndeton"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "chiribitil"
 "Habitación pequeña, especialmente si está sucia o descuidada"
 "Cuarto muy pequeño"
 "chiribitil"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "cohonestar"
 "Dar apariencia honesta, de justa o buena, a una acción indecorosa o a otra cosa que no lo es"
 "Armonizar o hacer compatibles dos cualidades, actitudes o acciones"
 "cohonestar"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "ecúmene"
 "Parte de la Tierra que está habitada por el hombre"
 "Población total de la tierra"
@@ -3624,8 +3608,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "grumete"
 "Muchacho que en un barco ayuda a la tripulación en sus tareas para aprender el oficio de marinero"
 "grumete"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "jaez"
 "Adorno que se pone a las caballerías"
 "Clase o condición de una persona o de una cosa"
@@ -3633,20 +3615,14 @@ parse error: Invalid numeric literal at line 1, column 17
 "maco"
 "Cárcel"
 "maco"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "panda"
 "Pandilla (amigos)"
 "Grupo de personas que llevan a cabo acciones que se consideran negativas o incluso ilícitas"
 "Mamífero del orden de los carnívoros, de aspecto muy parecido a un oso, unos 120 cm de longitud, pelaje espeso y suave de color blanco, con las extremidades, las orejas, la zona alrededor de los ojos y la cola negras; se alimenta de brotes de bambú y otros vegetales, y habita en los bosques de bambú del Tibet"
 "panda"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "parónimo"
 "[palabra] Que se parece a otra en su pronunciación o en su forma"
 "parónimo"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "soquete"
 "Calcetín o media corta que solo cubre el pie hasta la altura del tobillo"
 "[persona] Que es necio o tonto"
@@ -3672,8 +3648,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "Prenda de vestir de punto que cubre el pie y se ciñe con un elástico a la pierna, como mínimo por encima del tobillo y como máximo por debajo de la rodilla; se utiliza como prenda de abrigo y como protección de rozaduras del calzado cerrado"
 "Puñetazo que da o recibe una persona"
 "zoquete"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "potosí"
 "Riqueza extraordinaria o muy grande"
 "potosí"
