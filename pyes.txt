@@ -3799,3 +3799,6 @@
 "Estamento o clase social en que se dividía la sociedad"
 "Resumen en el que se detallan las partidas y conceptos de una actividad económica o comercial"
 "estado"
+"amigovio"
+"Persona con la que se mantiene un vínculo de intimidad que suele incluir relaciones sexuales, pero a la que no se considera una pareja formal"
+"amigovio"
