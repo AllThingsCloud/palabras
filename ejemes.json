@@ -6306,4 +6306,58 @@
         }
     ],
     "word": "huso"
+}{
+    "id": "capicua",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "capic%C3%BAa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cantidad capicúa"
+                                        },
+                                        {
+                                            "text": "el 6996 es un número capicúa"
+                                        },
+                                        {
+                                            "text": "la palabra 'anilina' es capicúa"
+                                        }
+                                    ],
+                                    "id": "ida963de87-e344-407f-a97b-9b5a4b4e1e21"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "capicúa"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "capicúa"
+                }
+            ],
+            "type": "headword",
+            "word": "capicúa"
+        }
+    ],
+    "word": "capicúa"
 }
