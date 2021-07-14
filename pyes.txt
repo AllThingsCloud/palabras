@@ -3862,3 +3862,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "Conjunto de los principios y las ideas básicas de una actividad o ciencia determinada"
 "Fortaleza o ánimo para soportar situaciones o acontecimientos desagradables con serenidad o tranquilidad"
 "filosofía"
+"emolumento"
+"Cantidad de dinero que cobra una persona por el ejercicio de un cargo o un profesional por un servicio o un trabajo"
+"Remuneración adicional que corresponde a un cargo o empleo"
+"emolumento"
