@@ -6386,4 +6386,30 @@
         }
     ],
     "word": "homúnculo"
+}{
+    "id": "homunculo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hom%C3%BAnculo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "homúnculo"
+                }
+            ],
+            "type": "headword",
+            "word": "homúnculo"
+        }
+    ],
+    "word": "homúnculo"
 }
