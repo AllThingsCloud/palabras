@@ -3909,3 +3909,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "Flor de esta planta, pequeña y de color azul celeste"
 "Pulsera, generalmente de oro o de plata, con una placa en la que se graba el nombre de una persona, una fecha o una frase"
 "nomeolvides"
+jq: error (at <stdin>:61): Cannot iterate over null (null)
+"chile"
+"Variedad de pimiento pequeño y muy picante que se usa como condimento"
+"Dicho con el que no se dice la verdad"
