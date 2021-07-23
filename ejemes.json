@@ -6438,4 +6438,104 @@
         }
     ],
     "word": "zascandil"
+}{
+    "id": "lechuguino",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "lechuguino",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "lechuguino"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aspecto lechuguino"
+                                        }
+                                    ],
+                                    "id": "id9fce10c8-7a51-4c84-88c6-bf37f73a7535"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "lechuguino"
+                }
+            ],
+            "type": "headword",
+            "word": "lechuguino"
+        }
+    ],
+    "word": "lechuguino"
+}{
+    "id": "baladro",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "baladro",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "baladro"
+                }
+            ],
+            "type": "headword",
+            "word": "baladro"
+        }
+    ],
+    "word": "baladro"
+}{
+    "id": "barbitaheno",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "barbitahe%C3%B1o",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "barbitaheño"
+                }
+            ],
+            "type": "headword",
+            "word": "barbitaheño"
+        }
+    ],
+    "word": "barbitaheño"
 }
