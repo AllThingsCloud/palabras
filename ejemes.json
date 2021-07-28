@@ -6538,4 +6538,193 @@
         }
     ],
     "word": "barbitaheño"
+}{
+    "id": "apoteosis",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "apoteosis",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los años ochenta fueron la apoteosis del turismo en el sur del país"
+                                        },
+                                        {
+                                            "text": "algunas fiestas acaban con una apoteosis de fuegos artificiales"
+                                        }
+                                    ],
+                                    "id": "idff883707-0edf-4c08-bcb3-e11db165cb7b"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las apoteosis gloriosas de los santos"
+                                        }
+                                    ],
+                                    "id": "id4dba14ca-1839-46c4-935a-95cd3b4ff2a8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "apoteosis"
+                }
+            ],
+            "type": "headword",
+            "word": "apoteosis"
+        }
+    ],
+    "word": "apoteosis"
+}{
+    "id": "enhiesto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "enhiesto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el rey don Jaime, entronizado y con corona, le señala con el dedo índice enhiesto"
+                                        }
+                                    ],
+                                    "id": "idd2d1b513-c06e-4454-8954-ba568f2d75dd"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "enhiesto"
+                }
+            ],
+            "type": "headword",
+            "word": "enhiesto"
+        }
+    ],
+    "word": "enhiesto"
+}{
+    "id": "infame",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "infame",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el asesino infame"
+                                        }
+                                    ],
+                                    "id": "id611a6045-9029-43b4-9a3a-f0ec501de648"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "acción infame"
+                                        }
+                                    ],
+                                    "id": "id39e953fa-ac9b-48ad-8074-30f8dda63a37"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la edición más difundida de Rimbaud de esta editorial, con 22 ediciones, es infame"
+                                        }
+                                    ],
+                                    "id": "id5357caee-3fa2-4688-81f8-317adcaef317"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "infame"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el asesino infame"
+                                        }
+                                    ],
+                                    "id": "id611a6045-9029-43b4-9a3a-f0ec501de648"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la edición más difundida de Rimbaud de esta editorial, con 22 ediciones, es infame"
+                                        }
+                                    ],
+                                    "id": "id5357caee-3fa2-4688-81f8-317adcaef317"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "infame"
+                }
+            ],
+            "type": "headword",
+            "word": "infame"
+        }
+    ],
+    "word": "infame"
 }
