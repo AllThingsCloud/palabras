@@ -4171,8 +4171,6 @@
 "Que es propio de esta persona"
 "[persona] Que es tonto o tiene escaso juicio"
 "mentecato"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "templanza"
 "Cualidad humana que induce a usar o hacer las cosas con moderación"
 "Benignidad o moderación del clima"
@@ -4180,13 +4178,9 @@ parse error: Invalid numeric literal at line 1, column 17
 "sinagoga"
 "Edificio destinado al culto del judaísmo y lugar de estudio e interpretación de la Escritura"
 "sinagoga"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "perineo"
 "Periné"
 "perineo"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "inhumano"
 "Que no se considera propio del ser humano por ser demasiado duro o difícil de soportar"
 "[persona] Que no tiene o tiene muy poca capacidad de sentir afecto, comprensión y solidaridad hacia las demás personas, ni siquiera cuando sufren"
@@ -4198,5 +4192,3 @@ parse error: Invalid numeric literal at line 1, column 17
 "[persona] Que es muy malvado y carece de honra, crédito y estimación"
 "[persona o cosa] Que es muy malo en su especie"
 "infame"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
