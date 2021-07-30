@@ -6727,4 +6727,53 @@
         }
     ],
     "word": "infame"
+}{
+    "id": "banal",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "banal",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el clima suele ser un gran tema objeto de comentarios banales"
+                                        },
+                                        {
+                                            "text": "recordaba los detalles de una tarde banal de 1938 en la que estuvimos bebiendo juntos en un café"
+                                        },
+                                        {
+                                            "text": "este y otros motivos le han conducido a una existencia cotidiana absolutamente banal y opresiva por su monotonía"
+                                        },
+                                        {
+                                            "text": "corren tiempos banales y chatos en los que no hay lugar para epopeyas"
+                                        }
+                                    ],
+                                    "id": "id8390a88b-89fc-4e7e-9c1e-a6b2bf54101b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "banal"
+                }
+            ],
+            "type": "headword",
+            "word": "banal"
+        }
+    ],
+    "word": "banal"
 }
