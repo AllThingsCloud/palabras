@@ -6776,4 +6776,104 @@
         }
     ],
     "word": "banal"
+}{
+    "id": "joder",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "joder",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "que no vengan a joder con tonterías"
+                                        },
+                                        {
+                                            "text": "esa situación debe estar jodiéndolo mucho"
+                                        }
+                                    ],
+                                    "id": "idb911618d-8995-44ae-ac19-e5141ca2153c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no sé por qué siempre lo jodía todo"
+                                        },
+                                        {
+                                            "text": "se ha jodido la impresora"
+                                        }
+                                    ],
+                                    "id": "ide4684af2-448d-46df-89bb-b7ff59779b26"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "lo hace todo para que se jodan"
+                                        }
+                                    ],
+                                    "id": "id874e6c78-04e0-4fd0-8ebc-37eb57ba3a8e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "si no les gusta, que se jodan"
+                                        }
+                                    ],
+                                    "id": "idb7183854-0227-4bb0-8f06-ec3e40c0f75d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "joder"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡joder!, ¡cuánta gente!"
+                                        }
+                                    ],
+                                    "id": "id5e3bd6be-f133-4a20-8b16-f2834a894661"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "interjection",
+                        "text": "Interjection"
+                    },
+                    "text": "joder"
+                }
+            ],
+            "type": "headword",
+            "word": "joder"
+        }
+    ],
+    "word": "joder"
 }
