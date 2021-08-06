@@ -6876,4 +6876,122 @@
         }
     ],
     "word": "joder"
+}{
+    "id": "holgazan",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "holgaz%C3%A1n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "otros, algo más holgazanes, prefirieron recorrer las calles subidos en calesas tiradas por un asno"
+                                        }
+                                    ],
+                                    "id": "id9dea024a-a3f4-4d39-ac55-578d55e48ce9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "holgazán"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "otros, algo más holgazanes, prefirieron recorrer las calles subidos en calesas tiradas por un asno"
+                                        }
+                                    ],
+                                    "id": "id9dea024a-a3f4-4d39-ac55-578d55e48ce9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "holgazán"
+                }
+            ],
+            "type": "headword",
+            "word": "holgazán"
+        }
+    ],
+    "word": "holgazán"
+}{
+    "id": "fanfarria",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fanfarria",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la música de la fanfarria anunciaba la llegada del presidente"
+                                        }
+                                    ],
+                                    "id": "ide02f10df-b58d-4fa9-a157-3c7eb85167c7"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la noche de fin de año se oyeron fanfarrias hasta el amanecer"
+                                        }
+                                    ],
+                                    "id": "idbb28fcb4-cb64-4c53-aab6-d5e3c3763315"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hazme una demostración y déjate de fanfarrias"
+                                        }
+                                    ],
+                                    "id": "idb4c69387-443a-45fb-894f-f36efd1ea3ac"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fanfarria"
+                }
+            ],
+            "type": "headword",
+            "word": "fanfarria"
+        }
+    ],
+    "word": "fanfarria"
 }
