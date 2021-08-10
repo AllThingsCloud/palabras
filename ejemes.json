@@ -6994,4 +6994,227 @@
         }
     ],
     "word": "fanfarria"
+}{
+    "id": "garabato",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "garabato",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "mientras habla por teléfono hace garabatos en el papel"
+                                        }
+                                    ],
+                                    "id": "id9b1fd375-a4a0-4ba6-be76-f25147a22b65"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la nota solo había algunos garabatos que no entendí"
+                                        }
+                                    ],
+                                    "id": "id0be8529f-280e-4e9c-883a-8e3dbaf085c0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "garabato de carnicero"
+                                        }
+                                    ],
+                                    "id": "ida6475ddd-7982-4f38-947b-f32f25db03bd"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "sembraban la cebada poniendo en las puntas de los garabatos un cuerno de cabra"
+                                        }
+                                    ],
+                                    "id": "id34d1a53a-7120-4bc4-98ea-ac60d86296d6"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "soltó varios garabatos y se marchó del lugar"
+                                        }
+                                    ],
+                                    "id": "idb2dfd6e2-42f6-48c3-be69-fd1da6b5d710"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tener garabato"
+                                        }
+                                    ],
+                                    "id": "idfe01ab09-809e-4ed4-b317-8ebca2c2ab0c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "garabato"
+                }
+            ],
+            "type": "headword",
+            "word": "garabato"
+        }
+    ],
+    "word": "garabato"
+}{
+    "id": "mandoble",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mandoble",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "don Quijote le cortó la cabeza al gigante Caraculiambro de un mandoble"
+                                        }
+                                    ],
+                                    "id": "idfdcc7903-383d-4ae2-b0b9-c81b905de59f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mandoble"
+                }
+            ],
+            "type": "headword",
+            "word": "mandoble"
+        }
+    ],
+    "word": "mandoble"
+}{
+    "id": "ulular",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ulular",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el ulular de una jauría de perros"
+                                        },
+                                        {
+                                            "text": "fue uno de tantos artistas que ululaban ateridos de hambre por las calles del París de entreguerras"
+                                        }
+                                    ],
+                                    "id": "id95b21769-0e26-4baf-ad48-e6d317f6d634"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el viento entraba ululando en la casona por las grietas de las paredes"
+                                        }
+                                    ],
+                                    "id": "id5f8bc139-1e2c-4206-9028-81e34fed53d8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "ulular"
+                }
+            ],
+            "type": "headword",
+            "word": "ulular"
+        }
+    ],
+    "word": "ulular"
+}{
+    "id": "aterido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "aterido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "dedos ateridos"
+                                        },
+                                        {
+                                            "text": "pies ateridos"
+                                        },
+                                        {
+                                            "text": "rostros ateridos"
+                                        },
+                                        {
+                                            "text": "manos ateridas"
+                                        },
+                                        {
+                                            "text": "iba caminando por la calle, buscando un taxi, aterido de frío"
+                                        }
+                                    ],
+                                    "id": "idb781ffcd-5b7c-43b8-aebf-a54ce7e5a617"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "aterido"
+                }
+            ],
+            "type": "headword",
+            "word": "aterido"
+        }
+    ],
+    "word": "aterido"
 }
