@@ -4371,8 +4371,6 @@
 "Hecho o insulto que ofende a una persona por atentar contra su dignidad, honor, credibilidad, etc., especialmente cuando es injusto"
 "Daño material que algo o alguien produce en una cosa o a una persona"
 "injuria"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "monosabio"
 "Mozo que en una corrida de toros cuida del caballo del picador, está al servicio de este, limpia el ruedo, etc."
 "monosabio"
@@ -4381,8 +4379,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "Simboliza un número natural desconocido que puede tomar cualquier valor"
 "Nombre de la letra ñ"
 "ene"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "naos"
 "Sala de los templos egipcio, griego o romano destinada a los dioses"
 "naos"
@@ -4397,5 +4393,12 @@ parse error: Invalid numeric literal at line 1, column 17
 "aquilatar"
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
+"luquete"
+"Casquete esférico que cierra una bóveda vaída"
+"luquete"
+"mesar"
+"Arrancar o estrujar el cabello o la barba con las manos"
+"mesar"
+"apóstata"
+"Persona que abandona sus ideales o su religión públicamente para seguir otros diferentes"
+"apóstata"

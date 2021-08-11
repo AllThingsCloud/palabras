@@ -7567,4 +7567,70 @@
         }
     ],
     "word": "aquilatar"
+}{
+    "id": "mesar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mesar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se mesaba el cabello de la rabia que tenía"
+                                        }
+                                    ],
+                                    "id": "idc79bf77a-ee44-465d-9c83-ad94bd139d90"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "mesar"
+                }
+            ],
+            "type": "headword",
+            "word": "mesar"
+        }
+    ],
+    "word": "mesar"
+}{
+    "id": "apostata",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ap%C3%B3stata",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "apóstata"
+                }
+            ],
+            "type": "headword",
+            "word": "apóstata"
+        }
+    ],
+    "word": "apóstata"
 }
