@@ -7217,4 +7217,354 @@
         }
     ],
     "word": "aterido"
+}{
+    "id": "marasmo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "marasmo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "habían regado el piso como solían con agua fría, para que la pasajera frescura de los ladrillos interceptara en parte el abrasador marasmo que venía de afuera"
+                                        }
+                                    ],
+                                    "id": "id38f6d540-a8e0-44d3-bde4-238d9c4cd8b6"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "marasmo"
+                }
+            ],
+            "type": "headword",
+            "word": "marasmo"
+        }
+    ],
+    "word": "marasmo"
+}{
+    "id": "nefando",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "nefando",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "crímenes nefandos"
+                                        }
+                                    ],
+                                    "id": "id56e25e4e-43e8-4cca-a022-5783044f9bc8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "nefando"
+                }
+            ],
+            "type": "headword",
+            "word": "nefando"
+        }
+    ],
+    "word": "nefando"
+}{
+    "id": "errata",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "errata",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "erratas tipográficas y formales"
+                                        },
+                                        {
+                                            "text": "los correctores enmiendan las erratas de las publicaciones"
+                                        },
+                                        {
+                                            "text": "el copista era la única persona del monasterio a la que se le permitía tomar decisiones sobre la puntuación o sobre una posible variante o errata"
+                                        }
+                                    ],
+                                    "id": "id37e2c8e7-9cb2-42af-b72e-764e71d45c53"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "errata"
+                }
+            ],
+            "type": "headword",
+            "word": "errata"
+        }
+    ],
+    "word": "errata"
+}{
+    "id": "copista",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "copista",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la copia de un libro cristiano le llevaba a un monje prácticamente un año, mientras que un copista musulmán podía hacerlo en un par de semanas"
+                                        }
+                                    ],
+                                    "id": "id08f6d1ca-5aa1-4231-84e9-34006579bb30"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "copista"
+                }
+            ],
+            "type": "headword",
+            "word": "copista"
+        }
+    ],
+    "word": "copista"
+}{
+    "id": "triquinuela",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "triqui%C3%B1uela",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en vez de conseguir las cosas con su trabajo, prefiere valerse de cualquier triquiñuela"
+                                        }
+                                    ],
+                                    "id": "id1910e591-3ec1-4983-8849-392663aee70d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "triquiñuela"
+                }
+            ],
+            "type": "headword",
+            "word": "triquiñuela"
+        }
+    ],
+    "word": "triquiñuela"
+}{
+    "id": "denostar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "denostar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "lo intentará denostar desde el inicio de la reunión"
+                                        }
+                                    ],
+                                    "id": "id50bc9072-0871-4057-a30e-43c4e25f3a9c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "denostar"
+                }
+            ],
+            "type": "headword",
+            "word": "denostar"
+        }
+    ],
+    "word": "denostar"
+}{
+    "id": "ene",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ene",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ene veces"
+                                        }
+                                    ],
+                                    "id": "id4d1666ca-d2c7-4e00-bb9f-c203589d6427"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ene"
+                }
+            ],
+            "type": "headword",
+            "word": "ene"
+        },
+        {
+            "id": "e%C3%B1e",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "eñe"
+                }
+            ],
+            "type": "headword",
+            "word": "eñe"
+        }
+    ],
+    "word": "ene"
+}{
+    "id": "aquilatar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "aquilatar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquilatar una gema"
+                                        }
+                                    ],
+                                    "id": "idb3e238eb-8118-4c69-aaf6-23b611333c82"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquilatar los méritos de una persona"
+                                        }
+                                    ],
+                                    "id": "ide580b641-bc4c-4d75-a188-a76388927b07"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "aquilatar"
+                }
+            ],
+            "type": "headword",
+            "word": "aquilatar"
+        }
+    ],
+    "word": "aquilatar"
 }
