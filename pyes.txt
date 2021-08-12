@@ -4406,3 +4406,70 @@ parse error: Invalid numeric literal at line 1, column 17
 "[persona] Que tiene poca educación o escasa formación cultural y no sabe comportarse con elegancia y buenos modales en público"
 "[persona] Que tiene poca educación o escasa formación cultural y no sabe comportarse con elegancia y buenos modales en público"
 "palurdo"
+"fuelle"
+"Instrumento que atrapa aire del exterior y lo lanza con fuerza en una dirección; consiste en una especie de caja con paredes plegables o flexibles que cuando se llena de aire se abre y para expulsarlo se cierra"
+"Bolsa de cuero de la gaita gallega donde se llena y vacía el aire"
+"Parte plegable en los lados de ciertos objetos (bolsos, carteras, etc.) para aumentar su capacidad o amplitud"
+"Arruga o pliegue en la ropa"
+"Pasillo flexible que une los vagones de un tren"
+"En los carruajes, cubierta o capota impermeable y plegable que, mediante unas varillas de hierro unidas por la parte inferior, se pliega o se extiende para resguardarse del sol o de la lluvia"
+"Accesorio fotográfico que se utiliza para obtener imágenes de objetos situados a escasa distancia del objetivo"
+"Capacidad para respirar o resistencia física que tiene una persona"
+"Nombre que se da popularmente al bandoneón"
+"fuelle"
+"bandoneón"
+"Instrumento musical de viento parecido al acordeón pero sin teclado y con los armazones laterales cuadrados o rectangulares"
+"bandoneón"
+"prolegómeno"
+"Introducción que precede a un tratado en el que se expresan los fundamentos de la materia que se trata"
+"Conjunto de acciones o de acontecimientos que suceden justo antes de que ocurra algo"
+"prolegómeno"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"mansalva"
+"Palabra que se utiliza en la locución adverbial a mansalva que significa"
+"mansalva"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"ringlera"
+"Fila de cosas puestas unas tras otras"
+"ringlera"
+"tahona"
+"Molino de harina movido mediante animales de tiro"
+"Establecimiento en el que se elabora y se vende pan y otros productos hechos con harina"
+"tahona"
+"paparrucha"
+"Tontería o cosa desatinada o sin sentido que se dice o se hace"
+"paparrucha"
+"forofo"
+"Persona a la que le gusta mucho una actividad determinada o la practica con pasión"
+"Persona que anima con pasión y entusiasmo a su equipo o deportista favorito"
+"forofo"

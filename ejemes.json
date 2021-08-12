@@ -7667,4 +7667,269 @@
         }
     ],
     "word": "palurdo"
+}{
+    "id": "bustrofedon",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "bustr%C3%B3fedon",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bustrófedon"
+                }
+            ],
+            "type": "headword",
+            "word": "bustrófedon"
+        }
+    ],
+    "word": "bustrófedon"
+}{
+    "id": "fuelle",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fuelle",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el fuelle de un acordeón"
+                                        },
+                                        {
+                                            "text": "aviva el fuego con el fuelle antes de que se apague"
+                                        },
+                                        {
+                                            "text": "Bizancio impulsó el cultivo del órgano hidráulico, llamado así por producir el aire mediante fuelles movidos por agua"
+                                        }
+                                    ],
+                                    "id": "id410960f9-8452-47aa-bed4-f6fde6fcd587"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "pasaba los fuelles, como túneles temblorosos, y a cada nuevo vagón, iba mirando los departamentos"
+                                        }
+                                    ],
+                                    "id": "id7d820044-c7b2-4881-903e-1bb863309dc2"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "quedarse sin fuelle"
+                                        },
+                                        {
+                                            "text": "perder el fuelle"
+                                        },
+                                        {
+                                            "text": "tener poco fuelle"
+                                        }
+                                    ],
+                                    "id": "id74926688-6b2d-4447-bbca-3d4f8b2034ff"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fuelle"
+                }
+            ],
+            "type": "headword",
+            "word": "fuelle"
+        }
+    ],
+    "word": "fuelle"
+}{
+    "id": "prolegomeno",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "proleg%C3%B3meno",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los prolegómenos de Kant"
+                                        }
+                                    ],
+                                    "id": "id965b61aa-d5ce-431b-afd7-661bc99b5287"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los prolegómenos de la guerra"
+                                        },
+                                        {
+                                            "text": "vamos a pasar ya la conexión al estadio para conocer, para vivir los prolegómenos de esta final del campeonato"
+                                        },
+                                        {
+                                            "text": "el modelo resultará aplicable a aquellas situaciones que, tras largos prolegómenos y tiranteces, acaban desembocando en un conflicto"
+                                        }
+                                    ],
+                                    "id": "id1f260453-6d45-4e22-bb92-b624345a8b7f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "prolegómeno"
+                }
+            ],
+            "type": "headword",
+            "word": "prolegómeno"
+        }
+    ],
+    "word": "prolegómeno"
+}{
+    "id": "ringlera",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ringlera",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la huerta tenemos una ringlera de frutales"
+                                        }
+                                    ],
+                                    "id": "iddbcc744e-8877-4432-baa0-bb2abc0ff540"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ringlera"
+                }
+            ],
+            "type": "headword",
+            "word": "ringlera"
+        }
+    ],
+    "word": "ringlera"
+}{
+    "id": "paparrucha",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "paparrucha",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paparrucha"
+                }
+            ],
+            "type": "headword",
+            "word": "paparrucha"
+        }
+    ],
+    "word": "paparrucha"
+}{
+    "id": "forofo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "forofo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "juega al tenis cada día porque es un forofo de este deporte"
+                                        },
+                                        {
+                                            "text": "es una forofa de las nuevas tecnologías, se compra todo lo que puede"
+                                        }
+                                    ],
+                                    "id": "id092f5ed9-27a2-4e1b-b407-cf9e75b7b5e3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los forofos no dejaron de animar a su equipo durante todo el partido"
+                                        }
+                                    ],
+                                    "id": "idc61cbfeb-093b-412e-966c-cfa80d9c756c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "forofo"
+                }
+            ],
+            "type": "headword",
+            "word": "forofo"
+        }
+    ],
+    "word": "forofo"
 }
