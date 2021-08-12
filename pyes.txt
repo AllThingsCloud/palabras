@@ -4402,3 +4402,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "apóstata"
 "Persona que abandona sus ideales o su religión públicamente para seguir otros diferentes"
 "apóstata"
+"palurdo"
+"[persona] Que tiene poca educación o escasa formación cultural y no sabe comportarse con elegancia y buenos modales en público"
+"[persona] Que tiene poca educación o escasa formación cultural y no sabe comportarse con elegancia y buenos modales en público"
+"palurdo"

@@ -7633,4 +7633,38 @@
         }
     ],
     "word": "apóstata"
+}{
+    "id": "palurdo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "palurdo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "palurdo"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "palurdo"
+                }
+            ],
+            "type": "headword",
+            "word": "palurdo"
+        }
+    ],
+    "word": "palurdo"
 }
