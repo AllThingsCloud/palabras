@@ -4478,3 +4478,23 @@ parse error: Invalid numeric literal at line 1, column 17
 "computadora"
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+"política"
+"Ciencia que trata del gobierno y la organización de las sociedades humanas, especialmente de los estados"
+"Actividad de los que gobiernan o aspiran a gobernar los asuntos que afectan a la sociedad o a un país"
+"Conjunto de los procedimientos y medidas que se adoptan para dirigir los asuntos que afectan a la sociedad o tienen relación con ella"
+"Orientación o manera de actuar de una persona en un asunto determinado"
+"Cortesía y buen modo de portarse"
+"política"
+"ordenador"
+"Que ordena o sirve para ordenar"
+"Máquina electrónica capaz de almacenar información y tratarla automáticamente mediante operaciones matemáticas y lógicas controladas por programas informáticos"
+"Que ordeña"
+"Que ordeña"
+"Aparato que funciona por succión y se utiliza para succionar la leche de las ubres de las vacas, cabras y ovejas"
+"ordenador"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17

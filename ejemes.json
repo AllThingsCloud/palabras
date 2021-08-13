@@ -7958,4 +7958,125 @@
         }
     ],
     "word": "computadora"
+}{
+    "id": "politica",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pol%C3%ADtica",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "estudió política en la universidad"
+                                        }
+                                    ],
+                                    "id": "id4eeac306-b2f3-4874-8035-956de3ccca2e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se dedica a la política desde los 19 años"
+                                        },
+                                        {
+                                            "text": "están investigando la corrupción en la política"
+                                        }
+                                    ],
+                                    "id": "idb12adbd9-4c02-44b3-8cd4-1d8d6d41e6a2"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los dos países han llegado a un acuerdo en política económica"
+                                        },
+                                        {
+                                            "text": "no es probable que las iniciativas del plan de competitividad sufran grandes variaciones o ajustes que impidan poder mantener la política prevista"
+                                        }
+                                    ],
+                                    "id": "id0870140b-bb4d-4749-ae6f-0c2f83eba7fd"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "quieren llevar a cabo una política de restricción presupuestaria"
+                                        }
+                                    ],
+                                    "id": "id86c34646-09ca-4589-a653-1387aca2e0db"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "política"
+                }
+            ],
+            "type": "headword",
+            "word": "política"
+        }
+    ],
+    "word": "política"
+}{
+    "id": "forofo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "forofo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "juega al tenis cada día porque es un forofo de este deporte"
+                                        },
+                                        {
+                                            "text": "es una forofa de las nuevas tecnologías, se compra todo lo que puede"
+                                        }
+                                    ],
+                                    "id": "id092f5ed9-27a2-4e1b-b407-cf9e75b7b5e3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los forofos no dejaron de animar a su equipo durante todo el partido"
+                                        }
+                                    ],
+                                    "id": "idc61cbfeb-093b-412e-966c-cfa80d9c756c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "forofo"
+                }
+            ],
+            "type": "headword",
+            "word": "forofo"
+        }
+    ],
+    "word": "forofo"
 }
