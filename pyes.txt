@@ -4473,3 +4473,8 @@ parse error: Invalid numeric literal at line 1, column 17
 "Persona a la que le gusta mucho una actividad determinada o la practica con pasión"
 "Persona que anima con pasión y entusiasmo a su equipo o deportista favorito"
 "forofo"
+"computadora"
+"Máquina electrónica capaz de almacenar información y tratarla automáticamente mediante operaciones matemáticas y lógicas controladas por programas informáticos"
+"computadora"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17

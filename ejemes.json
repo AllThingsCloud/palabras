@@ -7932,4 +7932,30 @@
         }
     ],
     "word": "forofo"
+}{
+    "id": "computadora",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "computadora",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "computadora"
+                }
+            ],
+            "type": "headword",
+            "word": "computadora"
+        }
+    ],
+    "word": "computadora"
 }
