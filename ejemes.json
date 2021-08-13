@@ -8079,4 +8079,83 @@
         }
     ],
     "word": "forofo"
+}{
+    "id": "imaginario",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "imaginario",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "viaje imaginario"
+                                        },
+                                        {
+                                            "text": "de pequeña solía pasarse muchas tardes jugando a las muñecas con una amiga imaginaria"
+                                        },
+                                        {
+                                            "text": "en su narración combina sucesos reales e imaginarios"
+                                        }
+                                    ],
+                                    "id": "id9abdbe8d-5751-4a8e-9a89-c3f994fbff70"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "imaginario"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el rico imaginario del artista"
+                                        },
+                                        {
+                                            "text": "el imaginario de la sociedad medieval europea"
+                                        }
+                                    ],
+                                    "id": "idde3d6bfe-b2bd-4516-a382-1a46f0adb5e3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el recuerdo de un acontecimiento que ya forma parte del imaginario colectivo"
+                                        }
+                                    ],
+                                    "id": "id605c680e-6f20-4a2b-9fc8-2a7b2ae22788"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "imaginario"
+                }
+            ],
+            "type": "headword",
+            "word": "imaginario"
+        }
+    ],
+    "word": "imaginario"
 }
