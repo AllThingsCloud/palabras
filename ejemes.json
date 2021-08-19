@@ -8158,4 +8158,457 @@
         }
     ],
     "word": "imaginario"
+}{
+    "id": "malinchista",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "malinchista",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Paco es un malinchista, prefiere todo lo gringo a lo mexicano"
+                                        }
+                                    ],
+                                    "id": "id326373ea-5a20-45ac-ade0-385bacd6620f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "malinchista"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Paco es un malinchista, prefiere todo lo gringo a lo mexicano"
+                                        }
+                                    ],
+                                    "id": "id326373ea-5a20-45ac-ade0-385bacd6620f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "malinchista"
+                }
+            ],
+            "type": "headword",
+            "word": "malinchista"
+        }
+    ],
+    "word": "malinchista"
+}{
+    "id": "virulento",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "virulento",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las epidemias fueron muy virulentas en el siglo XVI"
+                                        },
+                                        {
+                                            "text": "supo sobrellevar un virulento cáncer"
+                                        }
+                                    ],
+                                    "id": "id01095cb6-a12b-4a27-9b0e-2f3c7787fb42"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una afección virulenta"
+                                        }
+                                    ],
+                                    "id": "idf5c2713c-92e9-41c2-a355-4beef4f6d9c2"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una sátira virulenta"
+                                        },
+                                        {
+                                            "text": "una virulenta enemistad"
+                                        }
+                                    ],
+                                    "id": "idccc3a2b3-1473-4e47-beb7-bb3dd56dafd5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "virulento"
+                }
+            ],
+            "type": "headword",
+            "word": "virulento"
+        }
+    ],
+    "word": "virulento"
+}{
+    "id": "cotarro",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cotarro",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡vaya cotarro se ha montado aquí!"
+                                        },
+                                        {
+                                            "text": "no sé cómo se ha podido meter en ese cotarro"
+                                        }
+                                    ],
+                                    "id": "ida398b0b0-00ca-47f0-bca3-0d132b81fba2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cotarro"
+                }
+            ],
+            "type": "headword",
+            "word": "cotarro"
+        }
+    ],
+    "word": "cotarro"
+}{
+    "id": "mofletudo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mofletudo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "angelitos mofletudos"
+                                        }
+                                    ],
+                                    "id": "ide52f3dec-850d-4077-aae5-84cdb83a7ae4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "mofletudo"
+                }
+            ],
+            "type": "headword",
+            "word": "mofletudo"
+        }
+    ],
+    "word": "mofletudo"
+}{
+    "id": "potra",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "potra",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡qué potra tiene, le ha vuelto a tocar la lotería!"
+                                        }
+                                    ],
+                                    "id": "id7c27b550-302f-41c9-ab81-82dc4a32bcf3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "potra"
+                }
+            ],
+            "type": "headword",
+            "word": "potra"
+        }
+    ],
+    "word": "potra"
+}{
+    "id": "zascandil",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zascandil",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zascandil"
+                }
+            ],
+            "type": "headword",
+            "word": "zascandil"
+        }
+    ],
+    "word": "zascandil"
+}{
+    "id": "zangolotino",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zangolotino",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ya en el avión, sufrieron el desinterés sin malicia de los zangolotinos que, aferrados a sus maquinitas de marcianos portátiles, no prestaban oídos al relato"
+                                        }
+                                    ],
+                                    "id": "idb05afc82-3461-4f49-8b0c-6ac7487d30a3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "zangolotino"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ya en el avión, sufrieron el desinterés sin malicia de los zangolotinos que, aferrados a sus maquinitas de marcianos portátiles, no prestaban oídos al relato"
+                                        }
+                                    ],
+                                    "id": "idb05afc82-3461-4f49-8b0c-6ac7487d30a3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zangolotino"
+                }
+            ],
+            "type": "headword",
+            "word": "zangolotino"
+        }
+    ],
+    "word": "zangolotino"
+}{
+    "id": "vagaroso",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "vagaroso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "vagaroso"
+                }
+            ],
+            "type": "headword",
+            "word": "vagaroso"
+        }
+    ],
+    "word": "vagaroso"
+}{
+    "id": "meapilas",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "meapilas",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "meapilas"
+                }
+            ],
+            "type": "headword",
+            "word": "meapilas"
+        }
+    ],
+    "word": "meapilas"
+}{
+    "id": "meapilas",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "meapilas",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "meapilas"
+                }
+            ],
+            "type": "headword",
+            "word": "meapilas"
+        }
+    ],
+    "word": "meapilas"
+}{
+    "id": "arrebol",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "arrebol",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "al usurero le brotaron, en las pálidas mejillas, unas rosetas de arrebol"
+                                        }
+                                    ],
+                                    "id": "id73d49d9e-e076-42db-8bae-b7567b38ee65"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "arrebol"
+                }
+            ],
+            "type": "headword",
+            "word": "arrebol"
+        }
+    ],
+    "word": "arrebol"
 }
