@@ -8611,4 +8611,662 @@
         }
     ],
     "word": "arrebol"
+}{
+    "id": "circunloquio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "circunloquio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "circunloquio"
+                }
+            ],
+            "type": "headword",
+            "word": "circunloquio"
+        }
+    ],
+    "word": "circunloquio"
+}{
+    "id": "lacra",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "lacra",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el accidente de automóvil le dejó numerosas lacras"
+                                        }
+                                    ],
+                                    "id": "id2512f3e1-c31a-4faf-ac8d-035637b68b66"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la lacra del desempleo"
+                                        },
+                                        {
+                                            "text": "el fenómeno de la violencia es una lacra social"
+                                        }
+                                    ],
+                                    "id": "id26cea3d5-78e7-4adf-a5bc-0730f226e8ae"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no importa lo que le digas, es un lacra y nunca hace caso"
+                                        }
+                                    ],
+                                    "id": "id0589f8be-b606-474c-94fc-8e5de276a683"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "lacra"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no importa lo que le digas, es un lacra y nunca hace caso"
+                                        }
+                                    ],
+                                    "id": "id0589f8be-b606-474c-94fc-8e5de276a683"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "lacra"
+                }
+            ],
+            "type": "headword",
+            "word": "lacra"
+        }
+    ],
+    "word": "lacra"
+}{
+    "id": "pustula",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "p%C3%BAstula",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pústula"
+                }
+            ],
+            "type": "headword",
+            "word": "pústula"
+        }
+    ],
+    "word": "pústula"
+}{
+    "id": "digitigrado",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "digit%C3%ADgrado",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los carnívoros terrestres pueden ser digitígrados, como los perros y los gatos, o plantígrados, como los osos y los tejones"
+                                        }
+                                    ],
+                                    "id": "id1442919e-e203-48b7-9137-458462f061fb"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "digitígrado"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los carnívoros terrestres pueden ser digitígrados, como los perros y los gatos, o plantígrados, como los osos y los tejones"
+                                        }
+                                    ],
+                                    "id": "id1442919e-e203-48b7-9137-458462f061fb"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "digitígrado"
+                }
+            ],
+            "type": "headword",
+            "word": "digitígrado"
+        }
+    ],
+    "word": "digitígrado"
+}{
+    "id": "umbrio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "umbr%C3%ADo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "zonas umbrías"
+                                        },
+                                        {
+                                            "text": "bosques umbríos"
+                                        }
+                                    ],
+                                    "id": "id945b375f-c88d-4ef4-b19a-1e14cf2480fe"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "umbrío"
+                }
+            ],
+            "type": "headword",
+            "word": "umbrío"
+        }
+    ],
+    "word": "umbrío"
+}{
+    "id": "chori",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chori",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chori"
+                }
+            ],
+            "type": "headword",
+            "word": "chori"
+        }
+    ],
+    "word": "chori"
+}{
+    "id": "gambito",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gambito",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gambito"
+                }
+            ],
+            "type": "headword",
+            "word": "gambito"
+        }
+    ],
+    "word": "gambito"
+}{
+    "id": "molicie",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "molicie",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la encontró como solía: abanicándose en una mecedora de rejilla blanca y mirando a un recodo de la pared por el que debía estar descolgándose una embelesada inventiva de gozo y molicie"
+                                        }
+                                    ],
+                                    "id": "id981a2068-d2c5-45c6-8fdd-6fd103641504"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "molicie"
+                }
+            ],
+            "type": "headword",
+            "word": "molicie"
+        }
+    ],
+    "word": "molicie"
+}{
+    "id": "garabato",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "garabato",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "mientras habla por teléfono hace garabatos en el papel"
+                                        }
+                                    ],
+                                    "id": "id9b1fd375-a4a0-4ba6-be76-f25147a22b65"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la nota solo había algunos garabatos que no entendí"
+                                        }
+                                    ],
+                                    "id": "id0be8529f-280e-4e9c-883a-8e3dbaf085c0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "garabato de carnicero"
+                                        }
+                                    ],
+                                    "id": "ida6475ddd-7982-4f38-947b-f32f25db03bd"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "sembraban la cebada poniendo en las puntas de los garabatos un cuerno de cabra"
+                                        }
+                                    ],
+                                    "id": "id34d1a53a-7120-4bc4-98ea-ac60d86296d6"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "soltó varios garabatos y se marchó del lugar"
+                                        }
+                                    ],
+                                    "id": "idb2dfd6e2-42f6-48c3-be69-fd1da6b5d710"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tener garabato"
+                                        }
+                                    ],
+                                    "id": "idfe01ab09-809e-4ed4-b317-8ebca2c2ab0c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "garabato"
+                }
+            ],
+            "type": "headword",
+            "word": "garabato"
+        }
+    ],
+    "word": "garabato"
+}{
+    "id": "limpido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "l%C3%ADmpido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el límpido aire serrano ensanchaba sus oprimidos pulmones"
+                                        },
+                                        {
+                                            "text": "tenía un miedo límpido, un miedo intacto"
+                                        }
+                                    ],
+                                    "id": "id44ec0c3b-c740-45d1-ac15-13a5d5b10833"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "límpido"
+                }
+            ],
+            "type": "headword",
+            "word": "límpido"
+        }
+    ],
+    "word": "límpido"
+}{
+    "id": "gentilicio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gentilicio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'peruano', 'japonés' y 'español' son adjetivos gentilicios"
+                                        }
+                                    ],
+                                    "id": "ide9c41a89-82a4-455a-b43d-1506649e8527"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "gentilicio"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'peruano', 'japonés' y 'español' son adjetivos gentilicios"
+                                        }
+                                    ],
+                                    "id": "ide9c41a89-82a4-455a-b43d-1506649e8527"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gentilicio"
+                }
+            ],
+            "type": "headword",
+            "word": "gentilicio"
+        }
+    ],
+    "word": "gentilicio"
+}{
+    "id": "eponimo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ep%C3%B3nimo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Alejandro Magno es el héroe epónimo de la ciudad de Alejandría"
+                                        }
+                                    ],
+                                    "id": "ida0435b7d-09f1-46f5-8f64-9a793c73b6b0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "epónimo"
+                }
+            ],
+            "type": "headword",
+            "word": "epónimo"
+        }
+    ],
+    "word": "epónimo"
+}{
+    "id": "bebistrajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "bebistrajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bebistrajo"
+                }
+            ],
+            "type": "headword",
+            "word": "bebistrajo"
+        }
+    ],
+    "word": "bebistrajo"
+}{
+    "id": "vulgar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "vulgar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un hombre vulgar, del montón"
+                                        },
+                                        {
+                                            "text": "tiene un nombre y un apellido muy vulgares"
+                                        }
+                                    ],
+                                    "id": "id32aea1c2-84db-41da-a3d3-7454ad9c45f9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "escupir es un hábito muy vulgar"
+                                        },
+                                        {
+                                            "text": "tiene un estilo vulgar"
+                                        }
+                                    ],
+                                    "id": "iddfbcfeea-1fa9-4afd-8ef6-f124550dc441"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'sobaco' es la denominación vulgar de 'axila'"
+                                        }
+                                    ],
+                                    "id": "id5047cddd-d5f2-4d6b-9522-9ceb6febb2c8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una vulgar imitación"
+                                        },
+                                        {
+                                            "text": "un vulgar mentiroso"
+                                        }
+                                    ],
+                                    "id": "idcbb68454-68b9-459e-8100-fd0f9a1e7cce"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "vulgar"
+                }
+            ],
+            "type": "headword",
+            "word": "vulgar"
+        }
+    ],
+    "word": "vulgar"
 }
