@@ -4772,3 +4772,8 @@ parse error: Invalid numeric literal at line 1, column 17
 "Lugar donde se celebra esta fiesta"
 "Pintura o tapiz flamenco, generalmente del siglo XVII, en que se representan fiestas populares"
 "quermes"
+"remordimiento"
+"Sentimiento de culpabilidad que tiene una persona por algo que ha hecho y que la intranquiliza"
+"remordimiento"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
