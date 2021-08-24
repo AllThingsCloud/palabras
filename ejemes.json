@@ -9309,4 +9309,127 @@
         }
     ],
     "word": "zaherir"
+}{
+    "id": "cotarro",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cotarro",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡vaya cotarro se ha montado aquí!"
+                                        },
+                                        {
+                                            "text": "no sé cómo se ha podido meter en ese cotarro"
+                                        }
+                                    ],
+                                    "id": "ida398b0b0-00ca-47f0-bca3-0d132b81fba2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cotarro"
+                }
+            ],
+            "type": "headword",
+            "word": "cotarro"
+        }
+    ],
+    "word": "cotarro"
+}{
+    "id": "cafila",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "c%C3%A1fila",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el comerciante convirtió sus productos en raros y preciosos, es decir, en auténticas joyas para una cáfila de exquisitos estetas"
+                                        }
+                                    ],
+                                    "id": "id4c16dd3a-4683-4906-914a-6dd2d57d8d1c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cáfila"
+                }
+            ],
+            "type": "headword",
+            "word": "cáfila"
+        }
+    ],
+    "word": "cáfila"
+}{
+    "id": "resollar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "resollar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el animal es pequeño, peludo, suave y camina resollando como si viniera de muy lejos"
+                                        }
+                                    ],
+                                    "id": "id646f9f3c-51ce-4a25-9476-1f6c8b449159"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "resollar"
+                }
+            ],
+            "type": "headword",
+            "word": "resollar"
+        }
+    ],
+    "word": "resollar"
 }

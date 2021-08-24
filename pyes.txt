@@ -4808,3 +4808,15 @@ parse error: Invalid numeric literal at line 1, column 17
 "segar"
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"cáfila"
+"Conjunto de personas, animales o cosas (carretas, carruajes), especialmente si están en movimiento y andan unos tras otros"
+"cáfila"
+"esteta"
+"Persona que adopta una actitud esteticista, anteponiendo la belleza formal a cualquier otro valor, o que cuida en grado sumo la belleza formal en una obra de arte u otra faceta de la vida"
+"esteta"
+"resollar"
+"Respirar, especialmente con fuerza y haciendo algún ruido"
+"Dar noticia de sí después de algún tiempo [la persona ausente], o hablar [la que ha permanecido callada]"
+"resollar"
