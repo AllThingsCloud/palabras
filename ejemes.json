@@ -9432,4 +9432,30 @@
         }
     ],
     "word": "resollar"
+}{
+    "id": "guajiro",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "guajiro",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "guajiro"
+                }
+            ],
+            "type": "headword",
+            "word": "guajiro"
+        }
+    ],
+    "word": "guajiro"
 }
