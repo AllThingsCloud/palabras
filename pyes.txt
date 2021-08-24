@@ -4777,3 +4777,34 @@ parse error: Invalid numeric literal at line 1, column 17
 "remordimiento"
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+"hosco"
+"[color] Moreno muy oscuro"
+"Que tiene un carácter cerrado, desagradable y que no gusta de relacionarse con los demás"
+"[tiempo, lugar, ambiente] Que es poco acogedor, que es desagradable, amenazador, etc."
+"hosco"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"zaherir"
+"Decir o hacer algo para humillar, maltratar o molestar a alguien"
+"zaherir"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"requebrar"
+"Dirigir requiebros a una persona"
+"requebrar"
+"requiebro"
+"Palabra o expresión de admiración, halago o elogio que se dirige a una persona"
+"requiebro"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"segar"
+"Cortar la hierba o el cereal maduro y seco"
+"Cortar de un golpe, especialmente lo que está más alto y sobresale"
+"Cortar o impedir bruscamente o violentamente el desarrollo de una cosa o un proceso"
+"segar"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17

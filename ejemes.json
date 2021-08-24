@@ -9269,4 +9269,44 @@
         }
     ],
     "word": "vulgar"
+}{
+    "id": "zaherir",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zaherir",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Blanquita dudaba si la enferma la requebraba o la zahería"
+                                        }
+                                    ],
+                                    "id": "iddae7d676-b1ef-4338-b330-47d7fe5e1630"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "zaherir"
+                }
+            ],
+            "type": "headword",
+            "word": "zaherir"
+        }
+    ],
+    "word": "zaherir"
 }
