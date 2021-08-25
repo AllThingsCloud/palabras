@@ -9458,4 +9458,52 @@
         }
     ],
     "word": "guajiro"
+}{
+    "id": "intringulis",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "intr%C3%ADngulis",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "como si ella lo supiera todo menos los intríngulis arteros del fútbol"
+                                        }
+                                    ],
+                                    "id": "id877364f6-4be7-4413-907d-b59ee9557913"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no te creas que la cosa es fácil, que también tiene su intríngulis"
+                                        }
+                                    ],
+                                    "id": "ide38671fa-d11d-42ab-8b8d-5bf05914a390"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "intríngulis"
+                }
+            ],
+            "type": "headword",
+            "word": "intríngulis"
+        }
+    ],
+    "word": "intríngulis"
 }
