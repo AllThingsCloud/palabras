@@ -4822,3 +4822,5 @@ parse error: Invalid numeric literal at line 1, column 17
 "pacota"
 "Palabra que se usa en la expresión de pacota, que se aplica a cosas u objetos de mala calidad"
 "pacota"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
