@@ -9702,4 +9702,136 @@
         }
     ],
     "word": "anfibología"
+}{
+    "id": "chiripa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chirip%C3%A1",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chiripá"
+                }
+            ],
+            "type": "headword",
+            "word": "chiripá"
+        },
+        {
+            "id": "chirip%C3%A1",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "vestía de chiripá, y arrastraba con ostentación las rodajas de unas enormes espuelas"
+                                        }
+                                    ],
+                                    "id": "id5a720a88-73b0-461d-8d9e-32b68a55e8fa"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chiripá"
+                }
+            ],
+            "type": "headword",
+            "word": "chiripá"
+        },
+        {
+            "id": "chiripa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "me encuentras de chiripa, porque ya estaba por salir"
+                                        }
+                                    ],
+                                    "id": "idea8f972f-6057-4cb1-9a93-7d5fbc87753c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chiripa"
+                }
+            ],
+            "type": "headword",
+            "word": "chiripa"
+        }
+    ],
+    "word": "chiripá"
+}{
+    "id": "anacoluto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "anacoluto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "dijo que se «dedicaba y destacaba» en el deporte con este anacoluto que restaba coherencia gramatical a su afirmación"
+                                        }
+                                    ],
+                                    "id": "id908278f2-4236-4e68-a399-072838be50bf"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "anacoluto"
+                }
+            ],
+            "type": "headword",
+            "word": "anacoluto"
+        }
+    ],
+    "word": "anacoluto"
 }
