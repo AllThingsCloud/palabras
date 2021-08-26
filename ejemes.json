@@ -9554,4 +9554,152 @@
         }
     ],
     "word": "anfibología"
+}{
+    "id": "pacota",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pacota",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "pacota"
+                }
+            ],
+            "type": "headword",
+            "word": "pacota"
+        }
+    ],
+    "word": "pacota"
+}{
+    "id": "berzotas",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "berzotas",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "a lo mejor los berzotas de los editores ni siquiera lo han traducido"
+                                        }
+                                    ],
+                                    "id": "id96f5c98e-f85e-49cb-952b-b51e97458053"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "berzotas"
+                }
+            ],
+            "type": "headword",
+            "word": "berzotas"
+        }
+    ],
+    "word": "berzotas"
+}{
+    "id": "cizanero",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ciza%C3%B1ero",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cizañero"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cizañero"
+                }
+            ],
+            "type": "headword",
+            "word": "cizañero"
+        }
+    ],
+    "word": "cizañero"
+}{
+    "id": "anfibologia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "anfibolog%C3%ADa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la frase 'entró en la sala con el rostro lívido' hay una anfibología porque no es posible saber si el personaje en cuestión tenía la cara morada por un golpe o pálida por un susto"
+                                        }
+                                    ],
+                                    "id": "idb3002c93-c91e-4e1f-a326-e12c86f79f05"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la frase 'ducados ganan ducados' aparece una anfibología porque se juega con los significados de título nobiliario y de moneda española"
+                                        }
+                                    ],
+                                    "id": "id662382f3-8231-4012-9e24-3c00970cfcab"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "anfibología"
+                }
+            ],
+            "type": "headword",
+            "word": "anfibología"
+        }
+    ],
+    "word": "anfibología"
 }

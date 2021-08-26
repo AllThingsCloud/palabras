@@ -4824,3 +4824,10 @@ parse error: Invalid numeric literal at line 1, column 17
 "pacota"
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+"berzotas"
+"Persona tonta, necia"
+"berzotas"
+"cizañero"
+"[persona] Que disfruta metiendo cizaña y lo hace con frecuencia"
+"[persona] Que disfruta metiendo cizaña y lo hace con frecuencia"
+"cizañero"
