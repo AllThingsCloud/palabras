@@ -10408,4 +10408,44 @@
         }
     ],
     "word": "camarada"
+}{
+    "id": "exonimo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ex%C3%B3nimo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Siviglia es el exónimo italiano de Sevilla"
+                                        }
+                                    ],
+                                    "id": "id6add0dff-f158-4b37-adc5-c8f842b2c67e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "exónimo"
+                }
+            ],
+            "type": "headword",
+            "word": "exónimo"
+        }
+    ],
+    "word": "exónimo"
 }

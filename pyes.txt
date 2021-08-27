@@ -5010,3 +5010,15 @@
 "Persona con la que se comparten ideas, actividades o experiencias"
 "Persona con la que se comparten ideas políticas, especialmente en los primeros años del Partido Comunista o de asociaciones sindicales de izquierdas"
 "camarada"
+"contradecir"
+"Decir o hacer [una persona] lo contrario de lo que otra dice"
+"Decir [una persona] cosas que están en contradicción con otras también dichas por ella"
+"Estar en contradicción [una cosa] con otra"
+"contradecir"
+"topónimo"
+"Nombre propio de lugar"
+"topónimo"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
