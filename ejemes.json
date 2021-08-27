@@ -10299,4 +10299,113 @@
         }
     ],
     "word": "ronronear"
+}{
+    "id": "procrastinar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "procrastinar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "procrastinar"
+                }
+            ],
+            "type": "headword",
+            "word": "procrastinar"
+        }
+    ],
+    "word": "procrastinar"
+}{
+    "id": "tertulia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "tertulia",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las entradas de platea son bastante más caras que las de tertulia"
+                                        }
+                                    ],
+                                    "id": "id9a79c996-1c6e-45f6-b8f2-cf186f9a66da"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tertulia"
+                }
+            ],
+            "type": "headword",
+            "word": "tertulia"
+        }
+    ],
+    "word": "tertulia"
+}{
+    "id": "camarada",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "camarada",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "camarada de profesión"
+                                        },
+                                        {
+                                            "text": "se reunió con sus antiguos camaradas de juerga"
+                                        }
+                                    ],
+                                    "id": "id7b18512a-5791-4a6e-b788-e1a00009d7d9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "camarada"
+                }
+            ],
+            "type": "headword",
+            "word": "camarada"
+        }
+    ],
+    "word": "camarada"
 }
