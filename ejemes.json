@@ -9986,4 +9986,317 @@
         }
     ],
     "word": "atisbo"
+}{
+    "id": "pelota",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pelota",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "pelota de tenis"
+                                        },
+                                        {
+                                            "text": "pelota de béisbol"
+                                        },
+                                        {
+                                            "text": "pelota de fútbol"
+                                        }
+                                    ],
+                                    "id": "id5be685b7-8c72-4519-a4a3-d6fb7b176c36"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "van al campo a jugar a pelota"
+                                        },
+                                        {
+                                            "text": "en el parque está prohibido jugar a la pelota"
+                                        }
+                                    ],
+                                    "id": "idafa9d2b4-76b4-4e12-8eda-ab4d4e31a343"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la gimnasta debe apoyar la pelota en la palma de su mano, sin agarrarla"
+                                        }
+                                    ],
+                                    "id": "id8965a5d7-87aa-45a8-9426-66bc385de4ea"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "puso una pelota de barro sobre el torno y empezó a moldearla"
+                                        },
+                                        {
+                                            "text": "hizo una pelota de papel"
+                                        }
+                                    ],
+                                    "id": "id2cf50276-51cc-4f05-a445-be121c6e10ec"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los pelotas intentan ganarse al profe para que les apruebe o ponga buena nota"
+                                        }
+                                    ],
+                                    "id": "id869ea144-c411-4c04-be95-c06efe5e918c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pelota"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los pelotas intentan ganarse al profe para que les apruebe o ponga buena nota"
+                                        }
+                                    ],
+                                    "id": "id869ea144-c411-4c04-be95-c06efe5e918c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pelota"
+                }
+            ],
+            "type": "headword",
+            "word": "pelota"
+        }
+    ],
+    "word": "pelota"
+}{
+    "id": "bebistrajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "bebistrajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bebistrajo"
+                }
+            ],
+            "type": "headword",
+            "word": "bebistrajo"
+        }
+    ],
+    "word": "bebistrajo"
+}{
+    "id": "risa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "risa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cuando dijo esa estupidez, no pude evitarlo y me dio la risa"
+                                        },
+                                        {
+                                            "text": "los niños jugaban entre risas"
+                                        },
+                                        {
+                                            "text": "intentaba en balde concitar la risa de su prima contándole una picardía"
+                                        }
+                                    ],
+                                    "id": "id8ceddec0-f3ad-410f-a568-6b7dacb2b7b6"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "luchaba por contener la risa"
+                                        },
+                                        {
+                                            "text": "dejó escapar una risa sorda"
+                                        },
+                                        {
+                                            "text": "le parecía aún estar escuchando la risa intempestiva de su madre"
+                                        }
+                                    ],
+                                    "id": "id96d712e3-d301-4c1f-a7b0-750a6af1089c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "fue una risa verle pasar con esa cara"
+                                        }
+                                    ],
+                                    "id": "id6768066d-5f38-4b28-ab8f-c525a4acd76f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "risa"
+                }
+            ],
+            "type": "headword",
+            "word": "risa"
+        }
+    ],
+    "word": "risa"
+}{
+    "id": "cacarear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cacarear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la gallina cacareó después de poner un huevo"
+                                        },
+                                        {
+                                            "text": "«Te acompaño en el sentimiento», cacareó a través del aparato su aborrecido rival"
+                                        }
+                                    ],
+                                    "id": "idba5feac2-ec9f-4a15-9882-75d35b1c6534"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la labor del presidente es respetada y apoyada solamente por los panegiristas que lo alaban y lo cacarean"
+                                        },
+                                        {
+                                            "text": "semanas antes de la feria ya soñaba con aquel cacareado manjar insólito que había apalabrado el concejal de fiestas"
+                                        },
+                                        {
+                                            "text": "da la impresión de que la tan cacareada moda de España no es sino un engaño"
+                                        }
+                                    ],
+                                    "id": "id7fa7f4f5-4a02-4946-b6da-d97f9180d785"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "cacarear"
+                }
+            ],
+            "type": "headword",
+            "word": "cacarear"
+        }
+    ],
+    "word": "cacarear"
+}{
+    "id": "ronronear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ronronear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el gato ronronea cuando le acaricio el lomo"
+                                        }
+                                    ],
+                                    "id": "id5d2587bd-2825-42a7-b83f-d6b6c63f427e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la idea de poner un negocio le ronronea desde hace tiempo"
+                                        }
+                                    ],
+                                    "id": "id7590b087-6831-4426-b424-db960bc53d9d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "ronronear"
+                }
+            ],
+            "type": "headword",
+            "word": "ronronear"
+        }
+    ],
+    "word": "ronronear"
 }
