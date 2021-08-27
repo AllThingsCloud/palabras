@@ -9834,4 +9834,156 @@
         }
     ],
     "word": "anacoluto"
+}{
+    "id": "vagido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "vagido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se emocionó al oír los primeros vagidos de su hijo"
+                                        }
+                                    ],
+                                    "id": "id6421cdfa-5fb7-4544-9c58-f7ee04d53cc3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "vagido"
+                }
+            ],
+            "type": "headword",
+            "word": "vagido"
+        }
+    ],
+    "word": "vagido"
+}{
+    "id": "niquinaque",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "%C3%B1iqui%C3%B1aque",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ñiquiñaque"
+                }
+            ],
+            "type": "headword",
+            "word": "ñiquiñaque"
+        }
+    ],
+    "word": "ñiquiñaque"
+}{
+    "id": "paragoge",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "paragoge",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la palabra 'fraque' está formada por paragoge de 'frac'"
+                                        }
+                                    ],
+                                    "id": "ide46ad8f4-a3f2-40c1-bbff-193e72f7b2bd"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paragoge"
+                }
+            ],
+            "type": "headword",
+            "word": "paragoge"
+        }
+    ],
+    "word": "paragoge"
+}{
+    "id": "atisbo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "atisbo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en bolsa se utiliza cualquier atisbo de optimismo para aprovechar los avances"
+                                        },
+                                        {
+                                            "text": "por primera vez, sintió un atisbo de preocupación"
+                                        },
+                                        {
+                                            "text": "sonreía sin atisbo de ironía y decía a todo que sí"
+                                        }
+                                    ],
+                                    "id": "idb66efd34-a203-472a-80d0-e56373384862"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "atisbo"
+                }
+            ],
+            "type": "headword",
+            "word": "atisbo"
+        }
+    ],
+    "word": "atisbo"
 }
