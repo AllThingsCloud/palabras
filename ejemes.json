@@ -10448,4 +10448,235 @@
         }
     ],
     "word": "exónimo"
+}{
+    "id": "esplin",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "espl%C3%ADn",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el esplín fue un sentimiento muy decimonónico"
+                                        }
+                                    ],
+                                    "id": "id79731103-05df-48ae-b081-43aeb3b1a93a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "esplín"
+                }
+            ],
+            "type": "headword",
+            "word": "esplín"
+        }
+    ],
+    "word": "esplín"
+}{
+    "id": "neco",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "%C3%B1eco",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es mi ñeco de toda la vida"
+                                        }
+                                    ],
+                                    "id": "id709e3be4-4e02-4b43-9c48-1b8189dd37fe"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ñeco"
+                }
+            ],
+            "type": "headword",
+            "word": "ñeco"
+        }
+    ],
+    "word": "ñeco"
+}{
+    "id": "carajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "carajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "carajo"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no me molestes, ¡carajo!"
+                                        }
+                                    ],
+                                    "id": "id1ce5ed86-3e00-4184-877d-6d52aac963a7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "interjection",
+                        "text": "Interjection"
+                    },
+                    "text": "carajo"
+                }
+            ],
+            "type": "headword",
+            "word": "carajo"
+        },
+        {
+            "id": "carajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no te fíes de ella, es una caraja"
+                                        }
+                                    ],
+                                    "id": "idfdd92140-42e0-45fe-a240-2e4280791b3e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "carajo"
+                }
+            ],
+            "type": "headword",
+            "word": "carajo"
+        }
+    ],
+    "word": "carajo"
+}{
+    "id": "desbautizar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "desbautizar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "le dijo que si lo volvía a ver lo iba a desbautizar"
+                                        }
+                                    ],
+                                    "id": "id6ea30fc1-36f8-4d8a-9be2-62afed8e8377"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "desbautizar"
+                }
+            ],
+            "type": "headword",
+            "word": "desbautizar"
+        }
+    ],
+    "word": "desbautizar"
+}{
+    "id": "cuchipanda",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cuchipanda",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cuchipanda"
+                }
+            ],
+            "type": "headword",
+            "word": "cuchipanda"
+        }
+    ],
+    "word": "cuchipanda"
 }
