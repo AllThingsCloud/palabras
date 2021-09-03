@@ -10679,4 +10679,274 @@
         }
     ],
     "word": "cuchipanda"
+}{
+    "id": "soliviantar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "soliviantar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "soliviantó a todos sus compañeros a la huelga"
+                                        }
+                                    ],
+                                    "id": "idb81d157e-ee64-4684-8f21-97642167ca4a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "con su inquietud y sus nervios solivianta a cualquiera"
+                                        }
+                                    ],
+                                    "id": "id96165996-b422-4725-a7a4-904a07b884ce"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "William Morris fue un vigoroso luchador que se soliviantó ante la sordidez estética y moral de la primera revolución industrial"
+                                        }
+                                    ],
+                                    "id": "id71897838-5b27-4a34-803e-bccff7060d74"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se soliviantaba por cualquier motivo"
+                                        }
+                                    ],
+                                    "id": "idefe24718-d387-40f8-a5f8-033a19273f92"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "soliviantar"
+                }
+            ],
+            "type": "headword",
+            "word": "soliviantar"
+        }
+    ],
+    "word": "soliviantar"
+}{
+    "id": "data",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "data",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en el documento debe escribirse la data de entrega en lugar visible"
+                                        }
+                                    ],
+                                    "id": "id18b40cb2-5949-46b0-a54f-3bacb9cdb5c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "data"
+                }
+            ],
+            "type": "headword",
+            "word": "data"
+        }
+    ],
+    "word": "data"
+}{
+    "id": "prosopografia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "prosopograf%C3%ADa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "prosopografía"
+                }
+            ],
+            "type": "headword",
+            "word": "prosopografía"
+        }
+    ],
+    "word": "prosopografía"
+}{
+    "id": "quilombo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "quilombo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tu habitación es un quilombo"
+                                        }
+                                    ],
+                                    "id": "id3f9ed5e2-8751-4390-97d9-401e3a304b19"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Marta tiene un quilombo terrible con su hija, desde hace una semana no quiere a ir a la escuela"
+                                        }
+                                    ],
+                                    "id": "iddf82b5dd-0105-44dd-89fe-68d1224d16db"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "quilombo"
+                }
+            ],
+            "type": "headword",
+            "word": "quilombo"
+        }
+    ],
+    "word": "quilombo"
+}{
+    "id": "alambicar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "alambicar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "esta supuesta elevación se verificó alambicando, complicando, amanerando el libro"
+                                        }
+                                    ],
+                                    "id": "id3d4e2dc2-0eb3-418b-a5af-228bc327bd53"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "alambicar"
+                }
+            ],
+            "type": "headword",
+            "word": "alambicar"
+        }
+    ],
+    "word": "alambicar"
+}{
+    "id": "uxoricida",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "uxoricida",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "propósitos uxoricidas"
+                                        }
+                                    ],
+                                    "id": "id1075a859-2b9b-442e-af70-c8e418e19c0f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "uxoricida"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "uxoricida"
+                }
+            ],
+            "type": "headword",
+            "word": "uxoricida"
+        }
+    ],
+    "word": "uxoricida"
 }
