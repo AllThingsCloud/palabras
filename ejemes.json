@@ -10949,4 +10949,230 @@
         }
     ],
     "word": "uxoricida"
+}{
+    "id": "papujo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "papujo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "era este un cura gordo y todavía joven, papujo y mal encarado"
+                                        }
+                                    ],
+                                    "id": "id4f5af364-9558-4fb6-a505-ff69e9930eed"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "papujo"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "era este un cura gordo y todavía joven, papujo y mal encarado"
+                                        }
+                                    ],
+                                    "id": "id4f5af364-9558-4fb6-a505-ff69e9930eed"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "papujo"
+                }
+            ],
+            "type": "headword",
+            "word": "papujo"
+        }
+    ],
+    "word": "papujo"
+}{
+    "id": "epiceno",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "epiceno",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'búho' y 'rata' son palabras de género epiceno"
+                                        }
+                                    ],
+                                    "id": "ide03a6446-078c-49c8-a252-55517d8e0143"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'cocodrilo' es un sustantivo epiceno"
+                                        }
+                                    ],
+                                    "id": "id0a61573e-4f90-45bd-8a04-77cc79733280"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "epiceno"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'búho' y 'rata' son palabras de género epiceno"
+                                        }
+                                    ],
+                                    "id": "ide03a6446-078c-49c8-a252-55517d8e0143"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "epiceno"
+                }
+            ],
+            "type": "headword",
+            "word": "epiceno"
+        }
+    ],
+    "word": "epiceno"
+}{
+    "id": "cipote",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cipote",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        },
+                        {
+                            "homographNumber": "101"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cipote"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "102"
+                        },
+                        {
+                            "homographNumber": "103"
+                        },
+                        {
+                            "homographNumber": "104"
+                        },
+                        {
+                            "homographNumber": "105"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cipote"
+                }
+            ],
+            "type": "headword",
+            "word": "cipote"
+        },
+        {
+            "id": "cipote",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cipote"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cipote"
+                }
+            ],
+            "type": "headword",
+            "word": "cipote"
+        }
+    ],
+    "word": "cipote"
 }
