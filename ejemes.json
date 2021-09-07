@@ -11175,4 +11175,172 @@
         }
     ],
     "word": "cipote"
+}{
+    "id": "aporia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "apor%C3%ADa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la aporía de Aquiles y la tortuga"
+                                        }
+                                    ],
+                                    "id": "idcf10b373-5ee3-46da-8ada-7d8ebea1fd68"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aporía"
+                }
+            ],
+            "type": "headword",
+            "word": "aporía"
+        }
+    ],
+    "word": "aporía"
+}{
+    "id": "name",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "%C3%B1ame",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el ñame se come asado o cocido en los países tropicales"
+                                        }
+                                    ],
+                                    "id": "id8f4a47c9-d572-4656-b08d-4c2de589d24f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ñame"
+                }
+            ],
+            "type": "headword",
+            "word": "ñame"
+        }
+    ],
+    "word": "ñame"
+}{
+    "id": "regate",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "regate",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su depurada técnica de regate permite al delantero penetrar con facilidad en el área"
+                                        }
+                                    ],
+                                    "id": "idee2b5df5-8685-48d7-9dbb-40cac15a665a"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "con este regate, el juez espera que el indulto se lleve a cabo"
+                                        }
+                                    ],
+                                    "id": "ida78186e6-2905-4990-add4-a09afedff279"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "regate"
+                }
+            ],
+            "type": "headword",
+            "word": "regate"
+        }
+    ],
+    "word": "regate"
+}{
+    "id": "sierpe",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sierpe",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los rugidos del león, los graznidos del buitre y los silbidos de la sierpe componen tenebroso concierto con los suspiros de los desgraciados mortales"
+                                        }
+                                    ],
+                                    "id": "id58227203-a5f3-4c58-8107-b248eae728ee"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sierpe"
+                }
+            ],
+            "type": "headword",
+            "word": "sierpe"
+        }
+    ],
+    "word": "sierpe"
 }
