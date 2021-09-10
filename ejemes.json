@@ -11343,4 +11343,194 @@
         }
     ],
     "word": "sierpe"
+}{
+    "id": "tejemaneje",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "tejemaneje",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "con el tejemaneje que se trae con los platos, no me extraña que haya roto varios"
+                                        }
+                                    ],
+                                    "id": "idda0be364-42aa-412a-a6b8-ee6b1f3d57ee"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tus tejemanejes no conseguirán engañar a nadie"
+                                        }
+                                    ],
+                                    "id": "id46117bea-c67d-4de4-b35e-f0798b3ebd59"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tejemaneje"
+                }
+            ],
+            "type": "headword",
+            "word": "tejemaneje"
+        }
+    ],
+    "word": "tejemaneje"
+}{
+    "id": "chilango",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chilango",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿qué estás haciendo ahí abajo, revuelta con la plebe y los chilangos?"
+                                        }
+                                    ],
+                                    "id": "id5bab369b-78d3-4361-b310-dc1c1f70b0cf"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chilango"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿qué estás haciendo ahí abajo, revuelta con la plebe y los chilangos?"
+                                        }
+                                    ],
+                                    "id": "id5bab369b-78d3-4361-b310-dc1c1f70b0cf"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chilango"
+                }
+            ],
+            "type": "headword",
+            "word": "chilango"
+        }
+    ],
+    "word": "chilango"
+}{
+    "id": "drupa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "drupa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el durazno, la cereza y la aceituna son drupas"
+                                        }
+                                    ],
+                                    "id": "id77640c3c-97b2-47dd-b879-dc2ff1cf9f5a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "drupa"
+                }
+            ],
+            "type": "headword",
+            "word": "drupa"
+        }
+    ],
+    "word": "drupa"
+}{
+    "id": "chole",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chole",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la religión chole"
+                                        }
+                                    ],
+                                    "id": "idf96f4b8a-a85c-485c-b55c-bc87a0c72fe9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chole"
+                }
+            ],
+            "type": "headword",
+            "word": "chole"
+        }
+    ],
+    "word": "chole"
 }
