@@ -5474,3 +5474,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "En fútbol y otros deportes de pelota, jugador que se coloca en la portería y tiene la misión de detener todos los lanzamientos efectuados por el equipo contrario"
 "Animal fabuloso con figura de perro de tres cabezas que guardaba la puerta de los infiernos, según la mitología clásica"
 "cancerbero"
+"cachapa"
+"Tortilla delgada hecha de maíz molido y asada en una plancha de hierro"
+"cachapa"

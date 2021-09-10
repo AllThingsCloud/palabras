@@ -11533,4 +11533,30 @@
         }
     ],
     "word": "chole"
+}{
+    "id": "cachapa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cachapa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cachapa"
+                }
+            ],
+            "type": "headword",
+            "word": "cachapa"
+        }
+    ],
+    "word": "cachapa"
 }
