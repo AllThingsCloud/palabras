@@ -11559,4 +11559,186 @@
         }
     ],
     "word": "cachapa"
+}{
+    "id": "occitano",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "occitano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el lemosín, el provenzal y el languedociano son variedades del occitano"
+                                        }
+                                    ],
+                                    "id": "id32ced783-407b-453a-8b2d-a3f6c4adbb0b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "occitano"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el lemosín, el provenzal y el languedociano son variedades del occitano"
+                                        }
+                                    ],
+                                    "id": "id32ced783-407b-453a-8b2d-a3f6c4adbb0b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "occitano"
+                }
+            ],
+            "type": "headword",
+            "word": "occitano"
+        }
+    ],
+    "word": "occitano"
+}{
+    "id": "agorero",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "agorero",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "agoreras predicciones"
+                                        },
+                                        {
+                                            "text": "anuncios agoreros"
+                                        },
+                                        {
+                                            "text": "ave agorera"
+                                        },
+                                        {
+                                            "text": "los agoreros le predijeron problemas en la cosecha"
+                                        }
+                                    ],
+                                    "id": "id18b08bde-26c0-4ceb-b16a-0a55af3880fa"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "agorero"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "agoreras predicciones"
+                                        },
+                                        {
+                                            "text": "anuncios agoreros"
+                                        },
+                                        {
+                                            "text": "ave agorera"
+                                        },
+                                        {
+                                            "text": "los agoreros le predijeron problemas en la cosecha"
+                                        }
+                                    ],
+                                    "id": "id18b08bde-26c0-4ceb-b16a-0a55af3880fa"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "agorero"
+                }
+            ],
+            "type": "headword",
+            "word": "agorero"
+        }
+    ],
+    "word": "agorero"
+}{
+    "id": "entorchado",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "entorchado",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los entorchados de almirante"
+                                        }
+                                    ],
+                                    "id": "idf79c603b-a9da-46a3-a63e-3f1b64387560"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "entorchado"
+                }
+            ],
+            "type": "headword",
+            "word": "entorchado"
+        }
+    ],
+    "word": "entorchado"
 }
