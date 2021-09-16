@@ -11741,4 +11741,279 @@
         }
     ],
     "word": "entorchado"
+}{
+    "id": "arbol",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "%C3%A1rbol",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el Ministerio de Medio Ambiente tiene previsto plantar un millón de árboles en el próximo año"
+                                        }
+                                    ],
+                                    "id": "id23e378dd-9f7a-43a4-9e12-3da81a4ef0c8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "diagrama en árbol"
+                                        }
+                                    ],
+                                    "id": "idd939eb16-b2d6-43a0-870e-bd43ffe8c16f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "árbol"
+                }
+            ],
+            "type": "headword",
+            "word": "árbol"
+        }
+    ],
+    "word": "árbol"
+}{
+    "id": "astenia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "astenia",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la mayor parte de los casos de astenia se deben a causas psíquicas, y solo unas pocas a causas orgánicas"
+                                        },
+                                        {
+                                            "text": "terminada la guerra civil, reinaba una especial situación de astenia intelectual en los ámbitos académicos"
+                                        }
+                                    ],
+                                    "id": "id94b20cf5-36e5-43d1-a268-dd4e3a986110"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "astenia"
+                }
+            ],
+            "type": "headword",
+            "word": "astenia"
+        }
+    ],
+    "word": "astenia"
+}{
+    "id": "arcada",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "arcada",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la víctima bebió y devolvió aquel brebaje entre convulsas arcadas"
+                                        }
+                                    ],
+                                    "id": "id3f414c43-abe3-4d9b-8f36-e2eb8c97c85b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "arcada"
+                }
+            ],
+            "type": "headword",
+            "word": "arcada"
+        },
+        {
+            "id": "arcada",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la fachada de la iglesia está compuesta por una doble arcada superpuesta"
+                                        }
+                                    ],
+                                    "id": "id585d31e7-0946-4464-9124-c938d757c2f1"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "arcada"
+                }
+            ],
+            "type": "headword",
+            "word": "arcada"
+        }
+    ],
+    "word": "arcada"
+}{
+    "id": "drupa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "drupa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el durazno, la cereza y la aceituna son drupas"
+                                        }
+                                    ],
+                                    "id": "id77640c3c-97b2-47dd-b879-dc2ff1cf9f5a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "drupa"
+                }
+            ],
+            "type": "headword",
+            "word": "drupa"
+        }
+    ],
+    "word": "drupa"
+}{
+    "id": "socalina",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "socali%C3%B1a",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "socaliña"
+                }
+            ],
+            "type": "headword",
+            "word": "socaliña"
+        }
+    ],
+    "word": "socaliña"
+}{
+    "id": "enardecer",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "enardecer",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "sus sermones enardecían a las muchedumbres ávidas de santidad"
+                                        },
+                                        {
+                                            "text": "con sus imágenes aspira a excitar la sensibilidad y enardecer la imaginación"
+                                        },
+                                        {
+                                            "text": "los ánimos se enardecieron y todos empezaron a gritar"
+                                        }
+                                    ],
+                                    "id": "ida2fe3be1-2be3-471f-b39e-bc2809ef9317"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "enardecer"
+                }
+            ],
+            "type": "headword",
+            "word": "enardecer"
+        }
+    ],
+    "word": "enardecer"
 }
