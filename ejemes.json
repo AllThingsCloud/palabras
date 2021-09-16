@@ -12016,4 +12016,175 @@
         }
     ],
     "word": "enardecer"
+}{
+    "id": "celiaco",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cel%C3%ADaco",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la celíaca es una enfermedad más propia de la infancia que de la edad adulta"
+                                        },
+                                        {
+                                            "text": "la sensibilidad al gluten del trigo provoca la enfermedad celíaca"
+                                        }
+                                    ],
+                                    "id": "id073d3b06-f754-4ac6-aaa8-1385b48484b7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "plexo celíaco"
+                                        },
+                                        {
+                                            "text": "arteria celíaca"
+                                        }
+                                    ],
+                                    "id": "id1a1d2514-98e6-4013-9528-59125f6ecd76"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "celíaco"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la celíaca es una enfermedad más propia de la infancia que de la edad adulta"
+                                        },
+                                        {
+                                            "text": "la sensibilidad al gluten del trigo provoca la enfermedad celíaca"
+                                        }
+                                    ],
+                                    "id": "id073d3b06-f754-4ac6-aaa8-1385b48484b7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "celíaco"
+                }
+            ],
+            "type": "headword",
+            "word": "celíaco"
+        }
+    ],
+    "word": "celíaco"
+}{
+    "id": "porron",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "porr%C3%B3n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "lo recibieron con saludos cariñosos y los más osados le ofrecieron hasta un porrón de vino, del que bebió con gran pericia"
+                                        }
+                                    ],
+                                    "id": "id463330a7-52ac-4458-9f58-b3760d066c90"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "porrón"
+                }
+            ],
+            "type": "headword",
+            "word": "porrón"
+        },
+        {
+            "id": "porr%C3%B3n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200"
+                        },
+                        {
+                            "homographNumber": "201"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "porrón"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "202",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los porrones son torpes al andar pero bucean y vuelan a gran velocidad"
+                                        }
+                                    ],
+                                    "id": "id0e2db114-5ee0-466a-b915-8d00f1cab336"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "porrón"
+                }
+            ],
+            "type": "headword",
+            "word": "porrón"
+        }
+    ],
+    "word": "porrón"
 }
