@@ -5631,25 +5631,15 @@
 "enardecer"
 "Excitar o avivar algo, especialmente un sentimiento, el entusiasmo o el apetito sexual, en una persona"
 "enardecer"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "hidalgo"
 "[persona] Que es generoso y noble"
 "Que es propio de estas personas"
 "De esta persona o relacionado con ella"
 "Persona que pertenecía a la pequeña nobleza castellana"
 "hidalgo"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "fábula"
 "Relato o composición literaria en prosa o en verso que proporciona una enseñanza o consejo moral"
 "Leyenda que narra las acciones de los dioses o héroes de la Antigüedad"
 "Relato inventado"
 "Información no comprobada que la gente dice o cuenta"
 "fábula"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
