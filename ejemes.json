@@ -12187,4 +12187,100 @@
         }
     ],
     "word": "porrón"
+}{
+    "id": "estulto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "estulto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "estulto"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "estulto"
+                }
+            ],
+            "type": "headword",
+            "word": "estulto"
+        }
+    ],
+    "word": "estulto"
+}{
+    "id": "grajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "grajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "grajo"
+                }
+            ],
+            "type": "headword",
+            "word": "grajo"
+        },
+        {
+            "id": "grajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el grajo tiene la voz menos ronca que la corneja"
+                                        }
+                                    ],
+                                    "id": "idf5f5e2ed-ff14-42bd-bf65-b87897e552a1"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "grajo"
+                }
+            ],
+            "type": "headword",
+            "word": "grajo"
+        }
+    ],
+    "word": "grajo"
 }
