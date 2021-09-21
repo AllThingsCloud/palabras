@@ -12283,4 +12283,396 @@
         }
     ],
     "word": "grajo"
+}{
+    "id": "fementido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fementido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "fementido"
+                }
+            ],
+            "type": "headword",
+            "word": "fementido"
+        }
+    ],
+    "word": "fementido"
+}{
+    "id": "avieso",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "avieso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una aviesa estrategia"
+                                        },
+                                        {
+                                            "text": "protestamos indignados contra la comisión de los delitos y contra la intención aviesa de cargárnoslos en cuenta"
+                                        },
+                                        {
+                                            "text": "Celia era el soldado mayor, el más avieso e intrépido, el más bello también"
+                                        }
+                                    ],
+                                    "id": "id206cf2a3-84fe-4385-a612-5ad78330a324"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "avieso"
+                }
+            ],
+            "type": "headword",
+            "word": "avieso"
+        }
+    ],
+    "word": "avieso"
+}{
+    "id": "irrision",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "irrisi%C3%B3n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la gente halla placer en las formas y colores de aquellas imágenes que antes eran objeto de general irrisión"
+                                        }
+                                    ],
+                                    "id": "id2af2b9fa-4260-4049-a69a-203449f98d18"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "irrisión"
+                }
+            ],
+            "type": "headword",
+            "word": "irrisión"
+        }
+    ],
+    "word": "irrisión"
+}{
+    "id": "vagido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "vagido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se emocionó al oír los primeros vagidos de su hijo"
+                                        }
+                                    ],
+                                    "id": "id6421cdfa-5fb7-4544-9c58-f7ee04d53cc3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "vagido"
+                }
+            ],
+            "type": "headword",
+            "word": "vagido"
+        }
+    ],
+    "word": "vagido"
+}{
+    "id": "adarga",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "adarga",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "don Quijote era un hidalgo caballero de los de adarga antigua, rocín flaco y galgo corredor"
+                                        }
+                                    ],
+                                    "id": "idd335d2bb-00b0-4b7d-964b-1f259a724ebe"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "adarga"
+                }
+            ],
+            "type": "headword",
+            "word": "adarga"
+        }
+    ],
+    "word": "adarga"
+}{
+    "id": "donaire",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "donaire",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "después de ensayarlo varias veces, podemos decir que la mascota llevará la antorcha con verdadero donaire"
+                                        }
+                                    ],
+                                    "id": "idfb7d26dc-ce85-47fc-aa99-e2daae166ec7"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "acostumbraban a reír mis donaires y mis gracias"
+                                        }
+                                    ],
+                                    "id": "id2d5147f8-b706-49d2-ad91-b8b31e38c937"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "donaire"
+                }
+            ],
+            "type": "headword",
+            "word": "donaire"
+        }
+    ],
+    "word": "donaire"
+}{
+    "id": "yantar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "yantar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "yantaron un magnífico cordero asado en la posada"
+                                        }
+                                    ],
+                                    "id": "idf25e9906-c508-4b41-bcfb-500586c03d7f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "yantar"
+                }
+            ],
+            "type": "headword",
+            "word": "yantar"
+        },
+        {
+            "id": "yantar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "si se echar al camino busque buena compañía: el vino para la sed, el pan y el queso a la hora del yantar y el trotecillo del perro amigo"
+                                        }
+                                    ],
+                                    "id": "id8a5c7bc8-681e-4626-b249-64d628ab70f8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "yantar"
+                }
+            ],
+            "type": "headword",
+            "word": "yantar"
+        }
+    ],
+    "word": "yantar"
+}{
+    "id": "profano",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "profano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tema profano"
+                                        },
+                                        {
+                                            "text": "canciones populares profanas"
+                                        },
+                                        {
+                                            "text": "destacó por su poesía de temas tanto religiosos como profanos"
+                                        }
+                                    ],
+                                    "id": "id1dbcfa0c-fd32-49c3-8a95-9c35978c5297"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ser profano en la materia"
+                                        }
+                                    ],
+                                    "id": "id42667712-1a77-4ded-ab9f-ce91d2a2b9e8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "profano"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ser profano en la materia"
+                                        }
+                                    ],
+                                    "id": "id42667712-1a77-4ded-ab9f-ce91d2a2b9e8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "profano"
+                }
+            ],
+            "type": "headword",
+            "word": "profano"
+        }
+    ],
+    "word": "profano"
 }
