@@ -12675,4 +12675,348 @@
         }
     ],
     "word": "profano"
+}{
+    "id": "soldada",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "soldada",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "soldada"
+                }
+            ],
+            "type": "headword",
+            "word": "soldada"
+        }
+    ],
+    "word": "soldada"
+}{
+    "id": "abigarrado",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "abigarrado",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un cuadro abigarrado"
+                                        }
+                                    ],
+                                    "id": "id83527142-cde5-4192-8642-ee97d72d0e73"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un discurso abigarrado e incomprensible"
+                                        },
+                                        {
+                                            "text": "alrededor nuestro bullía un público abigarrado"
+                                        },
+                                        {
+                                            "text": "pululaba por allí un creciente reflujo humano principalmente abastecido por una abigarrada tropa de inmigrantes"
+                                        }
+                                    ],
+                                    "id": "id32062e4f-ac95-4811-8a67-c8a6fdbe3316"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "abigarrado"
+                }
+            ],
+            "type": "headword",
+            "word": "abigarrado"
+        }
+    ],
+    "word": "abigarrado"
+}{
+    "id": "patrana",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "patra%C3%B1a",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ante tal rosario de patrañas, enredos y anales de disparates opté por ignorarlo"
+                                        },
+                                        {
+                                            "text": "ya no creía en nada y le parecían patrañas las consignas que animaron su paso y su talante al frente de la tropa"
+                                        }
+                                    ],
+                                    "id": "id5b347d60-78b1-476d-91d9-6ad2bb059067"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "patraña"
+                }
+            ],
+            "type": "headword",
+            "word": "patraña"
+        }
+    ],
+    "word": "patraña"
+}{
+    "id": "ampo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ampo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ampo"
+                }
+            ],
+            "type": "headword",
+            "word": "ampo"
+        }
+    ],
+    "word": "ampo"
+}{
+    "id": "pancismo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pancismo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su principio no era otro que el pancismo y además lo manifestaba sin rubor"
+                                        }
+                                    ],
+                                    "id": "id132a1660-89d5-4468-b05a-f862eb8819d3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pancismo"
+                }
+            ],
+            "type": "headword",
+            "word": "pancismo"
+        }
+    ],
+    "word": "pancismo"
+}{
+    "id": "bruno",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "bruno",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bruno"
+                }
+            ],
+            "type": "headword",
+            "word": "bruno"
+        },
+        {
+            "id": "bruno",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "a poco de andar vino a escuchar palabras no del todo irreconocibles, emitidas por dos muchachos brunos y cenceños"
+                                        },
+                                        {
+                                            "text": "la belleza del gofrado consiste sustancialmente en acertar con el color tostado y bruno que diga bien con las calidades cromáticas de la piel utilizada"
+                                        }
+                                    ],
+                                    "id": "id78b3018c-a696-431d-af98-6e6b07c3e508"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "bruno"
+                }
+            ],
+            "type": "headword",
+            "word": "bruno"
+        },
+        {
+            "id": "bru%C3%B1o",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bruño"
+                }
+            ],
+            "type": "headword",
+            "word": "bruño"
+        }
+    ],
+    "word": "bruno"
+}{
+    "id": "toponimo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "top%C3%B3nimo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'Amazonas' y 'Bélgica' son topónimos"
+                                        }
+                                    ],
+                                    "id": "idde49f207-1abf-40d7-85ba-662b83cebd0b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "topónimo"
+                }
+            ],
+            "type": "headword",
+            "word": "topónimo"
+        }
+    ],
+    "word": "topónimo"
+}{
+    "id": "jayan",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "jay%C3%A1n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "jayán"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "jayán"
+                }
+            ],
+            "type": "headword",
+            "word": "jayán"
+        }
+    ],
+    "word": "jayán"
 }
