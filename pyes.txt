@@ -5826,3 +5826,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "[época, tiempo] Que es memorable, especialmente aquel en el que se ha hecho un gran esfuerzo para sacar adelante una cosa"
 "[poema, literatura] Que relata con énfasis y entusiasmo grandes hazañas y proezas memorables"
 "heroico"
+"filipina"
+"Camisa de dril, sin solapas, botones al frente y cuello alto, que usan los hombres"
+"filipina"
