@@ -13019,4 +13019,30 @@
         }
     ],
     "word": "jayán"
+}{
+    "id": "ana",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ana",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ana"
+                }
+            ],
+            "type": "headword",
+            "word": "ana"
+        }
+    ],
+    "word": "ana"
 }
