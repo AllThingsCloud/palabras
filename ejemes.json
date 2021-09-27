@@ -13088,4 +13088,52 @@
         }
     ],
     "word": "denuedo"
+}{
+    "id": "goliardo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "goliardo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los goliardos cantaban a la naturaleza y a las riquezas, y exaltaban el vino y las mujeres"
+                                        }
+                                    ],
+                                    "id": "id86dddd09-5bc0-4fcb-8457-476e6321b0ac"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "goliardo"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "goliardo"
+                }
+            ],
+            "type": "headword",
+            "word": "goliardo"
+        }
+    ],
+    "word": "goliardo"
 }
