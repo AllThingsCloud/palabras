@@ -13045,4 +13045,47 @@
         }
     ],
     "word": "ana"
+}{
+    "id": "denuedo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "denuedo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "fue preciso luchar con verdadero denuedo"
+                                        },
+                                        {
+                                            "text": "se trataba de causas apoyadas con denuedo"
+                                        }
+                                    ],
+                                    "id": "id44b13b21-da89-4566-9243-1085031689be"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "denuedo"
+                }
+            ],
+            "type": "headword",
+            "word": "denuedo"
+        }
+    ],
+    "word": "denuedo"
 }
