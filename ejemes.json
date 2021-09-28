@@ -13136,4 +13136,92 @@
         }
     ],
     "word": "goliardo"
+}{
+    "id": "gruir",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gruir",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "gruir"
+                }
+            ],
+            "type": "headword",
+            "word": "gruir"
+        }
+    ],
+    "word": "gruir"
+}{
+    "id": "sandio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sandio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "más de seis horas de televisión al día lo han vuelto aún más sandio"
+                                        }
+                                    ],
+                                    "id": "id22ec3a2f-0411-4235-a539-6c343c6aa679"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sandio"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "más de seis horas de televisión al día lo han vuelto aún más sandio"
+                                        }
+                                    ],
+                                    "id": "id22ec3a2f-0411-4235-a539-6c343c6aa679"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sandio"
+                }
+            ],
+            "type": "headword",
+            "word": "sandio"
+        }
+    ],
+    "word": "sandio"
 }
