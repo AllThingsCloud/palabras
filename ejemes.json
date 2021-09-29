@@ -13224,4 +13224,52 @@
         }
     ],
     "word": "sandio"
+}{
+    "id": "uxoricida",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "uxoricida",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "propósitos uxoricidas"
+                                        }
+                                    ],
+                                    "id": "id1075a859-2b9b-442e-af70-c8e418e19c0f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "uxoricida"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "uxoricida"
+                }
+            ],
+            "type": "headword",
+            "word": "uxoricida"
+        }
+    ],
+    "word": "uxoricida"
 }

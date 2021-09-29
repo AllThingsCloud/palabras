@@ -5846,3 +5846,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "[persona] Que es ignorante o simple, que hace sandeces"
 "[persona] Que es ignorante o simple, que hace sandeces"
 "sandio"
+"gavilla"
+"Conjunto de ramas o tallos unidos o atados por su centro, más grande que un manojo y más pequeño que un haz"
+"Conjunto de personas, especialmente si son de baja condición"
+"gavilla"
