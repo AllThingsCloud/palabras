@@ -5689,8 +5689,6 @@
 "Conjunto de animales de carga que se llevan juntos en el transporte de mercancías"
 "Grupo numeroso de personas o cosas que van o siguen unas detrás de otras"
 "recua"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "badulaque"
 "[persona] Que es informal y poco juicioso"
 "[persona] Que es informal y poco juicioso"
@@ -5751,10 +5749,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "Parte central del día que comprende un período de duración imprecisa alrededor de las doce de la mañana; suele considerarse desde las doce de la mañana hasta la hora de la comida, entre dos y tres aproximadamente"
 "Sur, punto del horizonte, y parte de un país o de una región que está más al sur"
 "mediodía"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "menesteroso"
 "[persona] Que no tiene lo necesario para vivir o lo tiene con escasez"
 "[persona] Que necesita lo que se expresa"
@@ -5782,8 +5776,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "pulular"
 "Abundar y moverse mucho en un lugar [personas, animales o cosas]"
 "pulular"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "pancismo"
 "Tendencia o actitud de la persona que acomoda su comportamiento a lo que cree más conveniente y menos arriesgado para su provecho y tranquilidad"
 "pancismo"
@@ -5793,10 +5785,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "Lameculos"
 "[persona] Que acusa o delata a alguien, o informa de manera secreta acerca de algo"
 "lambiscón"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "repelús"
 "Sensación producida por repugnancia, temor o desagrado que se experimenta hacia una cosa"
 "Escalofrío que produce esa sensación"
@@ -5808,8 +5796,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "Ciruela pequeña y muy negra"
 "Árbol que da esta ciruela"
 "bruno"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "jayán"
 "Persona muy fuerte y de gran estatura"
 "Rufián o delincuente respetado por los demás"
@@ -5901,8 +5887,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "[persona] Que es de Escocia"
 "Lengua céltica que se habla en este país"
 "escocés"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "tulipán"
 "Planta de jardín erguida de hojas anchas y largas y tallo liso y recto, en cuyo extremo nace una única flor en primavera"
 "Flor de esta planta, grande y globosa, de forma acampanada, más cerrada por el extremo que por la base de los pétalos, y colores fuertes y brillantes"
@@ -5928,3 +5912,17 @@ parse error: Invalid numeric literal at line 1, column 17
 "Máquina generalmente hidráulica, compuesta de gruesos mazos de madera movidos por un eje, que sirve para golpear, desengrasar y enfurtir paños y tejidos"
 "Edificio en que funciona esta máquina"
 "batán"
+"trochemoche"
+"endriago"
+"Monstruo fabuloso con rasgos humanos y animales"
+"endriago"
+"vestiglo"
+"Monstruo horrible y fantástico"
+"vestiglo"
+"barrunto"
+"Sensación o sospecha de que algo va a ocurrir"
+"Indicio, generalmente negativo"
+"barrunto"
+"exorbitante"
+"Que supera lo que se considera normal o razonable"
+"exorbitante"
