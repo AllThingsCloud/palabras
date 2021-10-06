@@ -5926,10 +5926,6 @@
 "exorbitante"
 "Que supera lo que se considera normal o razonable"
 "exorbitante"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "chantar"
 "Decir a alguien determinadas cosas de forma clara y rotunda para que no le queden dudas"
 "Lanzar una cosa con fuerza hacia alguien o algo"
