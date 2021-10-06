@@ -13272,4 +13272,78 @@
         }
     ],
     "word": "uxoricida"
+}{
+    "id": "chantar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chantar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "le chanté todo lo que pensaba sobre su persona"
+                                        }
+                                    ],
+                                    "id": "id5f133929-3283-4d9c-af03-c02fbc678dd2"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "le chantó un tortazo que lo dejó tonto"
+                                        }
+                                    ],
+                                    "id": "id411630c8-ab34-4472-a903-39c6e5c1f77b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "chantar"
+                }
+            ],
+            "type": "headword",
+            "word": "chantar"
+        }
+    ],
+    "word": "chantar"
+}{
+    "id": "codicilo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "codicilo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "codicilo"
+                }
+            ],
+            "type": "headword",
+            "word": "codicilo"
+        }
+    ],
+    "word": "codicilo"
 }
