@@ -5940,3 +5940,7 @@
 "Mar"
 "Gran cantidad o gran extensión de la cosa que se expresa a continuación"
 "piélago"
+"divulgar"
+"Hacer que un hecho, una noticia, una lengua, un conjunto de conocimientos, etc., llegue a conocimiento de muchas personas"
+"Hacer que una información secreta o escondida deje de serlo"
+"divulgar"
