@@ -13346,4 +13346,52 @@
         }
     ],
     "word": "codicilo"
+}{
+    "id": "jaca",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "jaca",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el jinete montaba una bella jaca alazana"
+                                        }
+                                    ],
+                                    "id": "ida77e98c6-532d-4e38-8d17-b073d53d7dd3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tenía una jaca árabe, muy adecuada para el salto por su poco peso"
+                                        }
+                                    ],
+                                    "id": "id8805252a-cd77-4b5a-ad19-2a9a59e12448"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "jaca"
+                }
+            ],
+            "type": "headword",
+            "word": "jaca"
+        }
+    ],
+    "word": "jaca"
 }
