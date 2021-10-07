@@ -5950,8 +5950,6 @@
 "alcotán"
 "Halcón de unos 30 cm de longitud, plumaje gris oscuro en el dorso y blanco con manchas en el vientre, y pico y uñas fuertes; es un ave migratoria y se alimenta de alondras e insectos"
 "alcotán"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "jaca"
 "Yegua"
 "Caballo o yegua de poca altura"
@@ -5961,5 +5959,3 @@ parse error: Invalid numeric literal at line 1, column 17
 "malquisto"
 "[persona] Que está mal considerado o desacreditado por los demás"
 "malquisto"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
