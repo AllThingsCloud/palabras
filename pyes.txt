@@ -5961,3 +5961,5 @@ parse error: Invalid numeric literal at line 1, column 17
 "malquisto"
 "[persona] Que está mal considerado o desacreditado por los demás"
 "malquisto"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
