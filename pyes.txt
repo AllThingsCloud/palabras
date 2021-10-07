@@ -5958,3 +5958,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "Gallo de pelea al que se le dejan crecer los espolones"
 "Mujer atractiva y de buen físico"
 "jaca"
+"malquisto"
+"[persona] Que está mal considerado o desacreditado por los demás"
+"malquisto"

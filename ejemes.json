@@ -13394,4 +13394,84 @@
         }
     ],
     "word": "jaca"
+}{
+    "id": "malquisto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "malquisto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "desde que estuvo en la cárcel es un hombre malquisto de todos"
+                                        }
+                                    ],
+                                    "id": "id55009638-7502-45f4-8dd9-3b14efd322a5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "malquisto"
+                }
+            ],
+            "type": "headword",
+            "word": "malquisto"
+        }
+    ],
+    "word": "malquisto"
+}{
+    "id": "eufemismo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "eufemismo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'trasero' es un eufemismo de 'culo'"
+                                        }
+                                    ],
+                                    "id": "ida1b8cca4-9c6b-4d41-b54d-085159df2f7a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "eufemismo"
+                }
+            ],
+            "type": "headword",
+            "word": "eufemismo"
+        }
+    ],
+    "word": "eufemismo"
 }
