@@ -1,41 +1,42 @@
 20668 que
-18145 de
+18147 de
 17249 y
+10373 a
 10331 la
-9641 a
 8016 el
-7951 en
-5804 no
-4757 se
+7961 en
+6626 se
+5806 no
 4702 los
 4126 con
 3784 por
 3440 las
+3425 le
 3424 lo
-3418 le
 3356 su
 2602 don
 2502 del
 2345 me
 2251 como
-2230 Quijote
+2232 Quijote
 2171 Sancho
-2089 es
+2095 es
 2042 más
 1933 un
 1857 yo
 1799 si
 1789 dijo
-1713 al
+1781 al
 1685 mi
+1646 o
 1433 para
-1352 ni
+1406 ni
 1333 porque
 1324 una
 1253 él
 1221 tan
-1208 o
 1141 sin
+1137 or
 1086 todo
 1059 ser
 1053 respondió
@@ -44,43 +45,42 @@
 1030 había
 1023 Y
  965 bien
- 950 señor
  905 así
  900 merced
  849 esto
  813 vuestra
  797 todos
  759 pero
- 741 era
- 726 te
+ 746 era
+ 727 te
  712 cuando
  703 cual
  702 qué
  700 ya
  694 sino
  673 dos
+ 669 os
  640 fue
  639 pues
  627 donde
  617 quien
  610 este
- 596 esta
+ 599 esta
  584 caballero
  577 decir
  576 ella
  548 No
  535 hacer
+ 534 ora
  530 muy
  530 he
  525 aunque
  518 Dios
  513 otra
- 504 señora
  503 otro
  502 mí
  482 aquel
  481 son
- 464 os
  464 aquí
  463 hay
  462 estaba
@@ -120,6 +120,7 @@
  343 tenía
  340 uno
  332 casa
+ 332 as
  330 En
  329 manera
  328 aquella
@@ -132,8 +133,8 @@
  311 ahora
  305 puesto
  304 mano
- 298 amo
- 293 A
+ 299 amo
+ 298 A
  292 dio
  292 caballeros
  289 ellos
@@ -218,12 +219,15 @@
  193 pie
  193 debe
  191 mil
+ 191 due
+ 191 da
  190 vez
  190 duquesa
  189 mío
  189 eran
  186 primero
  186 después
+ 184 desde
  183 decía
  181 nombre
  179 voz
@@ -237,9 +241,9 @@
  171 gobernador
  171 barbero
  170 adelante
+ 169 the
  169 Si
  166 nada
- 163 desde
  163 Toboso
  162 sido
  162 según
@@ -247,7 +251,6 @@
  162 estar
  162 dado
  162 andantes
- 161 the
  161 Por
  160 voluntad
  160 aventura
@@ -259,11 +262,13 @@
  157 armas
  156 aquellos
  155 ventura
+ 154 ir
  153 tales
  153 rostro
  153 cuatro
  153 alma
  151 razón
+ 151 ores
  151 entender
  150 quiso
  150 mas
@@ -283,7 +288,6 @@
  147 Qué
  146 fueron
  145 siempre
- 144 señores
  144 mía
  143 puso
  143 deste
@@ -294,13 +298,13 @@
  142 hermosa
  142 cuerpo
  142 alguno
+ 142 Se
  142 Lotario
  142 La
  141 suerte
  141 suelo
  141 quiere
  141 jamás
- 141 ir
  141 corazón
  140 nuestra
  138 muerte
@@ -311,7 +315,6 @@
  137 pies
  137 ninguna
  137 nadie
- 137 años
  137 agora
  136 persona
  135 Fernando
@@ -343,6 +346,7 @@
  123 posible
  123 hermosura
  123 contra
+ 123 compa
  122 libro
  121 cierto
  119 rucio
@@ -359,19 +363,19 @@
  116 están
  115 hacía
  115 fama
- 115 Señor
  114 venir
  114 sería
  114 nuevo
- 114 da
  113 haya
+ 113 ese
  113 dejar
  112 Dorotea
  111 tantas
- 111 ese
  111 ello
+ 111 do
  111 casi
  111 bachiller
+ 110 of
  110 loco
  110 habéis
  110 debía
@@ -380,6 +384,7 @@
  109 espada
  108 nosotros
  108 hora
+ 108 enga
  107 volver
  107 muerto
  107 intención
@@ -388,7 +393,6 @@
  106 tomar
  106 boca
  105 poder
- 105 of
  105 daba
  105 buscar
  104 pueblo
@@ -402,6 +406,7 @@
  102 lengua
  102 hombres
  102 buenos
+ 102 Don
  101 partes
  101 Que
  101 Cardenio
@@ -409,10 +414,10 @@
  100 pudo
  100 pareció
  100 medio
+ 100 ma
  100 llevar
  100 estado
  100 ciudad
- 100 Don
   99 unas
   99 tantos
   99 lágrimas
@@ -429,6 +434,7 @@
   97 adonde
   96 quería
   96 pienso
+  96 e
   96 aquellas
   95 vista
   95 orden
@@ -442,6 +448,7 @@
   94 oro
   94 ninguno
   94 bueno
+  94 acompa
   93 viene
   93 primera
   93 aposento
@@ -462,9 +469,11 @@
   90 Mas
   89 sabía
   89 pudiera
+  89 estra
   89 cuento
   88 pensar
   87 mozo
+  87 ana
   86 traía
   86 trabajo
   86 suele
@@ -476,7 +485,6 @@
   85 valor
   85 puerta
   85 pecho
-  85 mañana
   85 habiendo
   85 Ya
   84 pueden
@@ -484,13 +492,15 @@
   84 diablo
   84 batalla
   84 autor
+  84 Project
+  84 Gutenberg
   84 Eso
+  83 ti
   83 nuevas
   83 juicio
   83 dé
   83 cuya
   82 vuestras
-  82 ti
   82 sucesos
   82 sazón
   82 salió
@@ -500,8 +510,6 @@
   82 cuantos
   82 campo
   81 dejó
-  81 Project
-  81 Gutenberg
   80 quisiera
   80 peligro
   80 pasó
@@ -510,10 +518,10 @@
   80 desgracia
   80 caballerías
   80 apenas
+  80 Espa
   79 tenga
   79 sean
   79 pueda
-  79 dueña
   78 pensamiento
   78 marido
   78 honra
@@ -526,24 +534,24 @@
   77 misma
   77 locura
   77 eres
-  77 doña
   77 aún
   77 Sansón
+  76 to
   76 mercedes
   76 discreto
   76 debajo
+  76 ama
   76 agua
   75 valeroso
-  75 to
   75 suceso
   75 silencio
   75 remedio
   75 nuestros
   75 hubiera
+  75 haza
   75 hacen
   75 brazo
   75 Finalmente
-  75 España
   74 sucedió
   74 sol
   74 semejantes
@@ -555,10 +563,8 @@
   74 licencia
   74 jumento
   74 criado
-  74 ama
   73 priesa
   73 hoy
-  73 e
   73 deseos
   73 Digo
   72 reino
@@ -573,10 +579,10 @@
   71 doncellas
   71 cuán
   70 padres
-  70 or
   70 labrador
   70 hicieron
   70 estando
+  70 and
   69 vestido
   69 venían
   69 quisiere
@@ -592,16 +598,15 @@
   67 suya
   67 pasado
   67 mayores
-  67 hazañas
   67 discurso
   67 creer
-  67 and
   66 tenido
   66 tenían
   66 leer
   66 hago
   66 gracias
   66 espaldas
+  66 edad
   66 ánimo
   66 andar
   66 amigos
@@ -610,6 +615,7 @@
   65 virtud
   65 silla
   65 sangre
+  65 peque
   65 pan
   65 oír
   65 muestras
@@ -623,23 +629,22 @@
   64 principio
   64 llamaba
   64 lanza
+  64 ía
   64 entró
   64 encantadores
   64 criados
   64 Altisidora
-  63 señal
   63 hemos
   63 enemigo
   63 enamorado
-  63 edad
   63 culpa
   62 valiente
   62 temor
   62 maese
+  62 in
   62 fortuna
   62 dormir
   62 dije
-  62 daño
   62 Porque
   62 Carrasco
   61 resolución
@@ -649,7 +654,6 @@
   61 obra
   61 hijos
   61 consigo
-  61 compañía
   61 azotes
   60 vea
   60 tuviese
@@ -658,11 +662,11 @@
   60 provecho
   60 par
   60 ningún
-  60 in
   60 haciendo
   60 dolor
   60 diez
   60 diese
+  60 ado
   59 veo
   59 triste
   59 trata
@@ -673,7 +677,9 @@
   59 hambre
   59 dónde
   59 aldea
+  58 you
   58 vieron
+  58 vi
   58 suelen
   58 presente
   58 paz
@@ -710,8 +716,6 @@
   56 ante
   56 alta
   56 Es
-  55 you
-  55 vi
   55 verde
   55 veinte
   55 reales
@@ -734,7 +738,6 @@
   54 llamar
   54 habrá
   54 esperando
-  54 dueñas
   54 darle
   54 carro
   54 aire
@@ -750,12 +753,14 @@
   53 mira
   53 miedo
   53 hacienda
+  53 entra
   53 dejando
   53 cuidado
   53 ansí
   53 Montesinos
   53 Basilio
   52 verdadero
+  52 sue
   52 sucedido
   52 responder
   52 quieres
@@ -784,6 +789,7 @@
   50 ruido
   50 puesta
   50 presentes
+  50 oras
   50 moros
   50 iban
   50 fuerzas
@@ -792,7 +798,6 @@
   50 Roque
   49 voy
   49 supo
-  49 señoras
   49 salud
   49 respuesta
   49 pesar
@@ -814,6 +819,7 @@
   48 término
   48 pesadumbre
   48 nuestras
+  48 monta
   48 género
   48 dices
   48 cueva
@@ -821,6 +827,7 @@
   48 Triste
   48 Figura
   48 Cómo
+  47 with
   47 vuelto
   47 pusieron
   47 propósito
@@ -838,11 +845,9 @@
   47 cinco
   47 cargo
   47 aquél
-  47 año
   47 acá
   46 viento
   46 venido
-  46 sueño
   46 sabes
   46 primo
   46 imaginación
@@ -851,7 +856,6 @@
   46 esté
   46 especialmente
   46 entiendo
-  46 dueño
   46 darme
   46 cortesía
   46 conocer
@@ -861,7 +865,6 @@
   46 amores
   46 albarda
   46 Cuando
-  45 with
   45 tuvieron
   45 todavía
   45 tarde
@@ -876,6 +879,7 @@
   45 escudos
   45 esas
   45 contó
+  45 ca
   45 Rodríguez
   45 Las
   44 work
@@ -923,17 +927,19 @@
   42 linaje
   42 imposible
   42 fuerte
+  42 ales
   41 viaje
   41 traje
-  41 señas
   41 seguro
   41 segunda
+  41 pu
   41 pidió
   41 pedir
   41 oyeron
   41 mías
   41 lleva
   41 jardín
+  41 esos
   41 escribir
   41 duques
   41 armado
@@ -953,12 +959,12 @@
   40 malos
   40 leyes
   40 hiciese
-  40 esos
   40 desdichado
   40 costumbre
   40 contrario
   40 canónigo
   40 cama
+  40 ar
   40 alegre
   40 alcanzar
   40 admiración
@@ -966,13 +972,14 @@
   39 vienen
   39 uso
   39 tornó
-  39 señales
+  39 this
   39 rodillas
   39 podían
   39 pide
   39 míos
   39 mentira
   39 leguas
+  39 ense
   39 discreta
   39 dientes
   39 dama
@@ -1002,7 +1009,6 @@
   37 viese
   37 vamos
   37 tuviera
-  37 this
   37 ste
   37 sala
   37 paciencia
@@ -1035,6 +1041,7 @@
   36 reyes
   36 pasos
   36 palos
+  36 pa
   36 obligado
   36 morir
   36 labradora
@@ -1061,8 +1068,6 @@
   35 haría
   35 guardar
   35 éstos
-  35 entrañas
-  35 engaño
   35 encantador
   35 doce
   35 decían
@@ -1089,7 +1094,6 @@
   34 hice
   34 hacerse
   34 facilidad
-  34 do
   34 desto
   34 dellas
   34 damas
@@ -1139,6 +1143,7 @@
   32 mancebo
   32 hablando
   32 esperaba
+  32 ero
   32 deseaba
   32 deje
   32 daban
@@ -1179,6 +1184,7 @@
   31 echó
   31 dirá
   31 diera
+  31 desenga
   31 derecho
   31 dejase
   31 dejaron
@@ -1202,6 +1208,7 @@
   30 quitó
   30 prometido
   30 ponga
+  30 pe
   30 mulas
   30 llorar
   30 llegaba
@@ -1211,8 +1218,8 @@
   30 guarda
   30 gigantes
   30 forzoso
-  30 estraña
   30 éstas
+  30 eros
   30 encantada
   30 doctor
   30 diferentes
@@ -1230,6 +1237,7 @@
   29 villano
   29 tomado
   29 términos
+  29 so
   29 puertas
   29 poetas
   29 pendencia
@@ -1260,9 +1268,9 @@
   28 quiera
   28 promesas
   28 plaza
-  28 pequeño
   28 partida
   28 pareciéndole
+  28 oría
   28 nuevos
   28 nombres
   28 narices
@@ -1274,16 +1282,19 @@
   28 ínsulas
   28 infierno
   28 infanta
+  28 ido
   28 hallé
   28 hablado
   28 gobernar
   28 famosa
+  28 espa
   28 derecha
   28 cuyas
   28 confuso
   28 compadre
   28 calidad
   28 barco
+  28 ba
   28 ánima
   28 agradable
   28 acabado
@@ -1318,6 +1329,7 @@
   27 estómago
   27 esperanzas
   27 escudo
+  27 enza
   27 empresa
   27 electronic
   27 determinó
@@ -1335,6 +1347,7 @@
   27 aliento
   27 aguas
   27 acerca
+  27 Ni
   26 viéndose
   26 valientes
   26 traza
@@ -1344,10 +1357,10 @@
   26 quedan
   26 puestos
   26 piernas
-  26 pequeña
   26 pensativo
   26 penitencia
   26 pedía
+  26 not
   26 mover
   26 médico
   26 matar
@@ -1362,7 +1375,6 @@
   26 hacerme
   26 firme
   26 estudiante
-  26 estraño
   26 digna
   26 diablos
   26 desnudo
@@ -1393,7 +1405,6 @@
   25 pobres
   25 piedra
   25 pecado
-  25 not
   25 necesario
   25 mostrar
   25 milagro
@@ -1417,13 +1428,16 @@
   25 conforme
   25 cierta
   25 castellano
-  25 caña
   25 calle
   25 caída
   25 caballos
+  25 by
   25 bosque
   25 bajel
-  25 Ni
+  25 arte
+  25 are
+  25 adió
+  25 ada
   25 Majestad
   25 Iglesia
   25 Gregorio
@@ -1446,7 +1460,6 @@
   24 perdido
   24 pechos
   24 patria
-  24 paño
   24 ordenó
   24 mentecato
   24 llegándose
@@ -1471,7 +1484,6 @@
   24 dará
   24 cuadrilleros
   24 conde
-  24 compañeros
   24 cielos
   24 caza
   24 carga
@@ -1494,15 +1506,15 @@
   23 volvía
   23 visorrey
   23 viéndole
-  23 vergüenza
+  23 verg
   23 venida
   23 veía
   23 usan
+  23 u
   23 toma
   23 tocar
   23 teniendo
   23 sitio
-  23 señoría
   23 saliese
   23 romance
   23 quise
@@ -1512,9 +1524,9 @@
   23 parecían
   23 liberal
   23 juntamente
+  23 is
   23 intento
   23 importa
-  23 ido
   23 harto
   23 habido
   23 golpes
@@ -1528,9 +1540,7 @@
   23 conocimiento
   23 celos
   23 cantidad
-  23 by
   23 blancas
-  23 arte
   23 arremetió
   23 además
   23 acertado
@@ -1573,7 +1583,6 @@
   22 luna
   22 llevo
   22 lenguas
-  22 is
   22 humilde
   22 haberse
   22 grave
@@ -1589,9 +1598,9 @@
   22 clara
   22 cabras
   22 ayer
-  22 are
-  22 añadió
+  22 an
   22 alegría
+  22 adas
   22 Sólo
   22 Roldán
   22 Hízolo
@@ -1631,6 +1640,7 @@
   21 hayan
   21 halla
   21 galeotes
+  21 for
   21 figuras
   21 estilo
   21 escritos
@@ -1655,6 +1665,7 @@
   21 Todos
   21 Sierra
   21 Sanchica
+  21 Miguel
   21 Hermandad
   21 Clara
   21 Blanca
@@ -1685,7 +1696,6 @@
   20 mozos
   20 movido
   20 mora
-  20 montaña
   20 mire
   20 miraban
   20 miraba
@@ -1698,7 +1708,6 @@
   20 hierro
   20 guía
   20 gallardo
-  20 for
   20 flor
   20 faltaba
   20 estuviera
@@ -1740,6 +1749,7 @@
   19 trance
   19 tocaba
   19 testamento
+  19 terms
   19 tengan
   19 sufrir
   19 sirva
@@ -1794,7 +1804,6 @@
   19 cueros
   19 corta
   19 copyright
-  19 compañero
   19 comida
   19 circunstantes
   19 ceremonias
@@ -1803,25 +1812,27 @@
   19 carreta
   19 carrera
   19 cara
+  19 campa
   19 camisa
   19 blanda
   19 bestias
   19 bendición
   19 autores
+  19 ando
   19 agravios
+  19 ag
   19 adarga
   19 acciones
   19 Sevilla
   19 Sea
   19 Morena
-  19 Miguel
   19 Melisendra
   19 Luna
   19 LA
   19 Dijo
   19 Cuanto
   19 Como
-  19 Clavileño
+  19 Clavile
   19 Claudia
   19 Benengeli
   19 Andrés
@@ -1829,7 +1840,6 @@
   18 voto
   18 veas
   18 usa
-  18 terms
   18 servicios
   18 saque
   18 salario
@@ -1853,7 +1863,6 @@
   18 pecados
   18 parientes
   18 necedades
-  18 montañas
   18 mirad
   18 manteles
   18 llenos
@@ -1872,8 +1881,6 @@
   18 freno
   18 escuadrón
   18 escondido
-  18 entra
-  18 engañado
   18 ducados
   18 despojos
   18 desear
@@ -1884,7 +1891,6 @@
   18 común
   18 casos
   18 canta
-  18 campaña
   18 cabreros
   18 breve
   18 bodas
@@ -1942,9 +1948,9 @@
   17 pasase
   17 parecerle
   17 palo
-  17 ora
   17 oí
   17 ofrecía
+  17 ó
   17 mortal
   17 menesterosos
   17 mármol
@@ -1966,6 +1972,7 @@
   17 estruendo
   17 espejo
   17 escribano
+  17 ermita
   17 entera
   17 enfermedad
   17 encina
@@ -1997,8 +2004,10 @@
   17 arzobispo
   17 antigua
   17 amantes
+  17 alas
   17 ajena
   17 agreement
+  17 ados
   17 acordó
   17 abundancia
   17 Vicente
@@ -2008,6 +2017,7 @@
   17 Micomicona
   17 Mambrino
   17 Ginés
+  17 Cervantes
   17 Berbería
   17 Barcelona
   16 volverse
@@ -2024,7 +2034,6 @@
   16 temer
   16 sosegado
   16 soga
-  16 so
   16 sirve
   16 seco
   16 seas
@@ -2102,10 +2111,10 @@
   16 atentamente
   16 antiguos
   16 ansimesmo
-  16 alas
   16 adorno
   16 Roma
   16 Marién
+  16 If
   16 Gaiferos
   16 Estaba
   16 Era
@@ -2144,6 +2153,7 @@
   15 remediar
   15 reír
   15 redonda
+  15 re
   15 puntos
   15 puntas
   15 propuso
@@ -2155,14 +2165,15 @@
   15 pedido
   15 palacios
   15 pago
+  15 other
   15 original
   15 noches
-  15 niñerías
   15 negros
   15 montes
   15 mirase
   15 mentiras
   15 mentir
+  15 may
   15 males
   15 llegan
   15 libres
@@ -2185,6 +2196,7 @@
   15 estima
   15 escuchaba
   15 escrúpulo
+  15 erías
   15 entretenimiento
   15 entrando
   15 duerme
@@ -2224,14 +2236,14 @@
   15 alabanza
   15 ajenas
   15 abrazó
+  15 United
   15 Todas
+  15 States
   15 Salamanca
   15 Llegaron
-  15 If
   15 Hecho
   15 Fue
   15 Félix
-  15 Cervantes
   15 Bueno
   14 zapatos
   14 vuesas
@@ -2262,7 +2274,6 @@
   14 razonable
   14 quienquiera
   14 quedaré
-  14 puñadas
   14 pudiesen
   14 procesión
   14 pro
@@ -2274,7 +2285,6 @@
   14 pido
   14 pidiese
   14 pendencias
-  14 peña
   14 pelear
   14 pase
   14 pasadas
@@ -2283,7 +2293,6 @@
   14 palma
   14 palacio
   14 ovejas
-  14 other
   14 olvidado
   14 olor
   14 negra
@@ -2296,7 +2305,6 @@
   14 mismas
   14 milagros
   14 medias
-  14 may
   14 manta
   14 maestro
   14 lleve
@@ -2353,11 +2361,12 @@
   14 apartó
   14 antiguo
   14 animal
-  14 añadidura
   14 alzando
+  14 alcornoque
   14 alcanzó
   14 ahínco
   14 afrenta
+  14 adidura
   14 acudieron
   14 acomodó
   14 abrir
@@ -2365,15 +2374,17 @@
   14 Quedó
   14 Pasamonte
   14 Madrid
+  14 DON
   14 Consejo
   14 Cecial
   13 visera
   13 verdes
   13 venideros
   13 valer
-  13 uñas
+  13 use
   13 that
   13 tardanza
+  13 tama
   13 suspiro
   13 subieron
   13 simples
@@ -2385,6 +2396,7 @@
   13 saco
   13 sacando
   13 romper
+  13 ri
   13 reverencia
   13 respondí
   13 remos
@@ -2406,11 +2418,11 @@
   13 pliego
   13 pierda
   13 piense
-  13 peñas
   13 pelea
   13 pasan
   13 partió
   13 ollas
+  13 ol
   13 oía
   13 norte
   13 nombrar
@@ -2430,6 +2442,7 @@
   13 leyendo
   13 lanzas
   13 juntas
+  13 it
   13 instrumentos
   13 imitar
   13 imitación
@@ -2452,7 +2465,6 @@
   13 fantasmas
   13 falso
   13 falsa
-  13 estraños
   13 estimar
   13 estará
   13 escusar
@@ -2497,24 +2509,24 @@
   13 blando
   13 avino
   13 atónito
+  13 ata
+  13 at
   13 apeándose
   13 anduvo
   13 ancho
-  13 añadir
   13 amenazas
   13 almas
-  13 alcornoque
   13 agradecido
+  13 adir
   13 acomodado
   13 acabando
   13 abismo
   13 abierto
   13 Vos
-  13 United
-  13 States
+  13 The
   13 Soy
-  13 Señora
   13 Segunda
+  13 QUIJOTE
   13 Preguntó
   13 Nunca
   13 Muerte
@@ -2528,7 +2540,6 @@
   13 Fortuna
   13 Estas
   13 Díjole
-  13 DON
   13 Archive
   12 viera
   12 vicio
@@ -2580,11 +2591,12 @@
   12 pasara
   12 paredes
   12 palmo
+  12 oles
   12 obligados
   12 nubes
-  12 niña
   12 nace
   12 muriendo
+  12 mu
   12 mostrarse
   12 mezcla
   12 materia
@@ -2604,6 +2616,7 @@
   12 imaginaciones
   12 ignorancia
   12 iglesia
+  12 ida
   12 honrados
   12 hombro
   12 hidalgos
@@ -2617,9 +2630,6 @@
   12 faltas
   12 faldas
   12 estrecha
-  12 estrañas
-  12 españoles
-  12 español
   12 ése
   12 escura
   12 enviado
@@ -2629,10 +2639,8 @@
   12 encantos
   12 donations
   12 despacio
-  12 desengaño
   12 dese
   12 desdicha
-  12 desdeñado
   12 descubriese
   12 des
   12 demanda
@@ -2645,6 +2653,7 @@
   12 cuáles
   12 costal
   12 corteses
+  12 copy
   12 conocían
   12 concertado
   12 comenzar
@@ -2657,6 +2666,7 @@
   12 bardas
   12 ayudar
   12 asido
+  12 ase
   12 armados
   12 armada
   12 arma
@@ -2664,6 +2674,7 @@
   12 apartado
   12 apacible
   12 andando
+  12 amos
   12 amorosa
   12 amada
   12 almohada
@@ -2679,9 +2690,11 @@
   12 acabase
   12 abrazar
   12 abierta
+  12 aban
+  12 aba
+  12 You
   12 Volvió
-  12 The
-  12 QUIJOTE
+  12 Saavedra
   12 Mejor
   12 María
   12 Goleta
@@ -2700,7 +2713,6 @@
   11 viejos
   11 ves
   11 vendría
-  11 use
   11 usado
   11 última
   11 trujeron
@@ -2759,6 +2771,7 @@
   11 parado
   11 pagó
   11 osaré
+  11 org
   11 oreja
   11 órdenes
   11 ordenado
@@ -2830,6 +2843,7 @@
   11 determinaron
   11 detener
   11 despidió
+  11 despe
   11 deshacer
   11 desdenes
   11 desaguisado
@@ -2846,7 +2860,6 @@
   11 cortesanos
   11 corriente
   11 correo
-  11 copy
   11 contraria
   11 consiste
   11 conocieron
@@ -2876,9 +2889,7 @@
   11 cabecera
   11 bestia
   11 batanes
-  11 baño
   11 aventurero
-  11 at
   11 arzón
   11 artillería
   11 arábigo
@@ -2887,17 +2898,16 @@
   11 ambas
   11 alivio
   11 alcázar
+  11 alba
   11 agraviado
   11 advertido
   11 admiró
   11 admirar
   11 ademán
   11 acontecido
-  11 acompañar
   11 acogimiento
   11 acababa
   11 abiertos
-  11 You
   11 Vive
   11 Vivaldo
   11 Uno
@@ -2913,6 +2923,7 @@
   11 B
   11 Alejandro
   10 yegua
+  10 www
   10 volveré
   10 viuda
   10 viniendo
@@ -2920,7 +2931,6 @@
   10 vencer
   10 vean
   10 varas
-  10 uña
   10 turbada
   10 tropel
   10 tronco
@@ -2934,6 +2944,7 @@
   10 temo
   10 temeridad
   10 tasa
+  10 ta
   10 sudor
   10 sospechas
   10 sonetos
@@ -2985,7 +2996,6 @@
   10 pardo
   10 paragraph
   10 osaba
-  10 org
   10 oían
   10 ofrezco
   10 ofrece
@@ -3009,7 +3019,7 @@
   10 licor
   10 lenguaje
   10 lealtad
-  10 it
+  10 laws
   10 infinita
   10 imágines
   10 ilustre
@@ -3026,6 +3036,7 @@
   10 haced
   10 hablo
   10 habiéndole
+  10 gutenberg
   10 guíe
   10 gordo
   10 gentilhombre
@@ -3088,11 +3099,13 @@
   10 componen
   10 comiendo
   10 cera
+  10 ce
   10 cayeron
   10 cautiva
   10 causas
   10 causado
   10 catorce
+  10 casta
   10 carretero
   10 cántaro
   10 can
@@ -3105,7 +3118,6 @@
   10 bastantes
   10 ayude
   10 asperezas
-  10 as
   10 arrobas
   10 apartar
   10 anoche
@@ -3123,10 +3135,11 @@
   10 Un
   10 Turco
   10 Satanás
-  10 Saavedra
   10 Rodrigo
   10 Respondió
   10 Pierres
+  10 OF
+  10 License
   10 Levantóse
   10 He
   10 Has
@@ -3149,7 +3162,6 @@
   10 Acudió
    9 zaga
    9 your
-   9 www
    9 volviesen
    9 volverá
    9 viudas
@@ -3180,6 +3192,7 @@
    9 sollozos
    9 siguiendo
    9 siéndolo
+   9 set
    9 seso
    9 sepan
    9 sepáis
@@ -3201,9 +3214,9 @@
    9 raras
    9 quedándose
    9 quedaban
-   9 puño
    9 prenda
    9 preguntase
+   9 pre
    9 porfía
    9 poniéndole
    9 ponían
@@ -3231,7 +3244,6 @@
    9 notó
    9 notado
    9 notable
-   9 niños
    9 necesarias
    9 nacida
    9 mueve
@@ -3255,7 +3267,6 @@
    9 letrados
    9 lee
    9 lector
-   9 laws
    9 lastimado
    9 labor
    9 juramentos
@@ -3281,7 +3292,6 @@
    9 hacerlo
    9 hable
    9 haberla
-   9 gutenberg
    9 guisa
    9 guardando
    9 guardaba
@@ -3298,8 +3308,8 @@
    9 espuma
    9 espacioso
    9 esfuerzo
+   9 eses
    9 escrita
-   9 ermita
    9 entretenía
    9 entraba
    9 entendía
@@ -3307,6 +3317,7 @@
    9 enamoró
    9 eche
    9 echa
+   9 eBook
    9 duelen
    9 dudas
    9 doliente
@@ -3365,9 +3376,9 @@
    9 atrevidos
    9 asida
    9 asaz
+   9 aron
    9 ardite
    9 ángel
-   9 amos
    9 amorosas
    9 amigas
    9 amén
@@ -3377,15 +3388,12 @@
    9 alrededor
    9 alcanzan
    9 alcanzado
-   9 alba
    9 agradecimiento
    9 afición
    9 admiraron
    9 admiraba
    9 acostumbrado
    9 acostumbrada
-   9 acompañe
-   9 acompañaban
    9 achaque
    9 acero
    9 acabaron
@@ -3401,11 +3409,9 @@
    9 Pares
    9 Par
    9 Otro
-   9 OF
    9 O
    9 Mantua
    9 MANCHA
-   9 License
    9 Lanzarote
    9 Interés
    9 Indias
@@ -3429,6 +3435,7 @@
    8 yerra
    8 yeguas
    8 without
+   8 will
    8 we
    8 volar
    8 visión
@@ -3472,7 +3479,6 @@
    8 socorrer
    8 soberbio
    8 siente
-   8 set
    8 servirle
    8 servidos
    8 servía
@@ -3495,7 +3501,6 @@
    8 ricas
    8 repúblicas
    8 reposada
-   8 reñir
    8 regocijo
    8 refund
    8 redes
@@ -3539,6 +3544,7 @@
    8 orejas
    8 ordenanzas
    8 ordena
+   8 ones
    8 oler
    8 oírle
    8 ofrecido
@@ -3546,7 +3552,6 @@
    8 obligada
    8 nueve
    8 non
-   8 niñas
    8 necesaria
    8 narración
    8 naciones
@@ -3610,6 +3615,7 @@
    8 ganadero
    8 galeote
    8 galas
+   8 g
    8 furioso
    8 fuertes
    8 fueren
@@ -3623,6 +3629,7 @@
    8 fiera
    8 fidelidad
    8 feridas
+   8 faza
    8 fatigaba
    8 fantasma
    8 famosas
@@ -3641,9 +3648,9 @@
    8 escuchado
    8 escondida
    8 escogido
+   8 eras
    8 entretanto
    8 entierro
-   8 engañar
    8 encomendarse
    8 encerramiento
    8 encaje
@@ -3704,7 +3711,6 @@
    8 cobre
    8 cinchas
    8 ciencias
-   8 casta
    8 carneros
    8 capaz
    8 cantaba
@@ -3733,17 +3739,17 @@
    8 apartaron
    8 apartándose
    8 anochecer
-   8 ando
+   8 amiento
    8 amenaza
    8 ámbar
    8 amarillo
    8 alfanje
    8 alcuza
    8 alboroto
+   8 ala
    8 advierte
    8 aconteció
-   8 acompañamiento
-   8 aceñas
+   8 ace
    8 Vuesa
    8 Viva
    8 Venid
@@ -3781,9 +3787,8 @@
    8 Calle
    8 Admirado
    7 zagal
-   7 yangüeses
+   7 yang
    7 yace
-   7 will
    7 which
    7 voluntades
    7 volando
@@ -3805,6 +3810,7 @@
    7 valen
    7 universal
    7 única
+   7 uelo
    7 tuvieran
    7 turbó
    7 trujese
@@ -3825,7 +3831,6 @@
    7 temerario
    7 telas
    7 tambores
-   7 tamaño
    7 sustenta
    7 sustancia
    7 suspensión
@@ -3842,7 +3847,6 @@
    7 setenta
    7 sepultado
    7 sentada
-   7 señalado
    7 seguramente
    7 seguía
    7 secretos
@@ -3913,8 +3917,10 @@
    7 paja
    7 oyera
    7 oye
+   7 oso
    7 oración
    7 once
+   7 ón
    7 oídas
    7 ofrecimiento
    7 ofrecer
@@ -3923,7 +3929,6 @@
    7 ocupado
    7 nudo
    7 nube
-   7 niño
    7 ningunas
    7 naturalmente
    7 nata
@@ -3934,7 +3939,6 @@
    7 movimiento
    7 movía
    7 montera
-   7 monta
    7 mochachos
    7 mirara
    7 mirándole
@@ -3959,6 +3963,7 @@
    7 mamonas
    7 malicias
    7 luto
+   7 located
    7 lloró
    7 llorando
    7 llevasen
@@ -4001,7 +4006,6 @@
    7 herreruelo
    7 heredera
    7 hembra
-   7 hazaña
    7 hato
    7 haremos
    7 hallarle
@@ -4011,6 +4015,7 @@
    7 guiaba
    7 guardarse
    7 guardan
+   7 gru
    7 gentiles
    7 gastar
    7 garras
@@ -4019,7 +4024,6 @@
    7 fría
    7 fingidas
    7 fiero
-   7 fazañas
    7 favorezca
    7 favorable
    7 fantasía
@@ -4038,8 +4042,8 @@
    7 esperan
    7 espantosa
    7 escuela
+   7 escudri
    7 escopetas
-   7 ermitaño
    7 envuelto
    7 enviase
    7 entregó
@@ -4051,11 +4055,12 @@
    7 encarecidamente
    7 encaminó
    7 encaminaban
+   7 empu
    7 empero
+   7 edades
    7 eclesiástico
    7 eBooks
    7 durmió
-   7 dueños
    7 duele
    7 doloroso
    7 distributing
@@ -4175,7 +4180,7 @@
    7 aldeana
    7 alborotado
    7 albedrío
-   7 agüero
+   7 alado
    7 aguarda
    7 agree
    7 agradecida
@@ -4199,7 +4204,6 @@
    7 Troya
    7 Torralba
    7 Sepa
-   7 Señores
    7 Segovia
    7 Section
    7 Roto
@@ -4264,8 +4268,10 @@
    6 vejigas
    6 veían
    6 vacío
+   6 using
    6 usando
    6 usaban
+   6 ung
    6 tuyos
    6 trompeta
    6 trofeo
@@ -4333,11 +4339,13 @@
    6 sacerdote
    6 sabiduría
    6 sabed
+   6 sa
    6 s
    6 ronda
    6 rogaron
    6 rodeos
    6 rodearon
+   6 risue
    6 retrato
    6 retiró
    6 retirada
@@ -4393,7 +4401,6 @@
    6 perdida
    6 perdices
    6 peras
-   6 pequeños
    6 peligroso
    6 peine
    6 pasmado
@@ -4408,6 +4415,7 @@
    6 pacífico
    6 oyese
    6 osar
+   6 osa
    6 orientales
    6 ordinarios
    6 ocupar
@@ -4424,7 +4432,6 @@
    6 nariz
    6 músicas
    6 murmurando
-   6 muñeca
    6 muertas
    6 muero
    6 mudo
@@ -4448,7 +4455,6 @@
    6 manto
    6 manteado
    6 manifiesta
-   6 maña
    6 malferido
    6 maldito
    6 maldades
@@ -4484,13 +4490,14 @@
    6 impertinentes
    6 imitando
    6 igualmente
-   6 ida
+   6 ían
    6 honrosa
    6 hinojos
    6 hincó
    6 heredero
    6 hechura
    6 hechicero
+   6 have
    6 harían
    6 haréis
    6 hallóle
@@ -4539,12 +4546,12 @@
    6 faltase
    6 faltará
    6 fábula
+   6 eza
    6 etc
    6 estuvimos
    6 estudiantes
    6 estribo
    6 estremado
-   6 estrañeza
    6 estorbar
    6 estiende
    6 estender
@@ -4571,9 +4578,9 @@
    6 embustero
    6 embrazó
    6 elegante
-   6 edades
    6 echándole
    6 echaba
+   6 eca
    6 duelo
    6 dudoso
    6 dudo
@@ -4662,6 +4669,7 @@
    6 coloquios
    6 cogiendo
    6 cierra
+   6 ci
    6 chozas
    6 charge
    6 cetro
@@ -4700,6 +4708,7 @@
    6 artes
    6 arroyos
    6 arpa
+   6 arme
    6 ardiendo
    6 archivo
    6 aprovechó
@@ -4729,19 +4738,17 @@
    6 albricias
    6 alborotada
    6 ahorrar
-   6 agüeros
    6 advirtiese
    6 advertida
    6 adulación
    6 adornan
+   6 ador
    6 admirada
    6 adelantó
    6 acto
    6 acrecentar
    6 acosado
    6 acontecimiento
-   6 acompañados
-   6 acompañado
    6 acomodar
    6 acierto
    6 acabo
@@ -4756,6 +4763,7 @@
    6 Vandalia
    6 Válate
    6 Uchalí
+   6 THE
    6 Santo
    6 Salió
    6 Sacó
@@ -4771,7 +4779,7 @@
    6 Preguntáronle
    6 Portugal
    6 Pidió
-   6 Peña
+   6 Pe
    6 Parecióle
    6 Parece
    6 Panzas
@@ -4820,6 +4828,7 @@
    6 ARGAMASILLA
    5 zarandajas
    5 yerro
+   5 where
    5 vuelvas
    5 vuelvan
    5 volvían
@@ -4849,8 +4858,8 @@
    5 valía
    5 valga
    5 valerosa
-   5 using
    5 universo
+   5 under
    5 últimamente
    5 tuvimos
    5 turbar
@@ -4914,8 +4923,6 @@
    5 sentí
    5 sentarse
    5 sentándose
-   5 señorío
-   5 señalando
    5 semana
    5 seguros
    5 seguían
@@ -4968,6 +4975,7 @@
    5 recebía
    5 recatada
    5 recámara
+   5 reba
    5 raro
    5 randas
    5 raíces
@@ -4982,7 +4990,6 @@
    5 quejaba
    5 quedando
    5 pupilos
-   5 puñada
    5 púlpito
    5 pugnaba
    5 pueblos
@@ -5054,7 +5061,6 @@
    5 pared
    5 pareciere
    5 pareciéndoles
-   5 pañuelo
    5 pagaría
    5 pagano
    5 pagados
@@ -5065,8 +5071,10 @@
    5 oyéndole
    5 oveja
    5 osó
+   5 orío
    5 ordenaba
    5 oraciones
+   5 ona
    5 olvidada
    5 olmo
    5 oída
@@ -5130,7 +5138,6 @@
    5 majadero
    5 madura
    5 lomos
-   5 located
    5 llevamos
    5 llaves
    5 llaneza
@@ -5172,6 +5179,7 @@
    5 ilustres
    5 igualarse
    5 if
+   5 idos
    5 íbamos
    5 huele
    5 honestos
@@ -5182,7 +5190,6 @@
    5 hierros
    5 hicieran
    5 heridos
-   5 have
    5 hallarme
    5 hallándose
    5 hallando
@@ -5235,6 +5242,7 @@
    5 facilitar
    5 fábulas
    5 fabricada
+   5 ez
    5 extraordinario
    5 experiencias
    5 excepto
@@ -5272,15 +5280,11 @@
    5 entendiendo
    5 entendí
    5 entena
-   5 enseñar
-   5 enseñan
-   5 enseñado
    5 enramada
    5 enoja
    5 enmienda
    5 enjaulado
    5 enhoramala
-   5 engañaba
    5 enferma
    5 enfado
    5 enderezar
@@ -5301,7 +5305,7 @@
    5 emperatrices
    5 embrazando
    5 embajador
-   5 eBook
+   5 ela
    5 dure
    5 dulces
    5 duelos
@@ -5409,7 +5413,6 @@
    5 concedido
    5 comunique
    5 competir
-   5 compañera
    5 comisión
    5 comieron
    5 comencé
@@ -5431,7 +5434,7 @@
    5 cata
    5 castigados
    5 casó
-   5 cariño
+   5 cari
    5 cantor
    5 canséis
    5 canas
@@ -5456,7 +5459,6 @@
    5 bastón
    5 barriga
    5 barbado
-   5 bañó
    5 bando
    5 banco
    5 balcón
@@ -5483,12 +5485,15 @@
    5 atabales
    5 asendereado
    5 ascuras
+   5 asco
    5 asaltos
+   5 arse
    5 arrimó
    5 arrimo
    5 arrimada
    5 arrepentimiento
    5 arrepentido
+   5 arle
    5 arenga
    5 ardor
    5 arco
@@ -5501,6 +5506,7 @@
    5 apetito
    5 apellido
    5 aparato
+   5 anyone
    5 ansias
    5 ansia
    5 anillo
@@ -5522,9 +5528,10 @@
    5 alcanzara
    5 alcahuete
    5 albogues
+   5 alando
    5 alameda
+   5 aladas
    5 alabardas
-   5 ala
    5 ajos
    5 ahorcar
    5 ahorcado
@@ -5550,7 +5557,6 @@
    5 acordarse
    5 acordado
    5 acontecer
-   5 acompañada
    5 acomodaron
    5 acomete
    5 acertare
@@ -5569,16 +5575,15 @@
    5 Tomad
    5 Toda
    5 Tirante
+   5 This
    5 Tal
-   5 THE
    5 Sobre
    5 Siempre
-   5 Señoría
    5 Sé
    5 Santiago
    5 Sábete
    5 Sabed
-   5 Quintañona
+   5 Quinta
    5 Quijano
    5 Quedaron
    5 Pobre
@@ -5620,7 +5625,7 @@
    5 Catón
    5 Carpio
    5 Buena
-   5 Bretaña
+   5 Breta
    5 Aristóteles
    5 Aquella
    5 Aquel
@@ -5634,7 +5639,6 @@
    4 yelo
    4 yedra
    4 within
-   4 where
    4 vuelves
    4 votos
    4 vosotras
@@ -5667,7 +5671,6 @@
    4 vado
    4 útil
    4 usaba
-   4 under
    4 umbrales
    4 últimas
    4 ufano
@@ -5724,7 +5727,6 @@
    4 tardado
    4 tardaba
    4 tanda
-   4 tamaña
    4 tálamo
    4 tahalí
    4 tachas
@@ -5733,7 +5735,6 @@
    4 supieron
    4 sufrido
    4 suficiente
-   4 sueños
    4 suena
    4 sudar
    4 sucede
@@ -5749,7 +5750,6 @@
    4 soplar
    4 sonaron
    4 sonar
-   4 soñadas
    4 soguilla
    4 socorrerle
    4 sobresaltos
@@ -5769,7 +5769,6 @@
    4 sepulcro
    4 sepamos
    4 sentase
-   4 señoríos
    4 semblante
    4 sello
    4 seguirle
@@ -5797,7 +5796,6 @@
    4 sabidor
    4 sabida
    4 sábana
-   4 sa
    4 rústicas
    4 ruines
    4 rota
@@ -5856,7 +5854,6 @@
    4 reciba
    4 recebirla
    4 rebuznaron
-   4 rebaño
    4 rata
    4 rancor
    4 rajas
@@ -5880,8 +5877,6 @@
    4 pusimos
    4 purísimo
    4 puntual
-   4 puños
-   4 puñal
    4 pugnando
    4 pudieras
    4 públicas
@@ -5933,6 +5928,7 @@
    4 pico
    4 phrase
    4 petición
+   4 pesta
    4 pescador
    4 persuasiones
    4 person
@@ -5941,7 +5937,6 @@
    4 perpetua
    4 permitía
    4 peregrina
-   4 pequeñas
    4 pensamos
    4 pensábamos
    4 pellizcaron
@@ -5967,7 +5962,6 @@
    4 parasismo
    4 pararon
    4 paraban
-   4 pañizuelo
    4 paletas
    4 pajar
    4 pague
@@ -5978,10 +5972,14 @@
    4 owner
    4 ovillo
    4 our
+   4 óse
    4 osado
+   4 oríos
    4 ordenaron
    4 ordenare
    4 opiniones
+   4 online
+   4 ola
    4 oírme
    4 oirá
    4 oiga
@@ -6020,6 +6018,7 @@
    4 mostrando
    4 mostráis
    4 mostraban
+   4 most
    4 moscas
    4 moras
    4 morada
@@ -6074,6 +6073,7 @@
    4 maduro
    4 lunares
    4 luenga
+   4 lue
    4 losa
    4 loma
    4 logrado
@@ -6117,8 +6117,10 @@
    4 jugar
    4 jarro
    4 jardines
+   4 izuelo
    4 its
    4 islas
+   4 iremos
    4 inventor
    4 inumerables
    4 interese
@@ -6141,7 +6143,6 @@
    4 impedido
    4 imaginados
    4 ijadas
-   4 idos
    4 hurtó
    4 humanos
    4 huida
@@ -6270,9 +6271,9 @@
    4 escondidos
    4 escondidas
    4 esconderse
+   4 esco
    4 escarlata
    4 erudición
-   4 eras
    4 equivalente
    4 envió
    4 envié
@@ -6290,10 +6291,8 @@
    4 enojado
    4 enjuto
    4 enjalmas
-   4 engañarme
-   4 engañan
-   4 engañados
    4 endriagos
+   4 endo
    4 endiablada
    4 enderezando
    4 endereza
@@ -6306,6 +6305,7 @@
    4 encamine
    4 encaminase
    4 enamorar
+   4 empre
    4 eminente
    4 embozo
    4 elegantemente
@@ -6373,7 +6373,6 @@
    4 desfacedor
    4 desesperada
    4 deseoso
-   4 desengaños
    4 desechar
    4 desearse
    4 deseamos
@@ -6429,9 +6428,11 @@
    4 cuellos
    4 cubrirse
    4 cuba
+   4 cu
    4 crueles
    4 cristales
    4 creen
+   4 country
    4 costilla
    4 cosmógrafo
    4 cosarios
@@ -6477,8 +6478,6 @@
    4 compliance
    4 complexión
    4 complacer
-   4 compañeras
-   4 compaña
    4 cómodo
    4 comiese
    4 comienza
@@ -6503,6 +6502,7 @@
    4 cinchado
    4 cifra
    4 ciega
+   4 check
    4 chata
    4 cerradas
    4 ceremonia
@@ -6529,9 +6529,7 @@
    4 capilla
    4 cansarse
    4 cansada
-   4 cañón
    4 cannot
-   4 cañas
    4 camuza
    4 campana
    4 camas
@@ -6594,8 +6592,6 @@
    4 átomos
    4 atinar
    4 atar
-   4 atañen
-   4 atañe
    4 atalaya
    4 atada
    4 asnos
@@ -6613,6 +6609,7 @@
    4 ardía
    4 archivos
    4 aragonés
+   4 ara
    4 aprovecha
    4 apretó
    4 apretaba
@@ -6621,10 +6618,10 @@
    4 aparta
    4 apariencias
    4 apaciguó
-   4 anyone
    4 antiguas
+   4 antig
    4 antifaces
-   4 antaño
+   4 anta
    4 anotación
    4 anochecía
    4 andes
@@ -6632,8 +6629,6 @@
    4 andarse
    4 ancianos
    4 anciano
-   4 añadiduras
-   4 an
    4 amenazaba
    4 amargamente
    4 amaneciese
@@ -6654,6 +6649,7 @@
    4 alabar
    4 ahogó
    4 agujeros
+   4 aguile
    4 aguardase
    4 aguardaban
    4 aguardaba
@@ -6675,16 +6671,16 @@
    4 admirable
    4 admira
    4 adivinanzas
+   4 adiduras
    4 adherentes
    4 aderezo
+   4 adeli
    4 adelantado
    4 acuerde
    4 acreciente
    4 acontece
    4 aconsejado
    4 aconsejaba
-   4 acompañase
-   4 acompañaron
    4 acentos
    4 accidentes
    4 acabasen
@@ -6716,7 +6712,6 @@
    4 To
    4 Tienes
    4 Tiene
-   4 This
    4 Tengo
    4 Ténganse
    4 Ten
@@ -6730,10 +6725,10 @@
    4 Sacripante
    4 Ruy
    4 Romana
-   4 Quiñones
    4 Quijotes
    4 Quijana
    4 Quien
+   4 Qui
    4 Quedé
    4 Pusiéronle
    4 Puestos
@@ -6748,6 +6743,7 @@
    4 Parapilla
    4 Papa
    4 Palmerín
+   4 PROJECT
    4 Otras
    4 Orán
    4 Nueva
@@ -6775,14 +6771,16 @@
    4 Gracias
    4 General
    4 Gaeta
+   4 GUTENBERG
    4 Fueron
    4 Francisco
-   4 Estraño
+   4 Estra
    4 Escucha
    4 Emperador
    4 Elisabat
    4 Egipto
    4 EN
+   4 Do
    4 Divina
    4 Díjele
    4 Desdichado
@@ -6896,8 +6894,6 @@
    3 usara
    3 up
    3 unless
-   3 ungüentos
-   3 ungüento
    3 últimos
    3 túvole
    3 tuvieren
@@ -6992,7 +6988,6 @@
    3 tagarino
    3 tácito
    3 taberna
-   3 ta
    3 sustentaba
    3 sustanciales
    3 suspirando
@@ -7021,7 +7016,6 @@
    3 sortija
    3 sopla
    3 sonido
-   3 soñar
    3 soltura
    3 soltarse
    3 soltaron
@@ -7039,6 +7033,7 @@
    3 socorriendo
    3 socorre
    3 socorra
+   3 socali
    3 sobrino
    3 sobrinas
    3 sobrescrito
@@ -7068,9 +7063,7 @@
    3 sentida
    3 sentenciado
    3 sentados
-   3 señorías
    3 sencillez
-   3 señale
    3 semejas
    3 semejanza
    3 segundos
@@ -7115,13 +7108,10 @@
    3 robusto
    3 robo
    3 robado
-   3 risueño
-   3 risueña
    3 ristre
    3 risco
    3 rindió
    3 rinda
-   3 riñas
    3 rigurosos
    3 rigurosas
    3 rige
@@ -7159,7 +7149,6 @@
    3 reparar
    3 reparaba
    3 renuncio
-   3 reñida
    3 rencuentros
    3 remota
    3 remediarlos
@@ -7208,7 +7197,6 @@
    3 quebrar
    3 pusiere
    3 puntada
-   3 puñaladas
    3 puertos
    3 pudiésemos
    3 públicamente
@@ -7246,8 +7234,6 @@
    3 presupuesto
    3 presentado
    3 prerrogativa
-   3 preñado
-   3 preñada
    3 premiados
    3 premiado
    3 premática
@@ -7295,7 +7281,6 @@
    3 pidiéndole
    3 pícaro
    3 piadosas
-   3 pestaña
    3 pesos
    3 pesia
    3 pescado
@@ -7371,14 +7356,15 @@
    3 otubre
    3 otorgo
    3 ostentación
-   3 osa
+   3 osos
    3 orilla
+   3 orías
    3 onza
-   3 online
    3 olvidó
    3 olvida
    3 olores
    3 olfato
+   3 óle
    3 oístes
    3 oíslo
    3 oirán
@@ -7427,7 +7413,6 @@
    3 murmuran
    3 murmurador
    3 murmura
-   3 muñecas
    3 multitud
    3 muestres
    3 muela
@@ -7439,7 +7424,6 @@
    3 movían
    3 mostrarme
    3 mostaza
-   3 most
    3 mosén
    3 mosca
    3 mortajas
@@ -7532,7 +7516,6 @@
    3 lumbres
    3 luengo
    3 luengas
-   3 lueñes
    3 lucero
    3 lobo
    3 llovía
@@ -7578,8 +7561,6 @@
    3 levántese
    3 levantarla
    3 levantaré
-   3 leño
-   3 leña
    3 lejía
    3 legislador
    3 lavando
@@ -7609,7 +7590,6 @@
    3 jaeces
    3 jabón
    3 jabalí
-   3 iremos
    3 iras
    3 irán
    3 inventaron
@@ -7629,6 +7609,7 @@
    3 indignado
    3 indigna
    3 increíble
+   3 included
    3 incapaz
    3 inaudita
    3 importantes
@@ -7642,6 +7623,7 @@
    3 igualdad
    3 ignorar
    3 idiota
+   3 ías
    3 huyó
    3 huirse
    3 huían
@@ -7696,7 +7678,6 @@
    3 guijarros
    3 guiase
    3 guiar
-   3 güevos
    3 guardarla
    3 guardaré
    3 guardadas
@@ -7721,6 +7702,7 @@
    3 gobernaré
    3 glotón
    3 glorias
+   3 give
    3 generales
    3 generación
    3 gata
@@ -7780,6 +7762,7 @@
    3 excelencias
    3 exceden
    3 examinase
+   3 evos
    3 evitar
    3 et
    3 estricote
@@ -7795,7 +7778,6 @@
    3 estendido
    3 estendía
    3 estéis
-   3 estaño
    3 estadme
    3 esposas
    3 espinas
@@ -7806,7 +7788,6 @@
    3 espantó
    3 espante
    3 espantajo
-   3 española
    3 espaldar
    3 esmeraldas
    3 esforzado
@@ -7855,7 +7836,9 @@
    3 entran
    3 entramos
    3 entradas
+   3 entos
    3 entono
+   3 ento
    3 entity
    3 entiendes
    3 enterrado
@@ -7865,9 +7848,6 @@
    3 ensuciar
    3 ensillase
    3 ensillar
-   3 enseñóle
-   3 enseñó
-   3 enseñase
    3 ensartados
    3 ensalza
    3 enristró
@@ -7877,10 +7857,6 @@
    3 engendraron
    3 engendrar
    3 engendra
-   3 engaños
-   3 engañe
-   3 engañas
-   3 engañada
    3 enfadosa
    3 enfadan
    3 enfada
@@ -7902,6 +7878,7 @@
    3 emprenta
    3 empleado
    3 emperatriz
+   3 empe
    3 emboscó
    3 emboscar
    3 embelesamiento
@@ -7919,13 +7896,13 @@
    3 echen
    3 echásemos
    3 echaban
+   3 ecas
    3 duró
    3 durar
    3 durante
    3 duraba
    3 duermes
    3 duerma
-   3 dueñesco
    3 dromedarios
    3 dormidos
    3 domingo
@@ -7985,8 +7962,6 @@
    3 desfacer
    3 desesperarse
    3 desenvainada
-   3 desengañar
-   3 desengañado
    3 desenfado
    3 desencantarla
    3 desembarcó
@@ -8044,7 +8019,6 @@
    3 dártela
    3 dársele
    3 dármele
-   3 daños
    3 dándoles
    3 damasco
    3 dadme
@@ -8052,7 +8026,6 @@
    3 curiosa
    3 curase
    3 curan
-   3 cuñado
    3 cumplirlo
    3 cumpláis
    3 cuitado
@@ -8069,11 +8042,11 @@
    3 credos
    3 crecen
    3 creating
-   3 country
    3 cotufas
    3 costosa
    3 costar
    3 costado
+   3 cost
    3 cosquillas
    3 coser
    3 cosecha
@@ -8138,8 +8111,6 @@
    3 compatrioto
    3 comparar
    3 comparaciones
-   3 compaño
-   3 compañías
    3 comió
    3 comilón
    3 comete
@@ -8176,7 +8147,6 @@
    3 cibera
    3 choza
    3 chimenea
-   3 check
    3 cesaban
    3 certidumbre
    3 cerros
@@ -8218,11 +8188,9 @@
    3 cantaban
    3 canses
    3 cansa
-   3 cañones
    3 canes
    3 candeal
    3 canciones
-   3 cañaheja
    3 caminaron
    3 camaranchón
    3 callase
@@ -8238,6 +8206,7 @@
    3 cabido
    3 cabía
    3 cabalgaduras
+   3 caba
    3 busque
    3 buscas
    3 buscarte
@@ -8274,6 +8243,7 @@
    3 bellos
    3 bellísima
    3 bellezas
+   3 before
    3 bebió
    3 beben
    3 basilisco
@@ -8293,6 +8263,7 @@
    3 ayudara
    3 ayo
    3 ayes
+   3 away
    3 avisó
    3 avisarme
    3 avestruz
@@ -8315,11 +8286,11 @@
    3 atentas
    3 atenido
    3 atendiese
-   3 ata
    3 asunto
    3 astucias
    3 astrólogo
    3 astrología
+   3 aste
    3 asomos
    3 asombro
    3 asombrado
@@ -8327,8 +8298,8 @@
    3 asir
    3 asientos
    3 asentó
+   3 asen
    3 asegurándole
-   3 asco
    3 asalariado
    3 artificiosa
    3 arroje
@@ -8347,12 +8318,13 @@
    3 arpillera
    3 armonía
    3 armería
+   3 aría
    3 ardites
    3 ardían
    3 arcos
    3 arcabuz
-   3 arañaron
    3 arado
+   3 ará
    3 aquestos
    3 aquéste
    3 apunta
@@ -8370,7 +8342,6 @@
    3 aparentes
    3 antojase
    3 antojare
-   3 antigüedad
    3 antifaz
    3 antecogiendo
    3 antecedente
@@ -8384,8 +8355,6 @@
    3 andarme
    3 andantesca
    3 andáis
-   3 añadiéndose
-   3 añadiendo
    3 ampare
    3 amparar
    3 amorosamente
@@ -8410,9 +8379,10 @@
    3 aljaba
    3 aliviado
    3 alhombra
-   3 alheña
+   3 alhe
    3 alguacil
    3 alférez
+   3 ale
    3 alcornoques
    3 alcanzarle
    3 alcances
@@ -8428,9 +8398,8 @@
    3 ál
    3 aína
    3 ahorquen
+   3 aheja
    3 aguja
-   3 aguileña
-   3 agüela
    3 agudos
    3 agudezas
    3 aguda
@@ -8463,6 +8432,8 @@
    3 admirábase
    3 admirábanse
    3 admiraban
+   3 adiéndose
+   3 adiendo
    3 adevinaba
    3 aderezados
    3 additional
@@ -8480,11 +8451,6 @@
    3 acordamos
    3 aconsejarte
    3 aconsejar
-   3 acompañando
-   3 acompañan
-   3 acompañamos
-   3 acompañaba
-   3 acompaña
    3 acomodándose
    3 acomodaba
    3 acometimientos
@@ -8556,7 +8522,7 @@
    3 Seguíale
    3 Sarra
    3 Sargel
-   3 Sansueña
+   3 Sansue
    3 Salí
    3 Sabéis
    3 SEPULTURA
@@ -8590,7 +8556,6 @@
    3 Pasmóse
    3 Pasa
    3 Pandafilando
-   3 PROJECT
    3 PANZA
    3 Oriana
    3 Olvidábaseme
@@ -8649,7 +8614,6 @@
    3 Gallo
    3 Galatea
    3 Galalón
-   3 GUTENBERG
    3 Fui
    3 Fuera
    3 Frestón
@@ -8658,16 +8622,15 @@
    3 FOR
    3 Estoy
    3 Esplandián
-   3 Españas
    3 Espada
    3 Erutar
    3 Eran
    3 Epitafio
-   3 Engáñaste
+   3 Engá
    3 Ebro
    3 Duró
+   3 Due
    3 Dónde
-   3 Do
    3 Diose
    3 Dimos
    3 Dile
@@ -8682,6 +8645,7 @@
    3 Dejamos
    3 Deja
    3 Debe
+   3 Cuenca
    3 Cuántas
    3 Cuándo
    3 Cualquiera
@@ -8697,7 +8661,7 @@
    3 Canción
    3 Callad
    3 Buen
-   3 Borgoña
+   3 Borgo
    3 Besóle
    3 Benito
    3 Bella
@@ -8715,12 +8679,11 @@
    3 Andrada
    3 Andaba
    3 Anda
-   3 Añadió
    3 Amaneció
    3 Albraca
    3 Alborotóse
    3 Aguilar
-   3 Agüero
+   3 Ag
    3 Africa
    3 Admirada
    3 Acabaron
@@ -8743,7 +8706,9 @@
    2 yelos
    2 yantar
    2 yanta
+   2 world
    2 widest
+   2 whatsoever
    2 web
    2 way
    2 was
@@ -8756,6 +8721,7 @@
    2 volverlos
    2 volverás
    2 volveos
+   2 volunteer
    2 volteando
    2 volatería
    2 vocablo
@@ -8779,7 +8745,6 @@
    2 vinos
    2 viniéndosele
    2 víneme
-   2 viñas
    2 vileza
    2 vila
    2 vihuela
@@ -8847,6 +8812,7 @@
    2 vagando
    2 vagamundo
    2 vacíos
+   2 uto
    2 usurpar
    2 usos
    2 usaran
@@ -8856,6 +8822,7 @@
    2 urgente
    2 upon
    2 unció
+   2 udos
    2 tuyas
    2 tuvímoslo
    2 tuviéramos
@@ -9017,8 +8984,6 @@
    2 tapa
    2 tanteando
    2 tanteado
-   2 tañendo
-   2 tamaños
    2 tajada
    2 tacto
    2 tacha
@@ -9101,7 +9066,6 @@
    2 socorrida
    2 socorred
    2 socapa
-   2 socaliñas
    2 sobrevino
    2 sobresaltó
    2 sobresalte
@@ -9147,7 +9111,6 @@
    2 sepultó
    2 sepultados
    2 sepulcros
-   2 señuelo
    2 sentís
    2 sentirlo
    2 sentimos
@@ -9158,10 +9121,6 @@
    2 sendos
    2 sendero
    2 sencillamente
-   2 señaladas
-   2 señalada
-   2 señalaba
-   2 señala
    2 senado
    2 semejan
    2 semejaban
@@ -9203,7 +9162,6 @@
    2 sanase
    2 sanar
    2 sanaba
-   2 saña
    2 salvaje
    2 salvación
    2 saludes
@@ -9277,7 +9235,6 @@
    2 rmese
    2 riquísima
    2 rió
-   2 riñen
    2 rindo
    2 rindiesen
    2 rinde
@@ -9313,6 +9270,7 @@
    2 resucitase
    2 resucitado
    2 resucita
+   2 restrictions
    2 restituya
    2 restaba
    2 respondona
@@ -9353,7 +9311,6 @@
    2 reparando
    2 repara
    2 reniego
-   2 reñían
    2 renglones
    2 renegada
    2 rendirme
@@ -9439,6 +9396,7 @@
    2 racimos
    2 racimo
    2 rabiosa
+   2 r
    2 quiten
    2 quitasoles
    2 quitárselos
@@ -9586,7 +9544,6 @@
    2 preseas
    2 prepare
    2 preparada
-   2 preñados
    2 premian
    2 premáticas
    2 preguntóme
@@ -9642,6 +9599,7 @@
    2 platica
    2 planta
    2 placeras
+   2 pla
    2 pistolas
    2 pisar
    2 pisan
@@ -9667,6 +9625,7 @@
    2 piadosos
    2 piadosa
    2 piache
+   2 pi
    2 physical
    2 pez
    2 peto
@@ -9712,7 +9671,6 @@
    2 pensados
    2 pensada
    2 penetrado
-   2 peñasco
    2 pellizcado
    2 pellejo
    2 pelearon
@@ -9722,7 +9680,7 @@
    2 peje
    2 pegan
    2 pegada
-   2 pedreñales
+   2 pedre
    2 pedradas
    2 pedírsela
    2 pedilla
@@ -9750,6 +9708,7 @@
    2 pasare
    2 pasará
    2 pasaje
+   2 parts
    2 partos
    2 partirme
    2 partiré
@@ -9801,10 +9760,9 @@
    2 owns
    2 otorgue
    2 otorgado
-   2 otoño
+   2 oto
    2 otero
    2 ostugo
-   2 osos
    2 oropel
    2 orondas
    2 orín
@@ -9831,6 +9789,7 @@
    2 olorosa
    2 olía
    2 old
+   2 olas
    2 ojeras
    2 oíste
    2 oís
@@ -9865,7 +9824,6 @@
    2 obedientes
    2 obedecerle
    2 obedecelle
-   2 ñudos
    2 novillo
    2 novia
    2 novedades
@@ -9878,7 +9836,6 @@
    2 nombrando
    2 nombra
    2 ningunos
-   2 niñería
    2 nieto
    2 niegues
    2 niegue
@@ -9900,7 +9857,6 @@
    2 muriese
    2 muriere
    2 muralla
-   2 muñidor
    2 mulos
    2 muletas
    2 muladar
@@ -9936,7 +9892,7 @@
    2 morales
    2 moral
    2 montones
-   2 montiña
+   2 monti
    2 monteros
    2 montería
    2 monstro
@@ -10037,6 +9993,7 @@
    2 maravillaría
    2 maravillar
    2 maravillaba
+   2 mara
    2 máquinas
    2 mapa
    2 manual
@@ -10053,7 +10010,6 @@
    2 manifiestamente
    2 manifestarse
    2 manida
-   2 mañero
    2 mándoles
    2 mandobles
    2 manderecha
@@ -10071,7 +10027,6 @@
    2 manchegos
    2 manchas
    2 manca
-   2 mañas
    2 manantiales
    2 maltrate
    2 maltratase
@@ -10096,7 +10051,6 @@
    2 madrugar
    2 madrugado
    2 machos
-   2 ma
    2 lunes
    2 lunas
    2 lucios
@@ -10218,6 +10172,7 @@
    2 lance
    2 lámpara
    2 lamentaba
+   2 laga
    2 ladridos
    2 ladito
    2 lacedemonios
@@ -10317,7 +10272,6 @@
    2 incurra
    2 inconvinientes
    2 inconsiderada
-   2 included
    2 ínclito
    2 inclinarme
    2 inclinando
@@ -10360,8 +10314,10 @@
    2 igualaban
    2 ignoraban
    2 ignoraba
+   2 idor
    2 idioma
    2 idea
+   2 idas
    2 i
    2 huyen
    2 huyan
@@ -10485,8 +10441,6 @@
    2 guardados
    2 guante
    2 gruta
-   2 gruñir
-   2 gruñían
    2 grosero
    2 gritando
    2 gritaba
@@ -10515,7 +10469,6 @@
    2 gobiernas
    2 gobernadora
    2 gobernaba
-   2 give
    2 gitano
    2 girifaltes
    2 girifalte
@@ -10546,6 +10499,7 @@
    2 galocha
    2 galanas
    2 gaita
+   2 ga
    2 furto
    2 furiosa
    2 fundo
@@ -10616,8 +10570,10 @@
    2 fabulosos
    2 fabricar
    2 fabricador
+   2 ezas
    2 extravagantes
    2 extraordinarias
+   2 extra
    2 expulsión
    2 explanation
    2 expiriencia
@@ -10641,7 +10597,6 @@
    2 estrellado
    2 estraordinario
    2 estranjero
-   2 estrañezas
    2 estorbo
    2 estorbara
    2 estorba
@@ -10701,7 +10656,6 @@
    2 esforzados
    2 esforcé
    2 esfera
-   2 eses
    2 esencia
    2 escusó
    2 escusarás
@@ -10712,7 +10666,6 @@
    2 escurecerse
    2 escurecerlos
    2 escurecen
-   2 escudriñador
    2 escucho
    2 escuchen
    2 escuchas
@@ -10739,9 +10692,11 @@
    2 escape
    2 escapase
    2 escalera
+   2 esca
    2 erudito
    2 errada
    2 eris
+   2 ería
    2 erat
    2 érades
    2 equinocial
@@ -10814,10 +10769,6 @@
    2 engrandecen
    2 engendré
    2 engendran
-   2 engañóse
-   2 engañó
-   2 engañes
-   2 engañáis
    2 enfriase
    2 enfermedades
    2 enemistad
@@ -10872,11 +10823,8 @@
    2 enamora
    2 enalbardase
    2 émulo
-   2 empuñó
-   2 empuñadura
    2 emprentas
    2 emprendido
-   2 empreñaría
    2 employees
    2 empinadas
    2 empedernido
@@ -10901,6 +10849,7 @@
    2 elogio
    2 elocuentes
    2 elocución
+   2 elo
    2 elíseos
    2 elevado
    2 elegir
@@ -10929,6 +10878,7 @@
    2 echándolos
    2 echan
    2 eceto
+   2 é
    2 durmiese
    2 durísimos
    2 duran
@@ -10951,7 +10901,7 @@
    2 donoso
    2 donas
    2 domingos
-   2 domeñar
+   2 dome
    2 domain
    2 dolorosa
    2 dolorida
@@ -11033,6 +10983,7 @@
    2 detenernos
    2 desviarse
    2 desviada
+   2 desverg
    2 desventurada
    2 desvarío
    2 desvariados
@@ -11061,7 +11012,6 @@
    2 despiadado
    2 despertalle
    2 despensero
-   2 despeñar
    2 despejar
    2 despedimos
    2 despechéis
@@ -11086,7 +11036,7 @@
    2 deshonrada
    2 deshonestidades
    2 deshonestidad
-   2 desgreñada
+   2 desgre
    2 desfaciendo
    2 desface
    2 desesperó
@@ -11094,7 +11044,6 @@
    2 desenvolturas
    2 desenvainó
    2 desenvainando
-   2 desengañó
    2 desenfadado
    2 desenfadada
    2 desencante
@@ -11106,7 +11055,6 @@
    2 deseas
    2 desearme
    2 desearle
-   2 desdeñar
    2 descuida
    2 descubriría
    2 descubrían
@@ -11144,6 +11092,7 @@
    2 desarmando
    2 desapercebido
    2 desalmada
+   2 desali
    2 desagradecidos
    2 desafiador
    2 derrumbadero
@@ -11212,8 +11161,6 @@
    2 dardos
    2 danzar
    2 dándoselos
-   2 dañan
-   2 dañadores
    2 dame
    2 damascos
    2 damages
@@ -11277,7 +11224,6 @@
    2 costs
    2 costase
    2 costará
-   2 cost
    2 cosario
    2 cortedad
    2 corté
@@ -11503,9 +11449,6 @@
    2 cercada
    2 cerbelo
    2 ceptros
-   2 ceñido
-   2 ceñida
-   2 ceñían
    2 cencerril
    2 cenando
    2 cenado
@@ -11538,7 +11481,6 @@
    2 castigalle
    2 castellanos
    2 castas
-   2 castaños
    2 casillas
    2 cásense
    2 casare
@@ -11561,8 +11503,8 @@
    2 carece
    2 cardenales
    2 cardado
-   2 carcaños
    2 carcajes
+   2 carca
    2 caramanchón
    2 caracol
    2 capotillo
@@ -11570,7 +11512,6 @@
    2 capillas
    2 capellina
    2 caos
-   2 cañuto
    2 cantillo
    2 cantía
    2 canten
@@ -11593,6 +11534,8 @@
    2 calzó
    2 calzarse
    2 calzado
+   2 caló
+   2 calo
    2 calló
    2 callejuela
    2 callasen
@@ -11622,7 +11565,6 @@
    2 cabida
    2 caben
    2 cabelleras
-   2 cabañas
    2 caballerizos
    2 caballerizo
    2 caballerescos
@@ -11650,7 +11592,7 @@
    2 brocados
    2 brioso
    2 brincadora
-   2 breñas
+   2 bre
    2 bound
    2 both
    2 bosquejo
@@ -11697,7 +11639,6 @@
    2 bellaca
    2 bélico
    2 beldad
-   2 before
    2 bebieron
    2 bebamos
    2 bastó
@@ -11719,7 +11660,6 @@
    2 banse
    2 banquetes
    2 bandolero
-   2 bañada
    2 ballena
    2 baldía
    2 balanza
@@ -11748,13 +11688,13 @@
    2 ayudarle
    2 ayudándole
    2 ayudado
-   2 away
    2 avivar
    2 avisos
    2 avisé
    2 avisarle
    2 averiguarlo
-   2 avergüenza
+   2 averig
+   2 averg
    2 aventurarse
    2 aventajarme
    2 aventajaba
@@ -11823,10 +11763,11 @@
    2 asegurara
    2 asegura
    2 ascua
+   2 asca
    2 asar
    2 asada
    2 arzobispos
-   2 aruños
+   2 aru
    2 artífice
    2 artículos
    2 artesillas
@@ -11843,8 +11784,11 @@
    2 arrancarse
    2 arrancar
    2 arrancado
+   2 aros
    2 armó
    2 armarse
+   2 arles
+   2 arla
    2 argumentos
    2 argumento
    2 argamasa
@@ -11890,6 +11834,7 @@
    2 aparéjese
    2 apareja
    2 anzuelo
+   2 anywhere
    2 antojó
    2 antojo
    2 antípodas
@@ -11903,6 +11848,7 @@
    2 anexas
    2 anejo
    2 anduvieron
+   2 ándose
    2 ándese
    2 ándense
    2 anden
@@ -11911,9 +11857,6 @@
    2 andaluz
    2 anchuras
    2 anascote
-   2 añasca
-   2 añado
-   2 añadido
    2 ampara
    2 amistades
    2 ámexi
@@ -11944,12 +11887,14 @@
    2 alongó
    2 alongado
    2 alojaba
+   2 almost
    2 almorzaron
    2 almorzar
    2 almidón
    2 almete
    2 almacén
    2 allegados
+   2 alima
    2 alientos
    2 alias
    2 algazara
@@ -11977,20 +11922,22 @@
    2 alborotar
    2 alborotados
    2 álamo
+   2 alada
    2 alabo
    2 alaben
    2 alabarla
    2 alabando
    2 alaban
    2 alababa
+   2 alaba
    2 ajusto
    2 ajorcas
    2 ajedrez
+   2 áis
    2 airado
    2 ahorrarse
    2 ahorraréis
    2 águila
-   2 agüelo
    2 aguamanos
    2 agravias
    2 agraviar
@@ -12014,10 +11961,12 @@
    2 aficionada
    2 afectos
    2 adviertes
+   2 adura
    2 aduló
    2 adquirir
    2 adquiriendo
    2 adornó
+   2 adores
    2 adorar
    2 adoran
    2 adoraba
@@ -12029,11 +11978,12 @@
    2 admire
    2 admirándose
    2 adivinar
+   2 adióse
+   2 adido
    2 aderezó
    2 aderezasen
    2 aderezaron
    2 aderezar
-   2 adeliñado
    2 adelantados
    2 address
    2 adargas
@@ -12071,10 +12021,6 @@
    2 aconsejada
    2 aconseja
    2 acondicionado
-   2 acompañasen
-   2 acompañarle
-   2 acompañarla
-   2 acompañadas
    2 acomode
    2 acomodasen
    2 acometió
@@ -12130,6 +12076,7 @@
    2 abajarse
    2 abadesa
    2 abadejo
+   2 ]
    2 Zocodover
    2 Zancas
    2 Z
@@ -12272,6 +12219,7 @@
    2 Sacra
    2 Sabidor
    2 Sabes
+   2 START
    2 Ruiz
    2 Rugero
    2 Royalty
@@ -12367,6 +12315,7 @@
    2 Maldito
    2 Maese
    2 Machuca
+   2 Ma
    2 Luz
    2 Lucrecia
    2 Lucía
@@ -12474,10 +12423,10 @@
    2 Ejemplo
    2 ESCUDERO
    2 ERRATAS
+   2 EBOOK
    2 Duquesa
    2 Duque
    2 Dulcineas
-   2 Dueña
    2 Donosa
    2 Donations
    2 Divulgóse
@@ -12496,6 +12445,7 @@
    2 Destas
    2 Despertó
    2 Deso
+   2 Desenga
    2 Dese
    2 Deo
    2 Demonio
@@ -12503,6 +12453,7 @@
    2 Déjate
    2 Dejadme
    2 Debía
+   2 Date
    2 Darinel
    2 Dádmele
    2 Dada
@@ -12512,7 +12463,6 @@
    2 Curiambro
    2 Cumplió
    2 Cuéntase
-   2 Cuenca
    2 Cuánto
    2 Cuál
    2 Cristóbal
@@ -12540,8 +12490,8 @@
    2 Cartagena
    2 Caracuel
    2 Cansóse
-   2 Caño
    2 Camilia
+   2 Ca
    2 Bucéfalo
    2 Brunelo
    2 Brilladoro
@@ -12625,7 +12575,7 @@
    1 zancas
    1 zancajos
    1 zanahorias
-   1 zampoñas
+   1 zampo
    1 zamorano
    1 zamoranas
    1 zamorana
@@ -12634,7 +12584,7 @@
    1 zahúrda
    1 zahorí
    1 zaheriendo
-   1 zahareña
+   1 zahare
    1 zagalejas
    1 zagala
    1 zabullían
@@ -12659,14 +12609,12 @@
    1 yacía
    1 yacer
    1 yacen
-   1 world
    1 word
    1 wish
    1 wide
    1 whom
    1 whenever
    1 when
-   1 whatsoever
    1 what
    1 ways
    1 warranties
@@ -12700,7 +12648,6 @@
    1 volvérsele
    1 volvérmelos
    1 volverían
-   1 volunteer
    1 voluntarios
    1 voluntario
    1 volúmenes
@@ -12785,14 +12732,13 @@
    1 viniéndole
    1 vinagrillo
    1 vinagre
-   1 viña
    1 villanías
    1 villanería
    1 villancicos
    1 vilezas
    1 vile
-   1 vigüela
    1 vigilantes
+   1 vig
    1 viewing
    1 viewed
    1 vierten
@@ -12921,7 +12867,7 @@
    1 veemos
    1 veedores
    1 veedor
-   1 veduño
+   1 vedu
    1 vedo
    1 vedija
    1 vedado
@@ -12990,6 +12936,9 @@
    1 vacase
    1 vacada
    1 uva
+   1 utos
+   1 utillos
+   1 utillo
    1 utilidad
    1 útiles
    1 usque
@@ -13002,6 +12951,7 @@
    1 usadla
    1 usad
    1 us
+   1 updated
    1 untarle
    1 untar
    1 untaos
@@ -13025,6 +12975,12 @@
    1 ufánese
    1 ufane
    1 ufanarte
+   1 uelos
+   1 uelas
+   1 uela
+   1 udemos
+   1 udadas
+   1 udada
    1 types
    1 txt
    1 túvose
@@ -13361,7 +13317,6 @@
    1 tirad
    1 tinte
    1 tinta
-   1 tiñoso
    1 tímido
    1 tiesa
    1 tientes
@@ -13409,7 +13364,6 @@
    1 tentábala
    1 teniéndomela
    1 teniéndolos
-   1 teñido
    1 téngolo
    1 téngase
    1 ténganos
@@ -13500,11 +13454,6 @@
    1 tanteó
    1 tanteo
    1 tantearemos
-   1 tañida
-   1 tañía
-   1 tañer
-   1 tañedores
-   1 tañe
    1 tamborines
    1 tamborín
    1 tamboril
@@ -13525,7 +13474,7 @@
    1 tácitos
    1 tácitas
    1 tacharle
-   1 tacaño
+   1 taca
    1 tablitas
    1 tablero
    1 tabí
@@ -13603,8 +13552,6 @@
    1 sufragios
    1 suficientes
    1 suenen
-   1 sueñan
-   1 sueña
    1 suelte
    1 suelos
    1 sueldos
@@ -13659,7 +13606,7 @@
    1 sotil
    1 sotavento
    1 sotanilla
-   1 sotaermitaño
+   1 sotaermita
    1 sota
    1 sostuvo
    1 sostenido
@@ -13692,18 +13639,12 @@
    1 sonrieron
    1 sonriéndose
    1 sonreía
-   1 soñolientos
-   1 soñoliento
-   1 soñolienta
    1 sones
    1 sonda
    1 sonarse
    1 sonara
    1 sonante
-   1 soñando
    1 sonando
-   1 soñado
-   1 soñaba
    1 sombrosos
    1 sombríos
    1 solus
@@ -13760,7 +13701,6 @@
    1 socorredor
    1 socarronería
    1 socarronamente
-   1 socaliñado
    1 sobró
    1 sobrevista
    1 sobreviniese
@@ -13899,30 +13839,11 @@
    1 sentencian
    1 senté
    1 sent
-   1 señoritos
-   1 señorísimas
-   1 señoril
-   1 señoreaba
-   1 señorea
-   1 señorazos
    1 sending
    1 senderos
    1 sencillos
    1 sencillo
    1 sencilla
-   1 señaló
-   1 señalo
-   1 señálensele
-   1 señalé
-   1 señalas
-   1 señalaría
-   1 señalaré
-   1 señalaran
-   1 señalar
-   1 señalamos
-   1 señalados
-   1 señaladísima
-   1 seña
    1 semínimas
    1 semidoncellas
    1 semejábades
@@ -14119,9 +14040,7 @@
    1 rumía
    1 rumia
    1 rumbos
-   1 rüina
    1 ruidos
-   1 rüido
    1 ruibarbo
    1 rugir
    1 rugidos
@@ -14211,14 +14130,6 @@
    1 rival
    1 riquísimos
    1 ripio
-   1 riñones
-   1 riñó
-   1 riño
-   1 riñiremos
-   1 riñese
-   1 riñeren
-   1 riñendo
-   1 riñe
    1 rindiera
    1 rinden
    1 rindan
@@ -14313,7 +14224,6 @@
    1 resucitara
    1 resucitando
    1 resucitador
-   1 restrictions
    1 restituye
    1 restituir
    1 restituido
@@ -14556,7 +14466,6 @@
    1 rehú
    1 rehacerse
    1 regulating
-   1 regüeldos
    1 regodeo
    1 regocijó
    1 regocijarse
@@ -14574,7 +14483,6 @@
    1 regente
    1 regazo
    1 regatones
-   1 regañaban
    1 regalen
    1 regale
    1 regalastes
@@ -14584,6 +14492,8 @@
    1 regaladamente
    1 regalada
    1 regalaba
+   1 rega
+   1 reg
    1 refrigerios
    1 refrancico
    1 reforzó
@@ -14668,6 +14578,7 @@
    1 recetes
    1 recetas
    1 recetada
+   1 recently
    1 receloso
    1 receló
    1 recelarme
@@ -14693,14 +14604,12 @@
    1 rebullir
    1 rebullen
    1 rebenque
-   1 rebaños
    1 reata
    1 reasonable
    1 realzarla
    1 realidad
    1 reading
    1 reaching
-   1 re
    1 rboles
    1 razonar
    1 razonando
@@ -14711,7 +14620,7 @@
    1 rastrillado
    1 rastrear
    1 rastreando
-   1 rasguño
+   1 rasgu
    1 rasgarla
    1 rasgará
    1 rasgar
@@ -14727,8 +14636,8 @@
    1 rascándote
    1 raridad
    1 raposa
-   1 rapiña
    1 rápido
+   1 rapi
    1 rapaz
    1 rapasen
    1 rapase
@@ -14906,8 +14815,6 @@
    1 puntiagudo
    1 puntiaguda
    1 puntapié
-   1 puñalero
-   1 puñados
    1 pulsat
    1 pulpo
    1 púlpitos
@@ -15105,7 +15012,6 @@
    1 presencias
    1 prerrogativas
    1 prepararse
-   1 preñez
    1 prendió
    1 prendiesen
    1 prenderte
@@ -15224,7 +15130,7 @@
    1 porfiados
    1 porción
    1 popen
-   1 ponzoña
+   1 ponzo
    1 pontificia
    1 ponte
    1 ponme
@@ -15302,10 +15208,8 @@
    1 plasmador
    1 plantadas
    1 plano
-   1 plañirla
    1 planetas
    1 planeta
-   1 plañendo
    1 plancha
    1 plana
    1 plácido
@@ -15341,7 +15245,6 @@
    1 pinganitos
    1 pinceles
    1 pincel
-   1 piñata
    1 piloto
    1 pillamo
    1 pífaros
@@ -15371,13 +15274,11 @@
    1 picadillo
    1 picaban
    1 pías
-   1 pi
    1 pglaf
    1 petrales
    1 pestilentes
    1 pestíferos
    1 pestífera
-   1 pestañas
    1 pessima
    1 pesques
    1 pesquería
@@ -15501,7 +15402,6 @@
    1 percebir
    1 perailes
    1 per
-   1 pequeñez
    1 peones
    1 penuria
    1 pensativa
@@ -15512,8 +15412,6 @@
    1 pensadas
    1 pensábanlo
    1 penosamente
-   1 peñón
-   1 péñola
    1 penitenciados
    1 penéis
    1 péndola
@@ -15596,12 +15494,13 @@
    1 pecará
    1 pecar
    1 pecaba
+   1 pé
    1 pazpuerca
    1 pay
    1 pavés
    1 pauperum
    1 patriarca
-   1 patraña
+   1 patra
    1 paternidad
    1 patentes
    1 patentemente
@@ -15609,7 +15508,7 @@
    1 pateado
    1 patán
    1 patada
-   1 pastraña
+   1 pastra
    1 pastos
    1 pastoril
    1 pastorcico
@@ -15648,7 +15547,6 @@
    1 pasá
    1 parva
    1 party
-   1 parts
    1 pártome
    1 partieses
    1 partiésemos
@@ -15719,14 +15617,12 @@
    1 panza
    1 pantuflos
    1 pantalia
-   1 paños
    1 paniaguados
    1 panes
    1 panegírico
    1 panecillo
    1 pane
    1 panderos
-   1 pañales
    1 palpar
    1 pálpalos
    1 palpables
@@ -15774,7 +15670,6 @@
    1 padecía
    1 padécense
    1 paciente
-   1 pa
    1 oyo
    1 oyeres
    1 oyeren
@@ -15794,7 +15689,6 @@
    1 otomana
    1 others
    1 ossa
-   1 oso
    1 osé
    1 ose
    1 osaste
@@ -15806,11 +15700,15 @@
    1 osaría
    1 osara
    1 osamos
+   1 osamente
    1 orza
    1 ornato
    1 ornamentos
    1 ornamento
+   1 oritos
+   1 orísimas
    1 orina
+   1 oril
    1 originator
    1 originales
    1 oriental
@@ -15819,6 +15717,8 @@
    1 órgano
    1 organized
    1 orearme
+   1 oreaba
+   1 orea
    1 ore
    1 ordinaro
    1 ordené
@@ -15829,8 +15729,9 @@
    1 ordenara
    1 ordenar
    1 ordenanza
-   1 ordeñando
    1 ordenando
+   1 orde
+   1 orazos
    1 oratorios
    1 oratorio
    1 oratoria
@@ -15856,7 +15757,6 @@
    1 operación
    1 onzas
    1 onesto
-   1 ón
    1 omnipotente
    1 omecillos
    1 omecillo
@@ -15881,10 +15781,12 @@
    1 oliscan
    1 olió
    1 oliese
+   1 olientos
+   1 oliento
+   1 olienta
    1 oliéndolas
    1 oliendo
    1 olido
-   1 olas
    1 ojinegra
    1 ojeo
    1 ojeándole
@@ -16038,7 +15940,6 @@
    1 nizarani
    1 nivelado
    1 nísperos
-   1 niñez
    1 nigromancia
    1 nieves
    1 nieta
@@ -16107,7 +16008,7 @@
    1 mutación
    1 mustia
    1 músculos
-   1 musarañas
+   1 musara
    1 musa
    1 murmuro
    1 murmuren
@@ -16123,7 +16024,6 @@
    1 murasen
    1 muramos
    1 mur
-   1 muñidos
    1 municiones
    1 multos
    1 mujeriego
@@ -16217,10 +16117,7 @@
    1 montare
    1 montaraz
    1 montaraces
-   1 montañuelas
-   1 montañuela
    1 montante
-   1 montañés
    1 montan
    1 montaban
    1 monstruos
@@ -16419,8 +16316,8 @@
    1 menoscabado
    1 menoscabadas
    1 menoscaba
-   1 mengüe
    1 menguadas
+   1 meng
    1 menéese
    1 menease
    1 menearon
@@ -16475,7 +16372,7 @@
    1 mayaban
    1 maximum
    1 matrona
-   1 matrimoñesco
+   1 matrimo
    1 matorrales
    1 matizar
    1 matizadas
@@ -16526,8 +16423,6 @@
    1 maravillándose
    1 maravillan
    1 maravillados
-   1 marañas
-   1 maraña
    1 maquinase
    1 manzana
    1 many
@@ -16548,13 +16443,11 @@
    1 mansamente
    1 mansa
    1 manotadas
-   1 mañoso
    1 manoseóse
    1 manoseó
    1 manosee
    1 manosean
    1 manoseada
-   1 mañosamente
    1 manojos
    1 manillas
    1 manifiestos
@@ -16565,7 +16458,6 @@
    1 manifatura
    1 maniatar
    1 manga
-   1 mañeruelas
    1 manejaré
    1 manejar
    1 manejan
@@ -16694,7 +16586,6 @@
    1 luminaria
    1 luminares
    1 lujuria
-   1 lueñas
    1 lucrando
    1 lucidísimo
    1 luchar
@@ -16919,7 +16810,6 @@
    1 leoneses
    1 leoncitos
    1 lentamente
-   1 leños
    1 lenitivas
    1 lencería
    1 lelilíes
@@ -16983,7 +16873,7 @@
    1 lances
    1 lanceros
    1 lanas
-   1 lampiñas
+   1 lampi
    1 lampazos
    1 lamos
    1 láminas
@@ -17002,8 +16892,6 @@
    1 lagartijero
    1 lagartija
    1 lagares
-   1 lagañoso
-   1 lagañas
    1 ladrillos
    1 ladrillazos
    1 ladrido
@@ -17048,7 +16936,6 @@
    1 juntábansele
    1 juntaban
    1 jumenta
-   1 jüicio
    1 jui
    1 juguetona
    1 juguetes
@@ -17096,12 +16983,18 @@
    1 jabonaron
    1 jabonadura
    1 jabalíes
+   1 j
    1 izquierdeaba
    1 izó
    1 islilla
+   1 ísima
    1 irritado
    1 irnos
+   1 irle
+   1 irla
    1 irían
+   1 iquén
+   1 ique
    1 invocó
    1 invocar
    1 invocando
@@ -17298,6 +17191,7 @@
    1 inaccurate
    1 inacabables
    1 inacabable
+   1 ina
    1 impusiere
    1 impuse
    1 impura
@@ -17379,6 +17273,7 @@
    1 ilustrísima
    1 ilustrado
    1 illud
+   1 il
    1 ijas
    1 ijadeando
    1 iguale
@@ -17396,17 +17291,21 @@
    1 ignorado
    1 ignorada
    1 ignora
+   1 ifas
+   1 iéndole
+   1 idora
    1 idóneo
    1 ídolo
    1 idio
    1 ides
    1 identify
    1 identification
-   1 idas
    1 id
+   1 icio
    1 íbase
    1 ibas
    1 íbades
+   1 íale
    1 hypertext
    1 huyóse
    1 huyeron
@@ -17419,7 +17318,7 @@
    1 hurtaron
    1 hurtada
    1 hurtacordel
-   1 huraño
+   1 hura
    1 hundreds
    1 hundirme
    1 hundió
@@ -17522,7 +17421,7 @@
    1 hojeando
    1 hogueras
    1 hogazas
-   1 hogaño
+   1 hoga
    1 hocicos
    1 hocicando
    1 hobiese
@@ -17610,7 +17509,6 @@
    1 hechiceresca
    1 hear
    1 hazlo
-   1 hazañosos
    1 hayades
    1 háselo
    1 háseles
@@ -17741,7 +17639,7 @@
    1 guió
    1 guindas
    1 guilla
-   1 guijeñas
+   1 guije
    1 guijas
    1 guíete
    1 guíes
@@ -17753,11 +17651,6 @@
    1 guiadas
    1 guiada
    1 guiaban
-   1 güevo
-   1 güéspedes
-   1 güéspeda
-   1 güesos
-   1 güero
    1 guedejas
    1 guedeja
    1 guay
@@ -17784,11 +17677,8 @@
    1 guardábase
    1 guardaamigo
    1 guantero
-   1 guadaña
    1 guadameciles
-   1 gruñidora
-   1 gruñía
-   1 gruñen
+   1 guada
    1 grumete
    1 grullas
    1 gruesos
@@ -17932,12 +17822,10 @@
    1 garamantas
    1 garabato
    1 ganso
-   1 gañir
    1 gancho
    1 ganare
    1 ganándola
    1 ganancioso
-   1 gañán
    1 ganada
    1 ganaban
    1 gamella
@@ -18184,7 +18072,6 @@
    1 fecistes
    1 fechuría
    1 fechas
-   1 fazaña
    1 favoridos
    1 favorezcas
    1 favorezcan
@@ -18265,8 +18152,6 @@
    1 fa
    1 f
    1 extraordinariamente
-   1 extraño
-   1 extrañas
    1 extirpar
    1 exteriores
    1 extent
@@ -18302,6 +18187,7 @@
    1 exagerar
    1 exagerado
    1 exageraba
+   1 evo
    1 evidentes
    1 evidentemente
    1 evidencia
@@ -18312,6 +18198,7 @@
    1 eternice
    1 eternas
    1 etéreas
+   1 ete
    1 estuviésemos
    1 estuviésedes
    1 estuvieres
@@ -18479,6 +18366,8 @@
    1 esperada
    1 esperábamos
    1 espediente
+   1 éspedes
+   1 éspeda
    1 especule
    1 espectáculo
    1 especies
@@ -18499,7 +18388,6 @@
    1 espantadiza
    1 espantables
    1 espantaba
-   1 españolas
    1 espalder
    1 espaldazaro
    1 espaldarazo
@@ -18558,11 +18446,6 @@
    1 esculpido
    1 escuezan
    1 escueto
-   1 escudriño
-   1 escudriñase
-   1 escudriñáronse
-   1 escudriñando
-   1 escudriñan
    1 escudó
    1 escudillar
    1 escudilla
@@ -18591,7 +18474,7 @@
    1 escuchaban
    1 escuchábamos
    1 escu
-   1 escrutiñador
+   1 escruti
    1 escrupulosa
    1 escritorios
    1 escribo
@@ -18655,7 +18538,6 @@
    1 escapan
    1 escapado
    1 escapaba
-   1 escaño
    1 escandalizase
    1 escancie
    1 escanciando
@@ -18669,7 +18551,9 @@
    1 escala
    1 escabroso
    1 esaminadores
+   1 és
    1 erutaciones
+   1 eruelas
    1 eruditos
    1 errors
    1 errores
@@ -18680,13 +18564,15 @@
    1 errare
    1 errando
    1 errados
-   1 ermitaños
+   1 éronse
    1 erizarse
    1 erizaron
    1 erizados
    1 erguido
    1 erguían
+   1 eren
    1 erario
+   1 er
    1 equivalentes
    1 equis
    1 equinocios
@@ -18694,6 +18580,7 @@
    1 epigrama
    1 épico
    1 épica
+   1 enzas
    1 envolver
    1 enviudó
    1 enviudares
@@ -18839,22 +18726,7 @@
    1 ensillaron
    1 ensillada
    1 ensillaba
-   1 enseñéis
-   1 enseñarte
-   1 enseñársele
-   1 enseñaron
-   1 enseñármele
-   1 enseñarle
-   1 enseñaría
-   1 enseñaré
-   1 enseñare
-   1 enseñándosela
-   1 enseñando
-   1 enséñala
-   1 enseñadme
-   1 enseñábale
-   1 enseña
-   1 ense
+   1 ensé
    1 ensayados
    1 ensártalos
    1 ensartado
@@ -18898,6 +18770,7 @@
    1 enmendaré
    1 enmendando
    1 enmendado
+   1 enme
    1 enmantaban
    1 enlutadas
    1 enlazados
@@ -18931,16 +18804,6 @@
    1 engendrada
    1 engastados
    1 engastado
-   1 engañoso
-   1 engañosa
-   1 engañifas
-   1 engañarte
-   1 engañarnos
-   1 engañándonos
-   1 engañando
-   1 engañador
-   1 engañaban
-   1 engaña
    1 enfriar
    1 enfriaba
    1 enfría
@@ -19027,6 +18890,7 @@
    1 encogía
    1 encogemos
    1 encoge
+   1 encoding
    1 enclavijadas
    1 enclavársela
    1 encinta
@@ -19117,16 +18981,11 @@
    1 enalbardado
    1 enajenado
    1 émula
-   1 empuñará
-   1 empuñar
-   1 empuñando
    1 empujón
    1 empujaba
    1 emprincipio
    1 emprender
    1 emprendella
-   1 empreñastes
-   1 empreñar
    1 empozarme
    1 empobrecieron
    1 employee
@@ -19142,22 +19001,20 @@
    1 empinándola
    1 empinaba
    1 empezca
-   1 empeñé
-   1 empeñando
-   1 empeñado
    1 empedrarle
    1 empedrados
    1 emparedado
    1 empapado
-   1 empañarse
    1 empalado
    1 empalaba
    1 empache
    1 empachados
+   1 empa
    1 emiendes
    1 emiende
    1 emendarme
    1 emendar
+   1 éme
    1 embutirse
    1 embrazado
    1 embozarse
@@ -19191,6 +19048,7 @@
    1 embaidora
    1 embaído
    1 email
+   1 elos
    1 elocuente
    1 eligrosas
    1 elevamiento
@@ -19198,7 +19056,10 @@
    1 elefantes
    1 electo
    1 elect
+   1 éle
+   1 eldos
    1 elches
+   1 ejo
    1 ejercitastes
    1 ejercitarse
    1 ejercitándose
@@ -19213,6 +19074,7 @@
    1 ejecutaba
    1 ejecuta
    1 either
+   1 éis
    1 efusión
    1 efigie
    1 eficacísimas
@@ -19222,9 +19084,12 @@
    1 efetos
    1 efectivo
    1 educational
+   1 edores
+   1 edo
    1 edition
    1 edificar
    1 edificados
+   1 ederas
    1 eco
    1 écloga
    1 eclipsado
@@ -19261,6 +19126,7 @@
    1 ébano
    1 easy
    1 easily
+   1 eado
    1 each
    1 durmiesen
    1 durmieron
@@ -19275,8 +19141,6 @@
    1 durables
    1 dulzura
    1 dulcísimas
-   1 dueñísima
-   1 dueñesca
    1 duélase
    1 duecho
    1 dudosas
@@ -19545,8 +19409,6 @@
    1 desviaban
    1 desviaba
    1 desvía
-   1 desvergüenzas
-   1 desvergüenza
    1 desvergonzadas
    1 desvergonzada
    1 desventurados
@@ -19637,16 +19499,7 @@
    1 desperezarse
    1 desperezándose
    1 despensas
-   1 despeñéme
-   1 despeñas
-   1 despeñarse
-   1 despeñarme
    1 despenar
-   1 despeñándose
-   1 despeñándome
-   1 despeñaderos
-   1 despeñaba
-   1 despeña
    1 despejan
    1 despejalle
    1 despegador
@@ -19788,7 +19641,7 @@
    1 desenvainaron
    1 desenvainar
    1 desenvainadas
-   1 desentrañarles
+   1 desentra
    1 desentonada
    1 desenterrar
    1 desenterrándonos
@@ -19797,13 +19650,6 @@
    1 desenlazarle
    1 desenlazando
    1 desenjaularon
-   1 desengañes
-   1 desengañarse
-   1 desengañarle
-   1 desengañara
-   1 desengañados
-   1 desengañada
-   1 desengañaban
    1 desenfadadamente
    1 desenclavijó
    1 desencinta
@@ -19846,13 +19692,6 @@
    1 desdichadísimas
    1 desdichadísima
    1 desdichadas
-   1 desdeñosa
-   1 desdeñé
-   1 desdeñase
-   1 desdeñará
-   1 desdeñados
-   1 desdeñada
-   1 desdeñaba
    1 desculpó
    1 desculpaba
    1 desculpa
@@ -19917,8 +19756,8 @@
    1 descolgado
    1 descolgadas
    1 descoger
-   1 desciñéronse
-   1 desceñido
+   1 desci
+   1 desce
    1 descarne
    1 descargaré
    1 descargado
@@ -19991,18 +19830,16 @@
    1 desalumbrados
    1 desalumbradamente
    1 desalmadas
-   1 desaliñase
-   1 desaliñando
    1 desalforjó
    1 desalentados
    1 desalentado
    1 desalbardara
    1 desairado
-   1 desagüe
    1 desaguarse
    1 desaguaderos
    1 desagua
    1 desagrade
+   1 desag
    1 desafióme
    1 desafió
    1 desafiásedes
@@ -20090,10 +19927,10 @@
    1 delinear
    1 delineado
    1 delineadas
-   1 deliñada
    1 delicadamente
    1 deliberado
    1 deliberada
+   1 deli
    1 delgadísimo
    1 deletions
    1 deleitoso
@@ -20232,9 +20069,6 @@
    1 danzantes
    1 danzando
    1 danzadores
-   1 dañoso
-   1 dañosa
-   1 dañó
    1 dándoselo
    1 dándosele
    1 dándosela
@@ -20242,11 +20076,6 @@
    1 dándomela
    1 dándolos
    1 dándola
-   1 dañar
-   1 dañador
-   1 dañado
-   1 dañada
-   1 dañaba
    1 damiselas
    1 dámela
    1 damasquino
@@ -20286,7 +20115,6 @@
    1 cupe
    1 cundiendo
    1 cundido
-   1 cuñada
    1 cumplo
    1 cumplís
    1 cumplirle
@@ -20493,7 +20321,7 @@
    1 corras
    1 corrales
    1 corporation
-   1 corpiños
+   1 corpi
    1 corónicas
    1 coronarte
    1 coronaron
@@ -20554,7 +20382,7 @@
    1 contratación
    1 contrastando
    1 contrastado
-   1 contraseño
+   1 contrase
    1 contrarias
    1 contrapuntos
    1 contrapuestas
@@ -21036,19 +20864,13 @@
    1 círculo
    1 circuito
    1 cinto
-   1 ciñóse
-   1 ciñó
-   1 ciñiéndole
    1 cínico
-   1 ciñese
-   1 ciñen
-   1 ciñe
    1 cinchar
    1 cincha
    1 cimitarra
    1 cimientos
    1 cimenterios
-   1 cigüeñas
+   1 cig
    1 cifró
    1 cifras
    1 cifrado
@@ -21136,9 +20958,6 @@
    1 censo
    1 cenóse
    1 ceniza
-   1 ceñirle
-   1 ceñíale
-   1 ceñía
    1 cenemos
    1 cencerruna
    1 cencerro
@@ -21181,7 +21000,6 @@
    1 cebado
    1 ceba
    1 cease
-   1 ce
    1 cazos
    1 cazoleros
    1 cazas
@@ -21326,9 +21144,6 @@
    1 capacidad
    1 capachos
    1 cap
-   1 cañutos
-   1 cañutillos
-   1 cañutillo
    1 cantusado
    1 cantueso
    1 cantos
@@ -21377,12 +21192,10 @@
    1 candados
    1 canario
    1 cananea
-   1 cáñamo
    1 canales
    1 campeó
    1 campear
    1 campeaba
-   1 campañas
    1 caminó
    1 caminen
    1 caminallas
@@ -21407,10 +21220,6 @@
    1 calumniado
    1 calores
    1 calonjía
-   1 calóñenme
-   1 caloñas
-   1 caló
-   1 calo
    1 callos
    1 callenta
    1 callen
@@ -21458,8 +21267,7 @@
    1 caballe
    1 cabalgaba
    1 cabales
-   1 caba
-   1 ca
+   1 cá
    1 buzcorona
    1 busquemos
    1 business
@@ -21495,7 +21303,6 @@
    1 burlaban
    1 buriles
    1 burdos
-   1 buñuelos
    1 bullente
    1 bullendo
    1 buido
@@ -21506,11 +21313,12 @@
    1 bucólicas
    1 bucólica
    1 búcaros
+   1 bu
    1 brutesco
-   1 bruñidas
    1 brumó
    1 brumada
    1 bruja
+   1 bru
    1 brotar
    1 brotaban
    1 bronco
@@ -21699,7 +21507,7 @@
    1 barnizada
    1 barcadas
    1 barbudo
-   1 barbitaheño
+   1 barbitahe
    1 barbiponiente
    1 barbilucio
    1 barbería
@@ -21712,18 +21520,8 @@
    1 barajan
    1 baptizalla
    1 baptizada
-   1 baños
    1 bandos
    1 bandines
-   1 bañarse
-   1 bañaron
-   1 bañarle
-   1 bañará
-   1 bañándose
-   1 bañan
-   1 bañados
-   1 bañado
-   1 bañadas
    1 bamboleas
    1 ballenatos
    1 balidos
@@ -21815,8 +21613,6 @@
    1 avieso
    1 aviesas
    1 averiguo
-   1 averigüen
-   1 averigüéle
    1 averiguase
    1 averiguarse
    1 averiguare
@@ -21932,6 +21728,7 @@
    1 atormenten
    1 atontada
    1 atónita
+   1 atón
    1 atilde
    1 atildadura
    1 atierra
@@ -21960,7 +21757,6 @@
    1 atarse
    1 atármela
    1 atarles
-   1 atañederas
    1 atan
    1 atalegar
    1 atajos
@@ -21976,6 +21772,7 @@
    1 astroso
    1 astros
    1 astrolabio
+   1 astes
    1 astas
    1 assistance
    1 asqueste
@@ -22024,7 +21821,6 @@
    1 asentada
    1 asendereada
    1 asenderado
-   1 asen
    1 aseguró
    1 asegúrate
    1 asegurarte
@@ -22036,7 +21832,6 @@
    1 asegúrala
    1 aseguraba
    1 aseados
-   1 ase
    1 asconderme
    1 ascondéis
    1 asconde
@@ -22060,6 +21855,7 @@
    1 artesoncillo
    1 artesas
    1 artesa
+   1 ársele
    1 arrumbadas
    1 arrullar
    1 arrullador
@@ -22135,13 +21931,15 @@
    1 arqueta
    1 arpas
    1 arpadas
-   1 aros
+   1 áronse
    1 aromático
    1 aromática
+   1 arnos
    1 arnaúte
    1 armóse
    1 armónico
-   1 armiño
+   1 armi
+   1 ármele
    1 armazón
    1 armase
    1 arman
@@ -22151,12 +21949,15 @@
    1 aristas
    1 arise
    1 arguyo
-   1 argüir
    1 argollas
    1 argentería
    1 argentada
+   1 arg
+   1 ares
    1 arenques
    1 arenoso
+   1 aremos
+   1 aré
    1 arduo
    1 ardua
    1 ardo
@@ -22181,6 +21982,7 @@
    1 aras
    1 arar
    1 aranceles
+   1 áramos
    1 arambeles
    1 aragoneses
    1 arados
@@ -22202,7 +22004,7 @@
    1 apuntándome
    1 apuntando
    1 apuntado
-   1 apuñeado
+   1 apu
    1 aptitud
    1 aprueba
    1 aproveche
@@ -22277,8 +22079,8 @@
    1 aplacara
    1 aplacar
    1 aplacado
-   1 apiñados
    1 apicarados
+   1 api
    1 apetites
    1 apetezco
    1 apetecerlo
@@ -22328,13 +22130,9 @@
    1 apacibles
    1 apacibilidad
    1 apacentando
-   1 anywhere
    1 anything
    1 anulo
-   1 añudemos
    1 anudando
-   1 añudadas
-   1 añudada
    1 anubló
    1 anublar
    1 antropófagos
@@ -22347,7 +22145,6 @@
    1 antojadizo
    1 antojaba
    1 antiquísimo
-   1 antigüedades
    1 antídoto
    1 anteviendo
    1 antesalas
@@ -22360,6 +22157,7 @@
    1 ansioso
    1 anque
    1 anotar
+   1 anonymous
    1 anocheciese
    1 anochecido
    1 anochecen
@@ -22387,7 +22185,6 @@
    1 angosta
    1 anexo
    1 anejos
-   1 añejo
    1 anegue
    1 anegase
    1 anegaron
@@ -22396,6 +22193,9 @@
    1 anduvimos
    1 anduviéremos
    1 anduviere
+   1 ándosela
+   1 ándonos
+   1 ándome
    1 andéis
    1 ándase
    1 andaros
@@ -22418,23 +22218,13 @@
    1 anchísima
    1 anchas
    1 anales
-   1 añadís
-   1 añadirles
-   1 añadiría
-   1 añadióse
-   1 añadiesen
-   1 añadiese
-   1 añadieron
-   1 añadía
-   1 añadí
-   1 añade
-   1 añadas
-   1 ana
+   1 án
    1 ampo
    1 amparase
    1 amparando
    1 amparan
    1 amparador
+   1 ámosla
    1 amortiguados
    1 amorosísimos
    1 amoríos
@@ -22465,7 +22255,6 @@
    1 amarguen
    1 amantado
    1 amansar
-   1 amaño
    1 amanezca
    1 amanecido
    1 amanecían
@@ -22473,7 +22262,6 @@
    1 amancebar
    1 amancebado
    1 amancebada
-   1 amañar
    1 amainado
    1 amadas
    1 amaban
@@ -22528,7 +22316,8 @@
    1 alojamiento
    1 alojados
    1 alojaban
-   1 almost
+   1 aló
+   1 alo
    1 almohaza
    1 almohadillas
    1 almohadilla
@@ -22565,8 +22354,6 @@
    1 alimpiando
    1 alimentado
    1 alimenta
-   1 alimañas
-   1 alimaña
    1 aligera
    1 alientes
    1 aliagas
@@ -22582,15 +22369,17 @@
    1 alforja
    1 alfileres
    1 alferecía
-   1 alfeñique
+   1 alfe
    1 alfaquí
    1 alevosos
    1 alevosías
    1 alerto
+   1 alero
    1 alentando
+   1 álensele
    1 alemanes
-   1 alemañas
    1 alemanas
+   1 alema
    1 alejase
    1 alejándose
    1 alegues
@@ -22608,10 +22397,10 @@
    1 alegando
    1 alegado
    1 alega
-   1 aldegüela
+   1 alé
+   1 aldeg
    1 aldeano
    1 aldabazos
-   1 alcornoqueñas
    1 álcense
    1 alcéis
    1 alcatifa
@@ -22629,7 +22418,7 @@
    1 alcancen
    1 alcaller
    1 alcaidía
-   1 alcagüete
+   1 alcag
    1 alcacel
    1 alcabalero
    1 alcabala
@@ -22651,21 +22440,26 @@
    1 albarde
    1 albardas
    1 albar
-   1 albañir
-   1 albañil
    1 albanega
    1 alaridos
+   1 alaría
    1 alargó
    1 alargase
    1 alargarme
    1 alargar
    1 alargan
+   1 alaré
    1 alarde
+   1 alaran
+   1 alar
    1 alanos
    1 alano
    1 alanceara
    1 alanceallas
+   1 alamos
    1 alambre
+   1 alados
+   1 aladísima
    1 alabóle
    1 alábele
    1 alabe
@@ -22731,13 +22525,11 @@
    1 aguó
    1 agujereado
    1 agujas
-   1 aguileño
    1 águilas
    1 aguijó
    1 aguije
    1 aguijar
    1 aguija
-   1 agüelos
    1 agudas
    1 aguase
    1 aguardo
@@ -22917,6 +22709,7 @@
    1 administrando
    1 administración
    1 adminícula
+   1 adme
    1 adjunto
    1 adivinos
    1 adivinen
@@ -22928,8 +22721,18 @@
    1 adivas
    1 aditamentos
    1 aditamento
+   1 adís
+   1 adirles
+   1 adiría
+   1 adiósele
    1 adiós
+   1 adiesen
+   1 adiese
+   1 adieron
+   1 adía
+   1 adí
    1 adherente
+   1 aderos
    1 aderezólas
    1 aderezaste
    1 aderezas
@@ -22939,8 +22742,6 @@
    1 aderezando
    1 aderezaban
    1 aderece
-   1 adeliño
-   1 adeliñase
    1 adelgaza
    1 adelfas
    1 adelfa
@@ -22951,6 +22752,7 @@
    1 adelantándose
    1 adelantaba
    1 adelanta
+   1 ade
    1 addresses
    1 additions
    1 addition
@@ -23043,15 +22845,6 @@
    1 aconsejárale
    1 aconsejara
    1 aconsejando
-   1 acompañen
-   1 acompañarse
-   1 acompañaros
-   1 acompañarme
-   1 acompañarles
-   1 acompañaremos
-   1 acompañáramos
-   1 acompañámosla
-   1 acompañador
    1 acomodóse
    1 acomodé
    1 acomódate
@@ -23276,12 +23069,15 @@
    1 abarraganados
    1 abarraganada
    1 abandonarme
+   1 ábale
    1 abajó
    1 abajen
    1 abajan
    1 abaja
    1 abades
    1 á
+   1 [eBook
+   1 [Most
    1 Zurdo
    1 Zulema
    1 Zorruna
@@ -23379,6 +23175,7 @@
    1 Unless
    1 Unicornio
    1 Ulixes
+   1 UTF
    1 UT
    1 USE
    1 UNDER
@@ -23433,11 +23230,11 @@
    1 Todopoderoso
    1 Tobosa
    1 Tobo
+   1 Title
    1 Tiro
    1 Tirantes
    1 Tirábanle
    1 Tiopieyo
-   1 Tiñoso
    1 Timonel
    1 Timbrio
    1 Timantes
@@ -23449,6 +23246,7 @@
    1 Tibulo
    1 Tibre
    1 Tíbar
+   1 Ti
    1 Thus
    1 They
    1 Testimonio
@@ -23522,6 +23320,7 @@
    1 Sube
    1 Subamos
    1 Special
+   1 Spanish
    1 Sospiró
    1 Sospirará
    1 Sosiéguese
@@ -23558,13 +23357,13 @@
    1 Sila
    1 Siguiólas
    1 Siguiendo
-   1 Sigüenza
    1 Sígueme
    1 Sigue
    1 Sigo
    1 Siglos
    1 Siglo
    1 Sigismunda
+   1 Sig
    1 Sierpe
    1 Sesenta
    1 Service
@@ -23574,8 +23373,6 @@
    1 Será
    1 Sentáronse
    1 Sentábase
-   1 Señoras
-   1 Señal
    1 Sembrad
    1 Selva
    1 Sélo
@@ -23626,7 +23423,6 @@
    1 Sabe
    1 SUCH
    1 STRICT
-   1 START
    1 SOLISD
    1 SIMO
    1 SEND
@@ -23652,11 +23448,11 @@
    1 Roca
    1 Ríome
    1 Rinconete
-   1 Riña
    1 Right
    1 Riéronse
    1 Ricamonte
    1 Riarán
+   1 Ri
    1 Reyes
    1 Revulgo
    1 Revenue
@@ -23685,6 +23481,7 @@
    1 Rendidos
    1 Remestán
    1 Reloja
+   1 Release
    1 Reiteráronse
    1 Reincorporóse
    1 Reíase
@@ -23781,6 +23578,7 @@
    1 Prometímosselo
    1 Prometímosle
    1 Professor
+   1 Produced
    1 Procuró
    1 Procure
    1 Procuraron
@@ -23953,7 +23751,7 @@
    1 Orianas
    1 Orestes
    1 Orelia
-   1 Ordóñez
+   1 Ordó
    1 Ordené
    1 Ordenaron
    1 Orden
@@ -23996,9 +23794,7 @@
    1 Nona
    1 Nogales
    1 Niso
-   1 Niño
    1 Ningún
-   1 Niña
    1 Niéguenme
    1 Nicolao
    1 Niarros
@@ -24026,7 +23822,6 @@
    1 Murieron
    1 Muriérase
    1 Mundo
-   1 Muñatón
    1 Muévenos
    1 Muévate
    1 Muerto
@@ -24038,6 +23833,7 @@
    1 Mucio
    1 Muchacho
    1 Mucha
+   1 Mu
    1 Movía
    1 Mostró
    1 Mostraron
@@ -24047,11 +23843,11 @@
    1 Morón
    1 Morirás
    1 Mora
-   1 Montañas
+   1 Monta
    1 Mont
    1 Monserrato
    1 Monjuí
-   1 Mondoñedo
+   1 Mondo
    1 Moncadas
    1 Moles
    1 Modón
@@ -24126,7 +23922,7 @@
    1 Marchena
    1 Maravillárame
    1 Maravilla
-   1 Marañón
+   1 Mara
    1 Manzanares
    1 Many
    1 Mantuano
@@ -24138,7 +23934,6 @@
    1 Mandólo
    1 Manchísima
    1 Manchego
-   1 Mañana
    1 Mameluco
    1 Malos
    1 Malo
@@ -24164,7 +23959,6 @@
    1 Madama
    1 Madalena
    1 Macabeos
-   1 Ma
    1 MUERTE
    1 MONICONGO
    1 MICOS
@@ -24261,6 +24055,7 @@
    1 Lástima
    1 Laredo
    1 Lara
+   1 Language
    1 Lamia
    1 Lake
    1 Laida
@@ -24311,6 +24106,7 @@
    1 Jugando
    1 Jueces
    1 Josef
+   1 Joaquin
    1 Jerusalén
    1 Jerez
    1 Jayanes
@@ -24319,6 +24115,7 @@
    1 Jarifa
    1 Jardín
    1 Jaramilla
+   1 January
    1 Janto
    1 Jaca
    1 JAR
@@ -24368,7 +24165,7 @@
    1 Hombres
    1 Hombre
    1 Hojeo
-   1 Hogaño
+   1 Hoga
    1 Hízome
    1 Hízole
    1 Hipólito
@@ -24394,7 +24191,7 @@
    1 Hecimos
    1 Hechos
    1 Hebreo
-   1 Hazañas
+   1 Haza
    1 Haya
    1 Haste
    1 Hásele
@@ -24576,8 +24373,6 @@
    1 Espartafilardo
    1 Espantáronse
    1 Espantada
-   1 Español
-   1 Espa
    1 Esfuércese
    1 Escupía
    1 Escudero
@@ -24608,7 +24403,7 @@
    1 Ensilló
    1 Enrique
    1 Enmudeció
-   1 Engañado
+   1 Enga
    1 Enfrena
    1 Encomiéndeme
    1 Encomiéndalo
@@ -24641,7 +24436,6 @@
    1 ENTRE
    1 END
    1 EIN
-   1 EBOOK
    1 Duróle
    1 Duro
    1 Durmió
@@ -24652,7 +24446,6 @@
    1 Dulcina
    1 Dulce
    1 Duermes
-   1 Dueñas
    1 Dude
    1 Dudaron
    1 Dr
@@ -24661,7 +24454,6 @@
    1 Doquiera
    1 Donec
    1 Doncellas
-   1 Doña
    1 Dolfos
    1 Doctor
    1 Divididos
@@ -24731,8 +24523,6 @@
    1 Desnudo
    1 Desnúdese
    1 Desmentíla
-   1 Desengaños
-   1 Desengaño
    1 Desencajó
    1 Desembolsó
    1 Desechásteme
@@ -24779,11 +24569,11 @@
    1 Decíase
    1 Decíanme
    1 Decíale
+   1 December
    1 Debió
    1 Debes
    1 Dé
    1 David
-   1 Date
    1 Dáselos
    1 Dario
    1 Darásela
@@ -24914,14 +24704,15 @@
    1 Circe
    1 Cipiones
    1 Cipión
-   1 Ciñóse
    1 Ciertos
    1 Cierto
    1 Ciérrese
    1 Cides
+   1 Ci
    1 Christus
    1 Chief
    1 Charní
+   1 Character
    1 Chancillerías
    1 Cesen
    1 Césares
@@ -24941,7 +24732,7 @@
    1 Causaba
    1 Católicas
    1 Catilina
-   1 Cataluña
+   1 Catalu
    1 Cástor
    1 Castillo
    1 Castígame
@@ -25034,13 +24825,13 @@
    1 Bardas
    1 Barcino
    1 Baratario
-   1 Bañares
    1 Balvastro
    1 Baldovinos
    1 Balbastro
    1 Bacía
    1 Babie
    1 Babazón
+   1 Ba
    1 BUT
    1 BURLADOR
    1 BELIAN
@@ -25062,6 +24853,7 @@
    1 Avellaneda
    1 Ave
    1 Autores
+   1 Author
    1 Austríada
    1 Ausencia
    1 Augusto
@@ -25092,8 +24884,8 @@
    1 Arévalo
    1 Archipiela
    1 Araucana
-   1 Aranjüez
    1 Aranjuez
+   1 Aranj
    1 Arabias
    1 Aquello
    1 Aquélla
@@ -25125,8 +24917,6 @@
    1 Andá
    1 Anarda
    1 Anales
-   1 Añadiósele
-   1 Añadióse
    1 Amorosas
    1 Amohinóse
    1 Amohinábase
@@ -25163,9 +24953,9 @@
    1 Alguno
    1 Algo
    1 Algarbe
-   1 Alfeñiquén
+   1 Alfe
    1 Alencastros
-   1 Alemaña
+   1 Alema
    1 Alejandría
    1 Alejandra
    1 Alegróse
@@ -25213,7 +25003,7 @@
    1 Aconsejóle
    1 Aconsejaríale
    1 Aconsejaba
-   1 Acompañe
+   1 Acompa
    1 Acomodóse
    1 Acomodóle
    1 Acomodada
@@ -25238,8 +25028,7 @@
    1 Ablándate
    1 Abernuncio
    1 Abencerraje
+   1 Abela
    1 Abalánzase
    1 Abajó
    1 AS
-   1 ARGAMASILLESCO
-   1 APROBACIONES

@@ -6270,12 +6270,6 @@
 "misiva"
 "Carta que se envía a una persona para informarle de algo"
 "misiva"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "ahíto"
 "Que está lleno o saciado, especialmente de comida"
 "Que está cansado o molesto"
@@ -6289,17 +6283,11 @@ parse error: Invalid numeric literal at line 1, column 17
 "De la apología o que está relacionado con ella"
 "De la apologética o relacionado con ella"
 "apologético"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "arrebujar"
 "Tomar, arrugar o amontonar sin orden una cosa flexible"
 "Cubrir bien o envolver a una persona con la ropa de la cama o con una prenda de vestir"
 "Cubrirse bien o envolverse [una persona] con la ropa de la cama o con una prenda de vestir"
 "arrebujar"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "blasonar"
 "Hacer ostentación de algo"
 "Disponer o describir un escudo de armas según las reglas del blasón"
@@ -6318,8 +6306,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "Animal (porcino, vacuno, ovino, caprino) pequeño que se lo castra y ceba para ser consumido"
 "Golpe dado en la cabeza con el nudillo del dedo del corazón teniendo la mano cerrada"
 "capón"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "cribar"
 "Pasar una materia por una criba para separar las partes finas y las gruesas o para limpiarla de impurezas"
 "Seleccionar o elegir entre varias cosas o personas para separar las que se consideran buenas o apropiadas para algo de las que no lo son"
@@ -6340,12 +6326,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "delectación"
 "Placer del ánimo y de los sentidos"
 "delectación"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "diáfano"
 "[cuerpo] Que deja pasar la luz a través de sí casi en su totalidad"
 "Que tiene una gran cantidad de luz o de claridad"
@@ -6360,28 +6340,18 @@ parse error: Invalid numeric literal at line 1, column 17
 "Canción triste y de lamento"
 "Estrofa formada por cuatro versos de arte menor, generalmente hexasílabos o heptasílabos, que normalmente riman en asonante"
 "endecha"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "entelequia"
 "Cosa, persona o situación perfecta e ideal que solo existe en la imaginación"
 "Modo de existencia de un ser que tiene en sí mismo el principio de su acción y su fin"
 "entelequia"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "escardillo"
 "Apero de labranza parecido a una azada pequeña con dos dientes curvos; se emplea para escardar, limpiar la tierra y trasplantar"
 "Reflejo del sol producido por un espejo u otro cuerpo brillante, que los niños suelen proyectar como diversión sobre cosas o personas que están en la sombra"
 "escardillo"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "guarecer"
 "Proteger de un daño o peligro"
 "Ponerse [una persona o un animal] a salvo de un peligro o penalidad en un lugar"
 "guarecer"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "intonso"
 "Que no tiene cortado el pelo"
 "[libro] Que está encuadernado sin cortar los pliegos"
@@ -6393,30 +6363,18 @@ parse error: Invalid numeric literal at line 1, column 17
 "mentís"
 "Declaración o demostración con que se desmiente o contradice una cosa dicha por otra persona"
 "mentís"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "morfema"
 "Unidad más pequeña de la lengua que tiene significado léxico o gramatical y no puede dividirse en unidades significativas menores"
 "morfema"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "pendolista"
 "Persona que tiene por oficio escribir cartas, memorias y otros documentos por encargo"
 "pendolista"
 "petalismo"
 "Destierro político a que se condenaba a los ciudadanos de la antigua Siracusa, que, por su poder, influencia, etc., se creían peligrosos para la vida del Estado; la votación para decidir la expulsión se realizaba mediante hojas de olivo"
 "petalismo"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "poltrón"
 "Holgazán"
 "poltrón"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "sinalefa"
 "Unión de la vocal o vocales finales de una palabra con la vocal o vocales iniciales de la siguiente, de modo que forman una única sílaba tanto a efectos fonéticos como métricos"
 "sinalefa"
@@ -6437,8 +6395,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "viborezno"
 "Cría de la víbora"
 "viborezno"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "étimo"
 "Palabra o raíz de la que procede o deriva una palabra"
 "étimo"

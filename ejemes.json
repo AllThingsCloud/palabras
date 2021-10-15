@@ -13536,4 +13536,44 @@
         }
     ],
     "word": "carca"
+}{
+    "id": "etimo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "%C3%A9timo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el vocablo latino 'oculum' es el étimo de 'ojo'"
+                                        }
+                                    ],
+                                    "id": "idaff26aa3-a5e9-4cb9-baa5-7ea3218b7bd5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "étimo"
+                }
+            ],
+            "type": "headword",
+            "word": "étimo"
+        }
+    ],
+    "word": "étimo"
 }
