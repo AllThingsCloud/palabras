@@ -13474,4 +13474,66 @@
         }
     ],
     "word": "eufemismo"
+}{
+    "id": "carca",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "carca",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cada empresa busca un segmento del mercado, crea un lenguaje y un sistema de comunicación ad hoc de modo que para los ricos habrá una motivación, para los jóvenes, otra, para los carcas, otra, etcétera"
+                                        }
+                                    ],
+                                    "id": "ida51c76e4-7a9c-4968-a7c1-f454214a3c29"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "carca"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cada empresa busca un segmento del mercado, crea un lenguaje y un sistema de comunicación ad hoc de modo que para los ricos habrá una motivación, para los jóvenes, otra, para los carcas, otra, etcétera"
+                                        }
+                                    ],
+                                    "id": "ida51c76e4-7a9c-4968-a7c1-f454214a3c29"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "carca"
+                }
+            ],
+            "type": "headword",
+            "word": "carca"
+        }
+    ],
+    "word": "carca"
 }
