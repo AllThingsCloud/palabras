@@ -13576,4 +13576,56 @@
         }
     ],
     "word": "étimo"
+}{
+    "id": "torrido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "t%C3%B3rrido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "verano tórrido"
+                                        },
+                                        {
+                                            "text": "calor tórrido"
+                                        },
+                                        {
+                                            "text": "aquella tarde soplaba un vientecillo tórrido del este"
+                                        },
+                                        {
+                                            "text": "volvió una tórrida tarde de finales de julio"
+                                        },
+                                        {
+                                            "text": "se vio envuelto en una tórrida historia de amor"
+                                        }
+                                    ],
+                                    "id": "id3b765ed2-b2f8-416b-9fca-dff863e16203"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "tórrido"
+                }
+            ],
+            "type": "headword",
+            "word": "tórrido"
+        }
+    ],
+    "word": "tórrido"
 }
