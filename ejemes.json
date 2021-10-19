@@ -13654,4 +13654,44 @@
         }
     ],
     "word": "tartufo"
+}{
+    "id": "pastueno",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pastue%C3%B1o",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "toro pastueño"
+                                        }
+                                    ],
+                                    "id": "id802f682c-952b-4dfd-94da-26689dabb546"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pastueño"
+                }
+            ],
+            "type": "headword",
+            "word": "pastueño"
+        }
+    ],
+    "word": "pastueño"
 }

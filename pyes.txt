@@ -6404,3 +6404,9 @@
 "evento"
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+"misiva"
+"Carta que se envía a una persona para informarle de algo"
+"misiva"
+"pastueño"
+"[res] Que es dócil y embiste suavemente"
+"pastueño"
