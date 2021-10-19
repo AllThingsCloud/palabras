@@ -13628,4 +13628,30 @@
         }
     ],
     "word": "tórrido"
+}{
+    "id": "tartufo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "tartufo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tartufo"
+                }
+            ],
+            "type": "headword",
+            "word": "tartufo"
+        }
+    ],
+    "word": "tartufo"
 }
