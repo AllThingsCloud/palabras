@@ -13836,4 +13836,56 @@
         }
     ],
     "word": "intonso"
+}{
+    "id": "estridular",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "estridular",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "estridular"
+                }
+            ],
+            "type": "headword",
+            "word": "estridular"
+        }
+    ],
+    "word": "estridular"
+}{
+    "id": "estridular",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "estridular",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "estridular"
+                }
+            ],
+            "type": "headword",
+            "word": "estridular"
+        }
+    ],
+    "word": "estridular"
 }
