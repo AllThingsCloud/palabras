@@ -6410,3 +6410,16 @@ parse error: Invalid numeric literal at line 1, column 17
 "pastueño"
 "[res] Que es dócil y embiste suavemente"
 "pastueño"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"hoplita"
+"Soldado de infantería pesada de la antigua Grecia"
+"hoplita"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17

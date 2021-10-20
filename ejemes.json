@@ -13694,4 +13694,146 @@
         }
     ],
     "word": "pastueño"
+}{
+    "id": "hoplita",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hoplita",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los hoplitas, que iban armados con corazas o grandes escudos, pertenecieron en un principio a la clase aristocrática, y más tarde los hubo también de la clase media"
+                                        }
+                                    ],
+                                    "id": "idbdea9694-7f96-40b2-936d-f41a76087af0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hoplita"
+                }
+            ],
+            "type": "headword",
+            "word": "hoplita"
+        }
+    ],
+    "word": "hoplita"
+}{
+    "id": "emetico",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "em%C3%A9tico",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la ipecacuana es una planta emética"
+                                        }
+                                    ],
+                                    "id": "idfba833a3-fd9f-4bd8-b03b-86c32118664f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "emético"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la ipecacuana es una planta emética"
+                                        }
+                                    ],
+                                    "id": "idfba833a3-fd9f-4bd8-b03b-86c32118664f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "emético"
+                }
+            ],
+            "type": "headword",
+            "word": "emético"
+        }
+    ],
+    "word": "emético"
+}{
+    "id": "intonso",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "intonso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "barba intonsa"
+                                        }
+                                    ],
+                                    "id": "id6c8c76fc-dba0-46ef-a0f8-abe438c6a4d8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "intonso"
+                }
+            ],
+            "type": "headword",
+            "word": "intonso"
+        }
+    ],
+    "word": "intonso"
 }
