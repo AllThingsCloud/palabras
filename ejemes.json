@@ -13888,4 +13888,30 @@
         }
     ],
     "word": "estridular"
+}{
+    "id": "amarrido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "amarrido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "amarrido"
+                }
+            ],
+            "type": "headword",
+            "word": "amarrido"
+        }
+    ],
+    "word": "amarrido"
 }
