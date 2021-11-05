@@ -6650,10 +6650,6 @@
 "judiada"
 "Acto injusto o malintencionado hecho para molestar o herir a alguien"
 "judiada"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "coima"
 "Mujer que convive con un hombre sin estar casados entre sí"
 "Sueldo que percibe el garitero por preparar las cosas necesarias para las mesas de juego"
@@ -6693,14 +6689,11 @@ parse error: Invalid numeric literal at line 1, column 17
 "Puerta con una red que se pone detrás de la madera para evitar que pasen animales, especialmente insectos"
 "Pantalón largo de tejido elástico, más o menos grueso, que se ajusta a las piernas como un leotardo; es una prenda básicamente femenina"
 "malla"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "criba"
 "Instrumento para cernir o cribar que está compuesto por un aro o un marco al cual está asegurado un cuero o un tejido agujereado o una tela metálica fina con el fin de separar lo más fino de la harina o de otras sustancias"
 "Selección que se efectúa entre varias cosas o personas para separar las que se consideran buenas o apropiadas para algo de las que no lo son"
 "Tabique situado en el interior de los vasos cribosos de las plantas y que tiene pequeños orificios por los que pasa la savia rica en materia orgánica"
 "criba"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
+"tiovivo"
+"Atracción de feria que consiste en una plataforma giratoria sobre la que hay animales y vehículos de juguete para montarse y girar en ellos"
+"tiovivo"
