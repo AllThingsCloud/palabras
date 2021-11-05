@@ -13914,4 +13914,467 @@
         }
     ],
     "word": "amarrido"
+}{
+    "id": "manido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "manido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el orador empleó unos argumentos tan manidos que no convenció al auditorio"
+                                        },
+                                        {
+                                            "text": "aquí se aplica con toda su fuerza el tan manido dicho de que «lo importante es participar»"
+                                        }
+                                    ],
+                                    "id": "idfdb59670-281b-412c-bb62-b540902508d8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no te pongas esa camisa tan manida"
+                                        }
+                                    ],
+                                    "id": "id82fe4d29-ab1a-4359-b2f1-696172445c6c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "manido"
+                }
+            ],
+            "type": "headword",
+            "word": "manido"
+        }
+    ],
+    "word": "manido"
+}{
+    "id": "sinecura",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sinecura",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aceptó sin rechistar aquella nueva especie de sinecura, que no restringía para nada sus fuentes de ingreso y que incluso las incrementaba"
+                                        }
+                                    ],
+                                    "id": "iddefe1335-9db0-4a89-9c23-2424e2455bed"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sinecura"
+                }
+            ],
+            "type": "headword",
+            "word": "sinecura"
+        }
+    ],
+    "word": "sinecura"
+}{
+    "id": "ahito",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ah%C3%ADto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ahítas, las aves apenas podían remontar el vuelo"
+                                        },
+                                        {
+                                            "text": "estaba ahíto de coñac y de palabras sin orden que le brotaban de la carnosa raja de los labios como una baba"
+                                        }
+                                    ],
+                                    "id": "id25ac6055-6d1b-4e37-bf65-03597d3aefc2"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ahítas del esfuerzo, las aves apenas podían remontar el vuelo"
+                                        }
+                                    ],
+                                    "id": "ide47bd159-ac7c-4a33-8f4f-0a4c2ba25c70"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ahíto"
+                }
+            ],
+            "type": "headword",
+            "word": "ahíto"
+        }
+    ],
+    "word": "ahíto"
+}{
+    "id": "jalca",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "jalca",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "jalca"
+                }
+            ],
+            "type": "headword",
+            "word": "jalca"
+        }
+    ],
+    "word": "jalca"
+}{
+    "id": "racano",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "r%C3%A1cano",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el club en ningún momento ha sido rácano y ha dado el dinero suficiente para fichar a dos jugadores de calidad"
+                                        },
+                                        {
+                                            "text": "pensó que su amigo cada día estaba más rácano: «si quieren vino traigan una botella», había dicho"
+                                        }
+                                    ],
+                                    "id": "id9e632ee4-d16e-481c-9818-f6cbde3842af"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿todavía no ha empezado a estudiar? ¡Es un rácano!"
+                                        }
+                                    ],
+                                    "id": "id52a3ae84-eed7-4ccd-afec-7915af431f2f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rácano"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el club en ningún momento ha sido rácano y ha dado el dinero suficiente para fichar a dos jugadores de calidad"
+                                        },
+                                        {
+                                            "text": "pensó que su amigo cada día estaba más rácano: «si quieren vino traigan una botella», había dicho"
+                                        }
+                                    ],
+                                    "id": "id9e632ee4-d16e-481c-9818-f6cbde3842af"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿todavía no ha empezado a estudiar? ¡Es un rácano!"
+                                        }
+                                    ],
+                                    "id": "id52a3ae84-eed7-4ccd-afec-7915af431f2f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "rácano"
+                }
+            ],
+            "type": "headword",
+            "word": "rácano"
+        }
+    ],
+    "word": "rácano"
+}{
+    "id": "guita",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "guita",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "yo no tengo tanta guita para permitirme ese capricho"
+                                        }
+                                    ],
+                                    "id": "idf3727f22-3547-4918-b712-08f1f873ffb1"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "guita"
+                }
+            ],
+            "type": "headword",
+            "word": "guita"
+        }
+    ],
+    "word": "guita"
+}{
+    "id": "atisbo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "atisbo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en bolsa se utiliza cualquier atisbo de optimismo para aprovechar los avances"
+                                        },
+                                        {
+                                            "text": "por primera vez, sintió un atisbo de preocupación"
+                                        },
+                                        {
+                                            "text": "sonreía sin atisbo de ironía y decía a todo que sí"
+                                        }
+                                    ],
+                                    "id": "idb66efd34-a203-472a-80d0-e56373384862"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "atisbo"
+                }
+            ],
+            "type": "headword",
+            "word": "atisbo"
+        }
+    ],
+    "word": "atisbo"
+}{
+    "id": "fementido",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fementido",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "fementido"
+                }
+            ],
+            "type": "headword",
+            "word": "fementido"
+        }
+    ],
+    "word": "fementido"
+}{
+    "id": "perentorio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "perentorio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "nos dio un tiempo perentorio para conseguirlo"
+                                        }
+                                    ],
+                                    "id": "id6245b54e-edff-4f4a-a926-ef435df5f6e4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una resolución perentoria"
+                                        }
+                                    ],
+                                    "id": "idde066981-e1f3-43f4-9137-8b87be2ac871"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "respuesta perentoria"
+                                        },
+                                        {
+                                            "text": "necesidad perentoria"
+                                        }
+                                    ],
+                                    "id": "id6582e354-7065-466a-a9c6-4bb2422fc93a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "perentorio"
+                }
+            ],
+            "type": "headword",
+            "word": "perentorio"
+        }
+    ],
+    "word": "perentorio"
+}{
+    "id": "acemila",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ac%C3%A9mila",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "las acémilas son muy útiles para transportar peso en terrenos muy montañosos"
+                                        }
+                                    ],
+                                    "id": "idd4e34bed-3cf4-401e-b6c1-77fe155e818d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "acémila"
+                }
+            ],
+            "type": "headword",
+            "word": "acémila"
+        }
+    ],
+    "word": "acémila"
 }
