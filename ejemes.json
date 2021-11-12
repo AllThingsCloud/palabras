@@ -14377,4 +14377,264 @@
         }
     ],
     "word": "acémila"
+}{
+    "id": "facho",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "facho",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Juan es un facho"
+                                        },
+                                        {
+                                            "text": "María es muy facha"
+                                        }
+                                    ],
+                                    "id": "id6cabb4ce-5768-4795-bdad-ab65931a1c37"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "facho"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Juan es un facho"
+                                        },
+                                        {
+                                            "text": "María es muy facha"
+                                        }
+                                    ],
+                                    "id": "id6cabb4ce-5768-4795-bdad-ab65931a1c37"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "facho"
+                }
+            ],
+            "type": "headword",
+            "word": "facho"
+        }
+    ],
+    "word": "facho"
+}{
+    "id": "adminiculo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "admin%C3%ADculo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene una cajita con chinchetas y otros adminículos"
+                                        }
+                                    ],
+                                    "id": "id9bd6b82a-1404-4a2f-bd1b-0777389540bb"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "adminículo"
+                }
+            ],
+            "type": "headword",
+            "word": "adminículo"
+        }
+    ],
+    "word": "adminículo"
+}{
+    "id": "redano",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "reda%C3%B1o",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en lugar de amilanarse como cualquiera habría hecho en su lugar, le echó redaños a la cuestión y sacó el trabajo adelante"
+                                        }
+                                    ],
+                                    "id": "idd2528837-152d-46ed-9a88-d4e3bf4a9e5c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "redaño"
+                }
+            ],
+            "type": "headword",
+            "word": "redaño"
+        }
+    ],
+    "word": "redaño"
+}{
+    "id": "rescoldo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "rescoldo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en la chimenea todavía crepitaban los rescoldos"
+                                        }
+                                    ],
+                                    "id": "id243811fc-7d5b-4e13-bdb6-ee449c974056"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un rescoldo de esperanza"
+                                        },
+                                        {
+                                            "text": "a pesar del despecho y la tristeza, crepitaban en las palabras de Chusa rescoldos de ternura"
+                                        },
+                                        {
+                                            "text": "lo que le había pertenecido le fue devuelto por un último rescoldo del orgullo"
+                                        },
+                                        {
+                                            "text": "estaban todavía calientes en él los rescoldos del reciente golpe de estado"
+                                        },
+                                        {
+                                            "text": "consiguieron con sus libros mantener vivo el rescoldo de la cultura visigoda"
+                                        }
+                                    ],
+                                    "id": "idba670443-52b1-40ee-9598-bef2bceb9afc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "rescoldo"
+                }
+            ],
+            "type": "headword",
+            "word": "rescoldo"
+        }
+    ],
+    "word": "rescoldo"
+}{
+    "id": "peer",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "peer",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el muy marrano no para de peerse"
+                                        }
+                                    ],
+                                    "id": "id5a2c0c61-ccee-404b-a98b-90813d6868d9"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el muy marrano no para de peerse"
+                                        }
+                                    ],
+                                    "id": "id5a2c0c61-ccee-404b-a98b-90813d6868d9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "peer"
+                }
+            ],
+            "type": "headword",
+            "word": "peer"
+        }
+    ],
+    "word": "peer"
 }
