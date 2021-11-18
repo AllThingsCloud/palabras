@@ -14637,4 +14637,90 @@
         }
     ],
     "word": "peer"
+}{
+    "id": "sinecura",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sinecura",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aceptó sin rechistar aquella nueva especie de sinecura, que no restringía para nada sus fuentes de ingreso y que incluso las incrementaba"
+                                        }
+                                    ],
+                                    "id": "iddefe1335-9db0-4a89-9c23-2424e2455bed"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sinecura"
+                }
+            ],
+            "type": "headword",
+            "word": "sinecura"
+        }
+    ],
+    "word": "sinecura"
+}{
+    "id": "baladi",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "balad%C3%AD",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el interés por cuestiones genealógicas no es asunto baladí"
+                                        },
+                                        {
+                                            "text": "la discusión, además de interminable, es sobre un tema baladí"
+                                        },
+                                        {
+                                            "text": "es preciso que el auto del juez contenga las razones de peso, no baladíes, por las que se decreta la intervención"
+                                        }
+                                    ],
+                                    "id": "idc68d9565-5707-4427-b883-92a91d9271e6"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "baladí"
+                }
+            ],
+            "type": "headword",
+            "word": "baladí"
+        }
+    ],
+    "word": "baladí"
 }
