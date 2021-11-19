@@ -6888,3 +6888,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "Que tiene mucho vello"
 "Tejido con vello, especialmente felpa o terciopelo"
 "velludo"
+"mezcal"
+"Mescal"
+"Fibra de la pita preparada para hacer cuerdas"
+"mezcal"

@@ -14723,4 +14723,52 @@
         }
     ],
     "word": "baladí"
+}{
+    "id": "quilombo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "quilombo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tu habitación es un quilombo"
+                                        }
+                                    ],
+                                    "id": "id3f9ed5e2-8751-4390-97d9-401e3a304b19"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Marta tiene un quilombo terrible con su hija, desde hace una semana no quiere a ir a la escuela"
+                                        }
+                                    ],
+                                    "id": "iddf82b5dd-0105-44dd-89fe-68d1224d16db"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "quilombo"
+                }
+            ],
+            "type": "headword",
+            "word": "quilombo"
+        }
+    ],
+    "word": "quilombo"
 }
