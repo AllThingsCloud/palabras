@@ -14771,4 +14771,274 @@
         }
     ],
     "word": "quilombo"
+}{
+    "id": "subte",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "subte",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "subte"
+                }
+            ],
+            "type": "headword",
+            "word": "subte"
+        }
+    ],
+    "word": "subte"
+}{
+    "id": "zarpado",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zarpado",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "me parece que nuestro vecino es un zarpado, recién nos conoce y se atreve a hacernos bromas o es muy atrevido cuando se dirige a mi mujer"
+                                        }
+                                    ],
+                                    "id": "id272e4254-bb1f-4168-9a06-d820bb5980d4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "zarpado"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "me parece que nuestro vecino es un zarpado, recién nos conoce y se atreve a hacernos bromas o es muy atrevido cuando se dirige a mi mujer"
+                                        }
+                                    ],
+                                    "id": "id272e4254-bb1f-4168-9a06-d820bb5980d4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zarpado"
+                }
+            ],
+            "type": "headword",
+            "word": "zarpado"
+        }
+    ],
+    "word": "zarpado"
+}{
+    "id": "gringo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gringo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no había forma de entenderle, porque solamente hablaba en lengua gringa"
+                                        }
+                                    ],
+                                    "id": "id8894fe96-a5ac-4237-a58d-f98b10ff5a2c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es una muchachita gringa, lo parece por su pelo rubio, sus ojos azules y su piel tan blanca"
+                                        }
+                                    ],
+                                    "id": "id5efc0ec3-e2bf-49e0-a434-9072232bee30"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es el único gringo auténtico de la reunión pues los dos o tres italianos allí presentes no cuentan, por haberse acriollado del todo en muchos años de trabajo"
+                                        }
+                                    ],
+                                    "id": "id8010573f-280e-4604-8b8c-e2d11b140a8d"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "llegó el crucero que traía muchos gringos"
+                                        }
+                                    ],
+                                    "id": "id9c33770b-d262-45ef-86c9-5ff6c1e51156"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "comida gringa"
+                                        },
+                                        {
+                                            "text": "costumbres gringas"
+                                        },
+                                        {
+                                            "text": "a los gringos les gusta mucho el baseball"
+                                        }
+                                    ],
+                                    "id": "id0d33f052-c181-4d2e-b6e0-7d1f861a36c3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "gringo"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es una muchachita gringa, lo parece por su pelo rubio, sus ojos azules y su piel tan blanca"
+                                        }
+                                    ],
+                                    "id": "id5efc0ec3-e2bf-49e0-a434-9072232bee30"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es el único gringo auténtico de la reunión pues los dos o tres italianos allí presentes no cuentan, por haberse acriollado del todo en muchos años de trabajo"
+                                        }
+                                    ],
+                                    "id": "id8010573f-280e-4604-8b8c-e2d11b140a8d"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "llegó el crucero que traía muchos gringos"
+                                        }
+                                    ],
+                                    "id": "id9c33770b-d262-45ef-86c9-5ff6c1e51156"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "comida gringa"
+                                        },
+                                        {
+                                            "text": "costumbres gringas"
+                                        },
+                                        {
+                                            "text": "a los gringos les gusta mucho el baseball"
+                                        }
+                                    ],
+                                    "id": "id0d33f052-c181-4d2e-b6e0-7d1f861a36c3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gringo"
+                }
+            ],
+            "type": "headword",
+            "word": "gringo"
+        }
+    ],
+    "word": "gringo"
+}{
+    "id": "comistrajo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "comistrajo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿qué comistrajo te estás preparando con la mermelada y la mostaza?"
+                                        }
+                                    ],
+                                    "id": "idc84b3d9a-54c0-4938-bf5e-0985cfe6bcd0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no pretenderás que me coma este comistrajo requemado"
+                                        }
+                                    ],
+                                    "id": "id2945b96f-3c1a-45a7-b6b4-350f2e7f2950"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "comistrajo"
+                }
+            ],
+            "type": "headword",
+            "word": "comistrajo"
+        }
+    ],
+    "word": "comistrajo"
 }
