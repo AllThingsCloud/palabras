@@ -15041,4 +15041,208 @@
         }
     ],
     "word": "comistrajo"
+}{
+    "id": "chileno",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chileno",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chileno"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chileno"
+                }
+            ],
+            "type": "headword",
+            "word": "chileno"
+        }
+    ],
+    "word": "chileno"
+}{
+    "id": "hambre",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hambre",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tener hambre"
+                                        },
+                                        {
+                                            "text": "pasar hambre"
+                                        },
+                                        {
+                                            "text": "allí estaba la tuna, fruta perfecta para matar el hambre de los soldados de Cortés"
+                                        }
+                                    ],
+                                    "id": "idba5720b3-8fff-4175-8cec-deb8ddfbb097"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la sequía, la deforestación o la superpoblación son factores que influyen en la aparición del hambre"
+                                        },
+                                        {
+                                            "text": "durante el siglo XVIII se produjeron situaciones calamitosas (hambres y epidemias), que azotaron la ciudad"
+                                        }
+                                    ],
+                                    "id": "id34537491-1b5e-4051-b22f-2cbf0a0ede52"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hambre de libertad"
+                                        },
+                                        {
+                                            "text": "el poeta emprende la búsqueda de Dios con hambre de inmortalidad"
+                                        }
+                                    ],
+                                    "id": "id458429bc-91f3-42f3-bfa4-74d070da01d4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hambre"
+                }
+            ],
+            "type": "headword",
+            "word": "hambre"
+        }
+    ],
+    "word": "hambre"
+}{
+    "id": "feliz",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "feliz",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no se necesitan cosas materiales para ser feliz"
+                                        }
+                                    ],
+                                    "id": "id767ae03b-30dd-4ab2-a282-0a425d503b28"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "recuerdo aquellos días felices de la niñez"
+                                        },
+                                        {
+                                            "text": "el nacimiento de nuestro hijo fue un acontecimiento feliz"
+                                        }
+                                    ],
+                                    "id": "idc815c7b4-4c2a-43cb-b5a9-7adf7f3e8362"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su feliz intervención nos sacó del aprieto"
+                                        }
+                                    ],
+                                    "id": "id5ca2a14b-20a5-4c8e-9c16-9a523390000f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "feliz"
+                }
+            ],
+            "type": "headword",
+            "word": "feliz"
+        }
+    ],
+    "word": "feliz"
+}{
+    "id": "aprieto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "aprieto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "toda la pequeña banca se vio en aprietos por la creciente desconfianza de los depositantes"
+                                        },
+                                        {
+                                            "text": "se dirigió a mí para que apoyara su versión y me puso en un aprieto"
+                                        }
+                                    ],
+                                    "id": "id6d90d3a6-437d-4a6a-bdae-7699ae944c1e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aprieto"
+                }
+            ],
+            "type": "headword",
+            "word": "aprieto"
+        }
+    ],
+    "word": "aprieto"
 }
