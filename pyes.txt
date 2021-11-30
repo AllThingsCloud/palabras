@@ -6965,3 +6965,6 @@
 "ludopatía"
 "Inclinación patológica a los juegos de azar"
 "ludopatía"
+"diptongo"
+"Grupo de dos vocales distintas y contiguas que se pronuncian en una sola sílaba"
+"diptongo"
