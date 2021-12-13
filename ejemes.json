@@ -15245,4 +15245,432 @@
         }
     ],
     "word": "aprieto"
+}{
+    "id": "zaga",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zaga",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la zaga de un ejército"
+                                        },
+                                        {
+                                            "text": "la zaga de un carruaje"
+                                        }
+                                    ],
+                                    "id": "id4ffd8b15-f7b7-44da-9e04-ca2f25c6a9fb"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los delanteros rojiblancos superaron fácilmente la zaga rival durante todo el encuentro"
+                                        }
+                                    ],
+                                    "id": "id580334bf-8066-4271-bd02-34c241cd8a9f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zaga"
+                }
+            ],
+            "type": "headword",
+            "word": "zaga"
+        }
+    ],
+    "word": "zaga"
+}{
+    "id": "arrostrar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "arrostrar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el joven Escorpión arrostraba confiado toda suerte de posibles peligros"
+                                        },
+                                        {
+                                            "text": "había demostrado su valor para arrostrar la prueba"
+                                        }
+                                    ],
+                                    "id": "iddadb8ce1-cd7e-4f78-a777-459302cf8afe"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "arrostrar"
+                }
+            ],
+            "type": "headword",
+            "word": "arrostrar"
+        }
+    ],
+    "word": "arrostrar"
+}{
+    "id": "ortoepia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ortoep%C3%ADa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "reglas de ortografía y ortoepía"
+                                        }
+                                    ],
+                                    "id": "id43573fa7-7b84-4b0a-85bd-5c82c7772291"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ortoepía"
+                }
+            ],
+            "type": "headword",
+            "word": "ortoepía"
+        }
+    ],
+    "word": "ortoepía"
+}{
+    "id": "anastrofe",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "an%C3%A1strofe",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en español solo encontramos anástrofes en expresiones fijas como 'cuesta abajo' o 'carretera adelante'"
+                                        }
+                                    ],
+                                    "id": "idb5b69eaf-b74a-48fe-8aff-d674be6ade27"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "anástrofe"
+                }
+            ],
+            "type": "headword",
+            "word": "anástrofe"
+        }
+    ],
+    "word": "anástrofe"
+}{
+    "id": "hiperbaton",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hip%C3%A9rbaton",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los textos de Góngora son ricos en recursos típicamente culteranos, como el hipérbaton"
+                                        }
+                                    ],
+                                    "id": "id1141996f-0b05-4940-a8ed-2be5207b7f0a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hipérbaton"
+                }
+            ],
+            "type": "headword",
+            "word": "hipérbaton"
+        }
+    ],
+    "word": "hipérbaton"
+}{
+    "id": "fifi",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fif%C3%AD",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "fifí"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fifí"
+                }
+            ],
+            "type": "headword",
+            "word": "fifí"
+        }
+    ],
+    "word": "fifí"
+}{
+    "id": "aporofobia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "aporofobia",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aporofobia"
+                }
+            ],
+            "type": "headword",
+            "word": "aporofobia"
+        }
+    ],
+    "word": "aporofobia"
+}{
+    "id": "tiquismiquis",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "tiquismiquis",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hace tiquismiquis antes de aceptar una invitación espontánea"
+                                        },
+                                        {
+                                            "text": "no te imaginas los tiquismiquis que rezuma la carta y lo cursi que resulta"
+                                        }
+                                    ],
+                                    "id": "id0d35c9d5-49d6-478c-a608-4fb4aedf0e61"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hubo algunos tiquismiquis y desde entonces se evitan"
+                                        }
+                                    ],
+                                    "id": "id31fb0523-4dc1-4342-98fb-057a9ec9374c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "de pequeños nos enseñaron a no ser tiquismiquis con la comida"
+                                        }
+                                    ],
+                                    "id": "id29f38187-c554-42bf-845b-a9646d7a20eb"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tiquismiquis"
+                }
+            ],
+            "type": "headword",
+            "word": "tiquismiquis"
+        }
+    ],
+    "word": "tiquismiquis"
+}{
+    "id": "desiderata",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "desiderata",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "entregué mi desiderata de horarios"
+                                        }
+                                    ],
+                                    "id": "id8a5ae8e2-e389-4e50-a2d6-c01766f6d1e8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "desiderata"
+                }
+            ],
+            "type": "headword",
+            "word": "desiderata"
+        }
+    ],
+    "word": "desiderata"
+}{
+    "id": "ecumenico",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ecum%C3%A9nico",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es necesaria una más amplia cooperación ecuménica"
+                                        }
+                                    ],
+                                    "id": "iddae0c064-c618-4996-8bb9-c1dadeb14399"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "movimiento ecuménico"
+                                        },
+                                        {
+                                            "text": "diálogo ecuménico"
+                                        }
+                                    ],
+                                    "id": "id2d524612-d036-4802-b8b7-cf310dd89c1b"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ecuménico"
+                }
+            ],
+            "type": "headword",
+            "word": "ecuménico"
+        }
+    ],
+    "word": "ecuménico"
 }
