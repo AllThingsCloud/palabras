@@ -7196,13 +7196,21 @@
 "Disco metálico que impide que un objeto punzante se clave más, como en la empuñadura de una espada, la puya del toreo, etc."
 "Pieza de hojalata, a manera de embudo, que se aplica con yeso a los troncos de los árboles llena de agua y sirve para impedir que las hormigas suban y los dañen"
 "arandela"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
+"afanar"
+"Robar con habilidad y sin violencia"
+"Robar con habilidad objetos pequeños"
+"Dedicarse a un trabajo o una tarea con mucho empeño e interés"
+"Hacer todo lo posible por conseguir una cosa"
+"afanar"
+"zumo"
+"Líquido contenido en el tejido de las frutas que puede extraerse por presión, cocción, etc., y beberse"
+"Provecho o cosa útil o sustanciosa que se obtiene de algo"
+"zumo"
+"elipsis"
+"Supresión de una o más palabras de una frase que, desde un punto de vista gramatical, deberían estar presentes pero sin las cuales se comprende perfectamente el sentido de la frase"
+"Técnica narrativa y cinematográfica que consiste en la supresión de algún acontecimiento dentro de la linealidad temporal del relato o la historia"
+"elipsis"
+"prefacio"
+"Cosa que se dice o se escribe como introducción para lo que es el asunto principal de un discurso o tratado"
+"Parte de la misa que precede inmediatamente al canon"
+"prefacio"
