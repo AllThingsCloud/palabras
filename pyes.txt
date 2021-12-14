@@ -7214,3 +7214,6 @@
 "Cosa que se dice o se escribe como introducción para lo que es el asunto principal de un discurso o tratado"
 "Parte de la misa que precede inmediatamente al canon"
 "prefacio"
+"eterio"
+"Agregado de frutos sobre un receptáculo seco o carnoso, procedente de un gineceo con los carpelos separados"
+"eterio"
