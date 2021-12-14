@@ -15673,4 +15673,70 @@
         }
     ],
     "word": "ecuménico"
+}{
+    "id": "morrina",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "morri%C3%B1a",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "morriña"
+                }
+            ],
+            "type": "headword",
+            "word": "morriña"
+        }
+    ],
+    "word": "morriña"
+}{
+    "id": "estricote",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "estricote",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tener una vida a estricote"
+                                        }
+                                    ],
+                                    "id": "idb4373643-3f4d-4242-bb33-31855d466f1e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "estricote"
+                }
+            ],
+            "type": "headword",
+            "word": "estricote"
+        }
+    ],
+    "word": "estricote"
 }
