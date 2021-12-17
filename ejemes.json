@@ -15739,4 +15739,253 @@
         }
     ],
     "word": "estricote"
+}{
+    "id": "jijo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "jijo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "eres un jijo de la chingada"
+                                        }
+                                    ],
+                                    "id": "id2fa59678-5647-4cc2-801e-c7aba762b786"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "jijo"
+                }
+            ],
+            "type": "headword",
+            "word": "jijo"
+        }
+    ],
+    "word": "jijo"
+}{
+    "id": "estricote",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "estricote",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tener una vida a estricote"
+                                        }
+                                    ],
+                                    "id": "idb4373643-3f4d-4242-bb33-31855d466f1e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "estricote"
+                }
+            ],
+            "type": "headword",
+            "word": "estricote"
+        }
+    ],
+    "word": "estricote"
+}{
+    "id": "gorjear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gorjear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se oye a los gorriones gorjear entre las ramas"
+                                        }
+                                    ],
+                                    "id": "id692685cb-f492-48b4-9ae1-899f9dd70e86"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los bebés gorjean cuando aún no saben hablar o cuando se ríen"
+                                        }
+                                    ],
+                                    "id": "id93262839-3bab-4af5-aca5-e88bab619a40"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "gorjear"
+                }
+            ],
+            "type": "headword",
+            "word": "gorjear"
+        }
+    ],
+    "word": "gorjear"
+}{
+    "id": "virago",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "virago",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "virago"
+                }
+            ],
+            "type": "headword",
+            "word": "virago"
+        }
+    ],
+    "word": "virago"
+}{
+    "id": "cernir",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cernir",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "cernir"
+                }
+            ],
+            "type": "headword",
+            "word": "cernir"
+        }
+    ],
+    "word": "cernir"
+}{
+    "id": "zafacoca",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zafacoca",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zafacoca"
+                }
+            ],
+            "type": "headword",
+            "word": "zafacoca"
+        }
+    ],
+    "word": "zafacoca"
+}{
+    "id": "chabon",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chab%C3%B3n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ey, chabón, no uses mis discos sin permiso"
+                                        },
+                                        {
+                                            "text": "¿quién es la chabona que está ahí?"
+                                        }
+                                    ],
+                                    "id": "idc75b0eea-c0c8-4595-aec1-4581a10284af"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chabón"
+                }
+            ],
+            "type": "headword",
+            "word": "chabón"
+        }
+    ],
+    "word": "chabón"
 }
