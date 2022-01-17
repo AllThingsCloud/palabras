@@ -15988,4 +15988,252 @@
         }
     ],
     "word": "chabón"
+}{
+    "id": "poronga",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "poronga",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "poronga"
+                }
+            ],
+            "type": "headword",
+            "word": "poronga"
+        }
+    ],
+    "word": "poronga"
+}{
+    "id": "triscar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "triscar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los corderitos triscan en el campo vigilados por los perros"
+                                        }
+                                    ],
+                                    "id": "id4cd8e9e6-d700-4557-8dbb-c8d0b57add75"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "triscar"
+                }
+            ],
+            "type": "headword",
+            "word": "triscar"
+        }
+    ],
+    "word": "triscar"
+}{
+    "id": "catenaria",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "catenaria",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "catenaria"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "catenaria"
+                }
+            ],
+            "type": "headword",
+            "word": "catenaria"
+        }
+    ],
+    "word": "catenaria"
+}{
+    "id": "palique",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "palique",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "antes de salir a la puerta de la calle le pidió que no la entretuviera de palique porque tenía mucho trabajo"
+                                        }
+                                    ],
+                                    "id": "ideb2ae33d-a864-413e-915e-f9a199c212ea"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tiene mucho palique así que no te aburrirás"
+                                        }
+                                    ],
+                                    "id": "id0f20b208-55cc-492d-a526-6955be55d375"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "palique"
+                }
+            ],
+            "type": "headword",
+            "word": "palique"
+        }
+    ],
+    "word": "palique"
+}{
+    "id": "payador",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "payador",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "payador"
+                }
+            ],
+            "type": "headword",
+            "word": "payador"
+        }
+    ],
+    "word": "payador"
+}{
+    "id": "apocado",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "apocado",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hay gente que parece llevar una doble vida social: cuando conduce (y se comporta como un criminal malintencionado) y cuando no conduce (y resulta ser un perfecto caballero más bien apocado)"
+                                        }
+                                    ],
+                                    "id": "id7d31a2bc-0cff-4b36-b069-e27326c7d747"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "subieron hasta la alcoba con apocada lentitud"
+                                        }
+                                    ],
+                                    "id": "iddc852fd6-664b-45ab-8e65-94110589bbb6"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "apocado"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hay gente que parece llevar una doble vida social: cuando conduce (y se comporta como un criminal malintencionado) y cuando no conduce (y resulta ser un perfecto caballero más bien apocado)"
+                                        }
+                                    ],
+                                    "id": "id7d31a2bc-0cff-4b36-b069-e27326c7d747"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "apocado"
+                }
+            ],
+            "type": "headword",
+            "word": "apocado"
+        }
+    ],
+    "word": "apocado"
 }
