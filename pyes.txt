@@ -7584,3 +7584,8 @@ parse error: Invalid numeric literal at line 1, column 17
 "Que es propio de estas personas"
 "[persona] Que se comporta con timidez, vergüenza o excesiva humildad"
 "apocado"
+"tribuno"
+"Orador político muy elocuente"
+"Magistrado de la antigua Roma que era elegido por el pueblo para defender sus derechos frente a las magistraturas patricias"
+"Oficial del estado mayor de una legión romana"
+"tribuno"
