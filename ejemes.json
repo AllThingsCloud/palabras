@@ -16236,4 +16236,82 @@
         }
     ],
     "word": "apocado"
+}{
+    "id": "siglo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "siglo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "estamos en el siglo XXI"
+                                        },
+                                        {
+                                            "text": "el romanticismo se desarrolló en Europa y América durante el siglo XIX"
+                                        }
+                                    ],
+                                    "id": "idad55cceb-d67d-461c-8f6e-a5af7f4019ab"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la crisis está dejando vacíos muchos de los viejos locales que, desde hace un siglo, han animado la vida nocturna de la ciudad"
+                                        }
+                                    ],
+                                    "id": "ida9c1ff82-3fc2-4701-bf0a-6ca6532d9828"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hace un siglo que te escribí"
+                                        }
+                                    ],
+                                    "id": "ide65d62b1-869f-4925-96da-55c2103a211c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el siglo de Pericles"
+                                        },
+                                        {
+                                            "text": "el siglo de las luces"
+                                        }
+                                    ],
+                                    "id": "id08f4a6f2-a2ad-4fc8-ac07-f5773383c81b"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Teresa de Jesús se llamaba, en el siglo, Teresa de Cepeda y Ahumada"
+                                        }
+                                    ],
+                                    "id": "id7358effb-9eef-450a-bc13-08828ee09b9f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "siglo"
+                }
+            ],
+            "type": "headword",
+            "word": "siglo"
+        }
+    ],
+    "word": "siglo"
 }
