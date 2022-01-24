@@ -7906,3 +7906,6 @@
 "bocachancla"
 "Persona que habla demasiado y que, por indiscreción, cuenta cosas que no debería contar"
 "bocachancla"
+"musitar"
+"Hablar una persona en voz muy baja, casi susurrando"
+"musitar"
