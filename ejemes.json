@@ -16348,4 +16348,30 @@
         }
     ],
     "word": "churrullero"
+}{
+    "id": "bocachancla",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "bocachancla",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bocachancla"
+                }
+            ],
+            "type": "headword",
+            "word": "bocachancla"
+        }
+    ],
+    "word": "bocachancla"
 }
