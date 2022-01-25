@@ -16374,4 +16374,30 @@
         }
     ],
     "word": "bocachancla"
+}{
+    "id": "levogiro",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "lev%C3%B3giro",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "levógiro"
+                }
+            ],
+            "type": "headword",
+            "word": "levógiro"
+        }
+    ],
+    "word": "levógiro"
 }
