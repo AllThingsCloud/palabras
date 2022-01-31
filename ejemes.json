@@ -16400,4 +16400,38 @@
         }
     ],
     "word": "levógiro"
+}{
+    "id": "cuilon",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cuil%C3%B3n",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cuilón"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cuilón"
+                }
+            ],
+            "type": "headword",
+            "word": "cuilón"
+        }
+    ],
+    "word": "cuilón"
 }
