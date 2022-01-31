@@ -8002,8 +8002,6 @@
 "[persona] Que es de Nebrija o Lebrija"
 "[persona] Que es de Nebrija o Lebrija"
 "nebrisense"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "penitente"
 "Persona que hace penitencia por motivos religiosos"
 "Persona que participa en una procesión religiosa como penitencia, generalmente vestido con una túnica"
@@ -8012,3 +8010,6 @@ parse error: Invalid numeric literal at line 1, column 17
 "[hombre] Que es afeminado"
 "[hombre] Que es afeminado"
 "cuilón"
+"oreo"
+"Acción de orear u orearse"
+"oreo"
