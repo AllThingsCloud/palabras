@@ -16434,4 +16434,61 @@
         }
     ],
     "word": "cuilón"
+}{
+    "id": "reverberar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "reverberar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la luz reverbera sobre los paredones encalados a uno y otro lado de la calle"
+                                        },
+                                        {
+                                            "text": "contemplaba el barranco, la tierra calcárea y blanquecina sobre la que reverbera el sol"
+                                        },
+                                        {
+                                            "text": "en aquel salón deshumanizado por el diseño reverberó la idea platónica de la belleza"
+                                        }
+                                    ],
+                                    "id": "id77d43f65-5ffa-4cbf-8e68-575361ad8b5d"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la marisma reverberaba hacia el atardecer"
+                                        },
+                                        {
+                                            "text": "en el fuselaje del aeroplano reverberan los números de identificación"
+                                        }
+                                    ],
+                                    "id": "id6580e4e2-5fce-4c78-b51c-91c9cf2ddfb5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "reverberar"
+                }
+            ],
+            "type": "headword",
+            "word": "reverberar"
+        }
+    ],
+    "word": "reverberar"
 }
