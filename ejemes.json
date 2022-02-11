@@ -16491,4 +16491,156 @@
         }
     ],
     "word": "reverberar"
+}{
+    "id": "gleba",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gleba",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gleba"
+                }
+            ],
+            "type": "headword",
+            "word": "gleba"
+        }
+    ],
+    "word": "gleba"
+}{
+    "id": "fisgar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fisgar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "son muchos los invitados que no resisten la tentación de fisgar en las distintas habitaciones"
+                                        },
+                                        {
+                                            "text": "lo descubrí fisgando mis cajones"
+                                        }
+                                    ],
+                                    "id": "id0a8cd1ce-c91f-4a05-b946-0247360c1330"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "fisgar"
+                }
+            ],
+            "type": "headword",
+            "word": "fisgar"
+        }
+    ],
+    "word": "fisgar"
+}{
+    "id": "festinar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "festinar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "decidieron festinar el partido de fútbol antes de que empezara a llover"
+                                        }
+                                    ],
+                                    "id": "id82a2a90e-bcf5-4bc3-ba53-c7fae51f7087"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "festinar"
+                }
+            ],
+            "type": "headword",
+            "word": "festinar"
+        }
+    ],
+    "word": "festinar"
+}{
+    "id": "profuso",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "profuso",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "profusa obra"
+                                        },
+                                        {
+                                            "text": "realizó una definición profusa y colorista del país homenajeado"
+                                        }
+                                    ],
+                                    "id": "idea5319ca-7a4a-42d8-804d-bd96ab210e2d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "profuso"
+                }
+            ],
+            "type": "headword",
+            "word": "profuso"
+        }
+    ],
+    "word": "profuso"
 }
