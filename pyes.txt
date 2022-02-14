@@ -8038,8 +8038,6 @@
 "volquete"
 "Camión cuya caja puede levantarse mediante un sistema hidráulico para volcar su contenido"
 "volquete"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "fisgar"
 "Hacer [una persona] lo necesario para tratar de enterarse de un asunto ajeno que no le concierne o que no es de su incumbencia, procurando no ser descubierta"
 "Husmear u olfatear"
