@@ -16643,4 +16643,64 @@
         }
     ],
     "word": "profuso"
+}{
+    "id": "saudade",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "saudade",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "saudade"
+                }
+            ],
+            "type": "headword",
+            "word": "saudade"
+        }
+    ],
+    "word": "saudade"
+}{
+    "id": "soflamero",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "soflamero",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "soflamero"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "soflamero"
+                }
+            ],
+            "type": "headword",
+            "word": "soflamero"
+        }
+    ],
+    "word": "soflamero"
 }

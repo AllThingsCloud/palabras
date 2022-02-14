@@ -8051,3 +8051,7 @@ parse error: Invalid numeric literal at line 1, column 17
 "profuso"
 "Que es muy abundante"
 "profuso"
+"soflamero"
+"[persona] Que le da a las cosas más importancia de la que tienen"
+"[persona] Que le da a las cosas más importancia de la que tienen"
+"soflamero"
