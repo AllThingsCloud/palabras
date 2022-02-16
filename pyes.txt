@@ -8064,3 +8064,8 @@
 "corolario"
 "Razonamiento, juicio o hecho que es consecuencia lógica de lo demostrado o sucedido anteriormente"
 "corolario"
+"pilastra"
+"Columna de base cuadrada o rectangular, especialmente la que está adosada a una pared"
+"pilastra"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
