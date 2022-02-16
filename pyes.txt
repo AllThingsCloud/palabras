@@ -8061,3 +8061,6 @@
 "anabaptismo"
 "Doctrina religiosa protestante que tuvo su origen en Alemania y los Países Bajos en el siglo XVI; se caracteriza por creer que la fe sola justifica al hombre, por no reconocer la eficacia del bautismo de los niños y por exigir el bautismo de las personas adultas que fueron bautizadas antes de ser conscientes del significado del sacramento"
 "anabaptismo"
+"corolario"
+"Razonamiento, juicio o hecho que es consecuencia lógica de lo demostrado o sucedido anteriormente"
+"corolario"
