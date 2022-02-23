@@ -16703,4 +16703,176 @@
         }
     ],
     "word": "soflamero"
+}{
+    "id": "pisaverde",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pisaverde",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "y vuelvo a verte al cabo de dos horas / discutiendo con otro pisaverde / acerca del gabán que tanto adoras"
+                                        }
+                                    ],
+                                    "id": "ide460bf7f-ca71-4bea-8a38-a034674bdd70"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pisaverde"
+                }
+            ],
+            "type": "headword",
+            "word": "pisaverde"
+        }
+    ],
+    "word": "pisaverde"
+}{
+    "id": "sic",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sic",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "mediante un asombroso esfuerzo de voluntad, llega a superarse de tal forma que se convierte en un leader (sic) político y más tarde gobernador de un estado norteamericano"
+                                        }
+                                    ],
+                                    "id": "id78b4205b-587c-4a8b-ac67-69c528d907d8"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "condena la obra por atentar a la Historia de España y por predicar el tolerantismo (sic)"
+                                        }
+                                    ],
+                                    "id": "id2df77cd1-80a4-45f0-b94c-166e1a67dd6e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "sic"
+                }
+            ],
+            "type": "headword",
+            "word": "sic"
+        }
+    ],
+    "word": "sic"
+}{
+    "id": "mito",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mito",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los mitos de Grecia"
+                                        },
+                                        {
+                                            "text": "el principal mito cosmogónico sumerio habla del paraíso y su pérdida"
+                                        }
+                                    ],
+                                    "id": "idc2968bb5-a121-4ad9-a2de-63e7446530d7"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aquella promesa de éxito era solo un mito"
+                                        }
+                                    ],
+                                    "id": "idf2c55ee0-b023-4341-874b-c1a48fbcbe2c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Elvis Presley es un mito del rock"
+                                        },
+                                        {
+                                            "text": "el autor analiza con acierto el proceso mediante el que el modelo idealizado, el mito, tan persistente en el romanticismo, va perdiendo sus contornos bajo la acción de la realidad"
+                                        }
+                                    ],
+                                    "id": "idd1786e62-2e7f-4886-8e55-55ac72f2abee"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mito"
+                }
+            ],
+            "type": "headword",
+            "word": "mito"
+        },
+        {
+            "id": "mito",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mito"
+                }
+            ],
+            "type": "headword",
+            "word": "mito"
+        }
+    ],
+    "word": "mito"
 }
