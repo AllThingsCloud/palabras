@@ -16875,4 +16875,167 @@
         }
     ],
     "word": "mito"
+}{
+    "id": "pungente",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pungente",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pungente"
+                }
+            ],
+            "type": "headword",
+            "word": "pungente"
+        }
+    ],
+    "word": "pungente"
+}{
+    "id": "changar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "changar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "sin querer, changó la caja de la guitarra y ahora no suena bien"
+                                        },
+                                        {
+                                            "text": "se changó la lámpara"
+                                        }
+                                    ],
+                                    "id": "id9400606d-bda6-455d-85a2-9e570d4729ac"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "amaneció enfermo y no salió a changar"
+                                        }
+                                    ],
+                                    "id": "id861dc8d1-54cc-4da6-976c-d13ef210bb89"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "changar"
+                }
+            ],
+            "type": "headword",
+            "word": "changar"
+        }
+    ],
+    "word": "changar"
+}{
+    "id": "decuplicar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "decuplicar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "decuplicar"
+                }
+            ],
+            "type": "headword",
+            "word": "decuplicar"
+        }
+    ],
+    "word": "decuplicar"
+}{
+    "id": "morralla",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "morralla",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "entre la morralla descubrió una joya de gran valor"
+                                        }
+                                    ],
+                                    "id": "ida80769e5-9137-4fda-8ef1-495972e1da01"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "con la morralla se hace una buena sopa"
+                                        }
+                                    ],
+                                    "id": "id8743ad6c-33e4-4600-ae98-086752133b12"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no tengo billetes, solo morralla"
+                                        }
+                                    ],
+                                    "id": "id8932acfa-c23e-4f13-9b93-980736714ecc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "morralla"
+                }
+            ],
+            "type": "headword",
+            "word": "morralla"
+        }
+    ],
+    "word": "morralla"
 }
