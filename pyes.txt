@@ -8187,3 +8187,16 @@ parse error: Invalid numeric literal at line 1, column 17
 "Calina"
 "Conjunto de corchos enfilados a modo de rosario que en algunas partes sirven de boya"
 "calima"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"hedor"
+"Olor muy desagradable"
+"hedor"
+"heder"
+"Despedir [alguien o algo] un olor muy desagradable"
+"Enfadar, fastidiar o cansar mucho"
+"heder"

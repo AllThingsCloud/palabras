@@ -17038,4 +17038,86 @@
         }
     ],
     "word": "morralla"
+}{
+    "id": "libro",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "libro",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "libro de poesía"
+                                        },
+                                        {
+                                            "text": "libro de cocina"
+                                        },
+                                        {
+                                            "text": "libro ilustrado"
+                                        },
+                                        {
+                                            "text": "libro infantil y juvenil"
+                                        },
+                                        {
+                                            "text": "legalmente, constituye un libro el impreso no periódico que tiene más de 48 páginas"
+                                        }
+                                    ],
+                                    "id": "id3ca1eead-5bd0-42b3-aaea-0c110850d684"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un amigo contador lleva los libros de la empresa"
+                                        },
+                                        {
+                                            "text": "el monarca posó para la «foto de familia» y después firmó en el libro de honor de la ciudad"
+                                        }
+                                    ],
+                                    "id": "id07ebb89d-6b0e-49a0-96f4-841973bdb9e6"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "libro del Génesis"
+                                        },
+                                        {
+                                            "text": "libro del Apocalipsis"
+                                        }
+                                    ],
+                                    "id": "id8451df28-ae55-44e2-958e-aaca4d637c87"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el libro tiene pliegues en su pared interna"
+                                        }
+                                    ],
+                                    "id": "id15c27fd8-f918-4ca6-9769-b51992697ddc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "libro"
+                }
+            ],
+            "type": "headword",
+            "word": "libro"
+        }
+    ],
+    "word": "libro"
 }
