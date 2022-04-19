@@ -17120,4 +17120,205 @@
         }
     ],
     "word": "libro"
+}{
+    "id": "cielo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cielo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cielo estrellado"
+                                        },
+                                        {
+                                            "text": "cielos despejados en todo el país"
+                                        },
+                                        {
+                                            "text": "hace buen día y el cielo está muy azul"
+                                        },
+                                        {
+                                            "text": "el cielo aparentemente se mueve, pero lo que se mueve es la Tierra en rotación"
+                                        }
+                                    ],
+                                    "id": "id934be8af-dfac-4edf-b415-313f250afa50"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cielo e infierno"
+                                        },
+                                        {
+                                            "text": "el sacerdote representa a Cristo orante, sufriente y moribundo, ofreciéndose en sacrificio, mientras que el rey lo representa coronado de gloria en el trono de los cielos"
+                                        }
+                                    ],
+                                    "id": "id59264354-334a-4b29-ae47-77cd4ac0e5d9"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "si el cielo lo quiere, ocurrirá"
+                                        },
+                                        {
+                                            "text": "de hecho, gracias al cielo, los profesores no son tan duros como se dice"
+                                        }
+                                    ],
+                                    "id": "id3ad110e0-9931-4659-8efb-a26e5bf01d8e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es un cielo, siempre está dispuesto a ayudarme cuando se lo pido"
+                                        }
+                                    ],
+                                    "id": "id46da5eaa-10ee-476c-a86a-ab42f7397ddc"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cielo de la cama"
+                                        }
+                                    ],
+                                    "id": "id2fbd668f-39e0-4a67-b07e-6e1e7789d47f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cielo"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¡cielos, qué horror!"
+                                        }
+                                    ],
+                                    "id": "id1b423678-38d3-4984-add0-1d9d7f5bd106"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "interjection",
+                        "text": "Interjection"
+                    },
+                    "text": "cielo"
+                }
+            ],
+            "type": "headword",
+            "word": "cielo"
+        }
+    ],
+    "word": "cielo"
+}{
+    "id": "colodrillo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "colodrillo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "colodrillo"
+                }
+            ],
+            "type": "headword",
+            "word": "colodrillo"
+        }
+    ],
+    "word": "colodrillo"
+}{
+    "id": "priva",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "priva",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "priva"
+                }
+            ],
+            "type": "headword",
+            "word": "priva"
+        }
+    ],
+    "word": "priva"
+}{
+    "id": "jaculatorio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "jaculatorio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "rezaban oraciones jaculatorias"
+                                        }
+                                    ],
+                                    "id": "idee782dae-0cc5-4f69-a5d6-0360ed63bde0"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "jaculatorio"
+                }
+            ],
+            "type": "headword",
+            "word": "jaculatorio"
+        }
+    ],
+    "word": "jaculatorio"
 }
