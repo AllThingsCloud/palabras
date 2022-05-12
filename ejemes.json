@@ -17321,4 +17321,30 @@
         }
     ],
     "word": "jaculatorio"
+}{
+    "id": "lampo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "lampo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "lampo"
+                }
+            ],
+            "type": "headword",
+            "word": "lampo"
+        }
+    ],
+    "word": "lampo"
 }
