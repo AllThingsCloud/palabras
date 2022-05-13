@@ -17425,4 +17425,38 @@
         }
     ],
     "word": "diletante"
+}{
+    "id": "churrullero",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "churrullero",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "churrullero"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "churrullero"
+                }
+            ],
+            "type": "headword",
+            "word": "churrullero"
+        }
+    ],
+    "word": "churrullero"
 }

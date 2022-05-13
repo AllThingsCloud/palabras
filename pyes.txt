@@ -8859,7 +8859,6 @@ pyes:6: command not found: jq
 "Cantidad de dinero que se da voluntariamente para agradecer un servicio"
 "Gratificación pequeña con que se recompensa un servicio eventual"
 "napa"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
+"carao"
+"Árbol tropical de gran tamaño, con flores en racimos rosados y fruto leñoso, de 50 cm de longitud, con celdillas que contienen una melaza de propiedades tónicas depurativas"
+"carao"
