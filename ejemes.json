@@ -17347,4 +17347,82 @@
         }
     ],
     "word": "lampo"
+}{
+    "id": "diletante",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "diletante",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es un diletante de la música"
+                                        }
+                                    ],
+                                    "id": "id59b898ba-3657-4a8e-99a9-7555422d4a0e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aunque sin grandes estudios clásicos, pudo pasar para los profesionales de su tiempo como un ejemplar diletante"
+                                        }
+                                    ],
+                                    "id": "idec6ff6cd-ea6b-406e-94c7-88b63eb5cbfc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "diletante"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es un diletante de la música"
+                                        }
+                                    ],
+                                    "id": "id59b898ba-3657-4a8e-99a9-7555422d4a0e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aunque sin grandes estudios clásicos, pudo pasar para los profesionales de su tiempo como un ejemplar diletante"
+                                        }
+                                    ],
+                                    "id": "idec6ff6cd-ea6b-406e-94c7-88b63eb5cbfc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "diletante"
+                }
+            ],
+            "type": "headword",
+            "word": "diletante"
+        }
+    ],
+    "word": "diletante"
 }
