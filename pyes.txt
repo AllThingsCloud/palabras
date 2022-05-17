@@ -8862,3 +8862,6 @@ pyes:6: command not found: jq
 "carao"
 "Árbol tropical de gran tamaño, con flores en racimos rosados y fruto leñoso, de 50 cm de longitud, con celdillas que contienen una melaza de propiedades tónicas depurativas"
 "carao"
+"saboneta"
+"Reloj de bolsillo cuya esfera va cubierta con una tapa articulada"
+"saboneta"
