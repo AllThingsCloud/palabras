@@ -8865,3 +8865,11 @@ pyes:6: command not found: jq
 "saboneta"
 "Reloj de bolsillo cuya esfera va cubierta con una tapa articulada"
 "saboneta"
+jq: error (at <stdin>:1): Cannot index number with string "results"
+parse error: Invalid numeric literal at line 1, column 17
+"adjetivo"
+"Clase de palabra que acompaña al sustantivo para expresar una cualidad de la cosa designada por él o para determinar o limitar la extensión del mismo"
+"Que funciona como adjetivo"
+"Del adjetivo o relacionado con él"
+"[cosa] Que existe solo en otras o por otras y no tiene existencia independiente"
+"adjetivo"
