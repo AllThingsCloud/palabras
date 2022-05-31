@@ -17459,4 +17459,170 @@
         }
     ],
     "word": "churrullero"
+}{
+    "id": "diletante",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "diletante",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es un diletante de la música"
+                                        }
+                                    ],
+                                    "id": "id59b898ba-3657-4a8e-99a9-7555422d4a0e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aunque sin grandes estudios clásicos, pudo pasar para los profesionales de su tiempo como un ejemplar diletante"
+                                        }
+                                    ],
+                                    "id": "idec6ff6cd-ea6b-406e-94c7-88b63eb5cbfc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "diletante"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es un diletante de la música"
+                                        }
+                                    ],
+                                    "id": "id59b898ba-3657-4a8e-99a9-7555422d4a0e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aunque sin grandes estudios clásicos, pudo pasar para los profesionales de su tiempo como un ejemplar diletante"
+                                        }
+                                    ],
+                                    "id": "idec6ff6cd-ea6b-406e-94c7-88b63eb5cbfc"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "diletante"
+                }
+            ],
+            "type": "headword",
+            "word": "diletante"
+        }
+    ],
+    "word": "diletante"
+}{
+    "id": "chilango",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "chilango",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿qué estás haciendo ahí abajo, revuelta con la plebe y los chilangos?"
+                                        }
+                                    ],
+                                    "id": "id5bab369b-78d3-4361-b310-dc1c1f70b0cf"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chilango"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "¿qué estás haciendo ahí abajo, revuelta con la plebe y los chilangos?"
+                                        }
+                                    ],
+                                    "id": "id5bab369b-78d3-4361-b310-dc1c1f70b0cf"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "chilango"
+                }
+            ],
+            "type": "headword",
+            "word": "chilango"
+        }
+    ],
+    "word": "chilango"
+}{
+    "id": "testuz",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "testuz",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "testuz"
+                }
+            ],
+            "type": "headword",
+            "word": "testuz"
+        }
+    ],
+    "word": "testuz"
 }
