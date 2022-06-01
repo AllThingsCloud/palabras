@@ -17625,4 +17625,157 @@
         }
     ],
     "word": "testuz"
+}{
+    "id": "perentorio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "perentorio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "nos dio un tiempo perentorio para conseguirlo"
+                                        }
+                                    ],
+                                    "id": "id0f8773e4-0649-49dc-bc9b-9f4cfb6bfb48"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una resolución perentoria"
+                                        }
+                                    ],
+                                    "id": "id40a3caee-d4fd-4b8b-b73c-a8d8e3af264f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "respuesta perentoria"
+                                        },
+                                        {
+                                            "text": "necesidad perentoria"
+                                        }
+                                    ],
+                                    "id": "id0b5b41f7-7300-44a5-99e6-546ad71c9add"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "perentorio"
+                }
+            ],
+            "type": "headword",
+            "word": "perentorio"
+        }
+    ],
+    "word": "perentorio"
+}{
+    "id": "fragua",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fragua",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en esta fragua te harán la verja del jardín"
+                                        }
+                                    ],
+                                    "id": "id91a8eaca-245b-446c-a32a-e0d3261eb6c3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fragua"
+                }
+            ],
+            "type": "headword",
+            "word": "fragua"
+        }
+    ],
+    "word": "fragua"
+}{
+    "id": "retrotraer",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "retrotraer",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el accidente sufrido ayer en la central nuclear inevitablemente nos retrotrae a los gravísimos sucesos acaecidos hace unos años en Chernóbil"
+                                        },
+                                        {
+                                            "text": "el psicoanalista pidió a la paciente que se retrotrajera a los felices momentos de su infancia"
+                                        },
+                                        {
+                                            "text": "mediante un flashback, la narración se retrotrae veinte años, cuando, todavía niño, el teniente se dispone a ingresar en la escuela militar"
+                                        }
+                                    ],
+                                    "id": "id9aae12c2-22b3-4c2a-92d8-bce69d9b49a4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aunque el nacimiento determina la personalidad humana, la ley retrotrae en muchos casos a una fecha anterior los derechos del nacido"
+                                        }
+                                    ],
+                                    "id": "id06a61895-f357-49e1-96b5-3d243f94fb49"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "retrotraer"
+                }
+            ],
+            "type": "headword",
+            "word": "retrotraer"
+        }
+    ],
+    "word": "retrotraer"
 }
