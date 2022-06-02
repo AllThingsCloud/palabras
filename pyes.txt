@@ -9036,3 +9036,8 @@ parse error: Invalid numeric literal at line 1, column 17
 "estupro"
 jq: error (at <stdin>:1): Cannot index number with string "results"
 parse error: Invalid numeric literal at line 1, column 17
+"énfasis"
+"Fuerza en la articulación o en la entonación con la que se quiere destacar un aspecto de lo que se dice"
+"Importancia o relieve que se concede a algo mediante la expresión o el gesto"
+"Intención específica que se da a lo que se dice o se comunica"
+"énfasis"
