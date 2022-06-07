@@ -17778,4 +17778,30 @@
         }
     ],
     "word": "retrotraer"
+}{
+    "id": "gambito",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "gambito",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gambito"
+                }
+            ],
+            "type": "headword",
+            "word": "gambito"
+        }
+    ],
+    "word": "gambito"
 }
