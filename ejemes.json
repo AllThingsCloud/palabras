@@ -17804,4 +17804,84 @@
         }
     ],
     "word": "gambito"
+}{
+    "id": "patricio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "patricio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los patricios tenían derecho y capacidad para administrar el Estado, formaban el Senado y les correspondía la obligación de formar el ejército regular y contribuir a los gastos públicos"
+                                        }
+                                    ],
+                                    "id": "id25b6ac53-a639-4fa6-a7f5-087875111584"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "casa patricia"
+                                        },
+                                        {
+                                            "text": "familias patricias"
+                                        },
+                                        {
+                                            "text": "linajes patricios"
+                                        }
+                                    ],
+                                    "id": "id4d1ef5d0-abdb-4010-8ee6-1bbedf840353"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "patricio"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los patricios tenían derecho y capacidad para administrar el Estado, formaban el Senado y les correspondía la obligación de formar el ejército regular y contribuir a los gastos públicos"
+                                        }
+                                    ],
+                                    "id": "id25b6ac53-a639-4fa6-a7f5-087875111584"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "patricio"
+                }
+            ],
+            "type": "headword",
+            "word": "patricio"
+        }
+    ],
+    "word": "patricio"
 }
