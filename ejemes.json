@@ -17884,4 +17884,30 @@
         }
     ],
     "word": "patricio"
+}{
+    "id": "ucronia",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "ucron%C3%ADa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ucronía"
+                }
+            ],
+            "type": "headword",
+            "word": "ucronía"
+        }
+    ],
+    "word": "ucronía"
 }
