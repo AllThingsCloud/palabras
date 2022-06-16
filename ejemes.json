@@ -17910,4 +17910,44 @@
         }
     ],
     "word": "ucronía"
+}{
+    "id": "enrostrar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "enrostrar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "le enrostró su mala conducta"
+                                        }
+                                    ],
+                                    "id": "id8f48a633-36ec-40e4-8e03-fd8474060927"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "enrostrar"
+                }
+            ],
+            "type": "headword",
+            "word": "enrostrar"
+        }
+    ],
+    "word": "enrostrar"
 }
