@@ -17950,4 +17950,50 @@
         }
     ],
     "word": "enrostrar"
+}{
+    "id": "asaz",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "asaz",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su muerte fue asaz dolorosa"
+                                        },
+                                        {
+                                            "text": "sus miradas resultaban asaz elocuentes"
+                                        },
+                                        {
+                                            "text": "se trata de una cuestión asaz problemática"
+                                        }
+                                    ],
+                                    "id": "idf1245355-9c22-4832-a04a-0a3de62bc7f2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "asaz"
+                }
+            ],
+            "type": "headword",
+            "word": "asaz"
+        }
+    ],
+    "word": "asaz"
 }
