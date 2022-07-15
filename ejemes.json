@@ -17996,4 +17996,154 @@
         }
     ],
     "word": "asaz"
+}{
+    "id": "colegiata",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "colegiata",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la colegiata de Santa María la Mayor (siglo XVI) preside la ciudad de Antequera"
+                                        }
+                                    ],
+                                    "id": "ida0e5ff05-161f-4d4c-a697-0d80e521b474"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "colegiata"
+                }
+            ],
+            "type": "headword",
+            "word": "colegiata"
+        }
+    ],
+    "word": "colegiata"
+}{
+    "id": "estomagar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "estomagar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tu hermana me estomaga con tanta insistencia"
+                                        }
+                                    ],
+                                    "id": "id105df418-4b34-4845-ba1e-1303908c5651"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "estomagar"
+                }
+            ],
+            "type": "headword",
+            "word": "estomagar"
+        }
+    ],
+    "word": "estomagar"
+}{
+    "id": "zasca",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zasca",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "su vanidad quedó por los suelos con el tremendo zasca que le dieron a su absurda propuesta"
+                                        }
+                                    ],
+                                    "id": "id77e69d26-af00-4e5c-a738-2b442edc3dc4"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zasca"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "se acercó por detrás y ¡zasca!, lo dejó inconsciente"
+                                        }
+                                    ],
+                                    "id": "id77ffa0b6-11ad-48b9-a250-c4033beb8809"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "al final de la cena en el restaurante, ¡zasca!, trajeron una cuenta que no podían pagar"
+                                        }
+                                    ],
+                                    "id": "id9e69f049-7fe1-42a0-ab0b-59a45ec496b3"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "interjection",
+                        "text": "Interjection"
+                    },
+                    "text": "zasca"
+                }
+            ],
+            "type": "headword",
+            "word": "zasca"
+        }
+    ],
+    "word": "zasca"
 }
