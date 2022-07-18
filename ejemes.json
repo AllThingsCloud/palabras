@@ -18146,4 +18146,84 @@
         }
     ],
     "word": "zasca"
+}{
+    "id": "batiburrillo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "batiburrillo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el ensayo es un batiburrillo de ideas sin propósito claro"
+                                        }
+                                    ],
+                                    "id": "idc6ab990e-74d3-43c1-9087-f767a313314a"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "batiburrillo"
+                }
+            ],
+            "type": "headword",
+            "word": "batiburrillo"
+        }
+    ],
+    "word": "batiburrillo"
+}{
+    "id": "esputo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "esputo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el análisis de los esputos permitía detectar ciertas enfermedades"
+                                        }
+                                    ],
+                                    "id": "iddc7331b9-bc5a-4891-84c4-07a626bfc4db"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "esputo"
+                }
+            ],
+            "type": "headword",
+            "word": "esputo"
+        }
+    ],
+    "word": "esputo"
 }
