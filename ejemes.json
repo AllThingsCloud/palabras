@@ -18226,4 +18226,106 @@
         }
     ],
     "word": "esputo"
+}{
+    "id": "aspid",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "%C3%A1spid",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los áspides se alimentan de ratones y lagartijas"
+                                        }
+                                    ],
+                                    "id": "id9cb8fc3d-362c-4d0c-b989-a7066b8d3758"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "áspid"
+                }
+            ],
+            "type": "headword",
+            "word": "áspid"
+        }
+    ],
+    "word": "áspid"
+}{
+    "id": "idem",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "%C3%ADdem",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el portero del equipo visitante jugó un gran partido, y el nuestro, ídem"
+                                        }
+                                    ],
+                                    "id": "idf7d93b6a-2776-42f7-8f88-e18ff99c94e2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "pronoun",
+                        "text": "Pronoun"
+                    },
+                    "text": "ídem"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "íbamos lentamente y los otros ídem"
+                                        }
+                                    ],
+                                    "id": "id80924dea-5b01-4506-9b0a-b4bb55fbdd72"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "ídem"
+                }
+            ],
+            "type": "headword",
+            "word": "ídem"
+        }
+    ],
+    "word": "ídem"
 }
