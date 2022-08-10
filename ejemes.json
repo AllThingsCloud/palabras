@@ -18328,4 +18328,44 @@
         }
     ],
     "word": "ídem"
+}{
+    "id": "desiderativo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "desiderativo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'¡Ojalá vengas pronto!' es una oración desiderativa"
+                                        }
+                                    ],
+                                    "id": "idadb4240c-0d3f-418a-b8c3-4de7b44358d9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "desiderativo"
+                }
+            ],
+            "type": "headword",
+            "word": "desiderativo"
+        }
+    ],
+    "word": "desiderativo"
 }
