@@ -10765,3 +10765,6 @@ pyes:6: command not found: jq
 "farragoso"
 "Que es poco claro e incluye cosas o ideas superfluas y desordenadas que lo hacen confuso y pesado"
 "farragoso"
+"estío"
+"Verano"
+"estío"
