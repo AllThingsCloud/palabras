@@ -18368,4 +18368,44 @@
         }
     ],
     "word": "desiderativo"
+}{
+    "id": "urente",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "urente",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el dolor urente es, a diferencia del dolor punzante, el que sentimos, por ejemplo, con una quemadura"
+                                        }
+                                    ],
+                                    "id": "id956ccf2c-d246-4f71-a459-343aaa17d2d2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "urente"
+                }
+            ],
+            "type": "headword",
+            "word": "urente"
+        }
+    ],
+    "word": "urente"
 }
