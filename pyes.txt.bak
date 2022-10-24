@@ -11491,8 +11491,6 @@ pyes:6: command not found: jq
 "Chaqueta con cuello y bocamangas de piel o reforzados de otra tela"
 "Chaqueta con cuello, bocamangas y orillas ribeteados de astracán que se cierra con alamares de seda y botones dorados; era una prenda de uniforme de algunos ejércitos"
 "pelliza"
-
-
 "joven"
 "[persona] Que está en el período de la vida entre la niñez y la edad madura"
 "Que tiene poca edad o tiempo o que está en las primeras etapas de su existencia o de su desarrollo"
@@ -11536,8 +11534,6 @@ pyes:6: command not found: jq
 "[narración] Que trata o habla de sexo"
 "[vino] Que tiene sabor áspero por haberse hecho de una mezcla de uva agraz y madura"
 "verde"
-
-
 "actuar"
 "Comportarse o proceder [una persona] de una manera determinada"
 "Ejercer las funciones propias de un oficio o un cargo"
@@ -11546,26 +11542,14 @@ pyes:6: command not found: jq
 "Producir [una sustancia] el efecto que le es propio"
 "Realizar actuaciones judiciales"
 "actuar"
-
-
 "llanura"
 "Terreno extenso que no presenta fuertes desniveles"
 "Igualdad de la superficie de una cosa"
 "llanura"
-
-
-
-
-
-
 "aceptación"
 "Acción de aceptar"
 "Consideración generalizada de que algo es bueno o válido"
 "aceptación"
-
-
-
-
 "tributo"
 "Cantidad de dinero que los ciudadanos deben pagar al estado para sostener el gasto público"
 "Cantidad de dinero o de bienes que el vasallo debía entregar a su señor como reconocimiento de obediencia y sometimiento"
@@ -11573,8 +11557,6 @@ pyes:6: command not found: jq
 "Muestra de reconocimiento, respeto o consideración hacia una persona"
 "Sentimiento favorable que se expresa o se manifiesta hacia una persona"
 "tributo"
-
-
 "antepasado"
 "[tiempo] Que es inmediatamente anterior a otro tiempo pasado"
 "Individuo del que desciende otro, especialmente si vivió en una época pasada remota"
@@ -11593,8 +11575,6 @@ pyes:6: command not found: jq
 "Cantata"
 "Dicho o hecho que resulta equivocado, inoportuno o poco apropiado"
 "cantada"
-
-
 "curioso"
 "[persona] Que siente curiosidad o deseo de saber o averiguar las cosas"
 "[persona] Que siente curiosidad o deseo de averiguar asuntos ajenos, que no le conciernen o no deberían interesarle"
@@ -11614,8 +11594,6 @@ pyes:6: command not found: jq
 "aversión"
 "Sentimiento de rechazo o repugnancia hacia una persona o cosa"
 "aversión"
-
-
 "invariable"
 "Que no cambia o varía"
 "[palabra] Que no presenta diferentes formas para indicar los accidentes gramaticales, como número, género, persona, tiempo, modo, voz, etc"
@@ -11662,18 +11640,12 @@ pyes:6: command not found: jq
 "Diversión o distracción para pasar el tiempo de forma agradable"
 "Prolongación o extensión de un órgano"
 "expansión"
-
-
-
-
 "permitir"
 "Dejar hacer algo [una persona o una institución que, por su autoridad, podrían impedirlo]"
 "No hacer nada para impedir que ocurra o se haga algo"
 "Tener [una cosa o un hecho] unas características tales que hacen posible que algo se haga o suceda de una manera determinada"
 "Concederse [una persona] la libertad de hacer algo que o bien no haría normalmente o bien resulta poco factible para la mayoría"
 "permitir"
-
-
 "callado"
 "[persona] Que habla poco"
 "Que está en silencio o está libre de ruido"
@@ -11690,42 +11662,22 @@ pyes:6: command not found: jq
 "suprema"
 "Filete de la parte más ancha del tronco de algunos pescados"
 "suprema"
-
-
 "conquista"
 "Acción de conquistar"
 "Persona o cosa conquistada"
 "conquista"
-
-
-
-
 "boda"
 "Ceremonia en la que se celebra la unión matrimonial de dos personas mediante determinados ritos o formalidades legales"
 "Fiesta con que se celebra esta unión matrimonial"
 "boda"
-
-
-
-
 "dilatación"
 "Acción de dilatar o dilatarse"
 "Efecto de dilatar o dilatarse"
 "Aumento de volumen de un cuerpo por separación de sus partículas y disminución de su densidad"
 "dilatación"
-
-
-
-
-
-
-
-
 "significante"
 "Elemento que, junto con el significado, forma el signo lingüístico y que constituye su imagen acústica"
 "significante"
-
-
 "departamento"
 "Parte en que está dividido un recinto, local u otro espacio mediante paredes u otra separación"
 "Sección en que está dividida una institución u organización"
@@ -11734,29 +11686,17 @@ pyes:6: command not found: jq
 "Unidad de división administrativa de algunos países; puede ser la de primer nivel o estar por debajo de otros"
 "Vivienda de un edificio, de uno o más ambientes, cocina y baño"
 "departamento"
-
-
 "manar"
 "Salir [agua] de un manantial o [líquido] de algún sitio"
 "Salir o aparecer en un sitio [una cosa material o inmaterial]"
 "manar"
-
-
 "vello"
 "Pelo corto y suave que cubre algunas partes del cuerpo humano"
 "Pelusilla corta y suave de algunas frutas y plantas"
 "vello"
-
-
-
-
-
-
 "atuendo"
 "Ropa exterior o indumentaria de una persona, en especial cuando es propia o característica de cierto lugar, época, acontecimiento o actividad"
 "atuendo"
-
-
 "quincha"
 "Tejido o trama de junco con que se afianza un techo o una pared de paja, totora o caña"
 "Pared hecha de cañas o juncos recubiertos de barro, que se suele emplear para construir cercas, corrales y chozas"
@@ -11771,8 +11711,6 @@ pyes:6: command not found: jq
 "[persona] Que actúa o se comporta según ciertos convencionalismos sociales"
 "Que es propio de la persona convencional"
 "convencional"
-
-
 "conclusión"
 "Fin o terminación de algo"
 "Decisión o consecuencia que es fruto del estudio y examen de una serie de datos"
@@ -11787,18 +11725,6 @@ pyes:6: command not found: jq
 "[cosa, objeto] Que es largo y extenso"
 "[persona] Que es lento y poco decidido en sus acciones"
 "larguero"
-
-
-
-
-
-
-
-
-
-
-
-
 "simétrico"
 "Que tiene simetría"
 "simétrico"
@@ -11806,14 +11732,10 @@ pyes:6: command not found: jq
 "[figura geométrica] Que tiene uno o más ángulos rectos"
 "Figura geométrica de cuatro lados de dos longitudes distintas (de la misma longitud los lados opuestos) que forman cuatro ángulos rectos"
 "rectángulo"
-
-
 "asfaltado"
 "Acción de asfaltar una superficie"
 "Calzada cubierta de asfalto"
 "asfaltado"
-
-
 "desentrañar"
 "Averiguar o penetrar una cosa secreta o que es muy difícil de llegar a conocer o comprender"
 "desentrañar"
@@ -11828,39 +11750,21 @@ pyes:6: command not found: jq
 "Que causa admiración o sorpresa"
 "Que es extraño o extraordinario"
 "sorprendente"
-
-
-
-
 "danzar"
 "Mover el cuerpo y las extremidades con ritmo siguiendo el compás de una pieza musical, especialmente si es clásica o folclórica"
 "Ir algo o alguien de un lado para otro para hacer determinada cosa"
 "Moverse una cosa con agitación, viveza o nerviosismo"
 "Intervenir o entrometerse en un asunto"
 "danzar"
-
-
-
-
-
-
 "rigidez"
 "Capacidad de resistencia de un cuerpo a doblarse o torcerse por la acción de fuerzas exteriores que actúan sobre su superficie"
 "Firmeza en las ideas, los actos o el cumplimiento de las normas"
 "Inmovilidad o falta de expresividad en el aspecto exterior, en los movimientos, en los gestos, etc"
 "rigidez"
-
-
-
-
 "enumeración"
 "Exposición sucesiva y ordenada de los elementos que forman un conjunto, una serie o un todo"
 "Figura retórica que consiste en exponer sucesivamente distintas realidades vinculadas entre sí como elementos integrantes de un conjunto, vinculados mediante polisíndeton o asíndeton"
 "enumeración"
-
-
-
-
 "coreografía"
 "Arte y técnica de componer y dirigir bailes o danzas, o del baile o la danza en general"
 "Conjunto pautado de pasos, figuras y movimientos de un baile o una danza"
@@ -11875,8 +11779,6 @@ pyes:6: command not found: jq
 "Aceptar o asumir una obligación, un cargo o un cuidado"
 "Personarse en un lugar para cumplir determinada función"
 "constituir"
-
-
 "mana"
 "Poder oculto al que, según ciertas religiones primitivas, se atribuye el origen de la idea de causa"
 "Maná (alimento que Dios envió a los israelitas)"
@@ -11889,8 +11791,6 @@ pyes:6: command not found: jq
 "Artificio o truco astuto que permite hacer algo mejor o con menos esfuerzo"
 "Vicio o mala costumbre"
 "mana"
-
-
 "gesto"
 "Movimiento de una parte del cuerpo, especialmente de la cara o de las manos, con el que se expresa algo"
 "Expresión del rostro"
@@ -11905,8 +11805,6 @@ pyes:6: command not found: jq
 "Tener una parte del cuerpo afectada por una enfermedad o daño determinados o tener la enfermedad o mal que se expresa"
 "Ponerse [una cosa] en mal estado por efecto de algo dañino o perjudicial"
 "padecer"
-
-
 "desastrado"
 "[persona] Que presenta un aspecto descuidado, va mal vestido y sucio, o no cuida sus cosas"
 "Que está sucio y descuidado"
@@ -11928,8 +11826,6 @@ pyes:6: command not found: jq
 "eunuco"
 "Hombre castrado, en especial el que se destinaba, entre los orientales, a la custodia de las mujeres del harén"
 "eunuco"
-
-
 "voltereta"
 "Vuelta que se da en el aire o apoyando las manos en el suelo e impulsando las piernas en alto para caer y reincorporarseen la posición inicial"
 "Cambio brusco que sufre una cosa"
@@ -11943,8 +11839,6 @@ pyes:6: command not found: jq
 "Cabina cilíndrica con divisiones verticales que se coloca en el hueco de una pared y que al girarlo sirve para intercambiar objetos entre personas sin que estas se vean, usado especialmente en los conventos de clausura"
 "Mecanismo con varios brazos que giran sobre un eje para controlar el ingreso de personas a un lugar"
 "torno"
-
-
 "elongación"
 "Alargamiento"
 "Distancia angular entre dos astros medida desde la Tierra, especialmente entre un planeta y el Sol"
@@ -11952,8 +11846,6 @@ pyes:6: command not found: jq
 "Distancia existente entre el centro de oscilación y la posición de equilibrio de un cuerpo sometido a un movimiento oscilatorio"
 "Alargamiento accidental o terapéutico de un miembro o de un nervio"
 "elongación"
-
-
 "jaleo"
 "Ruido o alboroto de gente reunida que se divierte o riñe"
 "Asunto desordenado, confuso y problemático"
@@ -11966,19 +11858,11 @@ pyes:6: command not found: jq
 "Emisión lingüística con un determinado objetivo comunicativo"
 "Exposición breve de un problema o ejercicio"
 "enunciado"
-
-
-
-
 "inundar"
 "Cubrir completamente [el agua u otro líquido] un lugar"
 "Cubrir un lugar de agua u otro líquido"
 "Llenar un lugar de cierta cosa que lo cubre u ocupa todo"
 "inundar"
-
-
-
-
 "clavado"
 "Que es casi igual a otra persona o cosa en su aspecto físico"
 "Que es puntual o exacto"
@@ -11986,8 +11870,6 @@ pyes:6: command not found: jq
 "Que permanece en un lugar sin moverse"
 "Salto que se da a un río, al mar o a una piscina desde un trampolín u otro sitio alto"
 "clavado"
-
-
 "delito"
 "Acción que va en contra de lo establecido por la ley y que es castigada por ella con una pena grave"
 "Circunstancia de haber cometido una persona una acción contraria a la ley"
@@ -12000,8 +11882,6 @@ pyes:6: command not found: jq
 "Empezar una línea de texto con un margen más amplio que las otras del mismo párrafo"
 "Sacar provecho de una persona, haciéndole gastar dinero, con frecuencia y de forma abusiva"
 "sangrar"
-
-
 "catálogo"
 "Lista o relación ordenada con algún criterio de libros, documentos, monedas, objetos en venta, etc., de una persona, empresa o institución, que generalmente contiene una breve descripción del objeto relacionado y ciertos datos de interés"
 "catálogo"
@@ -12012,12 +11892,6 @@ pyes:6: command not found: jq
 "[voz, sonido] Que es áspero y grave, y a veces velado"
 "[persona] Que padece ronquera"
 "ronco"
-
-
-
-
-
-
 "espiritualmente"
 "De un modo espiritual"
 "Desde un punto de vista espiritual"
@@ -12025,8 +11899,6 @@ pyes:6: command not found: jq
 "astilla"
 "Fragmento irregular que salta de una materia, especialmente la madera, o que queda en ella al partirla o romperla con fuerza"
 "astilla"
-
-
 "extremidad"
 "Parte que, en los vertebrados y algunos otros animales, sale del tronco y constituye uno de los extremos del cuerpo, como las patas, los brazos y piernas, las alas, las aletas, la cola y la cabeza"
 "Brazo o pierna, en el ser humano, o parte análoga en los animales"
@@ -12038,12 +11910,6 @@ pyes:6: command not found: jq
 "Pinza de tender"
 "Juego de niños que consiste en empujar cada jugador con la uña del dedo pulgar, sobre cualquier superficie plana, un alfiler, que le pertenece, para formar cruz con otro alfiler, que hace suyo si logra formarla"
 "alfiler"
-
-
-
-
-
-
 "ramillete"
 "Ramo pequeño de flores o plantas olorosas hecho de forma artificial"
 "Conjunto o grupo de personas o cosas bonitas, útiles o selectas, escogidas con un fin determinado"
@@ -12069,5 +11935,313 @@ pyes:6: command not found: jq
 "alquitrán"
 "Sustancia densa y pegajosa, de color oscuro y olor fuerte, que se obtiene por destilación del petróleo, de la madera, del carbón vegetal o de otra materia orgánica y se emplea principalmente en el calafateo de buques, revestimiento de tuberías, en la industria farmacéutica y como impermeabilizante en la pavimentación de caminos"
 "alquitrán"
+"barahúnda"
+"Ruido, desorden y confusión grandes, generalmente provocados por un grupo de muchas personas que hablan o se mueven al mismo tiempo"
+"barahúnda"
+"cavilación"
+"Reflexión profunda y minuciosa"
+"cavilación"
+"envero"
+"Color rojizo o dorado que toman los frutos cuando empiezan a madurar"
+"Uva o grano de fruta que tiene este color"
+"envero"
+"locutorio"
+"Local que ofrece a sus clientes servicios de telefonía y conexión a internet principalmente"
+"Cabina o recinto que dispone de un teléfono público de uso individual"
+"Sala de emisora de radio donde los periodistas realizan los programas"
+"Sala en conventos, monasterios y cárceles destinada a recibir visitas; generalmente dispone de una reja o cristal para separar a los interlocutores"
+"locutorio"
+"mocito"
+"Que está en el principio de la mocedad"
+"Que está en el principio de la mocedad"
+"mocito"
+"peana"
+"Base o apoyo para colocar encima una escultura u otro objeto, en especial una imagen religiosa"
+"Tarima que hay delante del altar"
+"peana"
+"peculio"
+"Cantidad de dinero o conjunto de bienes que posee una persona"
+"peculio"
+"óbolo"
+"Cantidad pequeña de dinero que se da como limosna o donativo para contribuir a un fin benéfico"
+"Antigua moneda griega de plata"
+"óbolo"
+"pregón"
+"Anuncio o aviso oficial de una noticia o un hecho que hace en voz alta un funcionario del ayuntamiento en un lugar público para que sea conocida por todos"
+"Anuncio de alguna mercancía o servicio que se hace a gritos por la calle"
+"Discurso con que se da comienzo a una fiesta o una celebración e invita a participar en ella"
+"pregón"
+"cándido"
+"[persona] Que es sencillo, ingenuo, sin malicia, astucia, picardía o doblez"
+"Que es propio de estas personas"
+"Que es de color blanco"
+"cándido"
+"embalse"
+"Gran depósito artificial de agua, construido generalmente cerrando la boca de un valle mediante un dique o presa, que retiene las aguas de un río o de la lluvia para utilizarlas en el riego, abastecer poblaciones o producir energía"
+"embalse"
+"ruana"
+"Tipo de poncho, hecho de lana o paño, que cubre desde los hombros hasta debajo de la cintura y suele ir abierto por delante; es usado generalmente por la gente de campo"
+"ruana"
+"alijo"
+"Conjunto de mercancías cuyo tráfico no es legal y son intervenidas"
+"Acción de alijar (pasar mercancías ilegales)"
+"Paquete que se hace para un viaje en el que se acomodan, de mal modo, ropa y otros enseres"
+"alijo"
+"apostillar"
+"Poner apostillas o notas en un escrito"
+"Agregar una precisión o una observación oral a lo que se explica en un discurso, una explicación, etc"
+"apostillar"
+"apostrofar"
+"Invocar o dirigir apóstrofes"
+"apostrofar"
+"atorrante"
+"[animal doméstico, objeto] Que es ordinario o mediocre"
+"[persona] Que evita el trabajo por comodidad"
+"[persona] Que evita el trabajo por comodidad"
+"Persona que no tiene ocupación ni domicilio fijo y que vive de la limosna"
+"atorrante"
+"atusar"
+"Alisar el pelo o arreglar ligeramente el peinado pasando superficialmente la mano o el peine"
+"Adornarse o arreglarse una persona, especialmente cuando se hace de forma excesiva"
+"atusar"
+"baldosa"
+"Pieza de mármol, cerámica o piedra, generalmente fina y pulimentada y de forma cuadrada o rectangular, que se usa en suelos y muros"
+"Antiguo instrumento musical de cuerda parecido al salterio, pero de mayor tamaño, con la caja oval y un mástil largo"
+"baldosa"
+"boquear"
+"Abrir la boca [una persona o un animal], especialmente cuando está a punto de morir"
+"Estar muriéndose"
+"Estar acabándose [una cosa]"
+"boquear"
+"buhardilla"
+"Ventana que sobresale verticalmente en el tejado de una casa que sirve para dar luz o para salir al tejado"
+"Parte más alta de una casa, inmediata al tejado, que generalmente tiene el techo inclinado; se utiliza como vivienda, habitación o para guardar cosas que no se usan habitualmente"
+"buhardilla"
+"cariz"
+"Aspecto que presenta una cosa o un asunto"
+"cariz"
+"circunspecto"
+"[persona] Que habla o actúa con circunspección"
+"Que denota o implica circunspección"
+"circunspecto"
+"corrillo"
+"Grupo de personas que forman un corro para hablar entre sí separadas del resto de las personas que hay en un lugar"
+"corrillo"
+"desleír"
+"Hacer que un cuerpo o una sustancia, al mezclarse con un líquido, se deshaga hasta que sus partículas queden incorporadas a dicho líquido"
+"desleír"
+"encenagarse"
+"Cubrirse de barro o meterse en él"
+"Entregarse [una persona] con excesivo afán a los placeres sensuales"
+"encenagarse"
+"esmirriado"
+"Que está muy delgado, raquítico y con aspecto débil o enfermizo"
+"esmirriado"
+"espoleta"
+"Mecanismo que va colocado en la boquilla de las bombas y otros artefactos con carga explosiva y sirve para provocar la explosión de la carga"
+"Horquilla que forman las clavículas del ave"
+"espoleta"
+"estilete"
+"Puñal de hoja muy estrecha y aguda"
+"Estilo pequeño, punzón que se usaba antiguamente para escribir sobre tablas enceradas"
+"Barra cuya sombra proyectada indica las horas en un reloj de sol"
+"Instrumento utilizado para la exploración de ciertas heridas, fístulas, etc., que consiste en una barra delgada metálica con una pequeña dilatación esferoidal en uno de sus extremos"
+"estilete"
+"fornitura"
+"Conjunto de accesorios, como botones, cintas, forros, etc., empleados en la confección de prendas de vestir"
+"Conjunto de piezas de repuesto de un reloj"
+"Correaje y cartuchera que usan los soldados"
+"En imprenta, porción de tipos o caracteres que se funden para completar una fundición"
+"fornitura"
+"levita"
+"Israelita de la tribu de Leví, dedicado al servicio del templo"
+"Israelita de la tribu de Leví, dedicado al servicio del templo"
+"Chaqueta masculina con solapas, larga hasta las rodillas, entallada de cuerpo y amplia de faldones"
+"levita"
+"mecapal"
+"Dispositivo que sirve para cargar bultos sobre la espalda y que está hecho de una faja de tejido de ixtle que tiene sogas en sus extremos y se apoya en la frente"
+"mecapal"
+"mies"
+"Cereal que ya está maduro para ser recolectado"
+"Terrenos en los que se cultivan cereales"
+"mies"
+"ofidio"
+"[reptil] Que pertenece al suborden de los ofidios"
+"[reptil] Que pertenece al suborden de los ofidios"
+"Suborden de reptiles escamosos sin extremidades, de cuerpo muy alargado y estrecho, con la cabeza aplastada, la boca grande y la piel escamosa"
+"ofidio"
+"pantagruélico"
+"[comida, banquete] Que es muy abundante o excesivo"
+"pantagruélico"
+"pavesa"
+"Partícula pequeña y ligera de materia inflamada que se desprende de un cuerpo en combustión y que acaba por convertirse en ceniza"
+"pavesa"
+"peripuesto"
+"[persona] Que se viste y se arregla con afectación"
+"peripuesto"
+"podre"
+"Podredumbre"
+"Pus"
+"podre"
+"polichinela"
+"Personaje burlesco de la comedia del arte italiana y del teatro de guiñol que tiene la nariz grande y arqueada, una joroba por delante y por detrás y va vestido con un traje abotonado y un sombrero de dos puntas que caen a ambos lados de la cabeza"
+"polichinela"
+"rabipelado"
+"Mamífero marsupial de hasta 50 cm de longitud, aspecto similar a la rata, hocico puntiagudo y cola prensil larga y desnuda que usa para trasladar a sus crías; es nocturno y omnívoro, y vive en América; su piel es muy preciada en peletería"
+"rabipelado"
+"rayano"
+"Que raya o linda con otra cosa o está muy cerca de ella"
+"rayano"
+"reptar"
+"Desplazarse arrastrándose por el suelo como los reptiles"
+"reptar"
+"sayón"
+"Verdugo que ejecutaba las penas a que eran condenados los reos"
+"Hombre de aspecto feroz"
+"Planta ramosa, de color ceniciento por las escamas que la cubren, hojas lanceoladas, flores agrupadas en espigas y brácteas fructíferas soldadas, simulando una cápsula"
+"sayón"
+"sima"
+"Pozo muy profundo formado a partir de una fisura o grieta en el terreno, que generalmente comunica la superficie con corrientes o cavernas subterráneas"
+"Capa interior de la corteza terrestre, constituida principalmente por silicatos de hierro y de magnesio y otros materiales pesados"
+"sima"
+"síncope"
+"Pérdida pasajera del conocimiento que va acompañada de una paralización momentánea de los movimientos del corazón y de la respiración y que es debida a una falta de irrigación sanguínea en el cerebro"
+"Síncopa (figura retórica)"
+"síncope"
+"tabuco"
+"Cuchitril, habitáculo muy pequeño, especialmente si está sucio o descuidado"
+"tabuco"
+"tasca"
+"Establecimiento en el que se sirven bebidas alcohólicas, especialmente vino, cerveza o licor, y a menudo comidas y tapas"
+"Oleaje fuerte que dificulta el desembarque en la costa"
+"tasca"
+"tumefacto"
+"[parte del cuerpo] Que está hinchado por haber recibido un golpe o por otra causa anormal"
+"tumefacto"
+"ujier"
+"Portero de un palacio o de un tribunal"
+"Empleado de algunos organismos o tribunales del Estado que lleva a cabo tareas que no requieren especialización"
+"ujier"
+"ínfulas"
+"Vanidad u orgullo que muestra una persona acerca de sus propios bienes, actos o cualidades"
+"ínfulas"
+"pasquín"
+"Escrito anónimo de contenido satírico o crítico que se coloca en un lugar público"
+"Escrito breve o dibujo pintado, impreso o grabado en un papel, cartón, plástico, etc., que se pone en un lugar público para anunciar algo"
+"pasquín"
+"daga"
+"Arma blanca de hoja corta, ancha y puntiaguda, parecida a la espada pero de menor tamaño"
+"daga"
+"aguachirle"
+"Bebida de poca calidad, sabor o sustancia, especialmente cuando lo es por contener demasiada agua"
+"aguachirle"
+"carantoña"
+"Demostración de cariño, exagerada y a veces empalagosa, generalmente para conseguir algo"
+"carantoña"
+"clangor"
+"Sonido de la trompeta o del clarín"
+"clangor"
+"corpachón"
+"Cuerpo muy grande y fuerte de una persona"
+"Cuerpo de ave despojado de las pechugas y piernas"
+"corpachón"
+"crótalo"
+"Castañuela (instrumento)"
+"Serpiente venenosa de unos dos metros de largo que tiene al final de la cola un conjunto de anillos córneos que suenan cuando los hace vibrar; habita en América Central y del Norte"
+"Instrumento musical de percusión formado por dos pequeños platillos que, ligados a los dedos índice y pulgar, se tocan entrechocándolos entre sí"
+"Instrumento musical de percusión formado por una serie de platillos gruesos de mediano tamaño dispuestos sobre una tabla"
+"crótalo"
+"dehiscente"
+"[órgano vegetal] Que se abre de forma espontánea para dispersar su contenido, ya sea polen o semillas"
+"dehiscente"
+"desasir"
+"Soltar o desprender una cosa del lugar al que está asida o sujeta"
+"Soltarse o desprenderse [una persona o una cosa] del lugar al que está asido o sujeto"
+"Desprenderse de una cosa o renunciar a ella"
+"desasir"
+"descerrajar"
+"Arrancar con violencia una cerradura"
+"Disparar uno o más tiros con un arma de fuego"
+"descerrajar"
+"empellón"
+"Empujón fuerte dado con el cuerpo"
+"empellón"
+"encurtir"
+"Conservar en vinagre, sal y hierbas aromáticas ciertas verduras, hortalizas y frutos"
+"encurtir"
+"espichar"
+"Pinchar con una cosa aguda"
+"Morir"
+"Enflaquecerse, adelgazarse o consumirse [una persona]"
+"espichar"
+"halitosis"
+"Fetidez del aliento"
+"halitosis"
+"hinojo"
+"Planta herbácea silvestre de tallos erguidos, ramosos y algo estriados, hojas partidas en muchas secciones, flores pequeñas y amarillas, agrupadas en umbelas terminales y fruto oblongo, con líneas salientes, que encierra diversas semillas menudas; es aromático, de sabor dulce y anisado"
+"Rodilla"
+"hinojo"
+"internuncio"
+"Sacerdote que es el representante diplomático del Papa cerca de un estado no católico que carece de nunciatura"
+"internuncio"
+"ovillado"
+"Operación manual o mecánica de hacer ovillos"
+"ovillado"
+"sordina"
+"Pieza que sirve para disminuir la intensidad del sonido o para cambiar el timbre de algunos instrumentos musicales, generalmente los de metal"
+"sordina"
+"transigir"
+"Admitir o aceptar una persona la opinión o las ideas de otra en contra de las suyas propias, a fin de llegar a un acuerdo"
+"Soportar, admitir o permitir una cosa que no gusta o que va en contra de los principios de uno mismo"
+"transigir"
+"turgente"
+"Que está abultado o hinchado"
+"turgente"
+"tutiplén"
+"Palabra que se utiliza en la locución adverbial a tutiplén, que significa 'mucho, en abundancia'"
+"tutiplén"
+"ululato"
+"Grito fuerte que expresa generalmente dolor o miedo"
+"ululato"
+"diagnóstico"
+"De la diagnosis o relacionado con ella"
+"Que sirve para reconocer"
+"Conocimiento diferencial que se adquiere del estado físico y psíquico del enfermo mediante la observación de los signos y los síntomas de la enfermedad que presenta"
+"Arte o acto de reconocer o distinguir los signos o los síntomas de una enfermedad"
+"Calificación o determinación de la enfermedad que hace el médico según los signos y los síntomas que se advierten en el enfermo"
+"Examen de una cosa, de un hecho o de una situación para realizar un análisis o para buscar una solución a sus problemas o dificultades"
+"diagnóstico"
+"tartajoso"
+"Tartamudo"
+"tartajoso"
+"obliterar"
+"Anular, borrar o tachar una cosa"
+"Matasellar, cancelar o inutilizar un sello de correos"
+"Obstruir un conducto o cavidad del cuerpo"
+"obliterar"
+"impepinable"
+"Que no admite duda ni discusión"
+"Que se produce obligatoria o lógicamente"
+"impepinable"
+"procaz"
+"[persona] Que se comporta o habla de manera desvergonzada, descarada o atrevida, en especial en el aspecto sexual"
+"[acción, palabra] Que hace referencia a la sexualidad de una manera grosera e indecorosa"
+"procaz"
 
 
+"pesaroso"
+"Que siente un pesar o pena por un mal que ha hecho o ha recibido"
+"pesaroso"
+"glaciar"
+"Masa grande de hielo que se forma en la parte alta de una montaña y que desciende lentamente por la ladera en forma de lengua"
+"De esta masa de hielo o que tiene relación con ella"
+"glaciar"
+"boludo"
+"[persona] Que hace o dice tonterías, se comporta como un estúpido o no es responsable"
+"Que tiene forma de bola"
+"[persona] Que hace o dice tonterías, se comporta como un estúpido o no es responsable"
+"boludo"
+"arenero"
+"Persona que vende arena"
+"Empleado que en una corrida de toros se encarga de mantener la superficie de arena del ruedo en perfectas condiciones para el ejercicio de la lidia"
+"arenero"
