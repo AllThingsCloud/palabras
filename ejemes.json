@@ -18470,4 +18470,772 @@
         }
     ],
     "word": "sayón"
+}{
+    "id": "guzgo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "guzgo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "guzgo"
+                }
+            ],
+            "type": "headword",
+            "word": "guzgo"
+        }
+    ],
+    "word": "guzgo"
+}{
+    "id": "caducifolio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "caducifolio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el castaño es un árbol caducifolio"
+                                        }
+                                    ],
+                                    "id": "id23401b01-ede4-440f-b534-a92d2c323934"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "caducifolio"
+                }
+            ],
+            "type": "headword",
+            "word": "caducifolio"
+        }
+    ],
+    "word": "caducifolio"
+}{
+    "id": "sierpe",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "sierpe",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "los rugidos del león, los graznidos del buitre y los silbidos de la sierpe componen tenebroso concierto con los suspiros de los desgraciados mortales"
+                                        }
+                                    ],
+                                    "id": "id1924f81e-2118-40df-92e5-b28c66f789ca"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sierpe"
+                }
+            ],
+            "type": "headword",
+            "word": "sierpe"
+        }
+    ],
+    "word": "sierpe"
+}{
+    "id": "pespuntar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pespuntar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "pespuntar"
+                }
+            ],
+            "type": "headword",
+            "word": "pespuntar"
+        }
+    ],
+    "word": "pespuntar"
+}{
+    "id": "impersonal",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "impersonal",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el carácter impersonal de las organizaciones burocráticas"
+                                        }
+                                    ],
+                                    "id": "id57bbe79f-eb2e-429a-959f-1f6ca708f897"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "terminé hablándole de mis problemas, al principio de una forma impersonal y luego ya más directamente"
+                                        }
+                                    ],
+                                    "id": "idb6694d2b-8b81-42d7-9bab-b93f3efc718b"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el infinitivo, el gerundio y el participio son formas impersonales (o no personales) del verbo"
+                                        }
+                                    ],
+                                    "id": "id6eb3a389-425b-4d81-89be-780e8389f4d5"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "'llover' y 'tronar' son verbos impersonales"
+                                        }
+                                    ],
+                                    "id": "idee99f715-2e29-4779-9d17-bf6258d138f3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la oración 'se vende piso' es impersonal"
+                                        }
+                                    ],
+                                    "id": "id55ff5973-bc0f-4d6e-ac3a-3e1de4a774e5"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "impersonal"
+                }
+            ],
+            "type": "headword",
+            "word": "impersonal"
+        }
+    ],
+    "word": "impersonal"
+}{
+    "id": "nepotismo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "nepotismo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "cada vez se persiguen más activamente los casos de tráfico de influencias, nepotismo y otras formas de corrupción política"
+                                        }
+                                    ],
+                                    "id": "id367d170a-dc57-4e4a-a3c9-80c2692e2c0e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "nepotismo"
+                }
+            ],
+            "type": "headword",
+            "word": "nepotismo"
+        }
+    ],
+    "word": "nepotismo"
+}{
+    "id": "choto",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "choto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "en el mesón preparan un choto al ajillo muy bueno"
+                                        }
+                                    ],
+                                    "id": "id4668b5fd-ccb4-4fa4-adc5-700f27b260df"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "101"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "choto"
+                }
+            ],
+            "type": "headword",
+            "word": "choto"
+        },
+        {
+            "id": "choto",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "este tipo es un choto, siempre usa ropa de marca"
+                                        }
+                                    ],
+                                    "id": "idbc47dc90-9239-4718-90ae-c314caa6694c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "me parece que estoy un poco chota, no termino de entender bien lo que me querés decir"
+                                        }
+                                    ],
+                                    "id": "idea0538e4-6b89-4df1-b8b1-91ccdcfd9e5f"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "choto"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "este tipo es un choto, siempre usa ropa de marca"
+                                        }
+                                    ],
+                                    "id": "idbc47dc90-9239-4718-90ae-c314caa6694c"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "me parece que estoy un poco chota, no termino de entender bien lo que me querés decir"
+                                        }
+                                    ],
+                                    "id": "idea0538e4-6b89-4df1-b8b1-91ccdcfd9e5f"
+                                }
+                            ]
+                        },
+                        {
+                            "homographNumber": "202"
+                        },
+                        {
+                            "homographNumber": "203"
+                        },
+                        {
+                            "homographNumber": "204"
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "choto"
+                }
+            ],
+            "type": "headword",
+            "word": "choto"
+        }
+    ],
+    "word": "choto"
+}{
+    "id": "progenie",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "progenie",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "procede de una ilustre progenie"
+                                        }
+                                    ],
+                                    "id": "ide4a4aff3-35fd-49c6-909b-a3e95b83650e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "progenie"
+                }
+            ],
+            "type": "headword",
+            "word": "progenie"
+        }
+    ],
+    "word": "progenie"
+}{
+    "id": "mufa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mufa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no lo invites a la fiesta que es mufa"
+                                        }
+                                    ],
+                                    "id": "id3b6c9778-134a-4893-96f2-a95bc77d5d31"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "mufa"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no lo invites a la fiesta que es mufa"
+                                        }
+                                    ],
+                                    "id": "id3b6c9778-134a-4893-96f2-a95bc77d5d31"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "hoy se levantó con mufa porque anoche durmió poco"
+                                        }
+                                    ],
+                                    "id": "id515b72a0-443b-43fa-bad0-63ea6c00ba56"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mufa"
+                }
+            ],
+            "type": "headword",
+            "word": "mufa"
+        }
+    ],
+    "word": "mufa"
+}{
+    "id": "espurrear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "espurrear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "espurrear"
+                }
+            ],
+            "type": "headword",
+            "word": "espurrear"
+        }
+    ],
+    "word": "espurrear"
+}{
+    "id": "dextrogiro",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "dextr%C3%B3giro",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "dextrógiro"
+                },
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dextrógiro"
+                }
+            ],
+            "type": "headword",
+            "word": "dextrógiro"
+        }
+    ],
+    "word": "dextrógiro"
+}{
+    "id": "mulatear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "mulatear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "mulatear"
+                }
+            ],
+            "type": "headword",
+            "word": "mulatear"
+        }
+    ],
+    "word": "mulatear"
+}{
+    "id": "manducar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "manducar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "manducar"
+                }
+            ],
+            "type": "headword",
+            "word": "manducar"
+        }
+    ],
+    "word": "manducar"
+}{
+    "id": "aljofifa",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "aljofifa",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aljofifa"
+                }
+            ],
+            "type": "headword",
+            "word": "aljofifa"
+        }
+    ],
+    "word": "aljofifa"
+}{
+    "id": "lipograma",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "lipograma",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Martín de San Martín escribió cinco lipogramas en forma de soneto, cada uno de ellos sin una de las cinco vocales"
+                                        }
+                                    ],
+                                    "id": "ide85dff9b-83b3-4b6b-b854-89d45d11819c"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "lipograma"
+                }
+            ],
+            "type": "headword",
+            "word": "lipograma"
+        }
+    ],
+    "word": "lipograma"
+}{
+    "id": "recidiva",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "recidiva",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "recidiva"
+                }
+            ],
+            "type": "headword",
+            "word": "recidiva"
+        }
+    ],
+    "word": "recidiva"
+}{
+    "id": "paripe",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "parip%C3%A9",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "ella lo criticaba constantemente pero delante de él hacía el paripé"
+                                        }
+                                    ],
+                                    "id": "id3cb6b0df-8638-4ba1-96a4-b124317ab754"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paripé"
+                }
+            ],
+            "type": "headword",
+            "word": "paripé"
+        }
+    ],
+    "word": "paripé"
+}{
+    "id": "tropel",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "tropel",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un tropel de fanáticos se lanzó sobre el auto del cantante"
+                                        },
+                                        {
+                                            "text": "el tropel de lágrimas estropea su maquillaje"
+                                        }
+                                    ],
+                                    "id": "id6f88dd07-2145-4a75-bcfa-e255a4e4ccf9"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tropel"
+                }
+            ],
+            "type": "headword",
+            "word": "tropel"
+        }
+    ],
+    "word": "tropel"
 }
