@@ -13054,3 +13054,8 @@ pyes:6: command not found: jq
 "trasunto"
 "Reflejo o representación fiel de algo"
 "trasunto"
+"horda"
+"Comunidad nómada que se distingue de la tribu por el carácter rudimentario de los vínculos sociales y espirituales que unen a los que la integran"
+"Grupo de gente armada que no pertenece a un ejército regular"
+"Grupo numeroso de personas, especialmente si viven y actúan sin disciplina ni moderación o actúan de manera violenta"
+"horda"
