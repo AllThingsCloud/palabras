@@ -19238,4 +19238,53 @@
         }
     ],
     "word": "tropel"
+}{
+    "id": "morrocotudo",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "morrocotudo",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una fiesta morrocotuda"
+                                        },
+                                        {
+                                            "text": "se llevó un susto morrocotudo"
+                                        },
+                                        {
+                                            "text": "ha tenido una suerte morrocotuda"
+                                        },
+                                        {
+                                            "text": "ese es un problema morrocotudo"
+                                        }
+                                    ],
+                                    "id": "idc8b17308-e5db-4c7a-95da-944859322dd2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "morrocotudo"
+                }
+            ],
+            "type": "headword",
+            "word": "morrocotudo"
+        }
+    ],
+    "word": "morrocotudo"
 }
