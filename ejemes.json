@@ -19287,4 +19287,63 @@
         }
     ],
     "word": "morrocotudo"
+}{
+    "id": "literal",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "literal",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "toda disposición testamentaria deberá entenderse en el sentido literal de sus palabras"
+                                        }
+                                    ],
+                                    "id": "id3db83b87-0877-41e7-a6b8-640182024005"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "transcripción literal"
+                                        },
+                                        {
+                                            "text": "copia literal"
+                                        }
+                                    ],
+                                    "id": "idaa32f737-9466-4320-9ced-a84c8ea8537d"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "nuestra época es una época de cultura literal"
+                                        }
+                                    ],
+                                    "id": "id46353a59-1cfe-4e98-a5ae-bd2c83e68595"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "literal"
+                }
+            ],
+            "type": "headword",
+            "word": "literal"
+        }
+    ],
+    "word": "literal"
 }
