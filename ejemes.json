@@ -19346,4 +19346,30 @@
         }
     ],
     "word": "literal"
+}{
+    "id": "feerico",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "fe%C3%A9rico",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "feérico"
+                }
+            ],
+            "type": "headword",
+            "word": "feérico"
+        }
+    ],
+    "word": "feérico"
 }
