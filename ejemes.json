@@ -19372,4 +19372,47 @@
         }
     ],
     "word": "feérico"
+}{
+    "id": "periclitar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "periclitar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "solamente desde la obcecación pueden mantenerse criterios periclitados y que la práctica ha demostrado equivocados y contraproducentes"
+                                        },
+                                        {
+                                            "text": "recuerdo los carnavales de mi infancia y juventud como una celebración que ya se veía periclitar"
+                                        }
+                                    ],
+                                    "id": "id42b3a941-9722-4cb7-8f79-42494498b9e7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "periclitar"
+                }
+            ],
+            "type": "headword",
+            "word": "periclitar"
+        }
+    ],
+    "word": "periclitar"
 }
