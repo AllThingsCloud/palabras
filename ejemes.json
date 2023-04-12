@@ -19415,4 +19415,53 @@
         }
     ],
     "word": "periclitar"
+}{
+    "id": "retahila",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "retah%C3%ADla",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "una retahíla de autores"
+                                        },
+                                        {
+                                            "text": "una retahíla de insultos"
+                                        },
+                                        {
+                                            "text": "una retahíla de testimonio"
+                                        },
+                                        {
+                                            "text": "recitaba una vez más su fastidiosa retahíla de pasadas grandezas"
+                                        }
+                                    ],
+                                    "id": "id93025d08-f80f-4f61-bcf8-92ba43a223d8"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "retahíla"
+                }
+            ],
+            "type": "headword",
+            "word": "retahíla"
+        }
+    ],
+    "word": "retahíla"
 }
