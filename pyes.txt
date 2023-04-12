@@ -15195,3 +15195,7 @@ pyes:6: command not found: jq
 "Hacer difícil una cosa"
 "Considerar difícil una cosa"
 "dificultar"
+"quehacer"
+"Ocupación, trabajo o faena que se está realizando o que se debe desempeñar"
+"Conjunto de las labores domésticas que se hacen cotidianamente"
+"quehacer"
