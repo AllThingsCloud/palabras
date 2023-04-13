@@ -15232,3 +15232,8 @@ jq: error (at <stdin>:124): Cannot iterate over null (null)
 "Parte inferior de un pedestal donde asienta el fuste de la columna"
 "Plataforma rígida en forma de penillanura, constituida por materiales antiguos, metamórficos y cristalinos; puede estar cubierta de sedimentos"
 "zócalo"
+"inédito"
+"[escrito, obra] Que no ha sido nunca publicado o dado a conocer al público"
+"[autor] Que no ha publicado ninguna obra"
+"Que es nuevo y desconocido"
+"inédito"
