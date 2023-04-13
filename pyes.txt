@@ -15237,3 +15237,7 @@ jq: error (at <stdin>:124): Cannot iterate over null (null)
 "[autor] Que no ha publicado ninguna obra"
 "Que es nuevo y desconocido"
 "inédito"
+"exógeno"
+"[órgano] Que se forma o nace en el exterior de otro"
+"Que se debe a causas externas"
+"exógeno"
