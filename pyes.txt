@@ -15275,3 +15275,8 @@ pyes:6: command not found: jq
 "Yema o tallo nuevo que le sale a una planta"
 "Apelativo que se utiliza para dirigirse a una persona, normalmente más joven, con la que se mantiene una relación de confianza o de superioridad de conocimientos y experiencia"
 "hijo"
+"soprano"
+"Voz humana femenina más aguda, bajo la cual están la voz de mezzosoprano y la de contralto"
+"Persona que tiene esta voz"
+"Se aplica a algunos instrumentos musicales cuya extensión corresponde al registro de esta voz"
+"soprano"
