@@ -15206,7 +15206,6 @@ pyes:6: command not found: jq
 "[profesor de universidad] Que sigue dando clases después de la jubilación, en reconocimiento a sus méritos"
 "[soldado retirado de la Roma antigua] Que disfrutaba de una recompensa"
 "emérito"
-jq: error (at <stdin>:124): Cannot iterate over null (null)
 "pero"
 "Variedad de manzano que da como fruto una manzana más larga que gruesa"
 "Variedad de manzana, más larga que gruesa, que produce ese árbol"
@@ -15247,8 +15246,6 @@ jq: error (at <stdin>:124): Cannot iterate over null (null)
 "periclitar"
 "Perder una cosa fuerza o intensidad"
 "periclitar"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
 "periclitar"
 "Perder una cosa fuerza o intensidad"
 "periclitar"
@@ -15272,3 +15269,9 @@ parse error: Invalid numeric literal at line 1, column 17
 "vacuidad"
 "Cualidad de vacuo"
 "vacuidad"
+"hijo"
+"Persona o animal considerados con relación a su padre y a su madre o a uno de los dos"
+"Persona considerada con relación al lugar o país en el que ha nacido"
+"Yema o tallo nuevo que le sale a una planta"
+"Apelativo que se utiliza para dirigirse a una persona, normalmente más joven, con la que se mantiene una relación de confianza o de superioridad de conocimientos y experiencia"
+"hijo"
