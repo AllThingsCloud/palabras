@@ -19464,4 +19464,184 @@
         }
     ],
     "word": "retahíla"
+}{
+    "id": "palabra",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "palabra",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "buscar palabras en el diccionario"
+                                        },
+                                        {
+                                            "text": "el extranjero no comprendió algunas de las palabras de la conversación"
+                                        }
+                                    ],
+                                    "id": "id154bc1ac-b96b-440b-a08c-1434bf3ced6e"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "la palabra 'holocausto' se escribe con hache"
+                                        }
+                                    ],
+                                    "id": "idbbe2a6de-ebac-478d-bec0-9e6bbd892cc3"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no tiene el don de la palabra"
+                                        },
+                                        {
+                                            "text": "se asombró tanto que perdió la palabra"
+                                        }
+                                    ],
+                                    "id": "id874dbf87-73f1-41cf-8be0-5cc5f9ee0ed4"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "tienes mi palabra de que no lo contaré a nadie"
+                                        },
+                                        {
+                                            "text": "cumplió su palabra"
+                                        },
+                                        {
+                                            "text": "lo haré, ¡palabra!"
+                                        }
+                                    ],
+                                    "id": "id1644b4bf-c420-4491-bf85-bef8340dba77"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "era su palabra contra la mía"
+                                        }
+                                    ],
+                                    "id": "idbcd77db7-7814-4583-aa60-d4fd4786af4f"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el señor García tiene la palabra"
+                                        },
+                                        {
+                                            "text": "pedir la palabra"
+                                        },
+                                        {
+                                            "text": "dar la palabra"
+                                        },
+                                        {
+                                            "text": "tomar la palabra"
+                                        }
+                                    ],
+                                    "id": "id4805b083-d670-4a9a-914d-8ed0eaabb520"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "un texto de 235 palabras"
+                                        }
+                                    ],
+                                    "id": "idd6b0d010-1a7a-4cfb-940f-b8f924c64b89"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "no lo ha dicho de corazón, solo son palabras"
+                                        }
+                                    ],
+                                    "id": "idf5dbd8cc-b665-421e-8b7c-098d146f2754"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "son palabras de Cervantes"
+                                        },
+                                        {
+                                            "text": "pronunció unas palabras de agradecimiento"
+                                        }
+                                    ],
+                                    "id": "idfd8c6f8e-787a-4f1c-8bfb-6037671cc094"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "palabra"
+                }
+            ],
+            "type": "headword",
+            "word": "palabra"
+        }
+    ],
+    "word": "palabra"
+}{
+    "id": "cordura",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cordura",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "lo internaron en el hospital para que recuperara la cordura"
+                                        }
+                                    ],
+                                    "id": "id0b674b38-7607-4b9e-8ca5-afeb5689d9e0"
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "el agosto pasado el intendente de ese municipio tuvo que hacer un llamamiento a la cordura para evitar el desbordamiento turístico de la zona"
+                                        }
+                                    ],
+                                    "id": "ida3580dab-9bbf-426e-8001-d4025462f54d"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cordura"
+                }
+            ],
+            "type": "headword",
+            "word": "cordura"
+        }
+    ],
+    "word": "cordura"
 }
