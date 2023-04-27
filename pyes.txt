@@ -15382,3 +15382,6 @@ pyes:6: command not found: jq
 "Día 7 de marzo, mayo, julio u octubre o 5 de los demás meses del antiguo calendario romano y del calendario eclesiástico"
 "Excremento de animal o de persona"
 "nona"
+"vahído"
+"Pérdida breve del sentido a causa de alguna indisposición"
+"vahído"
