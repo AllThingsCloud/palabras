@@ -15398,3 +15398,8 @@ pyes:6: command not found: jq
 "[persona] Que es obstinado y malhumorado"
 "[persona] Que es perezozo o vago"
 "taimado"
+"meco"
+"[ganado] Que es de color bermejo mezclado con negro"
+"[ganado] Que es de color bermejo mezclado con negro"
+"Forma que se usaba para denominar a los indígenas bárbaros, especialmente los del norte"
+"meco"
