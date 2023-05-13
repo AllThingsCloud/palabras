@@ -19644,4 +19644,66 @@
         }
     ],
     "word": "cordura"
+}{
+    "id": "tunante",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "tunante",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "sin darnos cuenta, el muy tunante se lo bebió todo"
+                                        }
+                                    ],
+                                    "id": "idf7c1e63b-4531-402a-854b-bfdddff9a092"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "tunante"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "sin darnos cuenta, el muy tunante se lo bebió todo"
+                                        }
+                                    ],
+                                    "id": "idf7c1e63b-4531-402a-854b-bfdddff9a092"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tunante"
+                }
+            ],
+            "type": "headword",
+            "word": "tunante"
+        }
+    ],
+    "word": "tunante"
 }
