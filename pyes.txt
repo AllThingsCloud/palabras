@@ -15682,7 +15682,3 @@ pyes:6: command not found: jq
 "Consideración de que algo es digno y debe ser tolerado"
 "Miedo o temor que produce algo"
 "respeto"
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
-jq: error (at <stdin>:1): Cannot index number with string "results"
-parse error: Invalid numeric literal at line 1, column 17
