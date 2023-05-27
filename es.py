@@ -23,9 +23,7 @@ else:
 	r = requests.get(url, headers = {'app_id': app_id, 'app_key': app_key})
 
 	if (r.status_code) == 200:
-		#original print("text \n" + r.text)
-		#originalprint("\n" + r.text)
-		print(r.text)
+		print(r.text) #salida para fep y jq
 #json lee
 		#https://stackoverflow.com/questions/4706499/how-do-you-append-to-a-file
 		f = open ('/Users/roberto/t/es.json','a') 
