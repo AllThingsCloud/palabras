@@ -30,9 +30,9 @@ else:
 		f.write(r.text)
 		f.close
 	elif (r.status_code) == 404:
-		print("{} 😬🤨🤔 " .format(r.status_code) + word_id + "\n")
-		#f = open ('/Users/roberto/t/noexistepal.json','a') 
+		#print("{} 😬🤨🤔 " .format(r.status_code) + word_id + "\n") # sin el print deja de producir el error del jq
 		f = open (onedesout,'a') 
 		f.write(word_id+"\n")
 		f.close
+		quit ()
 		#Rprint("json \n" + json.dumps(r.json()))

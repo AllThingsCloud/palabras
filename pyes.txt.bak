@@ -15682,10 +15682,6 @@ pyes:6: command not found: jq
 "Consideración de que algo es digno y debe ser tolerado"
 "Miedo o temor que produce algo"
 "respeto"
-
-
-
-
 "albarca"
 "Sandalia rústica consistente en una suela de cuero, esparto o goma de neumático que se ata al pie con cuerdas o correas"
 "albarca"
@@ -15714,10 +15710,7 @@ pyes:6: command not found: jq
 "almazara"
 "Molino en que se extrae el aceite de las aceitunas"
 "almazara"
-
 "almazarrón"
-
-
 "almena"
 "Bloque o prisma de piedra que, junto con otros, remata la parte superior de una muralla o parapeto defensivo; entre cada uno queda un espacio que servía para disparar"
 "almena"
@@ -15726,22 +15719,12 @@ pyes:6: command not found: jq
 "Establecimiento donde se realiza este tipo de venta pública"
 "Liquidación de mercancías"
 "almoneda"
-
-
 "almuédano"
 "Hombre que desde el alminar de la mezquita convoca en voz alta a los fieles musulmanes para que acudan a la oración"
 "almuédano"
 "amatista"
 "Variedad de cuarzo cristalizado, transparente y de color de violeta que se usa en joyería"
 "amatista"
-
-
-
-
-
-
-
-
 "armadura"
 "Conjunto de piezas de metal articuladas con que los guerreros se protegían el cuerpo o parte de él"
 "Conjunto de piezas o elementos que sirve como soporte rígido de una cosa; en especial, la que sostiene la cubierta o tejado de un edificio"
@@ -15773,13 +15756,9 @@ pyes:6: command not found: jq
 "[persona] Que alaba de forma exagerada e interesada o trata de agradar a alguien con el único fin de conseguir un favor o un beneficio"
 "[persona] Que alaba de forma exagerada e interesada o trata de agradar a alguien con el único fin de conseguir un favor o un beneficio"
 "barbero"
-
-
 "borceguí"
 "Calzado flexible y ajustado de piel fina, abierto por delante, en ocasiones bordado y forrado de paño o terciopelo, que llega más arriba del tobillo y se ata con cordones o con ganchos; era un calzado utilizado antiguamente como zapatilla de casa o zapato de calle"
 "borceguí"
-
-
 "botarate"
 "[persona] Que tiene poco juicio y obra precipitadamente y sin reflexión"
 "[persona] Que es dado a malgastar el dinero"
@@ -16019,10 +15998,6 @@ pyes:6: command not found: jq
 "cuchufleta"
 "Dicho burlesco o gracioso que provoca risa"
 "cuchufleta"
-
-
-
-
 "debacle"
 "Desastre que produce mucho desorden y desconcierto, especialmente como final de un proceso"
 "debacle"
@@ -16138,8 +16113,6 @@ pyes:6: command not found: jq
 "Frase, enunciado, etc., de significado oculto o encubierto que una persona propone a alguien para que descifre el sentido o le dé una solución, a modo de pasatiempo o entretenimiento"
 "Dicho o cosa que tiene un significado o un sentido oculto y que es difícil de comprender o interpretar"
 "enigma"
-
-
 "ensueño"
 "Suceso, proyecto, aspiración o cosa que se anhela o se persigue pese a ser muy improbable que se realice y en el que se piensa con placer"
 "Serie o sucesión de imágenes y sucesos que se imaginan mientras se duerme y que se perciben como reales"
@@ -16164,5 +16137,109 @@ pyes:6: command not found: jq
 "Dificultad, desventaja, penalidad, inconveniente"
 "Persona que con intención, a veces desmedida, dice lo que cree que puede agradar a otro"
 "espina"
+"salud"
+"Estado en que un ser u organismo vivo no tiene ninguna lesión ni padece ninguna enfermedad y ejerce con normalidad todas sus funciones"
+"Serie de condiciones físicas en que se encuentra un ser vivo en una circunstancia o un momento determinados"
+"Buen estado, marcha o funcionamiento de un ser vivo o de una colectividad"
+"Se utiliza al brindar para desear bienestar y felicidad a una o varias personas"
+"Se le dice a la persona que acaba de estornudar"
+"Expresión que se usa para saludar a alguien"
+"salud"
+"salud"
+"Estado en que un ser u organismo vivo no tiene ninguna lesión ni padece ninguna enfermedad y ejerce con normalidad todas sus funciones"
+"Serie de condiciones físicas en que se encuentra un ser vivo en una circunstancia o un momento determinados"
+"Buen estado, marcha o funcionamiento de un ser vivo o de una colectividad"
+"Se utiliza al brindar para desear bienestar y felicidad a una o varias personas"
+"Se le dice a la persona que acaba de estornudar"
+"Expresión que se usa para saludar a alguien"
+"salud"
+"saludo"
+"Palabra, expresión, gesto o cualquier otro acto que una persona dirige a alguien cuando se encuentran o se despiden, dando muestras de atención, cortesía o afecto"
+"Acción de saludar los soldados"
+"Acción de saludar un barco"
+"saludo"
+"criticar"
+"Examinar y juzgar una cosa, especialmente para determinar su bondad, verdad o belleza"
+"Expresar opiniones o juicios negativos y contrarios sobre una persona o una cosa"
+"criticar"
+"vaca"
+"Mamífero rumiante bóvido, hembra, de unos 150 cm de altura y 250 cm de longitud, cuerpo muy robusto, pelo corto, cabeza gruesa provista de dos cuernos curvos y puntiagudos, hocico ancho, papada en el pecho, y cola larga con un mechón en el extremo; de él se aprovechan la leche, la carne y la piel"
+"Piel curtida de ese animal, que se utiliza principalmente en marroquinería"
+"Persona muy gorda"
+"Acción de reunir dinero entre dos o más personas para hacer una compra común"
+"Dinero que queda de una apuesta en la que no hay ganador, y se juega en una nueva apuesta"
+"vaca"
+"toro"
+"Mamífero rumiante bóvido, macho, de unos 150 cm de altura y 250 cm de longitud, cuerpo muy robusto, pelo corto, cabeza gruesa provista de dos cuernos curvos y puntiagudos, hocico ancho, papada en el pecho, y cola larga con un mechón en el extremo; se destina al toreo, y de él se aprovechan su carne y su piel"
+"Hombre muy fuerte y corpulento"
+"Vehículo pequeño de una sola plaza, provisto de motor eléctrico y de unas horquillas o ganchos horizontales móviles en su parte frontal, que sirve para transportar mercancías en palés a corta distancia"
+"Fiesta o corrida en que se torean reses de lidia"
+"Moldura lisa, convexa y de forma semicircular, especialmente la que tiene acanaladuras que imitan el enrollamiento de una cuerda en espiral"
+"En geometría, cuerpo engendrado por el giro de un círculo alrededor de un eje que está situado en su mismo plano pero que no pasa por su centro"
+"Anilla de ferrita ensartada en las mallas de una tela metálica que, junto con otras, constituye la memoria magnética de ciertas calculadoras"
+"toro"
+"cansado"
+"Que produce cansancio o fatiga"
+"Que ha hecho una cosa repetidas veces y ya está muy acostumbrado a hacerla"
+"[persona] Que fastidia o molesta por ser pesado o aburrido"
+"cansado"
+"detestar"
+"Experimentar hacia una persona o una cosa un sentimiento de aversión, menos pasional que el odio, que impulsa al rechazo o la repugnancia"
+"detestar"
+"desecho"
+"Residuo del que se prescinde por no tener utilidad"
+"Cosa o conjunto de cosas que se desechan de algo, después de haber escogido lo mejor"
+"Aquello que constituye lo más despreciable de algo"
+"Senda por donde se acorta camino"
+"desecho"
+"tanto"
+"En correlación con como y cuanto, introduce el primer término de una comparación de igualdad; se utiliza para contraponer acciones, situaciones, etc., pero no antepuesto a adjetivos y adverbios para comparar cualidades"
+"Indica una cantidad o grado elevado de algo; generalmente, se utiliza en correlación con una oración introducida por que en la que se señala la consecuencia de lo que se expresa"
+"En correlación con como y cuanto, introduce el primer término de una comparación de igualdad; se utiliza para contraponer acciones, situaciones, etc., pero no antepuesto a adjetivos y adverbios para comparar cualidades"
+"Indica una cantidad o grado elevado de algo; generalmente, se utiliza en correlación con una oración introducida por que en la que se señala la consecuencia de lo que se expresa"
+"Objeto con que se registran o se señalan los puntos que se ganan en ciertos juegos"
+"Punto que se consigue o unidad que cuenta que se utiliza en un juego o en una competición deportiva"
+"Factor o aspecto favorable que resulta de una situación o acto, considerado principalmente en su aspecto numérico"
+"Cantidad que se ignora o no se quiere expresar numéricamente, especialmente de dinero, que se estipula respecto de otra"
+"Indica que la acción denotada por el verbo se produce en un grado o intensidad elevados; supone una comparación implícita o que se expresa por medio de una correlación con como o cuanto"
+"Se utiliza en correlación con una oración introducida por que en la que se indica la consecuencia de lo que se expresa"
+"En correlación con otra oración introducida por tanto, indica una relación proporcional entre lo expresado en ambas oraciones"
+"En correlación con como o cuanto, indica que lo que se expresa es igualmente válido o cierto para los dos términos que se mencionan"
+"tanto"
+"excepcional"
+"Que forma excepción de la generalidad o de la regla común"
+"Que es extraordinario o privilegiado"
+"excepcional"
+
+
+"suave"
+"Que es liso y blando al tacto"
+"Que es poco intenso o no causa impresiones fuertes o bruscas a los sentidos"
+"Que es poco pronunciado o no presenta cambios bruscos"
+"Que es lento o moderado"
+"[persona] Que está dispuesto a complacer o no se opone a lo que se le dice u ordena"
+"[cosa, situación] Que es agradable, estupendo, bonito o fantástico"
+"Se usa para manifestar acuerdo ante una propuesta o una idea"
+"suave"
+"ciertamente"
+"Indica que lo que se dice está en consonancia o confirma un aspecto del discurso o del texto anterior"
+"Se utiliza como respuesta afirmativa a una pregunta o un comentario"
+"ciertamente"
+"treinta"
+"Indica que el nombre al que acompaña o al que sustituye está 30 veces"
+"Indica que el nombre al que acompaña o al que sustituye ocupa el lugar número 30 en una serie, en especial cuando esta está numerada"
+"Nombre del número 30"
+"treinta"
+"sentido"
+"Que expresa o manifiesta con sinceridad un sentimiento"
+"Que rápidamente se siente afectado o dolido por comentarios, reproches, falta de estima, trato poco cortés, etc"
+"Capacidad de percibir estímulos físicos externos e internos mediante ciertos órganos que los transmiten al sistema nervioso"
+"Capacidad de personas y animales para apreciar o percibir correctamente algo específico"
+"Manera particular que tiene cada persona de sentir o entender una cosa; en especial aquellas que implican una actitud moral"
+"Consciencia del mundo exterior y del propio ser"
+"Razón de ser, finalidad o lógica que tiene una cosa"
+"Significado de una obra, un texto, un elemento lingüístico, etc., dentro de su contexto"
+"Orientación en que se mueve una fuerza o cuerpo, o dirección que tiene una indicación, línea, camino, etc"
+"sentido"
 
 
