@@ -24,7 +24,7 @@ else:
 
 	if (r.status_code) == 200:
 		print(r.text) #salida para fep y jq
-#json lee
+#lee json
 		#https://stackoverflow.com/questions/4706499/how-do-you-append-to-a-file
 		f = open ('/Users/roberto/t/es.json','a') 
 		f.write(r.text)
