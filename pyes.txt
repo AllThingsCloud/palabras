@@ -16258,3 +16258,7 @@ pyes:6: command not found: jq
 "[persona] Que es del Reino Unido"
 "Lengua germánica que se habla en el Reino Unido, Estados Unidos de América, Australia y otras zonas"
 "inglés"
+"grosería"
+"Cualidad o actitud de la persona grosera"
+"Dicho o hecho grosero"
+"grosería"
