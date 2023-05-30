@@ -16262,3 +16262,6 @@ pyes:6: command not found: jq
 "Cualidad o actitud de la persona grosera"
 "Dicho o hecho grosero"
 "grosería"
+"rebufo"
+"Expansión del aire alrededor de la boca del arma de fuego al salir el tiro"
+"rebufo"
