@@ -16334,3 +16334,8 @@ pyes:6: command not found: jq
 "zampabollos"
 "Persona glotona que come con exceso"
 "zampabollos"
+"piñata"
+"Juego que consiste en colgar a cierta distancia del suelo un recipiente, generalmente lleno de dulces, para romperlo a palos con los ojos vendados"
+"Recipiente que se utiliza en este juego"
+"Dentadura de una persona"
+"piñata"
