@@ -19706,4 +19706,44 @@
         }
     ],
     "word": "tunante"
+}{
+    "id": "pifostio",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "pifostio",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "al cerrar el bar, cuatro o cinco borracho montaron un pifostio legendario"
+                                        }
+                                    ],
+                                    "id": "id4cd1bc0b-adec-491e-b500-a89f099cbe70"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pifostio"
+                }
+            ],
+            "type": "headword",
+            "word": "pifostio"
+        }
+    ],
+    "word": "pifostio"
 }
