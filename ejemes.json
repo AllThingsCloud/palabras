@@ -19746,4 +19746,30 @@
         }
     ],
     "word": "pifostio"
+}{
+    "id": "zascandil",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "zascandil",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zascandil"
+                }
+            ],
+            "type": "headword",
+            "word": "zascandil"
+        }
+    ],
+    "word": "zascandil"
 }
