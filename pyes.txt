@@ -16432,3 +16432,6 @@ pyes:6: command not found: jq
 "Suavizar o mitigar la intensidad de la luz, el color o el sonido pasándolos por un filtro"
 "Seleccionar o elegir una cosa de entre varias"
 "tamizar"
+"facundia"
+"Abundancia y facilidad de palabra"
+"facundia"
