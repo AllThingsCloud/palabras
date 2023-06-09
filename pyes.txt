@@ -16427,3 +16427,8 @@ pyes:6: command not found: jq
 "Modo de expresarse de la persona que se burla de los demás de manera irónica y con apariencia de ingenuidad"
 "Burla hecha con ironía"
 "socarronería"
+"tamizar"
+"Pasar una cosa por el tamiz para separar las partes finas de las gruesas"
+"Suavizar o mitigar la intensidad de la luz, el color o el sonido pasándolos por un filtro"
+"Seleccionar o elegir una cosa de entre varias"
+"tamizar"
