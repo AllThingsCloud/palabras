@@ -19772,4 +19772,30 @@
         }
     ],
     "word": "zascandil"
+}{
+    "id": "cazcalear",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "cazcalear",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "cazcalear"
+                }
+            ],
+            "type": "headword",
+            "word": "cazcalear"
+        }
+    ],
+    "word": "cazcalear"
 }
