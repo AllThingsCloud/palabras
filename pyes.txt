@@ -16456,3 +16456,7 @@ pyes:6: command not found: jq
 "apunarse"
 "Indisponerse [una persona] por el efecto de la falta de oxígeno y la baja presión atmosférica que hay en las zonas muy altas, sobre todo en la puna andina"
 "apunarse"
+"palestra"
+"Lugar en el que antiguamente se celebraban justas y torneos"
+"Lugar en el que se celebran ejercicios literarios públicos o desde donde se habla o actúa en público"
+"palestra"
