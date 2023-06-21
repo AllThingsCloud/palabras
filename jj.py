@@ -3,10 +3,13 @@ import json
 with open('amor.json', 'r') as f:
 	data = json.load(f)
 
-#print (data["results"])
-#print (type(data))
 for pal in data["results"]:
-#	print (pal["lexicalEntries"])
 	for ent in (pal["lexicalEntries"]):
-		print (ent["entries"])
+		for senses in (ent["entries"]):
+			definition= senses["senses"]
+			print(definition)
+			#print (senses["senses"])
+            
+			#for definitions in (senses["definitions"]):
+			#	print(json.dump(definitions,indent=1))
 
