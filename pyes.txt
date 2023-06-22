@@ -16513,3 +16513,6 @@ pyes:6: command not found: jq
 "[persona] Que se comporta con comedimiento"
 "[palabra, acto] Que es moderado, no exagerado, agresivo ni irrespetuoso"
 "comedido"
+"tarraya"
+"Red redonda para pescar en aguas poco profundas"
+"tarraya"
