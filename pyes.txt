@@ -16522,3 +16522,7 @@ pyes:6: command not found: jq
 "Persona torpe o poco inteligente"
 "Pieza puntiaguda o cónica que llevan en la suela ciertos calzados deportivos"
 "tarugo"
+"inflación"
+"Incremento excesivo de algo"
+"Proceso económico provocado por el desequilibrio existente entre la producción y la demanda; causa una subida continuada de los precios de la mayor parte de los productos y servicios, y una pérdida del valor del dinero para poder adquirirlos o hacer uso de ellos"
+"inflación"

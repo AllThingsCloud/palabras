@@ -1,0 +1,57 @@
+{
+    "id": "soledad",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "soledad",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Circunstancia de estar solo o sin compañía"
+                                    ],
+                                    "id": "id15cbad32-d221-4247-9d52-e7212e982435"
+                                },
+                                {
+                                    "definitions": [
+                                        "Sentimiento de tristeza o melancolía que se tiene por la falta, ausencia o muerte de una persona"
+                                    ],
+                                    "id": "id90c9432d-45e4-4b0b-9298-674238fea29d"
+                                },
+                                {
+                                    "definitions": [
+                                        "Lugar solitario, inhabitado o poco frecuentado"
+                                    ],
+                                    "id": "id7a1ad5ae-2406-4ecd-a928-95c42739c6a4"
+                                },
+                                {
+                                    "definitions": [
+                                        "Soleá"
+                                    ],
+                                    "id": "id40cf5d55-c803-47cc-908f-1995cb0212f7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "soledad"
+                }
+            ],
+            "type": "headword",
+            "word": "soledad"
+        }
+    ],
+    "word": "soledad"
+}
