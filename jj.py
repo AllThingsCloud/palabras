@@ -12,15 +12,15 @@ fields = 'definitions'
 if len(sys.argv) < 2:
     print("Parámetro requerido. Ejemplo: python mi_programa.py <parametro>")
     sys.exit()
-else:
+else: #buscar si la palabra existe
 	parametro = sys.argv[1]
 	word_id = parametro
 	strictMatch = 'false'
 	url = 'https://od-api.oxforddictionaries.com:443/api/v2/entries/' + language + '/' + word_id.lower() + '?fields=' + fields + '&strictMatch=' + strictMatch;
 	response = requests.get(url, headers = {'app_id': app_id, 'app_key': app_key})
-	jf = open('/Users/roberto/OneDrive/Azure/palabras/jj.json','a') 
-	jf.write(response.text)
-	jf.close
+	#jf = open('/Users/roberto/OneDrive/Azure/palabras/jj.json','a') 
+	#jf.write(response.text)
+	#jf.close
 if response.status_code == 200:
 	data = json.loads(response.text)	
 	data2 = json.loads(response.text)	
@@ -44,6 +44,14 @@ for indice, defi in enumerate(definitions2,1):
 	print(f"{indice}.{defi}")
 print(parametro)
 
+with open ('jpal.txt','a') as file:
+	for indice, defi in enumerate(definitions2,1):
+		file.write(f"{indice}.{defi}\n")
+
+
+
+######24/06 no se usa lo de abajo 
+ 
 def jf (*args):
 	for pal in data["results"]:
 		for ent in (pal["lexicalEntries"]):
@@ -64,6 +72,3 @@ texto_sin_apostro = texto_sin_llaves
 texto_sin_apostro = texto_sin_llaves.replace(',','').replace('[','').replace(']','')
 
 definiciones = re.findall(r'"definitions":\s+"(.+)"', texto_sin_apostro)
-
-#for indice, definicion in enumerate(definiciones, 1):
-#    print(f"{indice}.{definicion}")
