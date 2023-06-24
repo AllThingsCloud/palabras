@@ -1,0 +1,1581 @@
+{
+    "id": "radical",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "radical",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "De la raíz o relacionado con ella"
+                                    ],
+                                    "id": "id538bff1a-8745-443d-950a-243ffd6a5d41"
+                                },
+                                {
+                                    "definitions": [
+                                        "Que afecta a la parte fundamental de una cosa de una manera total o completa"
+                                    ],
+                                    "id": "idbfd12651-990e-46f1-a2c5-22ed5bd7e3c6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Que es propio o característico de estas personas"
+                                    ],
+                                    "id": "ida080a381-7a57-46b4-a859-c8c527718d0a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Del radicalismo (corriente política argentina) o relacionado con él"
+                                    ],
+                                    "id": "id45b01702-0c30-4cc5-ae26-5c6df5e53f5c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Parte que se mantiene invariable en todas las palabras de una misma familia; expresa el significado común a toda la familia y puede coincidir o no con una palabra entera"
+                                    ],
+                                    "id": "id19f9a909-43f6-4668-8b98-5c532aa9d0ff"
+                                },
+                                {
+                                    "definitions": [
+                                        "Signo que representa la operación de una raíz"
+                                    ],
+                                    "id": "id208cd7e8-53b7-4e33-be90-a9ca9bae2d29"
+                                },
+                                {
+                                    "definitions": [
+                                        "Grupo de átomos no saturados que permanecen intactos en una serie de reacciones"
+                                    ],
+                                    "id": "ide13de1dd-88af-426c-a866-f267b96fd180"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ],
+    "word": "radical"
+}{
+    "id": "radical",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "radical",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "De la raíz o relacionado con ella"
+                                    ],
+                                    "id": "id538bff1a-8745-443d-950a-243ffd6a5d41"
+                                },
+                                {
+                                    "definitions": [
+                                        "Que afecta a la parte fundamental de una cosa de una manera total o completa"
+                                    ],
+                                    "id": "idbfd12651-990e-46f1-a2c5-22ed5bd7e3c6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Que es propio o característico de estas personas"
+                                    ],
+                                    "id": "ida080a381-7a57-46b4-a859-c8c527718d0a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Del radicalismo (corriente política argentina) o relacionado con él"
+                                    ],
+                                    "id": "id45b01702-0c30-4cc5-ae26-5c6df5e53f5c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Parte que se mantiene invariable en todas las palabras de una misma familia; expresa el significado común a toda la familia y puede coincidir o no con una palabra entera"
+                                    ],
+                                    "id": "id19f9a909-43f6-4668-8b98-5c532aa9d0ff"
+                                },
+                                {
+                                    "definitions": [
+                                        "Signo que representa la operación de una raíz"
+                                    ],
+                                    "id": "id208cd7e8-53b7-4e33-be90-a9ca9bae2d29"
+                                },
+                                {
+                                    "definitions": [
+                                        "Grupo de átomos no saturados que permanecen intactos en una serie de reacciones"
+                                    ],
+                                    "id": "ide13de1dd-88af-426c-a866-f267b96fd180"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ],
+    "word": "radical"
+}{
+    "id": "radical",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "radical",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "De la raíz o relacionado con ella"
+                                    ],
+                                    "id": "id538bff1a-8745-443d-950a-243ffd6a5d41"
+                                },
+                                {
+                                    "definitions": [
+                                        "Que afecta a la parte fundamental de una cosa de una manera total o completa"
+                                    ],
+                                    "id": "idbfd12651-990e-46f1-a2c5-22ed5bd7e3c6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Que es propio o característico de estas personas"
+                                    ],
+                                    "id": "ida080a381-7a57-46b4-a859-c8c527718d0a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Del radicalismo (corriente política argentina) o relacionado con él"
+                                    ],
+                                    "id": "id45b01702-0c30-4cc5-ae26-5c6df5e53f5c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Parte que se mantiene invariable en todas las palabras de una misma familia; expresa el significado común a toda la familia y puede coincidir o no con una palabra entera"
+                                    ],
+                                    "id": "id19f9a909-43f6-4668-8b98-5c532aa9d0ff"
+                                },
+                                {
+                                    "definitions": [
+                                        "Signo que representa la operación de una raíz"
+                                    ],
+                                    "id": "id208cd7e8-53b7-4e33-be90-a9ca9bae2d29"
+                                },
+                                {
+                                    "definitions": [
+                                        "Grupo de átomos no saturados que permanecen intactos en una serie de reacciones"
+                                    ],
+                                    "id": "ide13de1dd-88af-426c-a866-f267b96fd180"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ],
+    "word": "radical"
+}{
+    "id": "radical",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "radical",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "De la raíz o relacionado con ella"
+                                    ],
+                                    "id": "id538bff1a-8745-443d-950a-243ffd6a5d41"
+                                },
+                                {
+                                    "definitions": [
+                                        "Que afecta a la parte fundamental de una cosa de una manera total o completa"
+                                    ],
+                                    "id": "idbfd12651-990e-46f1-a2c5-22ed5bd7e3c6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Que es propio o característico de estas personas"
+                                    ],
+                                    "id": "ida080a381-7a57-46b4-a859-c8c527718d0a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Del radicalismo (corriente política argentina) o relacionado con él"
+                                    ],
+                                    "id": "id45b01702-0c30-4cc5-ae26-5c6df5e53f5c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Parte que se mantiene invariable en todas las palabras de una misma familia; expresa el significado común a toda la familia y puede coincidir o no con una palabra entera"
+                                    ],
+                                    "id": "id19f9a909-43f6-4668-8b98-5c532aa9d0ff"
+                                },
+                                {
+                                    "definitions": [
+                                        "Signo que representa la operación de una raíz"
+                                    ],
+                                    "id": "id208cd7e8-53b7-4e33-be90-a9ca9bae2d29"
+                                },
+                                {
+                                    "definitions": [
+                                        "Grupo de átomos no saturados que permanecen intactos en una serie de reacciones"
+                                    ],
+                                    "id": "ide13de1dd-88af-426c-a866-f267b96fd180"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ],
+    "word": "radical"
+}{
+    "id": "radical",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "radical",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "De la raíz o relacionado con ella"
+                                    ],
+                                    "id": "id538bff1a-8745-443d-950a-243ffd6a5d41"
+                                },
+                                {
+                                    "definitions": [
+                                        "Que afecta a la parte fundamental de una cosa de una manera total o completa"
+                                    ],
+                                    "id": "idbfd12651-990e-46f1-a2c5-22ed5bd7e3c6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Que es propio o característico de estas personas"
+                                    ],
+                                    "id": "ida080a381-7a57-46b4-a859-c8c527718d0a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Del radicalismo (corriente política argentina) o relacionado con él"
+                                    ],
+                                    "id": "id45b01702-0c30-4cc5-ae26-5c6df5e53f5c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Parte que se mantiene invariable en todas las palabras de una misma familia; expresa el significado común a toda la familia y puede coincidir o no con una palabra entera"
+                                    ],
+                                    "id": "id19f9a909-43f6-4668-8b98-5c532aa9d0ff"
+                                },
+                                {
+                                    "definitions": [
+                                        "Signo que representa la operación de una raíz"
+                                    ],
+                                    "id": "id208cd7e8-53b7-4e33-be90-a9ca9bae2d29"
+                                },
+                                {
+                                    "definitions": [
+                                        "Grupo de átomos no saturados que permanecen intactos en una serie de reacciones"
+                                    ],
+                                    "id": "ide13de1dd-88af-426c-a866-f267b96fd180"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ],
+    "word": "radical"
+}{
+    "id": "amor",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "amor",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Sentimiento de vivo afecto e inclinación hacia una persona o cosa a la que se le desea todo lo bueno"
+                                    ],
+                                    "id": "idfa774547-bdf1-410e-a9b6-679427f45b6a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Sentimiento de intensa atracción emocional y sexual hacia una persona con la que se desea compartir una vida en común"
+                                    ],
+                                    "id": "idbbf7e1ab-55a7-4195-80dd-f4aae9b3a247"
+                                },
+                                {
+                                    "definitions": [
+                                        "Afición apasionada que se tiene hacia una cosa"
+                                    ],
+                                    "id": "id2b4330db-6a38-42b0-8c38-1a42a1ba3f80"
+                                },
+                                {
+                                    "definitions": [
+                                        "Persona, animal o cosa que es objeto de uno de estos sentimientos"
+                                    ],
+                                    "id": "id15054af3-e547-49d1-b6de-035b43a2b3e6"
+                                },
+                                {
+                                    "definitions": [
+                                        "Relación amorosa o sexual"
+                                    ],
+                                    "id": "idbd15b050-3a1a-4325-a087-6832b99311c4"
+                                },
+                                {
+                                    "definitions": [
+                                        "Gusto, esmero y cuidado con que se hace algo"
+                                    ],
+                                    "id": "idefa63769-fc56-4e37-b11b-f30995ecf04e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "amor"
+                }
+            ],
+            "type": "headword",
+            "word": "amor"
+        }
+    ],
+    "word": "amor"
+}{
+    "id": "radical",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "radical",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "De la raíz o relacionado con ella"
+                                    ],
+                                    "id": "id538bff1a-8745-443d-950a-243ffd6a5d41"
+                                },
+                                {
+                                    "definitions": [
+                                        "Que afecta a la parte fundamental de una cosa de una manera total o completa"
+                                    ],
+                                    "id": "idbfd12651-990e-46f1-a2c5-22ed5bd7e3c6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Que es propio o característico de estas personas"
+                                    ],
+                                    "id": "ida080a381-7a57-46b4-a859-c8c527718d0a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Del radicalismo (corriente política argentina) o relacionado con él"
+                                    ],
+                                    "id": "id45b01702-0c30-4cc5-ae26-5c6df5e53f5c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Parte que se mantiene invariable en todas las palabras de una misma familia; expresa el significado común a toda la familia y puede coincidir o no con una palabra entera"
+                                    ],
+                                    "id": "id19f9a909-43f6-4668-8b98-5c532aa9d0ff"
+                                },
+                                {
+                                    "definitions": [
+                                        "Signo que representa la operación de una raíz"
+                                    ],
+                                    "id": "id208cd7e8-53b7-4e33-be90-a9ca9bae2d29"
+                                },
+                                {
+                                    "definitions": [
+                                        "Grupo de átomos no saturados que permanecen intactos en una serie de reacciones"
+                                    ],
+                                    "id": "ide13de1dd-88af-426c-a866-f267b96fd180"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ],
+    "word": "radical"
+}{
+    "id": "amor",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "amor",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Sentimiento de vivo afecto e inclinación hacia una persona o cosa a la que se le desea todo lo bueno"
+                                    ],
+                                    "id": "idfa774547-bdf1-410e-a9b6-679427f45b6a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Sentimiento de intensa atracción emocional y sexual hacia una persona con la que se desea compartir una vida en común"
+                                    ],
+                                    "id": "idbbf7e1ab-55a7-4195-80dd-f4aae9b3a247"
+                                },
+                                {
+                                    "definitions": [
+                                        "Afición apasionada que se tiene hacia una cosa"
+                                    ],
+                                    "id": "id2b4330db-6a38-42b0-8c38-1a42a1ba3f80"
+                                },
+                                {
+                                    "definitions": [
+                                        "Persona, animal o cosa que es objeto de uno de estos sentimientos"
+                                    ],
+                                    "id": "id15054af3-e547-49d1-b6de-035b43a2b3e6"
+                                },
+                                {
+                                    "definitions": [
+                                        "Relación amorosa o sexual"
+                                    ],
+                                    "id": "idbd15b050-3a1a-4325-a087-6832b99311c4"
+                                },
+                                {
+                                    "definitions": [
+                                        "Gusto, esmero y cuidado con que se hace algo"
+                                    ],
+                                    "id": "idefa63769-fc56-4e37-b11b-f30995ecf04e"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "amor"
+                }
+            ],
+            "type": "headword",
+            "word": "amor"
+        }
+    ],
+    "word": "amor"
+}{
+    "id": "radical",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "radical",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "De la raíz o relacionado con ella"
+                                    ],
+                                    "id": "id538bff1a-8745-443d-950a-243ffd6a5d41"
+                                },
+                                {
+                                    "definitions": [
+                                        "Que afecta a la parte fundamental de una cosa de una manera total o completa"
+                                    ],
+                                    "id": "idbfd12651-990e-46f1-a2c5-22ed5bd7e3c6"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Que es propio o característico de estas personas"
+                                    ],
+                                    "id": "ida080a381-7a57-46b4-a859-c8c527718d0a"
+                                },
+                                {
+                                    "definitions": [
+                                        "Del radicalismo (corriente política argentina) o relacionado con él"
+                                    ],
+                                    "id": "id45b01702-0c30-4cc5-ae26-5c6df5e53f5c"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que tiene una actitud y unas ideas extremistas y poco flexibles, especialmente en política"
+                                    ],
+                                    "id": "id3c261fd5-0695-4e20-9efe-218611207892"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "[persona] Que es partidario del radicalismo (corriente política argentina)"
+                                    ],
+                                    "id": "id7e8b0356-fb02-4808-abb8-3f675d1cc7c7"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Parte que se mantiene invariable en todas las palabras de una misma familia; expresa el significado común a toda la familia y puede coincidir o no con una palabra entera"
+                                    ],
+                                    "id": "id19f9a909-43f6-4668-8b98-5c532aa9d0ff"
+                                },
+                                {
+                                    "definitions": [
+                                        "Signo que representa la operación de una raíz"
+                                    ],
+                                    "id": "id208cd7e8-53b7-4e33-be90-a9ca9bae2d29"
+                                },
+                                {
+                                    "definitions": [
+                                        "Grupo de átomos no saturados que permanecen intactos en una serie de reacciones"
+                                    ],
+                                    "id": "ide13de1dd-88af-426c-a866-f267b96fd180"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ],
+    "word": "radical"
+}{
+    "id": "hablar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hablar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Articular sonidos y palabras [una persona] para expresarse o comunicarse"
+                                    ],
+                                    "id": "id3a2599f0-0682-4d43-9a63-dfd742e1da18"
+                                },
+                                {
+                                    "definitions": [
+                                        "Mantener una conversación [una persona] con otra u otras acerca de un asunto"
+                                    ],
+                                    "id": "ide228338e-4e05-4fbe-b504-04f1728a530f"
+                                },
+                                {
+                                    "definitions": [
+                                        "Pronunciar [una persona] un discurso, generalmente en público"
+                                    ],
+                                    "id": "id234b69b3-0932-44bf-b2e9-18d6b75bb92e"
+                                },
+                                {
+                                    "definitions": [
+                                        "Comunicarse mediante signos distintos de la palabra"
+                                    ],
+                                    "id": "id2366d3ca-caf8-4b35-9887-afb87bfd9277"
+                                },
+                                {
+                                    "definitions": [
+                                        "Expresar [alguien] opiniones o juicios acerca de una cosa o una persona"
+                                    ],
+                                    "id": "id4e0cdbcf-fab0-4579-9777-e21caf05b2ac"
+                                },
+                                {
+                                    "definitions": [
+                                        "Confesar o revelar la verdad de algo o decir todo lo que se sabe acerca de un asunto"
+                                    ],
+                                    "id": "id9c72c83e-2af2-40dd-b1b0-798d82c431e0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tratar un asunto de palabra o por escrito"
+                                    ],
+                                    "id": "id4425501d-11f3-4cad-b6e8-4e09b4dbc8de"
+                                },
+                                {
+                                    "definitions": [
+                                        "Acordar o convenir una cosa entre dos o más personas"
+                                    ],
+                                    "id": "idccea1a38-4257-4206-ae6d-d19c54d6c1e3"
+                                },
+                                {
+                                    "definitions": [
+                                        "Dar a una persona un determinado tratamiento"
+                                    ],
+                                    "id": "id88415e4a-c669-4d37-920c-dceee3b46c65"
+                                },
+                                {
+                                    "definitions": [
+                                        "Recordar [una cosa] a otra o hacer pensar [una cosa] en otra"
+                                    ],
+                                    "id": "idab3eadc7-cbc8-47a5-b66a-da3e7519a492"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener [una obra artística] un determinado tema"
+                                    ],
+                                    "id": "id57b68fed-635e-4651-8674-afda2bd817f0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener una relación de noviazgo con otra persona"
+                                    ],
+                                    "id": "id091ace57-56e8-44ff-a874-d188a1fef6c8"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Expresarse [una persona] en una determinada lengua"
+                                    ],
+                                    "id": "idf7104ccf-c6aa-40f8-b65b-6c14472c53c7"
+                                },
+                                {
+                                    "definitions": [
+                                        "Decir o comunicar una cosa con palabras"
+                                    ],
+                                    "id": "id76396620-45d4-4d82-92fb-9ddc63a8f0b3"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Tratarse de palabra o tener relación social [una persona] con otra"
+                                    ],
+                                    "id": "id07c5d8b6-a9a6-425f-ac1c-3cf78cfa0837"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hablar"
+                }
+            ],
+            "type": "headword",
+            "word": "hablar"
+        }
+    ],
+    "word": "hablar"
+}{
+    "id": "hablar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hablar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Articular sonidos y palabras [una persona] para expresarse o comunicarse"
+                                    ],
+                                    "id": "id3a2599f0-0682-4d43-9a63-dfd742e1da18"
+                                },
+                                {
+                                    "definitions": [
+                                        "Mantener una conversación [una persona] con otra u otras acerca de un asunto"
+                                    ],
+                                    "id": "ide228338e-4e05-4fbe-b504-04f1728a530f"
+                                },
+                                {
+                                    "definitions": [
+                                        "Pronunciar [una persona] un discurso, generalmente en público"
+                                    ],
+                                    "id": "id234b69b3-0932-44bf-b2e9-18d6b75bb92e"
+                                },
+                                {
+                                    "definitions": [
+                                        "Comunicarse mediante signos distintos de la palabra"
+                                    ],
+                                    "id": "id2366d3ca-caf8-4b35-9887-afb87bfd9277"
+                                },
+                                {
+                                    "definitions": [
+                                        "Expresar [alguien] opiniones o juicios acerca de una cosa o una persona"
+                                    ],
+                                    "id": "id4e0cdbcf-fab0-4579-9777-e21caf05b2ac"
+                                },
+                                {
+                                    "definitions": [
+                                        "Confesar o revelar la verdad de algo o decir todo lo que se sabe acerca de un asunto"
+                                    ],
+                                    "id": "id9c72c83e-2af2-40dd-b1b0-798d82c431e0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tratar un asunto de palabra o por escrito"
+                                    ],
+                                    "id": "id4425501d-11f3-4cad-b6e8-4e09b4dbc8de"
+                                },
+                                {
+                                    "definitions": [
+                                        "Acordar o convenir una cosa entre dos o más personas"
+                                    ],
+                                    "id": "idccea1a38-4257-4206-ae6d-d19c54d6c1e3"
+                                },
+                                {
+                                    "definitions": [
+                                        "Dar a una persona un determinado tratamiento"
+                                    ],
+                                    "id": "id88415e4a-c669-4d37-920c-dceee3b46c65"
+                                },
+                                {
+                                    "definitions": [
+                                        "Recordar [una cosa] a otra o hacer pensar [una cosa] en otra"
+                                    ],
+                                    "id": "idab3eadc7-cbc8-47a5-b66a-da3e7519a492"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener [una obra artística] un determinado tema"
+                                    ],
+                                    "id": "id57b68fed-635e-4651-8674-afda2bd817f0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener una relación de noviazgo con otra persona"
+                                    ],
+                                    "id": "id091ace57-56e8-44ff-a874-d188a1fef6c8"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Expresarse [una persona] en una determinada lengua"
+                                    ],
+                                    "id": "idf7104ccf-c6aa-40f8-b65b-6c14472c53c7"
+                                },
+                                {
+                                    "definitions": [
+                                        "Decir o comunicar una cosa con palabras"
+                                    ],
+                                    "id": "id76396620-45d4-4d82-92fb-9ddc63a8f0b3"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Tratarse de palabra o tener relación social [una persona] con otra"
+                                    ],
+                                    "id": "id07c5d8b6-a9a6-425f-ac1c-3cf78cfa0837"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hablar"
+                }
+            ],
+            "type": "headword",
+            "word": "hablar"
+        }
+    ],
+    "word": "hablar"
+}{
+    "id": "hablar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hablar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Articular sonidos y palabras [una persona] para expresarse o comunicarse"
+                                    ],
+                                    "id": "id3a2599f0-0682-4d43-9a63-dfd742e1da18"
+                                },
+                                {
+                                    "definitions": [
+                                        "Mantener una conversación [una persona] con otra u otras acerca de un asunto"
+                                    ],
+                                    "id": "ide228338e-4e05-4fbe-b504-04f1728a530f"
+                                },
+                                {
+                                    "definitions": [
+                                        "Pronunciar [una persona] un discurso, generalmente en público"
+                                    ],
+                                    "id": "id234b69b3-0932-44bf-b2e9-18d6b75bb92e"
+                                },
+                                {
+                                    "definitions": [
+                                        "Comunicarse mediante signos distintos de la palabra"
+                                    ],
+                                    "id": "id2366d3ca-caf8-4b35-9887-afb87bfd9277"
+                                },
+                                {
+                                    "definitions": [
+                                        "Expresar [alguien] opiniones o juicios acerca de una cosa o una persona"
+                                    ],
+                                    "id": "id4e0cdbcf-fab0-4579-9777-e21caf05b2ac"
+                                },
+                                {
+                                    "definitions": [
+                                        "Confesar o revelar la verdad de algo o decir todo lo que se sabe acerca de un asunto"
+                                    ],
+                                    "id": "id9c72c83e-2af2-40dd-b1b0-798d82c431e0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tratar un asunto de palabra o por escrito"
+                                    ],
+                                    "id": "id4425501d-11f3-4cad-b6e8-4e09b4dbc8de"
+                                },
+                                {
+                                    "definitions": [
+                                        "Acordar o convenir una cosa entre dos o más personas"
+                                    ],
+                                    "id": "idccea1a38-4257-4206-ae6d-d19c54d6c1e3"
+                                },
+                                {
+                                    "definitions": [
+                                        "Dar a una persona un determinado tratamiento"
+                                    ],
+                                    "id": "id88415e4a-c669-4d37-920c-dceee3b46c65"
+                                },
+                                {
+                                    "definitions": [
+                                        "Recordar [una cosa] a otra o hacer pensar [una cosa] en otra"
+                                    ],
+                                    "id": "idab3eadc7-cbc8-47a5-b66a-da3e7519a492"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener [una obra artística] un determinado tema"
+                                    ],
+                                    "id": "id57b68fed-635e-4651-8674-afda2bd817f0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener una relación de noviazgo con otra persona"
+                                    ],
+                                    "id": "id091ace57-56e8-44ff-a874-d188a1fef6c8"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Expresarse [una persona] en una determinada lengua"
+                                    ],
+                                    "id": "idf7104ccf-c6aa-40f8-b65b-6c14472c53c7"
+                                },
+                                {
+                                    "definitions": [
+                                        "Decir o comunicar una cosa con palabras"
+                                    ],
+                                    "id": "id76396620-45d4-4d82-92fb-9ddc63a8f0b3"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Tratarse de palabra o tener relación social [una persona] con otra"
+                                    ],
+                                    "id": "id07c5d8b6-a9a6-425f-ac1c-3cf78cfa0837"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hablar"
+                }
+            ],
+            "type": "headword",
+            "word": "hablar"
+        }
+    ],
+    "word": "hablar"
+}{
+    "id": "hablar",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "hablar",
+            "language": "es",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Articular sonidos y palabras [una persona] para expresarse o comunicarse"
+                                    ],
+                                    "id": "id3a2599f0-0682-4d43-9a63-dfd742e1da18"
+                                },
+                                {
+                                    "definitions": [
+                                        "Mantener una conversación [una persona] con otra u otras acerca de un asunto"
+                                    ],
+                                    "id": "ide228338e-4e05-4fbe-b504-04f1728a530f"
+                                },
+                                {
+                                    "definitions": [
+                                        "Pronunciar [una persona] un discurso, generalmente en público"
+                                    ],
+                                    "id": "id234b69b3-0932-44bf-b2e9-18d6b75bb92e"
+                                },
+                                {
+                                    "definitions": [
+                                        "Comunicarse mediante signos distintos de la palabra"
+                                    ],
+                                    "id": "id2366d3ca-caf8-4b35-9887-afb87bfd9277"
+                                },
+                                {
+                                    "definitions": [
+                                        "Expresar [alguien] opiniones o juicios acerca de una cosa o una persona"
+                                    ],
+                                    "id": "id4e0cdbcf-fab0-4579-9777-e21caf05b2ac"
+                                },
+                                {
+                                    "definitions": [
+                                        "Confesar o revelar la verdad de algo o decir todo lo que se sabe acerca de un asunto"
+                                    ],
+                                    "id": "id9c72c83e-2af2-40dd-b1b0-798d82c431e0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tratar un asunto de palabra o por escrito"
+                                    ],
+                                    "id": "id4425501d-11f3-4cad-b6e8-4e09b4dbc8de"
+                                },
+                                {
+                                    "definitions": [
+                                        "Acordar o convenir una cosa entre dos o más personas"
+                                    ],
+                                    "id": "idccea1a38-4257-4206-ae6d-d19c54d6c1e3"
+                                },
+                                {
+                                    "definitions": [
+                                        "Dar a una persona un determinado tratamiento"
+                                    ],
+                                    "id": "id88415e4a-c669-4d37-920c-dceee3b46c65"
+                                },
+                                {
+                                    "definitions": [
+                                        "Recordar [una cosa] a otra o hacer pensar [una cosa] en otra"
+                                    ],
+                                    "id": "idab3eadc7-cbc8-47a5-b66a-da3e7519a492"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener [una obra artística] un determinado tema"
+                                    ],
+                                    "id": "id57b68fed-635e-4651-8674-afda2bd817f0"
+                                },
+                                {
+                                    "definitions": [
+                                        "Tener una relación de noviazgo con otra persona"
+                                    ],
+                                    "id": "id091ace57-56e8-44ff-a874-d188a1fef6c8"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Expresarse [una persona] en una determinada lengua"
+                                    ],
+                                    "id": "idf7104ccf-c6aa-40f8-b65b-6c14472c53c7"
+                                },
+                                {
+                                    "definitions": [
+                                        "Decir o comunicar una cosa con palabras"
+                                    ],
+                                    "id": "id76396620-45d4-4d82-92fb-9ddc63a8f0b3"
+                                }
+                            ]
+                        },
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Tratarse de palabra o tener relación social [una persona] con otra"
+                                    ],
+                                    "id": "id07c5d8b6-a9a6-425f-ac1c-3cf78cfa0837"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "es",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hablar"
+                }
+            ],
+            "type": "headword",
+            "word": "hablar"
+        }
+    ],
+    "word": "hablar"
+}
