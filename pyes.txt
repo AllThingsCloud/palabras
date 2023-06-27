@@ -16561,3 +16561,8 @@ pyes:6: command not found: jq
 "Hundimiento y rotura hacia dentro de las paredes de un recipiente cuya presión es inferior a la del exterior"
 "Primera parte de la pronunciación de una consonante oclusiva, correspondiente al momento en que se forma el cierre de los órganos articulatorios en la manera requerida por dicha consonante"
 "implosión"
+"palafrenero"
+"Criado que lleva del freno el caballo"
+"Mozo de caballos"
+"Criado que monta el palafrén"
+"palafrenero"
