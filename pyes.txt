@@ -16573,3 +16573,6 @@ pyes:6: command not found: jq
 "Que es extraordinariamente bueno, o que maravilla por alguna otra cualidad"
 "Que no se puede explicar por las leyes de la naturaleza"
 "maravilloso"
+"iota"
+"Nombre de la novena letra del alfabeto griego; se escribe Ι/ι"
+"iota"
