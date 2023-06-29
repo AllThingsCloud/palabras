@@ -9,7 +9,7 @@ app_key = '2b891c1f26db980883b9cebe61df9ea3'
 language = 'es'
 fields = 'definitions' 
 apath ='/Users/roberto/OneDrive/Azure/palabras/palex.out' 
-noexistea = '/Users/roberto/OneDrive/Azure/palabras/noexiste'
+noexistea = '/Users/roberto/OneDrive/Azure/palabras/noexistepal'
 url = 'https://od-api.oxforddictionaries.com:443/api/v2/entries/'  
 
 def extract_definition(data):
@@ -54,6 +54,8 @@ else: #buscar si la palabra ya fue buscada
 	response = requests.get(url, headers = {'app_id': app_id, 'app_key': app_key})
 if response.status_code == 404:
 	print(f"{parametro}","no existe")
+	nx = open(noexistea,'a')
+	nx.write(f"{parametro}\n")
 	sys.exit()
 
 if response.status_code == 200:
