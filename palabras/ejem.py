@@ -3,8 +3,8 @@ import json
 import sys
 
 #https://developer.oxforddictionaries.com/admin/applications
-app_id = '0ad00461'
-app_key = '2b891c1f26db980883b9cebe61df9ea3'
+app_id = ''
+app_key = ''
 language = 'es'
 #25/03 https://tecadmin.net/python-command-line-arguments/
 fields = 'examples' 
