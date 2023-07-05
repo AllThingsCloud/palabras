@@ -63,7 +63,7 @@ else: #buscar si la palabra ya fue buscada
 	if nxp == True: print (sys.argv[1],": ya fue buscada y no existe");sys.exit() #si ya fue buscada sale y no la busca otra vez
 	existe = encontrar_definiciones_entre_radical(parametro, apath)	
 	for defexiste in existe:
-		print(Fore.WHITE + defexiste)
+		print(Fore.WHITE + defexiste);print(Fore.RESET + sys.argv[1])
 		sys.exit() #sale si ya existe
 	url = url + language + '/' + word_id.lower() + '?fields=' + fields + '&strictMatch=' + strictMatch;
 	response = requests.get(url, headers = {'app_id': app_id, 'app_key': app_key})
