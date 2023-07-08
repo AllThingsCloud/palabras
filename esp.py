@@ -60,7 +60,7 @@ else: #buscar si la palabra ya fue buscada
 	word_id = parametro
 	strictMatch = 'false'
 	nxp = noexiste(parametro)
-	if nxp == True: print (sys.argv[1],": ya fue buscada y no existe");sys.exit() #si ya fue buscada sale y no la busca otra vez
+	if nxp == True: print (Fore.MAGENTA + sys.argv[1],": ya fue buscada y no existe");sys.exit() #si ya fue buscada sale y no la busca otra vez
 	existe = encontrar_definiciones_entre_radical(parametro, apath)	
 	for defexiste in existe:
 		print(Fore.WHITE + defexiste);print(Fore.RESET + sys.argv[1])
