@@ -17,7 +17,6 @@ palh 	= '/palabras/palex.out'
 h += palh
 language = 'es'
 fields = 'definitions' 
-#apath ='/Users/roberto/palabras/palex.out' 
 apath = h
 noexistea = '/Users/roberto/palabras/noexistepal'
 url = 'https://od-api.oxforddictionaries.com:443/api/v2/entries/'  
