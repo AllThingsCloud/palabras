@@ -15,8 +15,8 @@ app_key = os.getenv("APP_KEY")
 
 language = 'es'
 fields = 'definitions' 
-apath ='/Users/roberto/OneDrive/Azure/palabras/palex.out' 
-noexistea = '/Users/roberto/OneDrive/Azure/palabras/noexistepal'
+apath ='/Users/roberto/palabras/palex.out' 
+noexistea = '/Users/roberto/palabras/noexistepal'
 url = 'https://od-api.oxforddictionaries.com:443/api/v2/entries/'  
 
 def histogram(s):
