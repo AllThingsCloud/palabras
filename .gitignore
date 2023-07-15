@@ -6,3 +6,4 @@ quijote.rev
 .jj.py.swp
 __pycache__/json.cpython-311.pyc
 .env
+.DS_Store

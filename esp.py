@@ -12,10 +12,13 @@ load_dotenv()
 
 app_id = os.getenv("APP_ID")
 app_key = os.getenv("APP_KEY")
-
+h		= os.getenv("HOME")
+palh 	= '/palabras/palex.out'
+h += palh
 language = 'es'
 fields = 'definitions' 
-apath ='/Users/roberto/palabras/palex.out' 
+#apath ='/Users/roberto/palabras/palex.out' 
+apath = h
 noexistea = '/Users/roberto/palabras/noexistepal'
 url = 'https://od-api.oxforddictionaries.com:443/api/v2/entries/'  
 
