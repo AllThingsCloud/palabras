@@ -42,7 +42,8 @@ def extract_definition(data):
 def encontrar_definiciones_entre_radical(palabra, filename):
     with open(filename, 'r') as f:
         texto = f.read()
-    expresion_regular = rf"{palabra}\n([\s\S]*?)\n{palabra}"
+    #expresion_regular = rf"{palabra}\n([\s\S]*?)\n{palabra}"
+    expresion_regular = rf"\b{palabra}\b\n([\s\S]*?)\n\b{palabra}\b"
     matches = re.findall(expresion_regular, texto)
     return matches
 
@@ -60,7 +61,7 @@ if len(sys.argv) < 2:
 else: #buscar si la palabra ya fue buscada
 	parametro = sys.argv[1]
 	word_id = parametro
-	strictMatch = 'false'
+	strictMatch = 'true'
 	nxp = noexiste(parametro)
 	if nxp == True: print (Fore.MAGENTA + sys.argv[1],": ya fue buscada y no existe");sys.exit() #si ya fue buscada sale y no la busca otra vez
 	existe = encontrar_definiciones_entre_radical(parametro, apath)	
