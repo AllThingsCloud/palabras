@@ -50,7 +50,8 @@ def encontrar_definiciones_entre_radical(palabra, filename):
 def noexiste(palabra):
 	with open(noexistea, 'r') as f:
 		texto = f.read()
-	if palabra in texto:
+		palex = texto.split()
+	if palabra in palex:
 		return True
 	else:
 		return False
