@@ -92,4 +92,5 @@ with open (apath,'a') as file:
 		file.write(f"{indice}.{defi}\n")
 for indice, defi in enumerate(definitions2,1):
 	print(f"{indice}.{defi}")
+	#
 
