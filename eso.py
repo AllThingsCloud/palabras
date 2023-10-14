@@ -17,8 +17,6 @@ h		= os.getenv("HOME")
 palh 	= '/palabras/palex.out'
 h += palh
 language = 'es'
-# TODO: replace with your own app_id and app_key
-
 word_id = sys.argv[1]
 strictMatch = 'false'
 
@@ -54,8 +52,3 @@ if (code == 200):
         print("Invalid JSON response or missing data.")
 elif (code == 404):
     print(Fore.CYAN + word_id,":","No tiene ejemplos","\n")
-
-
-
-
-
