@@ -11,6 +11,10 @@ import os
 load_dotenv()
 import json
 
+if len(sys.argv) < 2:
+    print("Palabra requerida. Ejemplo: python",  sys.argv[0], "palabra")
+    sys.exit()
+
 app_id = os.getenv("APP_ID")
 app_key = os.getenv("APP_KEY")
 h		= os.getenv("HOME")
